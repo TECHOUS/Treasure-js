@@ -16,6 +16,11 @@ This repository contains the treasure of links of javascript frameworks and java
 4. CANVAS JS
 5. TENSORFLOW JS
 6. NODE JS
+7. VUE JS
+8. EMBER JS
+9. VIVID JS
+10. P5 JS
+11. D3 JS
 
 ## CONTRIBUTION
 
