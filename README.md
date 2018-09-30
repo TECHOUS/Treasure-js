@@ -8,7 +8,7 @@ This repository contains the treasure of links of javascript frameworks and java
 
 #### BEST FREE COURSES
 
-### JAVASCRIPT FRAMEWORK AND LIBARIES
+### JAVASCRIPT FRAMEWORKS ,LIBARIES AND PREPROCESSORS
 
 1. REACT JS
 2. ANGULAR JS
@@ -21,10 +21,17 @@ This repository contains the treasure of links of javascript frameworks and java
 9. VIVID JS
 10. P5 JS
 11. D3 JS
+12. JQUERY
+13. BOOTSTRAP
+14. TYPESCRIPT
 
 ## CONTRIBUTION
 
 CONTRIBUTE AS MUCH YOU CAN !!!
+
+## CONTRIBUTORS
+
+See [CONTRIBUTORS](CONTRIBUTORS.md)
 
 ## AUTHOR
 
