@@ -24,6 +24,8 @@ This repository contains the treasure of links of javascript frameworks and java
 12. JQUERY
 13. BOOTSTRAP
 14. TYPESCRIPT
+15. ELECTRON JS
+16. BABEL JS
 
 ## CONTRIBUTION
 
