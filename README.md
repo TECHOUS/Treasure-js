@@ -7,6 +7,8 @@ This repository contains the treasure of links of javascript frameworks and java
 ### :rocket: BEST FREE COURSES
 
 1. [W3 SCHOOLS](https://www.w3schools.com/js/default.asp)
+2. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+3. [SOLOLEARN](https://www.sololearn.com/Course/JavaScript/)
 
 ### :rocket: VIDEOS
 
