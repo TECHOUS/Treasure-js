@@ -6,28 +6,32 @@ This repository contains the treasure of links of javascript frameworks and java
 
 ### :rocket: BEST FREE COURSES
 
-1. [W3 SCHOOLS](https://www.w3schools.com/js/default.asp)
-2. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-3. [SOLOLEARN](https://www.sololearn.com/Course/JavaScript/)
-4. [EDX-Javascript Introduction](https://www.edx.org/course/javascript-introduction)
-5. [Introductive](https://www.edx.org/course/building-interactive-prototypes-using-javascript-1)
+1. [JavaScript - W3 SCHOOLS](https://www.w3schools.com/js/default.asp)
+2. [JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+3. [JavaScript - SOLOLEARN](https://www.sololearn.com/Course/JavaScript/)
+4. [Javascript Introduction](https://www.edx.org/course/javascript-introduction)
+5. [Building Interactive Prototypes using JavaScript](https://www.edx.org/course/building-interactive-prototypes-using-javascript-1)
 
 ### :rocket: VIDEOS
 
 ### :rocket: BLOGS
 
+### :rocket: Fetch Api
+
+1. [ky](https://github.com/sindresorhus/ky)
+
 ### :rocket: OTHERS
 
-1. [JS libraries](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
+1. [Programming Web JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 
 ## JSON (JavaScript Object Notation)
 
-1. [W3 SCHOOLS](https://www.w3schools.com/js/js_json_intro.asp)
+1. [JSON - W3 SCHOOLS](https://www.w3schools.com/js/js_json_intro.asp)
 
 ## AJAX (Asynchronous JavaScript AND Xml)
 
-1. [W3 SCHOOLS](https://www.w3schools.com/js/js_ajax_intro.asp)
-2. [EDX](https://www.edx.org/course/asynchronous-programming-javascript-1)
+1. [AJAX - W3 SCHOOLS](https://www.w3schools.com/js/js_ajax_intro.asp)
+2. [Asynchronous Programming JavaScript](https://www.edx.org/course/asynchronous-programming-javascript-1)
 
 ## JAVASCRIPT FRAMEWORKS ,LIBRARIES AND PREPROCESSORS
 
@@ -39,9 +43,9 @@ This repository contains the treasure of links of javascript frameworks and java
 
 ### :rocket: NODE JS
 
-1. [W3 SCHOOLS](https://www.w3schools.com/nodejs/default.asp)
-2. [EDX](https://www.edx.org/course/building-functional-prototypes-using-nodejs-1)
-3. [EDX](https://www.edx.org/course/web-app-development-with-the-power-of-nodejs)
+1. [Nodejs - W3 SCHOOLS](https://www.w3schools.com/nodejs/default.asp)
+2. [Building Functional Prototypes](https://www.edx.org/course/building-functional-prototypes-using-nodejs-1)
+3. [Web App Development](https://www.edx.org/course/web-app-development-with-the-power-of-nodejs)
 
 ### :rocket: EXPRESS JS
 
@@ -52,10 +56,10 @@ This repository contains the treasure of links of javascript frameworks and java
 ### :rocket: ANGULAR JS
 
 1. [W3 SCHOOLS](https://www.w3schools.com/angular/default.asp)
-2. [FUNDAMENTALS-1](https://www.edx.org/course/angular-fundamentals-1)
-3. [FUNDAMNETALS-2](https://www.edx.org/course/angularjs-framework-fundamentals)
-4. [Introductive](https://www.edx.org/course/developing-dynamic-web-applications-1)
-5. [Advanced](https://www.edx.org/course/angularjs-advanced-framework-techniques)
+2. [Angular Fundamentals](https://www.edx.org/course/angular-fundamentals-1)
+3. [Angularjs Framework Fundamentals](https://www.edx.org/course/angularjs-framework-fundamentals)
+4. [Developing Dynamic Web Applications](https://www.edx.org/course/developing-dynamic-web-applications-1)
+5. [Angularjs-Advanced Framework Techniques](https://www.edx.org/course/angularjs-advanced-framework-techniques)
 
 ### :rocket: TENSORFLOW JS
 
@@ -63,7 +67,7 @@ This repository contains the treasure of links of javascript frameworks and java
 
 1. [VERSION3 - W3 SCHOOLS](https://www.w3schools.com/bootstrap/default.asp)
 2. [VERSION4 - W3 SCHOOLS](https://www.w3schools.com/bootstrap4/default.asp)
-3. [EDX](https://www.edx.org/course/introduction-to-bootstrap-a-tutorial-1)
+3. [Introduction to Bootstrap](https://www.edx.org/course/introduction-to-bootstrap-a-tutorial-1)
 
 ### :rocket: PARTICLES JS
 
@@ -71,6 +75,11 @@ This repository contains the treasure of links of javascript frameworks and java
   
 1. [W3 SCHOOLS](https://www.w3schools.com/jquery/default.asp)
 2. [Introduction to Jquery](https://www.edx.org/course/introduction-to-jquery-1)
+
+### :rocket: MATTER JS
+
+1. [Website](http://brm.io/matter-js/)
+2. [Github](https://github.com/liabru/matter-js)
 
 ### :rocket: BACKBONE JS
 
