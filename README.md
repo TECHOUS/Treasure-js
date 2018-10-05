@@ -11,6 +11,8 @@ This repository contains the treasure of links of javascript frameworks and java
 3. [JavaScript - SOLOLEARN](https://www.sololearn.com/Course/JavaScript/)
 4. [Javascript Introduction](https://www.edx.org/course/javascript-introduction)
 5. [Building Interactive Prototypes using JavaScript](https://www.edx.org/course/building-interactive-prototypes-using-javascript-1)
+6. [JavaScript - GFG](https://www.geeksforgeeks.org/how-to-be-a-javascript-developer-without-knowing-javascript/)
+7. [Javascript Tutorial](https://www.javatpoint.com/javascript-tutorial)
 
 ### :rocket: VIDEOS
 
@@ -27,27 +29,33 @@ This repository contains the treasure of links of javascript frameworks and java
 ## JSON (JavaScript Object Notation)
 
 1. [JSON - W3 SCHOOLS](https://www.w3schools.com/js/js_json_intro.asp)
+2. [Json Tutorial](https://www.javatpoint.com/json-tutorial)
 
 ## AJAX (Asynchronous JavaScript AND Xml)
 
 1. [AJAX - W3 SCHOOLS](https://www.w3schools.com/js/js_ajax_intro.asp)
 2. [Asynchronous Programming JavaScript](https://www.edx.org/course/asynchronous-programming-javascript-1)
+3. [Ajax Tutorial](https://www.javatpoint.com/ajax-tutorial)
 
 ## JAVASCRIPT FRAMEWORKS ,LIBRARIES AND PREPROCESSORS
 
 ### :rocket: REACT JS
 
 1. [React JS](https://www.edx.org/course/introduction-to-reactjs-1)
-2. [React Router and Redux](https://www.edx.org/course/react-router-and-redux-1)
-3. [React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
+2. [React JS - GFG](https://www.geeksforgeeks.org/react-js-introduction-working/)
+3. [React Router and Redux](https://www.edx.org/course/react-router-and-redux-1)
+4. [React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
 
 ### :rocket: NODE JS
 
 1. [Nodejs - W3 SCHOOLS](https://www.w3schools.com/nodejs/default.asp)
 2. [Building Functional Prototypes](https://www.edx.org/course/building-functional-prototypes-using-nodejs-1)
 3. [Web App Development](https://www.edx.org/course/web-app-development-with-the-power-of-nodejs)
+4. [Nodejs](https://www.javatpoint.com/nodejs-tutorial)
 
 ### :rocket: EXPRESS JS
+
+1. [Express JS](https://www.javatpoint.com/expressjs-tutorial)
 
 ### :rocket: TYPESCRIPT
 
@@ -60,6 +68,7 @@ This repository contains the treasure of links of javascript frameworks and java
 3. [Angularjs Framework Fundamentals](https://www.edx.org/course/angularjs-framework-fundamentals)
 4. [Developing Dynamic Web Applications](https://www.edx.org/course/developing-dynamic-web-applications-1)
 5. [Angularjs-Advanced Framework Techniques](https://www.edx.org/course/angularjs-advanced-framework-techniques)
+6. [Angular JS](https://www.javatpoint.com/angularjs-tutorial)
 
 ### :rocket: TENSORFLOW JS
 
@@ -68,6 +77,8 @@ This repository contains the treasure of links of javascript frameworks and java
 1. [VERSION3 - W3 SCHOOLS](https://www.w3schools.com/bootstrap/default.asp)
 2. [VERSION4 - W3 SCHOOLS](https://www.w3schools.com/bootstrap4/default.asp)
 3. [Introduction to Bootstrap](https://www.edx.org/course/introduction-to-bootstrap-a-tutorial-1)
+4. [BootStrap - GFG](https://www.geeksforgeeks.org/beginning-bootstrap-part-1/)
+5. [Bootstrap Tutorial](https://www.javatpoint.com/bootstrap-tutorial)
 
 ### :rocket: PARTICLES JS
 
@@ -75,6 +86,8 @@ This repository contains the treasure of links of javascript frameworks and java
   
 1. [W3 SCHOOLS](https://www.w3schools.com/jquery/default.asp)
 2. [Introduction to Jquery](https://www.edx.org/course/introduction-to-jquery-1)
+3. [Jquery Tutorial](https://www.javatpoint.com/jquery-tutorial)
+4. [Jquery UI](https://www.javatpoint.com/jquery-ui-tutorial)
 
 ### :rocket: MATTER JS
 
@@ -82,6 +95,8 @@ This repository contains the treasure of links of javascript frameworks and java
 2. [Github](https://github.com/liabru/matter-js)
 
 ### :rocket: BACKBONE JS
+
+1. [Backbone JS](https://www.javatpoint.com/backbonejs-tutorial)
 
 ### :rocket: CANVAS JS
 
