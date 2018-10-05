@@ -13,6 +13,7 @@ This repository contains the treasure of links of javascript frameworks and java
 5. [Building Interactive Prototypes using JavaScript](https://www.edx.org/course/building-interactive-prototypes-using-javascript-1)
 6. [JavaScript - GFG](https://www.geeksforgeeks.org/how-to-be-a-javascript-developer-without-knowing-javascript/)
 7. [Javascript Tutorial](https://www.javatpoint.com/javascript-tutorial)
+8. [30 SECONDS OF CODE](https://github.com/30-seconds/30-seconds-of-code)
 
 ### :rocket: VIDEOS
 
