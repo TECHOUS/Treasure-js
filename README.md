@@ -26,6 +26,7 @@ This repository contains the treasure of links of javascript frameworks and java
 ### :rocket: OTHERS
 
 1. [Programming Web JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
+2. [Babel Macro for graphql-tag](https://github.com/leoasis/graphql-tag.macro)
 
 ## JSON (JavaScript Object Notation)
 
@@ -53,6 +54,8 @@ This repository contains the treasure of links of javascript frameworks and java
 2. [Building Functional Prototypes](https://www.edx.org/course/building-functional-prototypes-using-nodejs-1)
 3. [Web App Development](https://www.edx.org/course/web-app-development-with-the-power-of-nodejs)
 4. [Nodejs](https://www.javatpoint.com/nodejs-tutorial)
+
+* [Oracle Database Driver](https://github.com/oracle/node-oracledb)
 
 ### :rocket: EXPRESS JS
 
