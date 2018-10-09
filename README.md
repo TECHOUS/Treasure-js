@@ -54,6 +54,7 @@ This repository contains the treasure of links of javascript frameworks and java
 2. [Building Functional Prototypes](https://www.edx.org/course/building-functional-prototypes-using-nodejs-1)
 3. [Web App Development](https://www.edx.org/course/web-app-development-with-the-power-of-nodejs)
 4. [Nodejs](https://www.javatpoint.com/nodejs-tutorial)
+5. [netlify-cli](https://github.com/netlify/cli)
 
 * [Oracle Database Driver](https://github.com/oracle/node-oracledb)
 
