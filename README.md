@@ -56,6 +56,7 @@ This repository contains the treasure of links of javascript frameworks and java
 3. [Web App Development](https://www.edx.org/course/web-app-development-with-the-power-of-nodejs)
 4. [Nodejs](https://www.javatpoint.com/nodejs-tutorial)
 5. [netlify-cli](https://github.com/netlify/cli)
+6. [Ghost](https://github.com/TryGhost/Ghost)
 
 * [Oracle Database Driver](https://github.com/oracle/node-oracledb)
 
