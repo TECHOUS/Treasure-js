@@ -28,6 +28,7 @@ This repository contains the treasure of links of javascript frameworks and java
 1. [Programming Web JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 2. [Babel Macro for graphql-tag](https://github.com/leoasis/graphql-tag.macro)
 3. [AMP PROJECT](https://github.com/ampproject/amphtml)
+4. [ZEN AUDIO PLAYER](https://github.com/zen-audio-player/zen-audio-player.github.io)
 
 ## JSON (JavaScript Object Notation)
 
