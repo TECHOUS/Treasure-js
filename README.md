@@ -29,6 +29,8 @@ This repository contains the treasure of links of javascript frameworks and java
 2. [Babel Macro for graphql-tag](https://github.com/leoasis/graphql-tag.macro)
 3. [AMP PROJECT](https://github.com/ampproject/amphtml)
 4. [ZEN AUDIO PLAYER](https://github.com/zen-audio-player/zen-audio-player.github.io)
+5. [QUERY STRING](https://github.com/sindresorhus/query-string)
+6. [WALT](https://github.com/callstack/react-native-testing-library)
 
 ## JSON (JavaScript Object Notation)
 
@@ -49,6 +51,7 @@ This repository contains the treasure of links of javascript frameworks and java
 2. [React JS - GFG](https://www.geeksforgeeks.org/react-js-introduction-working/)
 3. [React Router and Redux](https://www.edx.org/course/react-router-and-redux-1)
 4. [React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
+5. [React Native Testing Library](https://github.com/callstack/react-native-testing-library)
 
 ### :rocket: GATBYJS
 
@@ -117,6 +120,8 @@ This repository contains the treasure of links of javascript frameworks and java
 ### :rocket: VUE JS
 
 ### :rocket: EMBER JS
+
+1. [EMBER CREDIT CARD](https://github.com/esbanarango/ember-credit-card)
 
 ### :rocket: VIVID JS
 
