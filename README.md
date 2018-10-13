@@ -31,6 +31,7 @@ This repository contains the treasure of links of javascript frameworks and java
 4. [ZEN AUDIO PLAYER](https://github.com/zen-audio-player/zen-audio-player.github.io)
 5. [QUERY STRING](https://github.com/sindresorhus/query-string)
 6. [WALT](https://github.com/callstack/react-native-testing-library)
+7. [AVRO](https://github.com/mtth/avsc)
 
 ## JSON (JavaScript Object Notation)
 
