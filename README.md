@@ -53,6 +53,7 @@ This repository contains the treasure of links of javascript frameworks and java
 3. [React Router and Redux](https://www.edx.org/course/react-router-and-redux-1)
 4. [React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
 5. [React Native Testing Library](https://github.com/callstack/react-native-testing-library)
+6. [Advanced REACT](https://github.com/wesbos/Advanced-React)
 
 ### :rocket: GATBYJS
 
@@ -68,6 +69,8 @@ This repository contains the treasure of links of javascript frameworks and java
 5. [netlify-cli](https://github.com/netlify/cli)
 6. [Ghost](https://github.com/TryGhost/Ghost)
 7. [intro to nodejs](https://github.com/FrontendMasters/intro-node-js)
+8. ANT DESIGN [github](https://github.com/ant-design/ant-design-pro)  [website](https://pro.ant.design/)
+9. [MONGOOSASTIC](https://github.com/mongoosastic/mongoosastic)
 
 * [Oracle Database Driver](https://github.com/oracle/node-oracledb)
 
@@ -124,6 +127,11 @@ This repository contains the treasure of links of javascript frameworks and java
 
 1. [EMBER CREDIT CARD](https://github.com/esbanarango/ember-credit-card)
 
+### :rocket: RAPHAEL
+
+* [GITHUB](https://github.com/DmitryBaranovskiy/raphael)
+* [WEBSITE](http://raphaeljs.com/)
+
 ### :rocket: VIVID JS
 
 ### :rocket: P5 JS
@@ -135,6 +143,12 @@ This repository contains the treasure of links of javascript frameworks and java
 ### :rocket: BABEL JS
 
 ### :rocket: KOA JS
+
+### :rocket: MOMENT JS
+
+### :rocket: MISC
+
+* [YOU DON'T NEED MOMENT JS](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
 
 ## CONTRIBUTION
 
