@@ -43,6 +43,7 @@ This repository contains the treasure of links of javascript frameworks and java
 1. [AJAX - W3 SCHOOLS](https://www.w3schools.com/js/js_ajax_intro.asp)
 2. [Asynchronous Programming JavaScript](https://www.edx.org/course/asynchronous-programming-javascript-1)
 3. [Ajax Tutorial](https://www.javatpoint.com/ajax-tutorial)
+4. [CRASH COURSE TUTORIAL](https://www.youtube.com/watch?v=82hnvUYY6QA)
 
 ## JAVASCRIPT FRAMEWORKS ,LIBRARIES AND PREPROCESSORS
 
@@ -103,6 +104,10 @@ This repository contains the treasure of links of javascript frameworks and java
 
 ### :rocket: PARTICLES JS
 
+1. [GITHUB](https://github.com/VincentGarreau/particles.js)
+2. [WEBSITE](https://vincentgarreau.com/particles.js/)
+3. [TUTORIAL](https://www.youtube.com/watch?v=qK3cgD09Qf0)
+
 ### :rocket: JQUERY
   
 1. [W3 SCHOOLS](https://www.w3schools.com/jquery/default.asp)
@@ -143,6 +148,16 @@ This repository contains the treasure of links of javascript frameworks and java
 ### :rocket: BABEL JS
 
 ### :rocket: KOA JS
+
+1. [CRASH COURSE](https://www.youtube.com/watch?v=z84uTk5zmak)
+
+### :rocket: ANIME JS
+
+1. [INTRO TUTORIAL](https://www.youtube.com/watch?v=g7WnZ9hxUak)
+
+### :rocket: CAMAN JS
+
+1. [INTRO](https://www.youtube.com/watch?v=MEENB3_9yUw)
 
 ### :rocket: MOMENT JS
 
