@@ -175,4 +175,5 @@ See [CONTRIBUTORS](CONTRIBUTORS.md)
 
 ## AUTHOR
 
-Gaurav Walia
+:copyright:Gaurav Walia
+:copyright:TechOus
