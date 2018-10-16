@@ -14,6 +14,7 @@ This repository contains the treasure of links of javascript frameworks and java
 6. [JavaScript - GFG](https://www.geeksforgeeks.org/how-to-be-a-javascript-developer-without-knowing-javascript/)
 7. [Javascript Tutorial](https://www.javatpoint.com/javascript-tutorial)
 8. [30 SECONDS OF CODE](https://github.com/30-seconds/30-seconds-of-code)
+9. [33 JS CONCEPTS](https://github.com/leonardomso/33-js-concepts)
 
 ### :rocket: VIDEOS
 
@@ -32,6 +33,7 @@ This repository contains the treasure of links of javascript frameworks and java
 5. [QUERY STRING](https://github.com/sindresorhus/query-string)
 6. [WALT](https://github.com/callstack/react-native-testing-library)
 7. [AVRO](https://github.com/mtth/avsc)
+8. [RPTERM - GRAPHICAL TYPE WRITER](https://github.com/rwos/rpterm)
 
 ## JSON (JavaScript Object Notation)
 
@@ -55,6 +57,7 @@ This repository contains the treasure of links of javascript frameworks and java
 4. [React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
 5. [React Native Testing Library](https://github.com/callstack/react-native-testing-library)
 6. [Advanced REACT](https://github.com/wesbos/Advanced-React)
+7. [CONNECTED REACT REDUX](https://github.com/supasate/connected-react-router)
 
 ### :rocket: GATBYJS
 
@@ -133,10 +136,14 @@ This repository contains the treasure of links of javascript frameworks and java
 
 1. [EMBER CREDIT CARD](https://github.com/esbanarango/ember-credit-card)
 
-### :rocket: RAPHAEL
+### :rocket: RAPHAEL JS
 
 * [GITHUB](https://github.com/DmitryBaranovskiy/raphael)
 * [WEBSITE](http://raphaeljs.com/)
+
+### :rocket: NEXT JS
+
+* [NEXT APP](https://github.com/segmentio/create-next-app)
 
 ### :rocket: VIVID JS
 
