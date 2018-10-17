@@ -34,6 +34,7 @@ This repository contains the treasure of links of javascript frameworks and java
 6. [WALT](https://github.com/callstack/react-native-testing-library)
 7. [AVRO](https://github.com/mtth/avsc)
 8. [RPTERM - GRAPHICAL TYPE WRITER](https://github.com/rwos/rpterm)
+9. [PLUGIN FOR PATH FINDING](https://github.com/mikewesthad/navmesh)
 
 ## JSON (JavaScript Object Notation)
 
@@ -58,6 +59,7 @@ This repository contains the treasure of links of javascript frameworks and java
 5. [React Native Testing Library](https://github.com/callstack/react-native-testing-library)
 6. [Advanced REACT](https://github.com/wesbos/Advanced-React)
 7. [CONNECTED REACT REDUX](https://github.com/supasate/connected-react-router)
+8. [EVERGREEN REACT UI](https://github.com/segmentio/evergreen)
 
 ### :rocket: GATBYJS
 
