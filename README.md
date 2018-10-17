@@ -15,6 +15,14 @@ This repository contains the treasure of links of javascript frameworks and java
 7. [Javascript Tutorial](https://www.javatpoint.com/javascript-tutorial)
 8. [30 SECONDS OF CODE](https://github.com/30-seconds/30-seconds-of-code)
 9. [33 JS CONCEPTS](https://github.com/leonardomso/33-js-concepts)
+10. [INTRODCTION TO JAVASCRIPT](https://in.udacity.com/course/intro-to-javascript--ud803-india)
+11. [OBJECT ORIENTED JAVASCRIPT](https://in.udacity.com/course/object-oriented-javascript--ud015)
+12. [JAVASCRIPT PROMISES](https://in.udacity.com/course/javascript-promises--ud898)
+13. [ES6-JAVASCRIPT IMPROVED](https://in.udacity.com/course/es6-javascript-improved--ud356)
+14. [JAVASCRIPT DESIGN PATTERNS](https://in.udacity.com/course/javascript-design-patterns--ud989)
+15. [JAVASCRIPT TESTING](https://in.udacity.com/course/javascript-testing--ud549)
+16. [OBJECT ORIENTED JS](https://in.udacity.com/course/object-oriented-javascript--ud711)
+17. [JAVASCRIPT AND THE DOM](https://in.udacity.com/course/javascript-and-the-dom--ud117)
 
 ### :rocket: VIDEOS
 
@@ -47,6 +55,8 @@ This repository contains the treasure of links of javascript frameworks and java
 2. [Asynchronous Programming JavaScript](https://www.edx.org/course/asynchronous-programming-javascript-1)
 3. [Ajax Tutorial](https://www.javatpoint.com/ajax-tutorial)
 4. [CRASH COURSE TUTORIAL](https://www.youtube.com/watch?v=82hnvUYY6QA)
+5. [ASYNCHRONOUS JAVASCRIPT REQUESTS](https://in.udacity.com/course/asynchronous-javascript-requests--ud109)
+6. [INTRODUCTION TO AJAX](https://in.udacity.com/course/intro-to-ajax--ud110)
 
 ## JAVASCRIPT FRAMEWORKS ,LIBRARIES AND PREPROCESSORS
 
@@ -120,6 +130,7 @@ This repository contains the treasure of links of javascript frameworks and java
 2. [Introduction to Jquery](https://www.edx.org/course/introduction-to-jquery-1)
 3. [Jquery Tutorial](https://www.javatpoint.com/jquery-tutorial)
 4. [Jquery UI](https://www.javatpoint.com/jquery-ui-tutorial)
+5. [INTRODUCTION TO JQUERY](https://in.udacity.com/course/intro-to-jquery--ud245)
 
 ### :rocket: MATTER JS
 
@@ -129,6 +140,7 @@ This repository contains the treasure of links of javascript frameworks and java
 ### :rocket: BACKBONE JS
 
 1. [Backbone JS](https://www.javatpoint.com/backbonejs-tutorial)
+2. [LEARN BACKBONE JS](https://in.udacity.com/course/learn-backbonejs--ud990)
 
 ### :rocket: CANVAS JS
 
@@ -152,6 +164,8 @@ This repository contains the treasure of links of javascript frameworks and java
 ### :rocket: P5 JS
 
 ### :rocket: D3 JS
+
+1. [DATA VISUALIZATION](https://in.udacity.com/course/data-visualization-and-d3js--ud507)
 
 ### :rocket: ELECTRON JS
 
