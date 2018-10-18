@@ -99,6 +99,11 @@ This repository contains the treasure of links of javascript frameworks and java
 
 1. [EDX-Typescript 2](https://www.edx.org/course/introduction-to-typescript-2-1)
 
+#### THEIA
+
+* [GITHUB](https://github.com/theia-ide/theia)
+* [WEBSITE](https://www.theia-ide.org/)
+
 ### :rocket: ANGULAR JS
 
 1. [W3 SCHOOLS](https://www.w3schools.com/angular/default.asp)
@@ -168,6 +173,8 @@ This repository contains the treasure of links of javascript frameworks and java
 1. [DATA VISUALIZATION](https://in.udacity.com/course/data-visualization-and-d3js--ud507)
 
 ### :rocket: ELECTRON JS
+
+* [Lightweight update server](https://github.com/zeit/hazel)
 
 ### :rocket: BABEL JS
 
