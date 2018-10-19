@@ -23,6 +23,7 @@ This repository contains the treasure of links of javascript frameworks and java
 15. [JAVASCRIPT TESTING](https://in.udacity.com/course/javascript-testing--ud549)
 16. [OBJECT ORIENTED JS](https://in.udacity.com/course/object-oriented-javascript--ud711)
 17. [JAVASCRIPT AND THE DOM](https://in.udacity.com/course/javascript-and-the-dom--ud117)
+18. [A book series on JavaScript](https://github.com/getify/You-Dont-Know-JS)
 
 ### :rocket: VIDEOS
 
@@ -43,6 +44,8 @@ This repository contains the treasure of links of javascript frameworks and java
 7. [AVRO](https://github.com/mtth/avsc)
 8. [RPTERM - GRAPHICAL TYPE WRITER](https://github.com/rwos/rpterm)
 9. [PLUGIN FOR PATH FINDING](https://github.com/mikewesthad/navmesh)
+10. [screen recorder built with web technology](https://github.com/wulkano/kap)
+11. [COMMITZEN CLI](https://github.com/commitizen/cz-cli)
 
 ## JSON (JavaScript Object Notation)
 
@@ -94,6 +97,11 @@ This repository contains the treasure of links of javascript frameworks and java
 ### :rocket: EXPRESS JS
 
 1. [Express JS](https://www.javatpoint.com/expressjs-tutorial)
+
+### :rocket: HELMET JS
+
+* [GITHUB](https://github.com/helmetjs/helmet)
+* [WEBSITE](https://helmetjs.github.io/)
 
 ### :rocket: TYPESCRIPT
 
@@ -163,6 +171,7 @@ This repository contains the treasure of links of javascript frameworks and java
 ### :rocket: NEXT JS
 
 * [NEXT APP](https://github.com/segmentio/create-next-app)
+* [Redux wrapper for Next.js](https://github.com/kirill-konshin/next-redux-wrapper)
 
 ### :rocket: VIVID JS
 
