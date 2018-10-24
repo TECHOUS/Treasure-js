@@ -107,6 +107,10 @@ This repository contains the treasure of links of javascript frameworks and java
 
 1. [EDX-Typescript 2](https://www.edx.org/course/introduction-to-typescript-2-1)
 
+#### XTERM JS
+
+* [GITHUB](https://github.com/xtermjs/xterm.js)
+
 #### THEIA
 
 * [GITHUB](https://github.com/theia-ide/theia)
