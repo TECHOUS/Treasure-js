@@ -107,6 +107,11 @@ This repository contains the treasure of links of javascript frameworks and java
 
 1. [EDX-Typescript 2](https://www.edx.org/course/introduction-to-typescript-2-1)
 
+#### DANGER JS
+
+* [GITHUB](https://github.com/danger/danger-js)
+* [WEBSITE](https://danger.systems/js/)
+
 #### XTERM JS
 
 * [GITHUB](https://github.com/xtermjs/xterm.js)
