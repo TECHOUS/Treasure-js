@@ -46,6 +46,7 @@ This repository contains the treasure of links of javascript frameworks and java
 9. [PLUGIN FOR PATH FINDING](https://github.com/mikewesthad/navmesh)
 10. [screen recorder built with web technology](https://github.com/wulkano/kap)
 11. [COMMITZEN CLI](https://github.com/commitizen/cz-cli)
+12. [TEXME](https://github.com/susam/texme)
 
 ## JSON (JavaScript Object Notation)
 
@@ -132,6 +133,10 @@ This repository contains the treasure of links of javascript frameworks and java
 
 ### :rocket: TENSORFLOW JS
 
+### :rocket: HLS LS
+
+* [GITHUB](https://github.com/video-dev/hls.js)
+
 ### :rocket: BOOTSTRAP
 
 1. [VERSION3 - W3 SCHOOLS](https://www.w3schools.com/bootstrap/default.asp)
@@ -197,6 +202,7 @@ This repository contains the treasure of links of javascript frameworks and java
 ### :rocket: ELECTRON JS
 
 * [Lightweight update server](https://github.com/zeit/hazel)
+* [SPECTRON](https://github.com/electron/spectron)
 
 ### :rocket: BABEL JS
 
