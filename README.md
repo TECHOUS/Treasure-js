@@ -1,6 +1,18 @@
 # TREASURE JS
 
-This repository contains the treasure of links of javascript frameworks and javascript. Please star our repository.
+**"OBESSED WITH JS LIBRARY NAMES"** keep calm here you get the treasure of links and findings of javascript and its extensions(Frameworks,Libraries,usage,etc.). It also contains JavaScript Tutorials courses links which are absolutely free for everyone.
+
+## HOW TO STAY UPDATED WITH NEWER TECH IN JS
+
+* Just star and watch our repository. Here you will get newer resource links and samples.
+
+* You can also [CONRIBUTE](CONTRIBUTING.md) to our repository it would really be helpful.
+
+* You will download zip [here](https://github.com/TechOUs/Treasure-js/archive/master.zip) or clone using
+
+```bash
+git clone https://github.com/TechOUs/Treasure-js.git
+```
 
 ## JAVASCRIPT
 
