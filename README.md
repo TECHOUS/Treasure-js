@@ -76,6 +76,12 @@ This repository contains the treasure of links of javascript frameworks and java
 7. [CONNECTED REACT REDUX](https://github.com/supasate/connected-react-router)
 8. [EVERGREEN REACT UI](https://github.com/segmentio/evergreen)
 
+#### :rocket: DRAFT JS
+
+React framework for building text editors
+
+* [SOURCE](https://github.com/facebook/draft-js)
+
 ### :rocket: GATBYJS
 
 1. [Github](https://github.com/gatsbyjs/gatsby)
@@ -134,7 +140,7 @@ This repository contains the treasure of links of javascript frameworks and java
 
 ### :rocket: TENSORFLOW JS
 
-### :rocket: HLS LS
+### :rocket: HLS JS
 
 * [GITHUB](https://github.com/video-dev/hls.js)
 
@@ -204,6 +210,7 @@ This repository contains the treasure of links of javascript frameworks and java
 
 * [Lightweight update server](https://github.com/zeit/hazel)
 * [SPECTRON](https://github.com/electron/spectron)
+* [Collection of Apps build on electron](https://github.com/electron/apps)
 
 ### :rocket: BABEL JS
 
