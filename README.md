@@ -102,6 +102,18 @@ React framework for building text editors
 
 * [Oracle Database Driver](https://github.com/oracle/node-oracledb)
 
+### :rocket: UGLIFY JS
+
+JavaScript parser / mangler / compressor / beautifier toolkit
+
+* [SOURCE](https://github.com/mishoo/UglifyJS2)
+
+### :rocket: TERSER JS
+
+JavaScript parser, mangler, optimizer and beautifier toolkit for ES6+
+
+* [SOURCE](https://github.com/terser-js/terser)
+
 ### :rocket: EXPRESS JS
 
 1. [Express JS](https://www.javatpoint.com/expressjs-tutorial)
