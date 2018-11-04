@@ -88,6 +88,8 @@ git clone https://github.com/TechOUs/Treasure-js.git
 7. [CONNECTED REACT REDUX](https://github.com/supasate/connected-react-router)
 8. [EVERGREEN REACT UI](https://github.com/segmentio/evergreen)
 
+* [POPMOTION-Simple animation libraries for delightful user interfaces](https://github.com/Popmotion/popmotion)
+
 #### :rocket: DRAFT JS
 
 React framework for building text editors
@@ -111,6 +113,7 @@ React framework for building text editors
 8. ANT DESIGN [github](https://github.com/ant-design/ant-design-pro)  [website](https://pro.ant.design/)
 9. [MONGOOSASTIC](https://github.com/mongoosastic/mongoosastic)
 10. [FLOOD](https://github.com/jfurrow/flood)
+11. [NEL](https://github.com/n-riesco/nel)
 
 * [Oracle Database Driver](https://github.com/oracle/node-oracledb)
 
