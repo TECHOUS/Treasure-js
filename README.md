@@ -66,7 +66,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 1. [JSON - W3 SCHOOLS](https://www.w3schools.com/js/js_json_intro.asp)
 2. [Json Tutorial](https://www.javatpoint.com/json-tutorial)
 
-## AJAX (Asynchronous JavaScript AND Xml)
+## AJAX (Asynchronous JavaScript AND XML)
 
 1. [AJAX - W3 SCHOOLS](https://www.w3schools.com/js/js_ajax_intro.asp)
 2. [Asynchronous Programming JavaScript](https://www.edx.org/course/asynchronous-programming-javascript-1)
@@ -95,6 +95,18 @@ git clone https://github.com/TechOUs/Treasure-js.git
 React framework for building text editors
 
 * [SOURCE](https://github.com/facebook/draft-js)
+
+### :rocket: SLATE JS
+
+A completely customizable framework for building rich text editors.
+
+* [SOURCE](https://github.com/ianstormtaylor/slate)
+
+### :rocket: MDX JS
+
+JSX in Markdown for ambitious projects
+
+* [SOURCE](https://github.com/mdx-js/mdx)
 
 ### :rocket: GATBYJS
 
