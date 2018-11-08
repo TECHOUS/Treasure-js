@@ -60,6 +60,8 @@ git clone https://github.com/TechOUs/Treasure-js.git
 11. [COMMITZEN CLI](https://github.com/commitizen/cz-cli)
 12. [TEXME](https://github.com/susam/texme)
 13. [CARBON](https://github.com/dawnlabs/carbon)
+14. [MetaMask browser extension](https://github.com/MetaMask/metamask-extension)
+15. [SOLANA API](https://github.com/solana-labs/example-tictactoe)
 
 ## JSON (JavaScript Object Notation)
 
@@ -75,32 +77,96 @@ git clone https://github.com/TechOUs/Treasure-js.git
 5. [ASYNCHRONOUS JAVASCRIPT REQUESTS](https://in.udacity.com/course/asynchronous-javascript-requests--ud109)
 6. [INTRODUCTION TO AJAX](https://in.udacity.com/course/intro-to-ajax--ud110)
 
-## JAVASCRIPT FRAMEWORKS ,LIBRARIES AND PREPROCESSORS
+## JAVASCRIPT FRAMEWORKS ,LIBRARIES AND PREPROCESSORS (A - Z)
 
-### :rocket: REACT JS
+### :rocket: ANGULAR JS
 
-1. [React JS](https://www.edx.org/course/introduction-to-reactjs-1)
-2. [React JS - GFG](https://www.geeksforgeeks.org/react-js-introduction-working/)
-3. [React Router and Redux](https://www.edx.org/course/react-router-and-redux-1)
-4. [React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
-5. [React Native Testing Library](https://github.com/callstack/react-native-testing-library)
-6. [Advanced REACT](https://github.com/wesbos/Advanced-React)
-7. [CONNECTED REACT REDUX](https://github.com/supasate/connected-react-router)
-8. [EVERGREEN REACT UI](https://github.com/segmentio/evergreen)
+1. [W3 SCHOOLS](https://www.w3schools.com/angular/default.asp)
+2. [Angular Fundamentals](https://www.edx.org/course/angular-fundamentals-1)
+3. [Angularjs Framework Fundamentals](https://www.edx.org/course/angularjs-framework-fundamentals)
+4. [Developing Dynamic Web Applications](https://www.edx.org/course/developing-dynamic-web-applications-1)
+5. [Angularjs-Advanced Framework Techniques](https://www.edx.org/course/angularjs-advanced-framework-techniques)
+6. [Angular JS](https://www.javatpoint.com/angularjs-tutorial)
 
-* [POPMOTION-Simple animation libraries for delightful user interfaces](https://github.com/Popmotion/popmotion)
+### :rocket: ANIME JS
 
-#### :rocket: DRAFT JS
+1. [INTRO TUTORIAL](https://www.youtube.com/watch?v=g7WnZ9hxUak)
+
+### :rocket: BACKBONE JS
+
+1. [Backbone JS](https://www.javatpoint.com/backbonejs-tutorial)
+2. [LEARN BACKBONE JS](https://in.udacity.com/course/learn-backbonejs--ud990)
+
+### :rocket: BOOTSTRAP
+
+1. [VERSION3 - W3 SCHOOLS](https://www.w3schools.com/bootstrap/default.asp)
+2. [VERSION4 - W3 SCHOOLS](https://www.w3schools.com/bootstrap4/default.asp)
+3. [Introduction to Bootstrap](https://www.edx.org/course/introduction-to-bootstrap-a-tutorial-1)
+4. [BootStrap - GFG](https://www.geeksforgeeks.org/beginning-bootstrap-part-1/)
+5. [Bootstrap Tutorial](https://www.javatpoint.com/bootstrap-tutorial)
+
+### :rocket: BABEL JS
+
+### :rocket: CANVAS JS
+
+### :rocket: CAMAN JS
+
+1. [INTRO](https://www.youtube.com/watch?v=MEENB3_9yUw)
+
+### :rocket: DRAFT JS
 
 React framework for building text editors
 
 * [SOURCE](https://github.com/facebook/draft-js)
 
-### :rocket: SLATE JS
+### :rocket: DANGER JS
 
-A completely customizable framework for building rich text editors.
+* [GITHUB](https://github.com/danger/danger-js)
+* [WEBSITE](https://danger.systems/js/)
 
-* [SOURCE](https://github.com/ianstormtaylor/slate)
+### :rocket: D3 JS
+
+1. [DATA VISUALIZATION](https://in.udacity.com/course/data-visualization-and-d3js--ud507)
+
+### :rocket: EXPRESS JS
+
+1. [Express JS](https://www.javatpoint.com/expressjs-tutorial)
+
+### :rocket: EMBER JS
+
+1. [EMBER CREDIT CARD](https://github.com/esbanarango/ember-credit-card)
+
+### :rocket: ELECTRON JS
+
+* [Lightweight update server](https://github.com/zeit/hazel)
+* [SPECTRON](https://github.com/electron/spectron)
+* [Collection of Apps build on electron](https://github.com/electron/apps)
+
+### :rocket: GATBYJS
+
+1. [Github](https://github.com/gatsbyjs/gatsby)
+2. [Website](https://www.gatsbyjs.org/)
+
+### :rocket: HELMET JS
+
+* [GITHUB](https://github.com/helmetjs/helmet)
+* [WEBSITE](https://helmetjs.github.io/)
+
+### :rocket: HLS JS
+
+* [GITHUB](https://github.com/video-dev/hls.js)
+
+### :rocket: JQUERY
+  
+1. [W3 SCHOOLS](https://www.w3schools.com/jquery/default.asp)
+2. [Introduction to Jquery](https://www.edx.org/course/introduction-to-jquery-1)
+3. [Jquery Tutorial](https://www.javatpoint.com/jquery-tutorial)
+4. [Jquery UI](https://www.javatpoint.com/jquery-ui-tutorial)
+5. [INTRODUCTION TO JQUERY](https://in.udacity.com/course/intro-to-jquery--ud245)
+
+### :rocket: KOA JS
+
+1. [CRASH COURSE](https://www.youtube.com/watch?v=z84uTk5zmak)
 
 ### :rocket: MDX JS
 
@@ -108,10 +174,12 @@ JSX in Markdown for ambitious projects
 
 * [SOURCE](https://github.com/mdx-js/mdx)
 
-### :rocket: GATBYJS
+### :rocket: MATTER JS
 
-1. [Github](https://github.com/gatsbyjs/gatsby)
-2. [Website](https://www.gatsbyjs.org/)
+1. [Website](http://brm.io/matter-js/)
+2. [Github](https://github.com/liabru/matter-js)
+
+### :rocket: MOMENT JS
 
 ### :rocket: NODE JS
 
@@ -129,67 +197,10 @@ JSX in Markdown for ambitious projects
 
 * [Oracle Database Driver](https://github.com/oracle/node-oracledb)
 
-### :rocket: UGLIFY JS
+### :rocket: NEXT JS
 
-JavaScript parser / mangler / compressor / beautifier toolkit
-
-* [SOURCE](https://github.com/mishoo/UglifyJS2)
-
-### :rocket: TERSER JS
-
-JavaScript parser, mangler, optimizer and beautifier toolkit for ES6+
-
-* [SOURCE](https://github.com/terser-js/terser)
-
-### :rocket: EXPRESS JS
-
-1. [Express JS](https://www.javatpoint.com/expressjs-tutorial)
-
-### :rocket: HELMET JS
-
-* [GITHUB](https://github.com/helmetjs/helmet)
-* [WEBSITE](https://helmetjs.github.io/)
-
-### :rocket: TYPESCRIPT
-
-1. [EDX-Typescript 2](https://www.edx.org/course/introduction-to-typescript-2-1)
-
-#### DANGER JS
-
-* [GITHUB](https://github.com/danger/danger-js)
-* [WEBSITE](https://danger.systems/js/)
-
-#### XTERM JS
-
-* [GITHUB](https://github.com/xtermjs/xterm.js)
-
-#### THEIA
-
-* [GITHUB](https://github.com/theia-ide/theia)
-* [WEBSITE](https://www.theia-ide.org/)
-
-### :rocket: ANGULAR JS
-
-1. [W3 SCHOOLS](https://www.w3schools.com/angular/default.asp)
-2. [Angular Fundamentals](https://www.edx.org/course/angular-fundamentals-1)
-3. [Angularjs Framework Fundamentals](https://www.edx.org/course/angularjs-framework-fundamentals)
-4. [Developing Dynamic Web Applications](https://www.edx.org/course/developing-dynamic-web-applications-1)
-5. [Angularjs-Advanced Framework Techniques](https://www.edx.org/course/angularjs-advanced-framework-techniques)
-6. [Angular JS](https://www.javatpoint.com/angularjs-tutorial)
-
-### :rocket: TENSORFLOW JS
-
-### :rocket: HLS JS
-
-* [GITHUB](https://github.com/video-dev/hls.js)
-
-### :rocket: BOOTSTRAP
-
-1. [VERSION3 - W3 SCHOOLS](https://www.w3schools.com/bootstrap/default.asp)
-2. [VERSION4 - W3 SCHOOLS](https://www.w3schools.com/bootstrap4/default.asp)
-3. [Introduction to Bootstrap](https://www.edx.org/course/introduction-to-bootstrap-a-tutorial-1)
-4. [BootStrap - GFG](https://www.geeksforgeeks.org/beginning-bootstrap-part-1/)
-5. [Bootstrap Tutorial](https://www.javatpoint.com/bootstrap-tutorial)
+* [NEXT APP](https://github.com/segmentio/create-next-app)
+* [Redux wrapper for Next.js](https://github.com/kirill-konshin/next-redux-wrapper)
 
 ### :rocket: PARTICLES JS
 
@@ -197,75 +208,68 @@ JavaScript parser, mangler, optimizer and beautifier toolkit for ES6+
 2. [WEBSITE](https://vincentgarreau.com/particles.js/)
 3. [TUTORIAL](https://www.youtube.com/watch?v=qK3cgD09Qf0)
 
-### :rocket: JQUERY
-  
-1. [W3 SCHOOLS](https://www.w3schools.com/jquery/default.asp)
-2. [Introduction to Jquery](https://www.edx.org/course/introduction-to-jquery-1)
-3. [Jquery Tutorial](https://www.javatpoint.com/jquery-tutorial)
-4. [Jquery UI](https://www.javatpoint.com/jquery-ui-tutorial)
-5. [INTRODUCTION TO JQUERY](https://in.udacity.com/course/intro-to-jquery--ud245)
+### :rocket: P5 JS
 
-### :rocket: MATTER JS
+### :rocket: REACT JS
 
-1. [Website](http://brm.io/matter-js/)
-2. [Github](https://github.com/liabru/matter-js)
+1. [React JS](https://www.edx.org/course/introduction-to-reactjs-1)
+2. [React JS - GFG](https://www.geeksforgeeks.org/react-js-introduction-working/)
+3. [React Router and Redux](https://www.edx.org/course/react-router-and-redux-1)
+4. [React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
+5. [React Native Testing Library](https://github.com/callstack/react-native-testing-library)
+6. [Advanced REACT](https://github.com/wesbos/Advanced-React)
+7. [CONNECTED REACT REDUX](https://github.com/supasate/connected-react-router)
+8. [EVERGREEN REACT UI](https://github.com/segmentio/evergreen)
 
-### :rocket: BACKBONE JS
-
-1. [Backbone JS](https://www.javatpoint.com/backbonejs-tutorial)
-2. [LEARN BACKBONE JS](https://in.udacity.com/course/learn-backbonejs--ud990)
-
-### :rocket: CANVAS JS
-
-### :rocket: VUE JS
-
-### :rocket: EMBER JS
-
-1. [EMBER CREDIT CARD](https://github.com/esbanarango/ember-credit-card)
+* [POPMOTION-Simple animation libraries for delightful user interfaces](https://github.com/Popmotion/popmotion)
 
 ### :rocket: RAPHAEL JS
 
 * [GITHUB](https://github.com/DmitryBaranovskiy/raphael)
 * [WEBSITE](http://raphaeljs.com/)
 
-### :rocket: NEXT JS
+### :rocket: SLATE JS
 
-* [NEXT APP](https://github.com/segmentio/create-next-app)
-* [Redux wrapper for Next.js](https://github.com/kirill-konshin/next-redux-wrapper)
+A completely customizable framework for building rich text editors.
+
+* [SOURCE](https://github.com/ianstormtaylor/slate)
+
+### :rocket: TERSER JS
+
+JavaScript parser, mangler, optimizer and beautifier toolkit for ES6+
+
+* [SOURCE](https://github.com/terser-js/terser)
+
+### :rocket: TYPESCRIPT
+
+1. [EDX-Typescript 2](https://www.edx.org/course/introduction-to-typescript-2-1)
+
+### :rocket: TENSORFLOW JS
+
+### :rocket: THEIA
+
+* [GITHUB](https://github.com/theia-ide/theia)
+* [WEBSITE](https://www.theia-ide.org/)
+
+### :rocket: UGLIFY JS
+
+JavaScript parser / mangler / compressor / beautifier toolkit
+
+* [SOURCE](https://github.com/mishoo/UglifyJS2)
+
+### :rocket: VUE JS
+
+* [Centralized State Management for Vue.js.](https://github.com/vuejs/vuex)
 
 ### :rocket: VIVID JS
-
-### :rocket: P5 JS
 
 ### :rocket: VIA JS
 
 * [GITHUB](https://github.com/AshleyScirra/via.js)
 
-### :rocket: D3 JS
+### :rocket: XTERM JS
 
-1. [DATA VISUALIZATION](https://in.udacity.com/course/data-visualization-and-d3js--ud507)
-
-### :rocket: ELECTRON JS
-
-* [Lightweight update server](https://github.com/zeit/hazel)
-* [SPECTRON](https://github.com/electron/spectron)
-* [Collection of Apps build on electron](https://github.com/electron/apps)
-
-### :rocket: BABEL JS
-
-### :rocket: KOA JS
-
-1. [CRASH COURSE](https://www.youtube.com/watch?v=z84uTk5zmak)
-
-### :rocket: ANIME JS
-
-1. [INTRO TUTORIAL](https://www.youtube.com/watch?v=g7WnZ9hxUak)
-
-### :rocket: CAMAN JS
-
-1. [INTRO](https://www.youtube.com/watch?v=MEENB3_9yUw)
-
-### :rocket: MOMENT JS
+* [GITHUB](https://github.com/xtermjs/xterm.js)
 
 ### :rocket: MISC
 
