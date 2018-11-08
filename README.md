@@ -237,6 +237,13 @@ A completely customizable framework for building rich text editors.
 
 * [SOURCE](https://github.com/ianstormtaylor/slate)
 
+### :rocket: SEMANTIC UI
+
+UI component framework based around useful principles from natural language
+
+* [GITHUB](https://github.com/Semantic-Org/Semantic-UI)
+* [WEBSITE](https://semantic-ui.com/)
+
 ### :rocket: TERSER JS
 
 JavaScript parser, mangler, optimizer and beautifier toolkit for ES6+
