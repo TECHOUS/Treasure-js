@@ -135,6 +135,8 @@ React framework for building text editors
 ### :rocket: EMBER JS
 
 1. [EMBER CREDIT CARD](https://github.com/esbanarango/ember-credit-card)
+2. [EMBER DECORATORS](https://github.com/ember-decorators/ember-decorators)
+3. [EMBER AUTO IMPORT](https://github.com/ef4/ember-auto-import)
 
 ### :rocket: ELECTRON JS
 
@@ -194,6 +196,7 @@ JSX in Markdown for ambitious projects
 9. [MONGOOSASTIC](https://github.com/mongoosastic/mongoosastic)
 10. [FLOOD](https://github.com/jfurrow/flood)
 11. [NEL](https://github.com/n-riesco/nel)
+12. [HTTP request logger middleware](https://github.com/expressjs/morgan)
 
 * [Oracle Database Driver](https://github.com/oracle/node-oracledb)
 
