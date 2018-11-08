@@ -92,6 +92,12 @@ git clone https://github.com/TechOUs/Treasure-js.git
 
 1. [INTRO TUTORIAL](https://www.youtube.com/watch?v=g7WnZ9hxUak)
 
+### :rocket: AMPLIFYJS
+
+A declarative JavaScript library for application development using cloud services
+
+* [GITHUB](https://github.com/aws-amplify/amplify-js)
+
 ### :rocket: BACKBONE JS
 
 1. [Backbone JS](https://www.javatpoint.com/backbonejs-tutorial)
