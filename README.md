@@ -62,6 +62,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 13. [CARBON](https://github.com/dawnlabs/carbon)
 14. [MetaMask browser extension](https://github.com/MetaMask/metamask-extension)
 15. [SOLANA API](https://github.com/solana-labs/example-tictactoe)
+16. [renovate](https://github.com/renovatebot/renovate)
 
 ## JSON (JavaScript Object Notation)
 
@@ -112,6 +113,8 @@ A declarative JavaScript library for application development using cloud service
 5. [Bootstrap Tutorial](https://www.javatpoint.com/bootstrap-tutorial)
 
 ### :rocket: BABEL JS
+
+* [Webpack plugin](https://github.com/babel/babel-loader)
 
 ### :rocket: CANVAS JS
 
@@ -210,6 +213,10 @@ JSX in Markdown for ambitious projects
 
 * [NEXT APP](https://github.com/segmentio/create-next-app)
 * [Redux wrapper for Next.js](https://github.com/kirill-konshin/next-redux-wrapper)
+
+### :rocket: NUXT JS
+
+* [DOCS](https://github.com/nuxt/docs)
 
 ### :rocket: PARTICLES JS
 
