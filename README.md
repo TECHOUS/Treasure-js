@@ -117,6 +117,7 @@ A declarative JavaScript library for application development using cloud service
 ### :rocket: BABEL JS
 
 * [Webpack plugin](https://github.com/babel/babel-loader)
+* [Compiles React.js components into native DOM instructions to eliminate the need for the react library at runtime.](https://github.com/sokra/rawact)
 
 ### :rocket: CANVAS JS
 
@@ -230,15 +231,16 @@ JSX in Markdown for ambitious projects
 
 ### :rocket: REACT JS
 
-1. [React JS](https://www.edx.org/course/introduction-to-reactjs-1)
-2. [React JS - GFG](https://www.geeksforgeeks.org/react-js-introduction-working/)
-3. [React Router and Redux](https://www.edx.org/course/react-router-and-redux-1)
-4. [React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
-5. [React Native Testing Library](https://github.com/callstack/react-native-testing-library)
-6. [Advanced REACT](https://github.com/wesbos/Advanced-React)
-7. [CONNECTED REACT REDUX](https://github.com/supasate/connected-react-router)
-8. [EVERGREEN REACT UI](https://github.com/segmentio/evergreen)
-9. [STYLED COMPONENTS](https://github.com/styled-components/styled-components)
+1. [DOCS](https://github.com/reactjs/reactjs.org)
+2. [React JS](https://www.edx.org/course/introduction-to-reactjs-1)
+3. [React JS - GFG](https://www.geeksforgeeks.org/react-js-introduction-working/)
+4. [React Router and Redux](https://www.edx.org/course/react-router-and-redux-1)
+5. [React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
+6. [React Native Testing Library](https://github.com/callstack/react-native-testing-library)
+7. [Advanced REACT](https://github.com/wesbos/Advanced-React)
+8. [CONNECTED REACT REDUX](https://github.com/supasate/connected-react-router)
+9. [EVERGREEN REACT UI](https://github.com/segmentio/evergreen)
+10. [STYLED COMPONENTS](https://github.com/styled-components/styled-components)
 
 * [POPMOTION-Simple animation libraries for delightful user interfaces](https://github.com/Popmotion/popmotion)
 
