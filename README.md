@@ -63,6 +63,8 @@ git clone https://github.com/TechOUs/Treasure-js.git
 14. [MetaMask browser extension](https://github.com/MetaMask/metamask-extension)
 15. [SOLANA API](https://github.com/solana-labs/example-tictactoe)
 16. [renovate](https://github.com/renovatebot/renovate)
+17. [Sanity checking containers, vms, and servers](https://github.com/ottomatica/opunit)
+18. [GITCOIN](https://github.com/gitcoinco/web)
 
 ## JSON (JavaScript Object Notation)
 
@@ -267,6 +269,7 @@ JavaScript parser, mangler, optimizer and beautifier toolkit for ES6+
 ### :rocket: TYPESCRIPT
 
 1. [EDX-Typescript 2](https://www.edx.org/course/introduction-to-typescript-2-1)
+2. [EVA ICONS](https://github.com/akveo/eva-icons)
 
 ### :rocket: TENSORFLOW JS
 
