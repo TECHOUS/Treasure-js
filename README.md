@@ -65,6 +65,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 16. [renovate](https://github.com/renovatebot/renovate)
 17. [Sanity checking containers, vms, and servers](https://github.com/ottomatica/opunit)
 18. [GITCOIN](https://github.com/gitcoinco/web)
+19. [A web based mission control framework](https://github.com/nasa/openmct)
 
 ## JSON (JavaScript Object Notation)
 
@@ -182,6 +183,10 @@ React framework for building text editors
 
 1. [CRASH COURSE](https://www.youtube.com/watch?v=z84uTk5zmak)
 
+### :rocket: LERNA
+
+* [GTIHUB](https://github.com/lerna/lerna)
+
 ### :rocket: MDX JS
 
 JSX in Markdown for ambitious projects
@@ -295,6 +300,10 @@ JavaScript parser / mangler / compressor / beautifier toolkit
 ### :rocket: VIA JS
 
 * [GITHUB](https://github.com/AshleyScirra/via.js)
+
+### :rocket: WINSTON JS
+
+* [GITHUB](https://github.com/winstonjs/winston)
 
 ### :rocket: XTERM JS
 
