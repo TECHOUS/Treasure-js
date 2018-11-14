@@ -41,7 +41,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 
 ### :rocket: BLOGS
 
-### :rocket: Fetch Api
+### :rocket: Fetch API
 
 1. [ky](https://github.com/sindresorhus/ky)
 
@@ -157,6 +157,12 @@ React framework for building text editors
 * [SPECTRON](https://github.com/electron/spectron)
 * [Collection of Apps build on electron](https://github.com/electron/apps)
 
+### :rocket: FACE-API JS
+
+JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
+
+* [GITHUB](https://github.com/justadudewhohacks/face-api.js)
+
 ### :rocket: GATBYJS
 
 1. [Github](https://github.com/gatsbyjs/gatsby)
@@ -233,6 +239,13 @@ JSX in Markdown for ambitious projects
 3. [TUTORIAL](https://www.youtube.com/watch?v=qK3cgD09Qf0)
 
 ### :rocket: P5 JS
+
+### :rocket: PLOTLY JS
+
+Open-source JavaScript charting library behind plot.ly and Dash
+
+* [GITHUB](https://github.com/plotly/plotly.js)
+* [WEBSITE](https://plot.ly/javascript/)
 
 ### :rocket: REACT JS
 
