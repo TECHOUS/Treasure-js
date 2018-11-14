@@ -259,6 +259,7 @@ Open-source JavaScript charting library behind plot.ly and Dash
 8. [CONNECTED REACT REDUX](https://github.com/supasate/connected-react-router)
 9. [EVERGREEN REACT UI](https://github.com/segmentio/evergreen)
 10. [STYLED COMPONENTS](https://github.com/styled-components/styled-components)
+11. [Provides React-inspired 'hooks' like useState(..) for stand-alone functions](https://github.com/getify/tng-hooks)
 
 * [POPMOTION-Simple animation libraries for delightful user interfaces](https://github.com/Popmotion/popmotion)
 
@@ -266,6 +267,13 @@ Open-source JavaScript charting library behind plot.ly and Dash
 
 * [GITHUB](https://github.com/DmitryBaranovskiy/raphael)
 * [WEBSITE](http://raphaeljs.com/)
+
+### :rocket: ROLLUP JS
+
+Next-generation ES module bundler
+
+* [GITHUB](https://github.com/rollup/rollup)
+* [WEBSITE](https://rollupjs.org/guide/en)
 
 ### :rocket: SLATE JS
 
