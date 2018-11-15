@@ -85,12 +85,14 @@ git clone https://github.com/TechOUs/Treasure-js.git
 
 ### :rocket: ANGULAR JS
 
-1. [W3 SCHOOLS](https://www.w3schools.com/angular/default.asp)
-2. [Angular Fundamentals](https://www.edx.org/course/angular-fundamentals-1)
-3. [Angularjs Framework Fundamentals](https://www.edx.org/course/angularjs-framework-fundamentals)
-4. [Developing Dynamic Web Applications](https://www.edx.org/course/developing-dynamic-web-applications-1)
-5. [Angularjs-Advanced Framework Techniques](https://www.edx.org/course/angularjs-advanced-framework-techniques)
-6. [Angular JS](https://www.javatpoint.com/angularjs-tutorial)
+1. [DOCS](https://angular.io/docs)
+2. [GITHUB](https://github.com/angular/angular)
+3. [W3 SCHOOLS](https://www.w3schools.com/angular/default.asp)
+4. [Angular Fundamentals](https://www.edx.org/course/angular-fundamentals-1)
+5. [Angularjs Framework Fundamentals](https://www.edx.org/course/angularjs-framework-fundamentals)
+6. [Developing Dynamic Web Applications](https://www.edx.org/course/developing-dynamic-web-applications-1)
+7. [Angularjs-Advanced Framework Techniques](https://www.edx.org/course/angularjs-advanced-framework-techniques)
+8. [Angular JS](https://www.javatpoint.com/angularjs-tutorial)
 
 ### :rocket: ANIME JS
 
@@ -220,6 +222,7 @@ JSX in Markdown for ambitious projects
 10. [FLOOD](https://github.com/jfurrow/flood)
 11. [NEL](https://github.com/n-riesco/nel)
 12. [HTTP request logger middleware](https://github.com/expressjs/morgan)
+13. [Node.js based forum software built for the modern web](https://github.com/NodeBB/NodeBB)
 
 * [Oracle Database Driver](https://github.com/oracle/node-oracledb)
 
@@ -227,6 +230,7 @@ JSX in Markdown for ambitious projects
 
 * [NEXT APP](https://github.com/segmentio/create-next-app)
 * [Redux wrapper for Next.js](https://github.com/kirill-konshin/next-redux-wrapper)
+* [NEXT PLUGINS](https://github.com/zeit/next-plugins)
 
 ### :rocket: NUXT JS
 
