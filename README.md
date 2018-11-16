@@ -36,6 +36,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 16. [OBJECT ORIENTED JS](https://in.udacity.com/course/object-oriented-javascript--ud711)
 17. [JAVASCRIPT AND THE DOM](https://in.udacity.com/course/javascript-and-the-dom--ud117)
 18. [A book series on JavaScript](https://github.com/getify/You-Dont-Know-JS)
+19. [Lighthouse in CI using Docker](https://github.com/ebidel/lighthouse-ci)
 
 ### :rocket: VIDEOS
 
@@ -223,6 +224,7 @@ JSX in Markdown for ambitious projects
 11. [NEL](https://github.com/n-riesco/nel)
 12. [HTTP request logger middleware](https://github.com/expressjs/morgan)
 13. [Node.js based forum software built for the modern web](https://github.com/NodeBB/NodeBB)
+14. [Web rendering surface for Node applications](https://github.com/GoogleChromeLabs/carlo)
 
 * [Oracle Database Driver](https://github.com/oracle/node-oracledb)
 
