@@ -67,6 +67,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 17. [Sanity checking containers, vms, and servers](https://github.com/ottomatica/opunit)
 18. [GITCOIN](https://github.com/gitcoinco/web)
 19. [A web based mission control framework](https://github.com/nasa/openmct)
+20. [A collection of small corpuses of interesting data for the creation of bots and similar stuff](https://github.com/dariusk/corpora)
 
 ## JSON (JavaScript Object Notation)
 
@@ -225,6 +226,7 @@ JSX in Markdown for ambitious projects
 12. [HTTP request logger middleware](https://github.com/expressjs/morgan)
 13. [Node.js based forum software built for the modern web](https://github.com/NodeBB/NodeBB)
 14. [Web rendering surface for Node applications](https://github.com/GoogleChromeLabs/carlo)
+15. [CLI tool to check if a word is trademarked](https://github.com/egoist/is-trademarked-cli)
 
 * [Oracle Database Driver](https://github.com/oracle/node-oracledb)
 
