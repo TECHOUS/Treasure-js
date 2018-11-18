@@ -106,6 +106,10 @@ A declarative JavaScript library for application development using cloud service
 
 * [GITHUB](https://github.com/aws-amplify/amplify-js)
 
+### :rocket: AURELIA JS
+
+* [The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building platform](https://github.com/aurelia/framework)
+
 ### :rocket: BACKBONE JS
 
 1. [Backbone JS](https://www.javatpoint.com/backbonejs-tutorial)
@@ -227,6 +231,7 @@ JSX in Markdown for ambitious projects
 13. [Node.js based forum software built for the modern web](https://github.com/NodeBB/NodeBB)
 14. [Web rendering surface for Node applications](https://github.com/GoogleChromeLabs/carlo)
 15. [CLI tool to check if a word is trademarked](https://github.com/egoist/is-trademarked-cli)
+16. [Node.js based forum software built for the modern web](https://github.com/NodeBB/NodeBB)
 
 * [Oracle Database Driver](https://github.com/oracle/node-oracledb)
 
@@ -274,6 +279,7 @@ Open-source JavaScript charting library behind plot.ly and Dash
 
 * [REACT NATIVE](https://github.com/okgrow/react-native-copilot)
 * [Simple React Native testing utilities helping you write better tests with less effort](https://github.com/callstack/react-native-testing-library)
+* [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
 
 * [POPMOTION-Simple animation libraries for delightful user interfaces](https://github.com/Popmotion/popmotion)
 
