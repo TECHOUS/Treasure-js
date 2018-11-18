@@ -159,6 +159,13 @@ React framework for building text editors
 2. [EMBER DECORATORS](https://github.com/ember-decorators/ember-decorators)
 3. [EMBER AUTO IMPORT](https://github.com/ef4/ember-auto-import)
 
+### :rocket: EMOTION JS
+
+style as a function of state
+
+* [GITHUB](https://github.com/emotion-js/emotion)
+* [WEBSITE](https://emotion.sh/)
+
 ### :rocket: ELECTRON JS
 
 * [Lightweight update server](https://github.com/zeit/hazel)
@@ -335,6 +342,7 @@ JavaScript parser / mangler / compressor / beautifier toolkit
 ### :rocket: VUE JS
 
 * [Centralized State Management for Vue.js.](https://github.com/vuejs/vuex)
+* [Vue Storefront](https://github.com/DivanteLtd/vue-storefront)
 
 ### :rocket: VIVID JS
 
