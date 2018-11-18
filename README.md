@@ -287,8 +287,8 @@ Open-source JavaScript charting library behind plot.ly and Dash
 * [REACT NATIVE](https://github.com/okgrow/react-native-copilot)
 * [Simple React Native testing utilities helping you write better tests with less effort](https://github.com/callstack/react-native-testing-library)
 * [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
-
 * [POPMOTION-Simple animation libraries for delightful user interfaces](https://github.com/Popmotion/popmotion)
+* [A well tested feature rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for over 15 Firebase services](https://github.com/invertase/react-native-firebase)
 
 ### :rocket: RAPHAEL JS
 
