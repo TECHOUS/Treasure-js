@@ -68,6 +68,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 18. [GITCOIN](https://github.com/gitcoinco/web)
 19. [A web based mission control framework](https://github.com/nasa/openmct)
 20. [A collection of small corpuses of interesting data for the creation of bots and similar stuff](https://github.com/dariusk/corpora)
+21. [Create the next immutable state by mutating the current one](https://github.com/mweststrate/immer)
 
 ## JSON (JavaScript Object Notation)
 
