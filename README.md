@@ -69,6 +69,8 @@ git clone https://github.com/TechOUs/Treasure-js.git
 19. [A web based mission control framework](https://github.com/nasa/openmct)
 20. [A collection of small corpuses of interesting data for the creation of bots and similar stuff](https://github.com/dariusk/corpora)
 21. [Create the next immutable state by mutating the current one](https://github.com/mweststrate/immer)
+22. [VIRTUAL SCROLLER](https://github.com/valdrinkoshi/virtual-scroller)
+23. [bg-sound](https://github.com/feross/bg-sound)
 
 ## JSON (JavaScript Object Notation)
 
@@ -135,20 +137,20 @@ A declarative JavaScript library for application development using cloud service
 
 1. [INTRO](https://www.youtube.com/watch?v=MEENB3_9yUw)
 
-### :rocket: DRAFT JS
+### :rocket: D3 JS
 
-React framework for building text editors
-
-* [SOURCE](https://github.com/facebook/draft-js)
+1. [DATA VISUALIZATION](https://in.udacity.com/course/data-visualization-and-d3js--ud507)
 
 ### :rocket: DANGER JS
 
 * [GITHUB](https://github.com/danger/danger-js)
 * [WEBSITE](https://danger.systems/js/)
 
-### :rocket: D3 JS
+### :rocket: DRAFT JS
 
-1. [DATA VISUALIZATION](https://in.udacity.com/course/data-visualization-and-d3js--ud507)
+React framework for building text editors
+
+* [SOURCE](https://github.com/facebook/draft-js)
 
 ### :rocket: EXPRESS JS
 
