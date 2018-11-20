@@ -272,18 +272,19 @@ Open-source JavaScript charting library behind plot.ly and Dash
 
 ### :rocket: REACT JS
 
-1. [DOCS](https://github.com/reactjs/reactjs.org)
-2. [React JS](https://www.edx.org/course/introduction-to-reactjs-1)
-3. [React JS - GFG](https://www.geeksforgeeks.org/react-js-introduction-working/)
-4. [React Router and Redux](https://www.edx.org/course/react-router-and-redux-1)
-5. [React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
-6. [React Native Testing Library](https://github.com/callstack/react-native-testing-library)
-7. [Advanced REACT](https://github.com/wesbos/Advanced-React)
-8. [CONNECTED REACT REDUX](https://github.com/supasate/connected-react-router)
-9. [EVERGREEN REACT UI](https://github.com/segmentio/evergreen)
-10. [STYLED COMPONENTS](https://github.com/styled-components/styled-components)
-11. [Provides React-inspired 'hooks' like useState(..) for stand-alone functions](https://github.com/getify/tng-hooks)
-12. [Declarative routing for React](https://github.com/ReactTraining/react-router)
+1. [ROADMAP](https://github.com/adam-golab/react-developer-roadmap)
+2. [DOCS](https://github.com/reactjs/reactjs.org)
+3. [React JS](https://www.edx.org/course/introduction-to-reactjs-1)
+4. [React JS - GFG](https://www.geeksforgeeks.org/react-js-introduction-working/)
+5. [React Router and Redux](https://www.edx.org/course/react-router-and-redux-1)
+6. [React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
+7. [React Native Testing Library](https://github.com/callstack/react-native-testing-library)
+8. [Advanced REACT](https://github.com/wesbos/Advanced-React)
+9. [CONNECTED REACT REDUX](https://github.com/supasate/connected-react-router)
+10. [EVERGREEN REACT UI](https://github.com/segmentio/evergreen)
+11. [STYLED COMPONENTS](https://github.com/styled-components/styled-components)
+12. [Provides React-inspired 'hooks' like useState(..) for stand-alone functions](https://github.com/getify/tng-hooks)
+13. [Declarative routing for React](https://github.com/ReactTraining/react-router)
 
 #### REACT NATIVE
 
@@ -352,6 +353,13 @@ JavaScript parser / mangler / compressor / beautifier toolkit
 ### :rocket: VIA JS
 
 * [GITHUB](https://github.com/AshleyScirra/via.js)
+
+### :rocket: VIS JS
+
+vis.js is a dynamic, browser-based visualization library
+
+* [GITHUB](https://github.com/almende/vis)
+* [WEBSITE](http://visjs.org/)
 
 ### :rocket: WINSTON JS
 
