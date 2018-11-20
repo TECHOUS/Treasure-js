@@ -130,6 +130,7 @@ A declarative JavaScript library for application development using cloud service
 
 * [Webpack plugin](https://github.com/babel/babel-loader)
 * [Compiles React.js components into native DOM instructions to eliminate the need for the react library at runtime.](https://github.com/sokra/rawact)
+* [Pre-evaluate code at build-time](https://github.com/kentcdodds/babel-plugin-preval)
 
 ### :rocket: CANVAS JS
 
@@ -285,6 +286,7 @@ Open-source JavaScript charting library behind plot.ly and Dash
 11. [STYLED COMPONENTS](https://github.com/styled-components/styled-components)
 12. [Provides React-inspired 'hooks' like useState(..) for stand-alone functions](https://github.com/getify/tng-hooks)
 13. [Declarative routing for React](https://github.com/ReactTraining/react-router)
+14. [A React Component to create interactive 3d graphs](https://github.com/Auquan/react-graph3d-vis)
 
 #### REACT NATIVE
 
