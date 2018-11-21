@@ -243,6 +243,7 @@ JSX in Markdown for ambitious projects
 14. [Web rendering surface for Node applications](https://github.com/GoogleChromeLabs/carlo)
 15. [CLI tool to check if a word is trademarked](https://github.com/egoist/is-trademarked-cli)
 16. [Node.js based forum software built for the modern web](https://github.com/NodeBB/NodeBB)
+17. [SQUOOSH](https://github.com/GoogleChromeLabs/squoosh)
 
 * [Oracle Database Driver](https://github.com/oracle/node-oracledb)
 
@@ -287,6 +288,7 @@ Open-source JavaScript charting library behind plot.ly and Dash
 12. [Provides React-inspired 'hooks' like useState(..) for stand-alone functions](https://github.com/getify/tng-hooks)
 13. [Declarative routing for React](https://github.com/ReactTraining/react-router)
 14. [A React Component to create interactive 3d graphs](https://github.com/Auquan/react-graph3d-vis)
+15. [OFFICE UI FABRIC REACT](https://github.com/OfficeDev/office-ui-fabric-react)
 
 #### REACT NATIVE
 
