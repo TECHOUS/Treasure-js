@@ -289,6 +289,7 @@ Open-source JavaScript charting library behind plot.ly and Dash
 13. [Declarative routing for React](https://github.com/ReactTraining/react-router)
 14. [A React Component to create interactive 3d graphs](https://github.com/Auquan/react-graph3d-vis)
 15. [OFFICE UI FABRIC REACT](https://github.com/OfficeDev/office-ui-fabric-react)
+16. [A DIY guide to build your own React](https://github.com/pomber/didact)
 
 #### REACT NATIVE
 
@@ -368,6 +369,13 @@ vis.js is a dynamic, browser-based visualization library
 ### :rocket: WINSTON JS
 
 * [GITHUB](https://github.com/winstonjs/winston)
+
+### :rocket: WEBPACK JS
+
+A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+
+* [GITHUB](https://github.com/webpack/webpack)
+* [WEBSITE](https://webpack.js.org/)
 
 ### :rocket: XTERM JS
 
