@@ -274,6 +274,10 @@ JSX in Markdown for ambitious projects
 
 ### :rocket: P5 JS
 
+p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing
+
+* [GITHUB](https://github.com/processing/p5.js)
+
 ### :rocket: PLOTLY JS
 
 Open-source JavaScript charting library behind plot.ly and Dash
@@ -299,6 +303,7 @@ Open-source JavaScript charting library behind plot.ly and Dash
 14. [A React Component to create interactive 3d graphs](https://github.com/Auquan/react-graph3d-vis)
 15. [OFFICE UI FABRIC REACT](https://github.com/OfficeDev/office-ui-fabric-react)
 16. [A DIY guide to build your own React](https://github.com/pomber/didact)
+17. [REACT-SNAP](https://github.com/stereobooster/react-snap)
 
 #### REACT NATIVE
 
