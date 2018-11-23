@@ -37,6 +37,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 17. [JAVASCRIPT AND THE DOM](https://in.udacity.com/course/javascript-and-the-dom--ud117)
 18. [A book series on JavaScript](https://github.com/getify/You-Dont-Know-JS)
 19. [Lighthouse in CI using Docker](https://github.com/ebidel/lighthouse-ci)
+20. [Mostly adequate guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
 ### :rocket: VIDEOS
 
@@ -45,6 +46,10 @@ git clone https://github.com/TechOUs/Treasure-js.git
 ### :rocket: Fetch API
 
 1. [ky](https://github.com/sindresorhus/ky)
+
+### :rocket: PWA
+
+* [sample 1](https://github.com/aviaryan/todo-pwa-workshop)
 
 ### :rocket: OTHERS
 
@@ -85,6 +90,10 @@ git clone https://github.com/TechOUs/Treasure-js.git
 4. [CRASH COURSE TUTORIAL](https://www.youtube.com/watch?v=82hnvUYY6QA)
 5. [ASYNCHRONOUS JAVASCRIPT REQUESTS](https://in.udacity.com/course/asynchronous-javascript-requests--ud109)
 6. [INTRODUCTION TO AJAX](https://in.udacity.com/course/intro-to-ajax--ud110)
+
+### :rocket: SAMPLES
+
+* [Ace (Ajax.org Cloud9 Editor)](https://github.com/ajaxorg/ace)
 
 ## JAVASCRIPT FRAMEWORKS ,LIBRARIES AND PREPROCESSORS (A - Z)
 
