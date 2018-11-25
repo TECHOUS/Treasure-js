@@ -76,6 +76,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 21. [Create the next immutable state by mutating the current one](https://github.com/mweststrate/immer)
 22. [VIRTUAL SCROLLER](https://github.com/valdrinkoshi/virtual-scroller)
 23. [bg-sound](https://github.com/feross/bg-sound)
+24. [Simple app to tell you where there is uber](https://github.com/SaraVieira/uber-cities)
 
 ## JSON (JavaScript Object Notation)
 
