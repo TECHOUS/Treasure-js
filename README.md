@@ -213,6 +213,13 @@ JavaScript API for face detection and face recognition in the browser and nodejs
 4. [Jquery UI](https://www.javatpoint.com/jquery-ui-tutorial)
 5. [INTRODUCTION TO JQUERY](https://in.udacity.com/course/intro-to-jquery--ud245)
 
+### :rocket: KERAS JS
+
+Run Keras models in the browser, with GPU support using WebGL
+
+* [GITHUB](https://github.com/transcranial/keras-js)
+* [WEBSITE](https://transcranial.github.io/keras-js/#/)
+
 ### :rocket: KOA JS
 
 1. [CRASH COURSE](https://www.youtube.com/watch?v=z84uTk5zmak)
