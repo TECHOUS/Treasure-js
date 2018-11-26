@@ -267,6 +267,8 @@ JSX in Markdown for ambitious projects
 15. [CLI tool to check if a word is trademarked](https://github.com/egoist/is-trademarked-cli)
 16. [Node.js based forum software built for the modern web](https://github.com/NodeBB/NodeBB)
 17. [SQUOOSH](https://github.com/GoogleChromeLabs/squoosh)
+18. [SOAP driver for Node.js (A complete rewrite of node-soap)](https://github.com/strongloop/strong-soap)
+19. [esm](https://github.com/standard-things/esm)
 
 * [Oracle Database Driver](https://github.com/oracle/node-oracledb)
 
