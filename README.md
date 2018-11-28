@@ -416,6 +416,12 @@ MongoDB object modeling designed to work in an asynchronous environment
 * [GITHUB](https://github.com/pugjs/pug)
 * [OVERVIEW](https://devdocs.io/pug/)
 
+### :rocket: PUPPETEER JS
+
+* [WEBSITE](https://pptr.dev/)
+* [GITHUB](https://github.com/GoogleChrome/puppeteer)
+* [DOCS](https://devdocs.io/puppeteer/)
+
 ### :rocket: PARTICLES JS
 
 1. [GITHUB](https://github.com/VincentGarreau/particles.js)
