@@ -320,6 +320,14 @@ JSX in Markdown for ambitious projects
 
 ### :rocket: MOMENT JS
 
+### :rocket: MARIONETTE JS
+
+* [GITHUB](https://github.com/marionettejs/backbone.marionette)
+* [WEBSITE](https://marionettejs.com/)
+* [DOCS 4](https://devdocs.io/marionette~4/)
+* [DOCS 3](https://devdocs.io/marionette~3/)
+* [DOCS 2](https://devdocs.io/marionette~2/)
+
 ### :rocket: NODE JS
 
 1. [Nodejs - W3 SCHOOLS](https://www.w3schools.com/nodejs/default.asp)
