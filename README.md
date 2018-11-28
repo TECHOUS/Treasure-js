@@ -344,6 +344,14 @@ Meteor, the JavaScript App Platform
 * [GITHUB](https://github.com/mochajs/mocha)
 * [DOCS](https://devdocs.io/mocha/)
 
+### :rocket: MODERNIZR
+
+Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser
+
+* [GITHUB](https://github.com/Modernizr/Modernizr)
+* [WEBSITE](https://modernizr.com/)
+* [DOCS](https://devdocs.io/modernizr/)
+
 ### :rocket: NODE JS
 
 1. [Nodejs - W3 SCHOOLS](https://www.w3schools.com/nodejs/default.asp)
