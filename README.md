@@ -394,6 +394,10 @@ MongoDB object modeling designed to work in an asynchronous environment
 24. [NODEJS 6 DOCS](https://devdocs.io/node~6_lts/)
 25. [NODEJS 4 DOCS](https://devdocs.io/node~4_lts/)
 
+#### :rocket NPM
+
+* [DOCS](https://devdocs.io/npm/)
+
 * [Oracle Database Driver](https://github.com/oracle/node-oracledb)
 
 ### :rocket: NEXT JS
