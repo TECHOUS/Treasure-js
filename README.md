@@ -307,19 +307,6 @@ Run Keras models in the browser, with GPU support using WebGL
 * [DOCS 3](https://devdocs.io/lodash~3/)
 * [DOCS 2](https://devdocs.io/lodash~2/)
 
-### :rocket: MDX JS
-
-JSX in Markdown for ambitious projects
-
-* [SOURCE](https://github.com/mdx-js/mdx)
-
-### :rocket: MATTER JS
-
-1. [Website](http://brm.io/matter-js/)
-2. [Github](https://github.com/liabru/matter-js)
-
-### :rocket: MOMENT JS
-
 ### :rocket: MARIONETTE JS
 
 * [GITHUB](https://github.com/marionettejs/backbone.marionette)
@@ -327,6 +314,29 @@ JSX in Markdown for ambitious projects
 * [DOCS 4](https://devdocs.io/marionette~4/)
 * [DOCS 3](https://devdocs.io/marionette~3/)
 * [DOCS 2](https://devdocs.io/marionette~2/)
+
+### :rocket: MATTER JS
+
+1. [Website](http://brm.io/matter-js/)
+2. [Github](https://github.com/liabru/matter-js)
+
+### :rocket: MDX JS
+
+JSX in Markdown for ambitious projects
+
+* [SOURCE](https://github.com/mdx-js/mdx)
+
+### :rocket: METEOR JS
+
+Meteor, the JavaScript App Platform
+
+* [WEBSITE](https://www.meteor.com/)
+* [GITHUB](https://github.com/meteor/meteor/)
+* [DOCS 1.5](https://devdocs.io/meteor~1.5/)
+* [DOCS 1.4](https://devdocs.io/meteor~1.4/)
+* [DOCS 1.3](https://devdocs.io/meteor~1.3/)
+
+### :rocket: MOMENT JS
 
 ### :rocket: NODE JS
 
