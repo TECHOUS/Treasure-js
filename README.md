@@ -358,6 +358,14 @@ Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the us
 * [WEBSITE](https://modernizr.com/)
 * [DOCS](https://devdocs.io/modernizr/)
 
+### :rocket: MONGOOSE
+
+MongoDB object modeling designed to work in an asynchronous environment
+
+* [WEBSITE](https://mongoosejs.com/)
+* [GITHUB](https://github.com/Automattic/mongoose/)
+* [DOCS](https://devdocs.io/mongoose/)
+
 ### :rocket: NODE JS
 
 1. [Nodejs - W3 SCHOOLS](https://www.w3schools.com/nodejs/default.asp)
