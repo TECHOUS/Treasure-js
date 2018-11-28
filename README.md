@@ -138,6 +138,7 @@ A declarative JavaScript library for application development using cloud service
 
 1. [Backbone JS](https://www.javatpoint.com/backbonejs-tutorial)
 2. [LEARN BACKBONE JS](https://in.udacity.com/course/learn-backbonejs--ud990)
+3. [DOCS](https://devdocs.io/backbone/)
 
 ### :rocket: BOOTSTRAP
 
@@ -146,14 +147,21 @@ A declarative JavaScript library for application development using cloud service
 3. [Introduction to Bootstrap](https://www.edx.org/course/introduction-to-bootstrap-a-tutorial-1)
 4. [BootStrap - GFG](https://www.geeksforgeeks.org/beginning-bootstrap-part-1/)
 5. [Bootstrap Tutorial](https://www.javatpoint.com/bootstrap-tutorial)
+6. [DOCS 3](https://devdocs.io/bootstrap~3/)
+7. [DOCS 4](https://devdocs.io/bootstrap~4/)
 
 ### :rocket: BABEL JS
 
+* [DOCS](https://babeljs.io/docs/en/)
 * [Webpack plugin](https://github.com/babel/babel-loader)
 * [Compiles React.js components into native DOM instructions to eliminate the need for the react library at runtime.](https://github.com/sokra/rawact)
 * [Pre-evaluate code at build-time](https://github.com/kentcdodds/babel-plugin-preval)
 
 ### :rocket: CANVAS JS
+
+### :rocket: CODECEPT JS
+
+* [GITHUB](https://github.com/codeception/codeceptjs/)
 
 ### :rocket: CAMAN JS
 
@@ -168,6 +176,9 @@ node.js command-line interfaces made easy
 ### :rocket: D3 JS
 
 1. [DATA VISUALIZATION](https://in.udacity.com/course/data-visualization-and-d3js--ud507)
+2. [D3 JS 5](https://devdocs.io/d3~5/)
+3. [D3 JS 4](https://devdocs.io/d3~4/)
+4. [D3 JS 3](https://devdocs.io/d3~3/)
 
 ### :rocket: DANGER JS
 
@@ -183,12 +194,14 @@ React framework for building text editors
 ### :rocket: EXPRESS JS
 
 1. [Express JS](https://www.javatpoint.com/expressjs-tutorial)
+2. [DOCS](https://devdocs.io/express/)
 
 ### :rocket: EMBER JS
 
 1. [EMBER CREDIT CARD](https://github.com/esbanarango/ember-credit-card)
 2. [EMBER DECORATORS](https://github.com/ember-decorators/ember-decorators)
 3. [EMBER AUTO IMPORT](https://github.com/ef4/ember-auto-import)
+4. [DOCS](https://devdocs.io/ember/)
 
 ### :rocket: EMOTION JS
 
@@ -202,6 +215,7 @@ style as a function of state
 * [Lightweight update server](https://github.com/zeit/hazel)
 * [SPECTRON](https://github.com/electron/spectron)
 * [Collection of Apps build on electron](https://github.com/electron/apps)
+* [DOCS](https://devdocs.io/electron/)
 
 ### :rocket: FACE-API JS
 
@@ -214,6 +228,11 @@ JavaScript API for face detection and face recognition in the browser and nodejs
 1. [Github](https://github.com/gatsbyjs/gatsby)
 2. [Website](https://www.gatsbyjs.org/)
 
+### :rocket: GRUNT JS
+
+* [WEBSITE](https://gruntjs.com/)
+* [GITHUB](https://github.com/gruntjs/grunt)
+
 ### :rocket: HELMET JS
 
 * [GITHUB](https://github.com/helmetjs/helmet)
@@ -222,6 +241,16 @@ JavaScript API for face detection and face recognition in the browser and nodejs
 ### :rocket: HLS JS
 
 * [GITHUB](https://github.com/video-dev/hls.js)
+
+### :rocket: HANDLEBARS JS
+
+* [GITHUB](https://github.com/wycats/handlebars.js/)
+* [WEBSITE](https://handlebarsjs.com/)
+
+### :rocket: IMMUTABLE JS
+
+* [GITHUB](https://github.com/facebook/immutable-js/)
+* [WEBSITE](https://facebook.github.io/immutable-js/)
 
 ### :rocket: JQUERY
   
@@ -280,6 +309,7 @@ JSX in Markdown for ambitious projects
 17. [SQUOOSH](https://github.com/GoogleChromeLabs/squoosh)
 18. [SOAP driver for Node.js (A complete rewrite of node-soap)](https://github.com/strongloop/strong-soap)
 19. [esm](https://github.com/standard-things/esm)
+20. [async](https://devdocs.io/async/)
 
 * [Oracle Database Driver](https://github.com/oracle/node-oracledb)
 
