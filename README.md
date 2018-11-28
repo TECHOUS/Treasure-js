@@ -388,6 +388,11 @@ MongoDB object modeling designed to work in an asynchronous environment
 18. [SOAP driver for Node.js (A complete rewrite of node-soap)](https://github.com/strongloop/strong-soap)
 19. [esm](https://github.com/standard-things/esm)
 20. [async](https://devdocs.io/async/)
+21. [CURRENT DOCS](https://devdocs.io/node/)
+22. [NODEJS 10 DOCS](https://devdocs.io/node~10_lts/)
+23. [NODEJS 8 DOCS](https://devdocs.io/node~8_lts/)
+24. [NODEJS 6 DOCS](https://devdocs.io/node~6_lts/)
+25. [NODEJS 4 DOCS](https://devdocs.io/node~4_lts/)
 
 * [Oracle Database Driver](https://github.com/oracle/node-oracledb)
 
