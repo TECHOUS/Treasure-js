@@ -441,6 +441,14 @@ Open-source JavaScript charting library behind plot.ly and Dash
 * [GITHUB](https://github.com/plotly/plotly.js)
 * [WEBSITE](https://plot.ly/javascript/)
 
+### :rocket: Q
+
+A promise library for JavaScript
+
+* [GITHUB](https://github.com/kriskowal/q)
+* [WEBSITE](http://documentup.com/kriskowal/q/)
+* [DOCS](https://devdocs.io/q/)
+
 ### :rocket: REACT JS
 
 1. [ROADMAP](https://github.com/adam-golab/react-developer-roadmap)
