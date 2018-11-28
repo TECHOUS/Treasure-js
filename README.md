@@ -338,6 +338,12 @@ Meteor, the JavaScript App Platform
 
 ### :rocket: MOMENT JS
 
+Parse, validate, manipulate, and display dates in javascript
+
+* [WEBSITE](http://momentjs.com/)
+* [GITHUB](https://github.com/moment/moment/)
+* [DOCS](https://devdocs.io/moment/)
+
 ### :rocket: MOCHA JS
 
 * [WEBSITE](https://mochajs.org/)
