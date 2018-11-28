@@ -265,6 +265,11 @@ JavaScript API for face detection and face recognition in the browser and nodejs
 * [WEBSITE](https://jasmine.github.io/api/3.2/index.html)
 * [GITHUB](https://github.com/jasmine/jasmine.github.io)
 
+### :rocket: JEST
+
+* [WEBSITE](https://jestjs.io/)
+* [GITHUB](https://github.com/facebook/jest)
+
 ### :rocket: KERAS JS
 
 Run Keras models in the browser, with GPU support using WebGL
@@ -275,10 +280,24 @@ Run Keras models in the browser, with GPU support using WebGL
 ### :rocket: KOA JS
 
 1. [CRASH COURSE](https://www.youtube.com/watch?v=z84uTk5zmak)
+2. [DOCS](https://devdocs.io/koa/)
+
+### :rocket: KNOCKOUT JS
+
+* [DOCS](https://devdocs.io/knockout/)
 
 ### :rocket: LERNA
 
 * [GTIHUB](https://github.com/lerna/lerna)
+
+### :rocket: LEAFLET JS
+
+* [GITHUB](https://github.com/Leaflet/Leaflet)
+* [WEBSITE](https://leafletjs.com/)
+* [DOCS 1.3](https://devdocs.io/leaflet~1.3/)
+* [DOCS 1.2](https://devdocs.io/leaflet~1.2/)
+* [DOCS 1.1](https://devdocs.io/leaflet~1.1/)
+* [DOCS 1.0](https://devdocs.io/leaflet~1.0/)
 
 ### :rocket: MDX JS
 
