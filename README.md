@@ -338,6 +338,12 @@ Meteor, the JavaScript App Platform
 
 ### :rocket: MOMENT JS
 
+### :rocket: MOCHA JS
+
+* [WEBSITE](https://mochajs.org/)
+* [GITHUB](https://github.com/mochajs/mocha)
+* [DOCS](https://devdocs.io/mocha/)
+
 ### :rocket: NODE JS
 
 1. [Nodejs - W3 SCHOOLS](https://www.w3schools.com/nodejs/default.asp)
