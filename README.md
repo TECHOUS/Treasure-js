@@ -477,6 +477,7 @@ Practical functional Javascript
 16. [A DIY guide to build your own React](https://github.com/pomber/didact)
 17. [REACT-SNAP](https://github.com/stereobooster/react-snap)
 18. [Build forms in React, without the tears](https://github.com/jaredpalmer/formik)
+19. [DEVDOCS](https://devdocs.io/react/)
 
 #### REACT NATIVE
 
@@ -485,6 +486,8 @@ Practical functional Javascript
 * [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
 * [POPMOTION-Simple animation libraries for delightful user interfaces](https://github.com/Popmotion/popmotion)
 * [A well tested feature rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for over 15 Firebase services](https://github.com/invertase/react-native-firebase)
+* [DEVDOCS](https://devdocs.io/react_native/)
+* [GITHUB](https://github.com/facebook/react-native)
 
 ### :rocket: RAPHAEL JS
 
