@@ -488,6 +488,7 @@ Practical functional Javascript
 * [A well tested feature rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for over 15 Firebase services](https://github.com/invertase/react-native-firebase)
 * [DEVDOCS](https://devdocs.io/react_native/)
 * [GITHUB](https://github.com/facebook/react-native)
+* [Simple React Native testing utilities helping you write better tests with less effort](https://github.com/callstack/react-native-testing-library)
 
 ### :rocket: RAPHAEL JS
 
@@ -514,6 +515,13 @@ UI component framework based around useful principles from natural language
 * [GITHUB](https://github.com/Semantic-Org/Semantic-UI)
 * [WEBSITE](https://semantic-ui.com/)
 
+### :rocket: STORYBOOK JS
+
+Interactive UI component dev & test: React, React Native, Vue, Angular, Ember
+
+* [GITHUB](https://github.com/storybooks/storybook)
+* [WEBSITE](https://storybook.js.org/)
+
 ### :rocket: TERSER JS
 
 JavaScript parser, mangler, optimizer and beautifier toolkit for ES6+
@@ -524,6 +532,7 @@ JavaScript parser, mangler, optimizer and beautifier toolkit for ES6+
 
 1. [EDX-Typescript 2](https://www.edx.org/course/introduction-to-typescript-2-1)
 2. [EVA ICONS](https://github.com/akveo/eva-icons)
+3. [probot](https://github.com/probot/probot)
 
 ### :rocket: TENSORFLOW JS
 
