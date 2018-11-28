@@ -449,6 +449,14 @@ A promise library for JavaScript
 * [WEBSITE](http://documentup.com/kriskowal/q/)
 * [DOCS](https://devdocs.io/q/)
 
+### :rocket: RAMDA JS
+
+Practical functional Javascript
+
+* [GITHUB](https://github.com/ramda/ramda/)
+* [WEBSITE](https://ramdajs.com)
+* [DOCS](https://devdocs.io/ramda/)
+
 ### :rocket: REACT JS
 
 1. [ROADMAP](https://github.com/adam-golab/react-developer-roadmap)
