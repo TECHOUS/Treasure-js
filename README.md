@@ -299,6 +299,14 @@ Run Keras models in the browser, with GPU support using WebGL
 * [DOCS 1.1](https://devdocs.io/leaflet~1.1/)
 * [DOCS 1.0](https://devdocs.io/leaflet~1.0/)
 
+### :rocket: LODASH
+
+* [GITHUB](https://github.com/lodash/lodash/)
+* [WEBSITE](https://lodash.com/)
+* [DOCS 4](https://devdocs.io/lodash~4/)
+* [DOCS 3](https://devdocs.io/lodash~3/)
+* [DOCS 2](https://devdocs.io/lodash~2/)
+
 ### :rocket: MDX JS
 
 JSX in Markdown for ambitious projects
