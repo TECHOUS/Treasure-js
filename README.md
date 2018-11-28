@@ -320,6 +320,7 @@ Open-source JavaScript charting library behind plot.ly and Dash
 15. [OFFICE UI FABRIC REACT](https://github.com/OfficeDev/office-ui-fabric-react)
 16. [A DIY guide to build your own React](https://github.com/pomber/didact)
 17. [REACT-SNAP](https://github.com/stereobooster/react-snap)
+18. [Build forms in React, without the tears](https://github.com/jaredpalmer/formik)
 
 #### REACT NATIVE
 
