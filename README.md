@@ -410,6 +410,12 @@ MongoDB object modeling designed to work in an asynchronous environment
 
 * [DOCS](https://github.com/nuxt/docs)
 
+### :rocket: PUG JS
+
+* [WEBSITE](https://pugjs.org/api/getting-started.html)
+* [GITHUB](https://github.com/pugjs/pug)
+* [OVERVIEW](https://devdocs.io/pug/)
+
 ### :rocket: PARTICLES JS
 
 1. [GITHUB](https://github.com/VincentGarreau/particles.js)
