@@ -111,6 +111,14 @@ git clone https://github.com/TechOUs/Treasure-js.git
 6. [Developing Dynamic Web Applications](https://www.edx.org/course/developing-dynamic-web-applications-1)
 7. [Angularjs-Advanced Framework Techniques](https://www.edx.org/course/angularjs-advanced-framework-techniques)
 8. [Angular JS](https://www.javatpoint.com/angularjs-tutorial)
+9. [Angular](https://devdocs.io/angular/)
+10. [Angular 4](https://devdocs.io/angular~4/)
+11. [Angular 5](https://devdocs.io/angular~5/)
+12. [Angular JS 1.2](https://devdocs.io/angularjs~1.2/)
+13. [Angular JS 1.3](https://devdocs.io/angularjs~1.3/)
+14. [Angular JS 1.4](https://devdocs.io/angularjs~1.4/)
+15. [Angular JS 1.5](https://devdocs.io/angularjs~1.5/)
+16. [Angular JS 1.6](https://devdocs.io/angularjs~1.6/)
 
 ### :rocket: ANIME JS
 
