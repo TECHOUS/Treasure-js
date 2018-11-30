@@ -559,6 +559,15 @@ Interactive UI component dev & test: React, React Native, Vue, Angular, Ember
 * [GITHUB](https://github.com/storybooks/storybook)
 * [WEBSITE](https://storybook.js.org/)
 
+### :rocket: SINON JS
+
+Test spies, stubs and mocks for JavaScript.
+
+* [GITHUB](https://github.com/sinonjs/sinon)
+* [DOCS](https://sinonjs.org/releases/latest/)
+* [WEBSITE](https://sinonjs.org/)
+* [DEVDOCS](https://devdocs.io/sinon~7/)
+
 ### :rocket: TERSER JS
 
 JavaScript parser, mangler, optimizer and beautifier toolkit for ES6+
