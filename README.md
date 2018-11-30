@@ -510,6 +510,14 @@ Relay is a JavaScript framework for building data-driven React applications
 * [WEBSITE](https://facebook.github.io/relay/)
 * [DOCS](https://devdocs.io/relay/)
 
+### :rocket: REQUIRE JS
+
+A file and module loader for JavaScript
+
+* [GITHUB](https://github.com/requirejs/requirejs)
+* [WEBSITE](https://requirejs.org/)
+* [DOCS](https://devdocs.io/requirejs/)
+
 ### :rocket: RAPHAEL JS
 
 * [GITHUB](https://github.com/DmitryBaranovskiy/raphael)
