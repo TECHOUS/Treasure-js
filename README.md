@@ -502,6 +502,14 @@ Predictable state container for JavaScript apps
 * [WEBSITE](https://redux.js.org/)
 * [DevTools extension](https://github.com/zalmoxisus/redux-devtools-extension)
 
+### :rocket: RELAY JS
+
+Relay is a JavaScript framework for building data-driven React applications
+
+* [GITHUB](https://github.com/facebook/relay)
+* [WEBSITE](https://facebook.github.io/relay/)
+* [DOCS](https://devdocs.io/relay/)
+
 ### :rocket: RAPHAEL JS
 
 * [GITHUB](https://github.com/DmitryBaranovskiy/raphael)
