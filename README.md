@@ -518,6 +518,15 @@ A file and module loader for JavaScript
 * [WEBSITE](https://requirejs.org/)
 * [DOCS](https://devdocs.io/requirejs/)
 
+### :rocket: REQTHINKDB JS
+
+An advanced Node.js driver for RebirthDB with a connection pool, support for streams etc.
+
+* [GITHUB](https://github.com/rethinkdb/rethinkdb-js)
+* [API](https://rethinkdb.com/api/javascript/)
+* [WEBSITE](https://rethinkdb.com/)
+* [DOCS](https://devdocs.io/rethinkdb~javascript/)
+
 ### :rocket: RAPHAEL JS
 
 * [GITHUB](https://github.com/DmitryBaranovskiy/raphael)
