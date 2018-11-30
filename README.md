@@ -584,9 +584,14 @@ JavaScript parser, mangler, optimizer and beautifier toolkit for ES6+
 
 ### :rocket: TYPESCRIPT
 
-1. [EDX-Typescript 2](https://www.edx.org/course/introduction-to-typescript-2-1)
-2. [EVA ICONS](https://github.com/akveo/eva-icons)
-3. [probot](https://github.com/probot/probot)
+TypeScript is a superset of JavaScript that compiles to clean JavaScript output
+
+1. [GITHUB](https://github.com/Microsoft/TypeScript)
+2. [WEBSITE](http://www.typescriptlang.org)
+3. [DOCS](https://devdocs.io/typescript/)
+4. [EDX-Typescript 2](https://www.edx.org/course/introduction-to-typescript-2-1)
+5. [EVA ICONS](https://github.com/akveo/eva-icons)
+6. [probot](https://github.com/probot/probot)
 
 ### :rocket: TENSORFLOW JS
 
