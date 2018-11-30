@@ -568,6 +568,14 @@ Test spies, stubs and mocks for JavaScript.
 * [WEBSITE](https://sinonjs.org/)
 * [DEVDOCS](https://devdocs.io/sinon~7/)
 
+### :rocket: SOCKET IO
+
+Realtime application framework (Node.JS server)
+
+* [GITHUB](https://github.com/socketio/socket.io)
+* [WEBSITE](http://socket.io)
+* [DOCS](https://devdocs.io/socketio/)
+
 ### :rocket: TERSER JS
 
 JavaScript parser, mangler, optimizer and beautifier toolkit for ES6+
