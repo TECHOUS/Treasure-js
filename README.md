@@ -481,17 +481,25 @@ Practical functional Javascript
 
 #### REACT NATIVE
 
+A framework for building native apps with React
+
+* [DEVDOCS](https://devdocs.io/react_native/)
+* [GITHUB](https://github.com/facebook/react-native)
+* [WEBSITE](https://facebook.github.io/react-native/)
 * [REACT NATIVE](https://github.com/okgrow/react-native-copilot)
 * [Simple React Native testing utilities helping you write better tests with less effort](https://github.com/callstack/react-native-testing-library)
 * [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
 * [POPMOTION-Simple animation libraries for delightful user interfaces](https://github.com/Popmotion/popmotion)
 * [A well tested feature rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for over 15 Firebase services](https://github.com/invertase/react-native-firebase)
-* [DEVDOCS](https://devdocs.io/react_native/)
-* [GITHUB](https://github.com/facebook/react-native)
 * [Simple React Native testing utilities helping you write better tests with less effort](https://github.com/callstack/react-native-testing-library)
 
 #### :rocket: REDUX
 
+Predictable state container for JavaScript apps
+
+* [GITHUB](https://github.com/reduxjs/redux)
+* [DEVDOCS](https://devdocs.io/redux/)
+* [WEBSITE](https://redux.js.org/)
 * [DevTools extension](https://github.com/zalmoxisus/redux-devtools-extension)
 
 ### :rocket: RAPHAEL JS
