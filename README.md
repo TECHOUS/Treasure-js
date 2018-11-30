@@ -606,8 +606,21 @@ JavaScript parser / mangler / compressor / beautifier toolkit
 
 * [SOURCE](https://github.com/mishoo/UglifyJS2)
 
+### :rocket: UNDERSCORE JS
+
+Underscore is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects. It’s the answer to the question: “If I sit down in front of a blank HTML page, and want to start being productive immediately, what do I need?” … and the tie to go along with jQuery's tux and Backbone's suspenders.
+
+* [WEBSITE](https://underscorejs.org/)
+* [GITHUB](https://github.com/jashkenas/underscore)
+* [DOCS](https://devdocs.io/underscore/)
+
 ### :rocket: VUE JS
 
+A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+
+* [GITHUB](https://github.com/vuejs/vue)
+* [WEBSITE](https://vuejs.org/)
+* [DOCS](https://devdocs.io/vue~2/)
 * [Centralized State Management for Vue.js.](https://github.com/vuejs/vuex)
 * [Vue Storefront](https://github.com/DivanteLtd/vue-storefront)
 
