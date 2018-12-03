@@ -18,11 +18,11 @@ git clone https://github.com/TechOUs/Treasure-js.git
 
 ### :rocket: BEST FREE COURSES
 
-1. [DOM](https://devdocs.io/dom/)
-2. [DOM EVENTS](https://devdocs.io/dom_events/)
-3. [Javascript - docs](https://devdocs.io/javascript/)
-4. [JavaScript - W3 SCHOOLS](https://www.w3schools.com/js/default.asp)
-5. [JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+1. [JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+2. [DOM](https://devdocs.io/dom/)
+3. [DOM EVENTS](https://devdocs.io/dom_events/)
+4. [Javascript - docs](https://devdocs.io/javascript/)
+5. [JavaScript - W3 SCHOOLS](https://www.w3schools.com/js/default.asp) 
 6. [JavaScript - SOLOLEARN](https://www.sololearn.com/Course/JavaScript/)
 7. [Javascript Introduction](https://www.edx.org/course/javascript-introduction)
 8. [Building Interactive Prototypes using JavaScript](https://www.edx.org/course/building-interactive-prototypes-using-javascript-1)
@@ -594,6 +594,8 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 4. [EDX-Typescript 2](https://www.edx.org/course/introduction-to-typescript-2-1)
 5. [EVA ICONS](https://github.com/akveo/eva-icons)
 6. [probot](https://github.com/probot/probot)
+7. [DESKTOP](https://github.com/desktop/desktop)
+8. [GRAPHQL TOOLS](https://github.com/apollographql/graphql-tools)
 
 ### :rocket: TENSORFLOW JS
 
