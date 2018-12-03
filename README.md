@@ -81,6 +81,10 @@ git clone https://github.com/TechOUs/Treasure-js.git
 23. [bg-sound](https://github.com/feross/bg-sound)
 24. [Simple app to tell you where there is uber](https://github.com/SaraVieira/uber-cities)
 
+* MDX-based presentation decks
+  * [GITHUB](https://github.com/jxnblk/mdx-deck)
+  * [WEBSITE](https://jxnblk.com/mdx-deck)
+
 ## JSON (JavaScript Object Notation)
 
 1. [JSON - W3 SCHOOLS](https://www.w3schools.com/js/js_json_intro.asp)
@@ -480,6 +484,7 @@ Practical functional Javascript
 18. [Build forms in React, without the tears](https://github.com/jaredpalmer/formik)
 19. [DEVDOCS](https://devdocs.io/react/)
 20. [Simple React Bootstrap 4 components](https://github.com/reactstrap/reactstrap)
+21. [React integration for Apollo Client](https://github.com/apollographql/react-apollo)
 
 #### REACT NATIVE
 
