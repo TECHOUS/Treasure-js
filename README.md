@@ -398,6 +398,7 @@ MongoDB object modeling designed to work in an asynchronous environment
 24. [NODEJS 6 DOCS](https://devdocs.io/node~6_lts/)
 25. [NODEJS 4 DOCS](https://devdocs.io/node~4_lts/)
 26. [Web rendering surface for Node applications](https://github.com/GoogleChromeLabs/carlo)
+27. [A cross-platform nodejs driver for Neurosky Mindwave headsets](https://github.com/brainbang/mindwave)
 
 #### :rocket: NPM
 
@@ -485,6 +486,7 @@ Practical functional Javascript
 19. [DEVDOCS](https://devdocs.io/react/)
 20. [Simple React Bootstrap 4 components](https://github.com/reactstrap/reactstrap)
 21. [React integration for Apollo Client](https://github.com/apollographql/react-apollo)
+22. [The Super component library](https://github.com/vitormalencar/lightning)
 
 #### REACT NATIVE
 
