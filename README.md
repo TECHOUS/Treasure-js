@@ -22,7 +22,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 2. [DOM](https://devdocs.io/dom/)
 3. [DOM EVENTS](https://devdocs.io/dom_events/)
 4. [Javascript - docs](https://devdocs.io/javascript/)
-5. [JavaScript - W3 SCHOOLS](https://www.w3schools.com/js/default.asp) 
+5. [JavaScript - W3 SCHOOLS](https://www.w3schools.com/js/default.asp)
 6. [JavaScript - SOLOLEARN](https://www.sololearn.com/Course/JavaScript/)
 7. [Javascript Introduction](https://www.edx.org/course/javascript-introduction)
 8. [Building Interactive Prototypes using JavaScript](https://www.edx.org/course/building-interactive-prototypes-using-javascript-1)
@@ -80,6 +80,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 22. [VIRTUAL SCROLLER](https://github.com/valdrinkoshi/virtual-scroller)
 23. [bg-sound](https://github.com/feross/bg-sound)
 24. [Simple app to tell you where there is uber](https://github.com/SaraVieira/uber-cities)
+25. [JS DOM](https://github.com/jsdom/jsdom)
 
 * MDX-based presentation decks
   * [GITHUB](https://github.com/jxnblk/mdx-deck)
