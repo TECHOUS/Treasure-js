@@ -400,6 +400,7 @@ MongoDB object modeling designed to work in an asynchronous environment
 25. [NODEJS 4 DOCS](https://devdocs.io/node~4_lts/)
 26. [Web rendering surface for Node applications](https://github.com/GoogleChromeLabs/carlo)
 27. [A cross-platform nodejs driver for Neurosky Mindwave headsets](https://github.com/brainbang/mindwave)
+28. [The command-line interface for Now](https://github.com/zeit/now-cli)
 
 #### :rocket: NPM
 
