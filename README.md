@@ -605,6 +605,7 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 6. [probot](https://github.com/probot/probot)
 7. [DESKTOP](https://github.com/desktop/desktop)
 8. [GRAPHQL TOOLS](https://github.com/apollographql/graphql-tools)
+9. [TYPEORM](https://github.com/typeorm/typeorm)
 
 ### :rocket: TENSORFLOW JS
 
