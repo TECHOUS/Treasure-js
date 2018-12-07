@@ -81,6 +81,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 23. [bg-sound](https://github.com/feross/bg-sound)
 24. [Simple app to tell you where there is uber](https://github.com/SaraVieira/uber-cities)
 25. [JS DOM](https://github.com/jsdom/jsdom)
+26. [BRACKETS](https://github.com/adobe/brackets)
 
 * MDX-based presentation decks
   * [GITHUB](https://github.com/jxnblk/mdx-deck)
@@ -489,6 +490,7 @@ Practical functional Javascript
 20. [Simple React Bootstrap 4 components](https://github.com/reactstrap/reactstrap)
 21. [React integration for Apollo Client](https://github.com/apollographql/react-apollo)
 22. [The Super component library](https://github.com/vitormalencar/lightning)
+23. [WAI-ARIA compliant React autosuggest component](https://github.com/moroshko/react-autosuggest)
 
 #### REACT NATIVE
 
@@ -512,6 +514,7 @@ Predictable state container for JavaScript apps
 * [DEVDOCS](https://devdocs.io/redux/)
 * [WEBSITE](https://redux.js.org/)
 * [DevTools extension](https://github.com/zalmoxisus/redux-devtools-extension)
+* [higher order reducer to add undo/redo functionality to redux state containers](https://github.com/omnidan/redux-undo)
 
 ### :rocket: RELAY JS
 
