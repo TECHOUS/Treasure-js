@@ -516,6 +516,13 @@ Predictable state container for JavaScript apps
 * [DevTools extension](https://github.com/zalmoxisus/redux-devtools-extension)
 * [higher order reducer to add undo/redo functionality to redux state containers](https://github.com/omnidan/redux-undo)
 
+### :rocket: REBASS JS
+
+React primitive UI components built with styled-system
+
+* [GITHUB](https://github.com/rebassjs/rebassjs.org)
+* [WEBSITE](https://rebassjs.org/)
+
 ### :rocket: RELAY JS
 
 Relay is a JavaScript framework for building data-driven React applications
