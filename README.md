@@ -41,6 +41,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 21. [A book series on JavaScript](https://github.com/getify/You-Dont-Know-JS)
 22. [Lighthouse in CI using Docker](https://github.com/ebidel/lighthouse-ci)
 23. [Mostly adequate guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide)
+24. [Isomorphic arrayify function](https://github.com/75lb/array-back)
 
 ### :rocket: VIDEOS
 
@@ -82,6 +83,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 24. [Simple app to tell you where there is uber](https://github.com/SaraVieira/uber-cities)
 25. [JS DOM](https://github.com/jsdom/jsdom)
 26. [BRACKETS](https://github.com/adobe/brackets)
+27. [A tool to manage your wallets](https://github.com/balance-io/balance-manager)
 
 * MDX-based presentation decks
   * [GITHUB](https://github.com/jxnblk/mdx-deck)
@@ -402,6 +404,7 @@ MongoDB object modeling designed to work in an asynchronous environment
 26. [Web rendering surface for Node applications](https://github.com/GoogleChromeLabs/carlo)
 27. [A cross-platform nodejs driver for Neurosky Mindwave headsets](https://github.com/brainbang/mindwave)
 28. [The command-line interface for Now](https://github.com/zeit/now-cli)
+29. [In-browser code editor](https://github.com/codemirror/CodeMirror)
 
 #### :rocket: NPM
 
