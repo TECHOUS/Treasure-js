@@ -597,6 +597,12 @@ Realtime application framework (Node.JS server)
 * [WEBSITE](http://socket.io)
 * [DOCS](https://devdocs.io/socketio/)
 
+### :rocket: SQL JS
+
+SQLite compiled to JavaScript through Emscripten
+
+* [GITHUB](https://github.com/kripken/sql.js)
+
 ### :rocket: TERSER JS
 
 JavaScript parser, mangler, optimizer and beautifier toolkit for ES6+
