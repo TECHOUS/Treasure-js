@@ -278,6 +278,13 @@ JavaScript API for face detection and face recognition in the browser and nodejs
 * [WEBSITE](https://jestjs.io/)
 * [GITHUB](https://github.com/facebook/jest)
 
+### :rocket: JSZIP
+
+Create, read and edit .zip files with Javascript
+
+* [GITHUB](https://github.com/Stuk/jszip)
+* [WEBSITE](http://stuk.github.io/jszip/)
+
 ### :rocket: KERAS JS
 
 Run Keras models in the browser, with GPU support using WebGL
