@@ -412,6 +412,7 @@ MongoDB object modeling designed to work in an asynchronous environment
 27. [A cross-platform nodejs driver for Neurosky Mindwave headsets](https://github.com/brainbang/mindwave)
 28. [The command-line interface for Now](https://github.com/zeit/now-cli)
 29. [In-browser code editor](https://github.com/codemirror/CodeMirror)
+30. [Prometheus client for node.js](https://github.com/siimon/prom-client)
 
 #### :rocket: NPM
 
@@ -697,6 +698,9 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 ### :rocket: MISC
 
 * [YOU DON'T NEED MOMENT JS](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
+* GRAY MATTER
+  * Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers.
+  * [GITHUB](https://github.com/jonschlinkert/gray-matter)
 
 ## CONTRIBUTION
 
