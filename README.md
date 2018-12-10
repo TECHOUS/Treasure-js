@@ -494,6 +494,7 @@ Practical functional Javascript
 21. [React integration for Apollo Client](https://github.com/apollographql/react-apollo)
 22. [The Super component library](https://github.com/vitormalencar/lightning)
 23. [WAI-ARIA compliant React autosuggest component](https://github.com/moroshko/react-autosuggest)
+24. [REACT RTE-Pure React rich text "WYSISYG" editor based on draft-js](https://github.com/sstur/react-rte)
 
 #### REACT NATIVE
 
@@ -625,6 +626,7 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 7. [DESKTOP](https://github.com/desktop/desktop)
 8. [GRAPHQL TOOLS](https://github.com/apollographql/graphql-tools)
 9. [TYPEORM](https://github.com/typeorm/typeorm)
+10. [TERMINUS](https://github.com/Eugeny/terminus)
 
 ### :rocket: TENSORFLOW JS
 
