@@ -323,6 +323,13 @@ Run Keras models in the browser, with GPU support using WebGL
 * [DOCS 3](https://devdocs.io/lodash~3/)
 * [DOCS 2](https://devdocs.io/lodash~2/)
 
+### :rocket: MAPBOX GL JS
+
+Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
+
+* [GITHUB](https://github.com/mapbox/mapbox-gl-js)
+* [WEBSITE](https://www.mapbox.com/mapbox-gl-js/api/)
+
 ### :rocket: MARIONETTE JS
 
 * [GITHUB](https://github.com/marionettejs/backbone.marionette)
