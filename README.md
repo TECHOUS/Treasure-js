@@ -84,6 +84,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 25. [JS DOM](https://github.com/jsdom/jsdom)
 26. [BRACKETS](https://github.com/adobe/brackets)
 27. [A tool to manage your wallets](https://github.com/balance-io/balance-manager)
+28. [QUICKLINK: Faster subsequent page-loads by prefetching in-viewport links during idle time](https://github.com/GoogleChromeLabs/quicklink)
 
 * MDX-based presentation decks
   * [GITHUB](https://github.com/jxnblk/mdx-deck)
@@ -503,6 +504,7 @@ Practical functional Javascript
 22. [The Super component library](https://github.com/vitormalencar/lightning)
 23. [WAI-ARIA compliant React autosuggest component](https://github.com/moroshko/react-autosuggest)
 24. [REACT RTE-Pure React rich text "WYSISYG" editor based on draft-js](https://github.com/sstur/react-rte)
+25. [Font Awesome 5 React component](https://github.com/FortAwesome/react-fontawesome)
 
 #### REACT NATIVE
 
