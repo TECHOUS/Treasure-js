@@ -425,7 +425,7 @@ MongoDB object modeling designed to work in an asynchronous environment
 #### :rocket: NPM
 
 * [DOCS](https://devdocs.io/npm/)
-
+* [Short id generator. Url-friendly. Non-predictable. Cluster-compatible](https://github.com/dylang/shortid)
 * [Oracle Database Driver](https://github.com/oracle/node-oracledb)
 
 ### :rocket: NEXT JS
