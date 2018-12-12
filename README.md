@@ -55,7 +55,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 
 * [sample 1](https://github.com/aviaryan/todo-pwa-workshop)
 
-### :rocket: OTHERS
+### :rocket: OTHER EXAMPLES
 
 1. [Programming Web JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 2. [Babel Macro for graphql-tag](https://github.com/leoasis/graphql-tag.macro)
@@ -85,6 +85,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 26. [BRACKETS](https://github.com/adobe/brackets)
 27. [A tool to manage your wallets](https://github.com/balance-io/balance-manager)
 28. [QUICKLINK: Faster subsequent page-loads by prefetching in-viewport links during idle time](https://github.com/GoogleChromeLabs/quicklink)
+29. [PDF Reader in JavaScript](https://github.com/mozilla/pdf.js)
 
 * MDX-based presentation decks
   * [GITHUB](https://github.com/jxnblk/mdx-deck)
