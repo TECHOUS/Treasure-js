@@ -324,6 +324,13 @@ Run Keras models in the browser, with GPU support using WebGL
 * [DOCS 3](https://devdocs.io/lodash~3/)
 * [DOCS 2](https://devdocs.io/lodash~2/)
 
+### :rocket: MAILGUN JS
+
+A simple Node.js helper module for Mailgun API.
+
+* [GITHUB](https://github.com/bojand/mailgun-js)
+* [WEBSITE/DOCS](http://bojand.github.io/mailgun-js/#/)
+
 ### :rocket: MAPBOX GL JS
 
 Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
