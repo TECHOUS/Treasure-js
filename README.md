@@ -233,6 +233,13 @@ JavaScript API for face detection and face recognition in the browser and nodejs
 
 * [GITHUB](https://github.com/justadudewhohacks/face-api.js)
 
+### :rocket: GREENSOCK JS
+
+GreenSock's GSAP JavaScript animation library (including Draggable)
+
+* [GITHUB](https://github.com/greensock/GreenSock-JS)
+* [WEBSITE](https://greensock.com/)
+
 ### :rocket: GATBYJS
 
 1. [Github](https://github.com/gatsbyjs/gatsby)
