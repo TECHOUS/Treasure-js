@@ -233,6 +233,13 @@ JavaScript API for face detection and face recognition in the browser and nodejs
 
 * [GITHUB](https://github.com/justadudewhohacks/face-api.js)
 
+### :rocket: FIVE JS
+
+A library to overcomplicate 5
+
+* [GITHUB](https://github.com/jackdclark/five)
+* [WEBSITE](https://five.js.org/)
+
 ### :rocket: GREENSOCK JS
 
 GreenSock's GSAP JavaScript animation library (including Draggable)
