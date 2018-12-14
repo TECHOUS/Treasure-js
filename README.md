@@ -569,6 +569,14 @@ Predictable state container for JavaScript apps
 * [WEBSITE](https://redux.js.org/)
 * [DevTools extension](https://github.com/zalmoxisus/redux-devtools-extension)
 * [higher order reducer to add undo/redo functionality to redux state containers](https://github.com/omnidan/redux-undo)
+* [An alternative side effect model for Redux apps](https://github.com/redux-saga/redux-saga)
+
+### :rocket: REVEAL JS
+
+The HTML Presentation Framework
+
+* [GITHUB](https://github.com/hakimel/reveal.js)
+* [WEBSITE](https://revealjs.com/)
 
 ### :rocket: REBASS JS
 
