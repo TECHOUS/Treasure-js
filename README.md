@@ -42,6 +42,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 22. [Lighthouse in CI using Docker](https://github.com/ebidel/lighthouse-ci)
 23. [Mostly adequate guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide)
 24. [Isomorphic arrayify function](https://github.com/75lb/array-back)
+25. [Starter files, final projects and FAQ for my Complete JavaScript course](https://github.com/jonasschmedtmann/complete-javascript-course)
 
 ### :rocket: VIDEOS
 
@@ -534,6 +535,7 @@ Practical functional Javascript
 23. [WAI-ARIA compliant React autosuggest component](https://github.com/moroshko/react-autosuggest)
 24. [REACT RTE-Pure React rich text "WYSISYG" editor based on draft-js](https://github.com/sstur/react-rte)
 25. [Font Awesome 5 React component](https://github.com/FortAwesome/react-fontawesome)
+26. [Beautiful and accessible drag and drop for lists with React](https://github.com/atlassian/react-beautiful-dnd)
 
 #### REACT NATIVE
 
@@ -666,6 +668,7 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 8. [GRAPHQL TOOLS](https://github.com/apollographql/graphql-tools)
 9. [TYPEORM](https://github.com/typeorm/typeorm)
 10. [TERMINUS](https://github.com/Eugeny/terminus)
+11. [DOCZ](https://github.com/pedronauck/docz)
 
 ### :rocket: TENSORFLOW JS
 
