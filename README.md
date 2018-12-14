@@ -450,6 +450,7 @@ MongoDB object modeling designed to work in an asynchronous environment
 * [DOCS](https://devdocs.io/npm/)
 * [Short id generator. Url-friendly. Non-predictable. Cluster-compatible](https://github.com/dylang/shortid)
 * [Oracle Database Driver](https://github.com/oracle/node-oracledb)
+* [A central repository for Flow library definitions](https://github.com/flow-typed/flow-typed)
 
 ### :rocket: NEXT JS
 
