@@ -4,7 +4,7 @@
 
 ## HOW TO STAY UPDATED WITH NEWER TECH IN JS
 
-* Just star and watch our repository. Here you will get newer resource links and samples.
+* Please **star** or **watch** our repository and **SUPPORT US**. Here you will get newer resource links and samples.
 
 * You can also [CONRIBUTE](CONTRIBUTING.md) to our repository it would really be helpful.
 
@@ -544,6 +544,7 @@ Practical functional Javascript
 24. [REACT RTE-Pure React rich text "WYSISYG" editor based on draft-js](https://github.com/sstur/react-rte)
 25. [Font Awesome 5 React component](https://github.com/FortAwesome/react-fontawesome)
 26. [Beautiful and accessible drag and drop for lists with React](https://github.com/atlassian/react-beautiful-dnd)
+27. [OVERREACTED BLOG](https://github.com/gaearon/overreacted.io)
 
 #### REACT NATIVE
 
@@ -621,6 +622,13 @@ Next-generation ES module bundler
 
 * [GITHUB](https://github.com/rollup/rollup)
 * [WEBSITE](https://rollupjs.org/guide/en)
+
+### :rocket: STENCIL JS
+
+A Web Component compiler for building fast, reusable UI components and Progressive Web Apps gem Built by the Ionic Framework team
+
+* [GITHUB](https://github.com/ionic-team/stencil)
+* [WEBSITE](https://stenciljs.com/)
 
 ### :rocket: SLATE JS
 
