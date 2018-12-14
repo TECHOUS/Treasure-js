@@ -412,6 +412,13 @@ MongoDB object modeling designed to work in an asynchronous environment
 * [GITHUB](https://github.com/Automattic/mongoose/)
 * [DOCS](https://devdocs.io/mongoose/)
 
+### :rocket: MOBX JS
+
+Simple, scalable state management.
+
+* [GITHUB](https://github.com/mobxjs/mobx)
+* [WEBSITE](https://mobx.js.org/)
+
 ### :rocket: NODE JS
 
 1. [Nodejs - W3 SCHOOLS](https://www.w3schools.com/nodejs/default.asp)
@@ -551,6 +558,7 @@ A framework for building native apps with React
 * [POPMOTION-Simple animation libraries for delightful user interfaces](https://github.com/Popmotion/popmotion)
 * [A well tested feature rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for over 15 Firebase services](https://github.com/invertase/react-native-firebase)
 * [Simple React Native testing utilities helping you write better tests with less effort](https://github.com/callstack/react-native-testing-library)
+* [React bindings for MobX](https://github.com/mobxjs/mobx-react)
 
 #### :rocket: REDUX
 
