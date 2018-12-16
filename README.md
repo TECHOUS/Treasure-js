@@ -560,6 +560,7 @@ A framework for building native apps with React
 * [A well tested feature rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for over 15 Firebase services](https://github.com/invertase/react-native-firebase)
 * [Simple React Native testing utilities helping you write better tests with less effort](https://github.com/callstack/react-native-testing-library)
 * [React bindings for MobX](https://github.com/mobxjs/mobx-react)
+* [twitter-clone-with-graphql-reactnative](https://github.com/EQuimper/twitter-clone-with-graphql-reactnative)
 
 #### :rocket: REDUX
 
@@ -694,6 +695,8 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 9. [TYPEORM](https://github.com/typeorm/typeorm)
 10. [TERMINUS](https://github.com/Eugeny/terminus)
 11. [DOCZ](https://github.com/pedronauck/docz)
+12. [An open source AutoML toolkit for neural architecture search and hyper-parameter tuning](https://github.com/Microsoft/nni)
+13. [Make images smaller using best-in-class codecs, right in the browser](https://github.com/GoogleChromeLabs/squoosh)
 
 ### :rocket: TENSORFLOW JS
 
