@@ -339,6 +339,12 @@ Run Keras models in the browser, with GPU support using WebGL
 * [DOCS 3](https://devdocs.io/lodash~3/)
 * [DOCS 2](https://devdocs.io/lodash~2/)
 
+### :rocket: MAMMOTH JS
+
+Convert Word documents (.docx files) to HTML
+
+* [GITHUB](https://github.com/mwilliamson/mammoth.js)
+
 ### :rocket: MAILGUN JS
 
 A simple Node.js helper module for Mailgun API.
