@@ -87,6 +87,8 @@ git clone https://github.com/TechOUs/Treasure-js.git
 27. [A tool to manage your wallets](https://github.com/balance-io/balance-manager)
 28. [QUICKLINK: Faster subsequent page-loads by prefetching in-viewport links during idle time](https://github.com/GoogleChromeLabs/quicklink)
 29. [PDF Reader in JavaScript](https://github.com/mozilla/pdf.js)
+30. [Composer is a framework for building Blockchain business networks](https://github.com/hyperledger/composer)
+31. [Hackable console logger](https://github.com/klaussinani/signale)
 
 * MDX-based presentation decks
   * [GITHUB](https://github.com/jxnblk/mdx-deck)
@@ -705,6 +707,8 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 13. [Make images smaller using best-in-class codecs, right in the browser](https://github.com/GoogleChromeLabs/squoosh)
 
 ### :rocket: TENSORFLOW JS
+
+* [Tensorflow.js Explained](https://github.com/llSourcell/tensorflow.js_explained)
 
 ### :rocket: THEIA
 
