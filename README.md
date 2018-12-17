@@ -274,6 +274,12 @@ GreenSock's GSAP JavaScript animation library (including Draggable)
 * [GITHUB](https://github.com/wycats/handlebars.js/)
 * [WEBSITE](https://handlebarsjs.com/)
 
+### :rocket: HYPERAPP
+
+1 kB JavaScript micro-framework for building declarative web applications
+
+* [GITHUB](https://github.com/jorgebucaran/hyperapp)
+
 ### :rocket: IMMUTABLE JS
 
 * [GITHUB](https://github.com/facebook/immutable-js/)
