@@ -390,6 +390,13 @@ Meteor, the JavaScript App Platform
 * [DOCS 1.4](https://devdocs.io/meteor~1.4/)
 * [DOCS 1.3](https://devdocs.io/meteor~1.3/)
 
+### :rocket: MITHRIL JS
+
+A Javascript Framework for Building Brilliant Applications
+
+* [GITHUB](https://github.com/MithrilJS/mithril.js)
+* [WEBSITE/DOCS](https://mithril.js.org/)
+
 ### :rocket: MOMENT JS
 
 Parse, validate, manipulate, and display dates in javascript
