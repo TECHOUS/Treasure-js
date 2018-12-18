@@ -496,6 +496,13 @@ Simple, scalable state management.
 * [GITHUB](https://github.com/pugjs/pug)
 * [OVERVIEW](https://devdocs.io/pug/)
 
+### :rocket: POI JS
+
+A zero-config bundler for JavaScript applications
+
+* [GITHUB](https://github.com/egoist/poi)
+* [WEBSITE](https://poi.js.org/)
+
 ### :rocket: PUPPETEER JS
 
 * [WEBSITE](https://pptr.dev/)
