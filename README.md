@@ -482,6 +482,13 @@ Simple, scalable state management.
 30. [Prometheus client for node.js](https://github.com/siimon/prom-client)
 31. [Serve static files](https://github.com/expressjs/serve-static)
 
+#### BROWSERIFY
+
+browser-side require() the node.js way
+
+* [GITHUB](https://github.com/browserify/browserify)
+* [WEBSITE](http://browserify.org/)
+
 #### :rocket: NPM
 
 * [DOCS](https://devdocs.io/npm/)
