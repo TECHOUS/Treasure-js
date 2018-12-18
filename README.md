@@ -107,6 +107,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 4. [CRASH COURSE TUTORIAL](https://www.youtube.com/watch?v=82hnvUYY6QA)
 5. [ASYNCHRONOUS JAVASCRIPT REQUESTS](https://in.udacity.com/course/asynchronous-javascript-requests--ud109)
 6. [INTRODUCTION TO AJAX](https://in.udacity.com/course/intro-to-ajax--ud110)
+7. [SUPERAGENT](https://github.com/visionmedia/superagent)
 
 ### :rocket: SAMPLES
 
@@ -177,7 +178,7 @@ A declarative JavaScript library for application development using cloud service
 * [GITHUB](https://github.com/codeception/codeceptjs/)
 
 ### :rocket: CAMAN JS
-
+https://github.com/visionmedia/superagent
 1. [INTRO](https://www.youtube.com/watch?v=MEENB3_9yUw)
 
 ### :rocket: COMMANDER JS
@@ -242,6 +243,13 @@ A library to overcomplicate 5
 
 * [GITHUB](https://github.com/jackdclark/five)
 * [WEBSITE](https://five.js.org/)
+
+### :rocket: FUSE JS
+
+Lightweight fuzzy-search
+
+* [GITHUB](https://github.com/krisk/Fuse)
+* [WEBSITE](http://fusejs.io/)
 
 ### :rocket: GREENSOCK JS
 
@@ -472,6 +480,7 @@ Simple, scalable state management.
 28. [The command-line interface for Now](https://github.com/zeit/now-cli)
 29. [In-browser code editor](https://github.com/codemirror/CodeMirror)
 30. [Prometheus client for node.js](https://github.com/siimon/prom-client)
+31. [Serve static files](https://github.com/expressjs/serve-static)
 
 #### :rocket: NPM
 
