@@ -115,6 +115,8 @@ git clone https://github.com/TechOUs/Treasure-js.git
 
 ## JAVASCRIPT FRAMEWORKS ,LIBRARIES AND PREPROCESSORS (A - Z)
 
+* [2018 edition of our front-end development handbook](https://github.com/FrontendMasters/front-end-handbook-2018)
+
 ### :rocket: ANGULAR JS
 
 1. [DOCS](https://angular.io/docs)
@@ -481,6 +483,7 @@ Simple, scalable state management.
 29. [In-browser code editor](https://github.com/codemirror/CodeMirror)
 30. [Prometheus client for node.js](https://github.com/siimon/prom-client)
 31. [Serve static files](https://github.com/expressjs/serve-static)
+32. [General purpose crypto utilities](https://github.com/hapijs/cryptiles)
 
 #### BROWSERIFY
 
@@ -581,7 +584,7 @@ Practical functional Javascript
 17. [REACT-SNAP](https://github.com/stereobooster/react-snap)
 18. [Build forms in React, without the tears](https://github.com/jaredpalmer/formik)
 19. [DEVDOCS](https://devdocs.io/react/)
-20. [Simple React Bootstrap 4 components](https://github.com/reactstrap/reactstrap)
+20. [Simple React Bootstrap 4 compoGeneral purpose crypto utilitiesnents](https://github.com/reactstrap/reactstrap)
 21. [React integration for Apollo Client](https://github.com/apollographql/react-apollo)
 22. [The Super component library](https://github.com/vitormalencar/lightning)
 23. [WAI-ARIA compliant React autosuggest component](https://github.com/moroshko/react-autosuggest)
@@ -589,6 +592,8 @@ Practical functional Javascript
 25. [Font Awesome 5 React component](https://github.com/FortAwesome/react-fontawesome)
 26. [Beautiful and accessible drag and drop for lists with React](https://github.com/atlassian/react-beautiful-dnd)
 27. [OVERREACTED BLOG](https://github.com/gaearon/overreacted.io)
+28. [Jest helpers for working with the React Profiler API.](https://github.com/bvaughn/jest-react-profiler)
+29. [Fast 3kB React alternative with the same modern API. Components & Virtual DOM.](https://github.com/developit/preact)
 
 #### REACT NATIVE
 
