@@ -187,7 +187,7 @@ A React-based UI toolkit for the web
 * [GITHUB](https://github.com/codeception/codeceptjs/)
 
 ### :rocket: CAMAN JS
-https://github.com/visionmedia/superagent
+
 1. [INTRO](https://www.youtube.com/watch?v=MEENB3_9yUw)
 
 ### :rocket: COMMANDER JS
