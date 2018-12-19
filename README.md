@@ -48,7 +48,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 
 ### :rocket: BLOGS
 
-### :rocket: Fetch API
+### :rocket: APIs
 
 1. [ky](https://github.com/sindresorhus/ky)
 
@@ -601,6 +601,7 @@ Practical functional Javascript
 27. [OVERREACTED BLOG](https://github.com/gaearon/overreacted.io)
 28. [Jest helpers for working with the React Profiler API.](https://github.com/bvaughn/jest-react-profiler)
 29. [Fast 3kB React alternative with the same modern API. Components & Virtual DOM.](https://github.com/developit/preact)
+30. [React compatibility layer for Preact](https://github.com/developit/preact-compat)
 
 #### REACT NATIVE
 
