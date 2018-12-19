@@ -173,6 +173,13 @@ A declarative JavaScript library for application development using cloud service
 * [Compiles React.js components into native DOM instructions to eliminate the need for the react library at runtime.](https://github.com/sokra/rawact)
 * [Pre-evaluate code at build-time](https://github.com/kentcdodds/babel-plugin-preval)
 
+### :rocket: BLUEPRINT JS
+
+A React-based UI toolkit for the web
+
+* [GITHUB](https://github.com/palantir/blueprint)
+* [WEBSITE](https://blueprintjs.com/)
+
 ### :rocket: CANVAS JS
 
 ### :rocket: CODECEPT JS
