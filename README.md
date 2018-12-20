@@ -89,6 +89,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 29. [PDF Reader in JavaScript](https://github.com/mozilla/pdf.js)
 30. [Composer is a framework for building Blockchain business networks](https://github.com/hyperledger/composer)
 31. [Hackable console logger](https://github.com/klaussinani/signale)
+32. [An extensible media player for the web](https://github.com/clappr/clappr)
 
 * MDX-based presentation decks
   * [GITHUB](https://github.com/jxnblk/mdx-deck)
@@ -239,6 +240,13 @@ style as a function of state
 * [SPECTRON](https://github.com/electron/spectron)
 * [Collection of Apps build on electron](https://github.com/electron/apps)
 * [DOCS](https://devdocs.io/electron/)
+
+### :rocket: FABRIC JS
+
+Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser 
+
+* [GITHUB](https://github.com/fabricjs/fabric.js)
+* [WEBSITE](http://fabricjs.com/)
 
 ### :rocket: FACE-API JS
 
@@ -491,6 +499,7 @@ Simple, scalable state management.
 30. [Prometheus client for node.js](https://github.com/siimon/prom-client)
 31. [Serve static files](https://github.com/expressjs/serve-static)
 32. [General purpose crypto utilities](https://github.com/hapijs/cryptiles)
+33. [Source for the Linode Developers Site (API v4 Docs)](https://github.com/linode/linode-api-docs)
 
 #### BROWSERIFY
 
@@ -572,36 +581,33 @@ Practical functional Javascript
 
 ### :rocket: REACT JS
 
-1. [ROADMAP](https://github.com/adam-golab/react-developer-roadmap)
-2. [DOCS](https://github.com/reactjs/reactjs.org)
-3. [React JS](https://www.edx.org/course/introduction-to-reactjs-1)
-4. [React JS - GFG](https://www.geeksforgeeks.org/react-js-introduction-working/)
-5. [React Router and Redux](https://www.edx.org/course/react-router-and-redux-1)
-6. [React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
-7. [React Native Testing Library](https://github.com/callstack/react-native-testing-library)
-8. [Advanced REACT](https://github.com/wesbos/Advanced-React)
-9. [CONNECTED REACT REDUX](https://github.com/supasate/connected-react-router)
-10. [EVERGREEN REACT UI](https://github.com/segmentio/evergreen)
-11. [STYLED COMPONENTS](https://github.com/styled-components/styled-components)
-12. [Provides React-inspired 'hooks' like useState(..) for stand-alone functions](https://github.com/getify/tng-hooks)
-13. [Declarative routing for React](https://github.com/ReactTraining/react-router)
-14. [A React Component to create interactive 3d graphs](https://github.com/Auquan/react-graph3d-vis)
-15. [OFFICE UI FABRIC REACT](https://github.com/OfficeDev/office-ui-fabric-react)
-16. [A DIY guide to build your own React](https://github.com/pomber/didact)
-17. [REACT-SNAP](https://github.com/stereobooster/react-snap)
-18. [Build forms in React, without the tears](https://github.com/jaredpalmer/formik)
-19. [DEVDOCS](https://devdocs.io/react/)
-20. [Simple React Bootstrap 4 compoGeneral purpose crypto utilitiesnents](https://github.com/reactstrap/reactstrap)
-21. [React integration for Apollo Client](https://github.com/apollographql/react-apollo)
-22. [The Super component library](https://github.com/vitormalencar/lightning)
-23. [WAI-ARIA compliant React autosuggest component](https://github.com/moroshko/react-autosuggest)
-24. [REACT RTE-Pure React rich text "WYSISYG" editor based on draft-js](https://github.com/sstur/react-rte)
-25. [Font Awesome 5 React component](https://github.com/FortAwesome/react-fontawesome)
-26. [Beautiful and accessible drag and drop for lists with React](https://github.com/atlassian/react-beautiful-dnd)
-27. [OVERREACTED BLOG](https://github.com/gaearon/overreacted.io)
-28. [Jest helpers for working with the React Profiler API.](https://github.com/bvaughn/jest-react-profiler)
-29. [Fast 3kB React alternative with the same modern API. Components & Virtual DOM.](https://github.com/developit/preact)
-30. [React compatibility layer for Preact](https://github.com/developit/preact-compat)
+* [ROADMAP](https://github.com/adam-golab/react-developer-roadmap)
+* [DOCS](https://github.com/reactjs/reactjs.org)
+* [DEVDOCS](https://devdocs.io/react/)
+* [React JS](https://www.edx.org/course/introduction-to-reactjs-1)
+* [React JS - GFG](https://www.geeksforgeeks.org/react-js-introduction-working/)
+* [Advanced REACT](https://github.com/wesbos/Advanced-React)
+* [EVERGREEN REACT UI](https://github.com/segmentio/evergreen)
+* [STYLED COMPONENTS](https://github.com/styled-components/styled-components)
+* [Provides React-inspired 'hooks' like useState(..) for stand-alone functions](https://github.com/getify/tng-hooks)
+* [Declarative routing for React](https://github.com/ReactTraining/react-router)
+* [A React Component to create interactive 3d graphs](https://github.com/Auquan/react-graph3d-vis)
+* [OFFICE UI FABRIC REACT](https://github.com/OfficeDev/office-ui-fabric-react)
+* [A DIY guide to build your own React](https://github.com/pomber/didact)
+* [REACT-SNAP](https://github.com/stereobooster/react-snap)
+* [Build forms in React, without the tears](https://github.com/jaredpalmer/formik)
+* [Simple React Bootstrap 4 compoGeneral purpose crypto utilitiesnents](https://github.com/reactstrap/reactstrap)
+* [React integration for Apollo Client](https://github.com/apollographql/react-apollo)
+* [The Super component library](https://github.com/vitormalencar/lightning)
+* [WAI-ARIA compliant React autosuggest component](https://github.com/moroshko/react-autosuggest)
+* [REACT RTE-Pure React rich text "WYSISYG" editor based on draft-js](https://github.com/sstur/react-rte)
+* [Font Awesome 5 React component](https://github.com/FortAwesome/react-fontawesome)
+* [Beautiful and accessible drag and drop for lists with React](https://github.com/atlassian/react-beautiful-dnd)
+* [OVERREACTED BLOG](https://github.com/gaearon/overreacted.io)
+* [Jest helpers for working with the React Profiler API.](https://github.com/bvaughn/jest-react-profiler)
+* [Fast 3kB React alternative with the same modern API. Components & Virtual DOM.](https://github.com/developit/preact)
+* [React compatibility layer for Preact](https://github.com/developit/preact-compat)
+* [Simple HTML5 drag-drop zone with React.js](https://github.com/react-dropzone/react-dropzone)
 
 #### REACT NATIVE
 
@@ -618,6 +624,8 @@ A framework for building native apps with React
 * [Simple React Native testing utilities helping you write better tests with less effort](https://github.com/callstack/react-native-testing-library)
 * [React bindings for MobX](https://github.com/mobxjs/mobx-react)
 * [twitter-clone-with-graphql-reactnative](https://github.com/EQuimper/twitter-clone-with-graphql-reactnative)
+* [React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
+* [React Native Testing Library](https://github.com/callstack/react-native-testing-library)
 
 #### :rocket: REDUX
 
@@ -629,6 +637,8 @@ Predictable state container for JavaScript apps
 * [DevTools extension](https://github.com/zalmoxisus/redux-devtools-extension)
 * [higher order reducer to add undo/redo functionality to redux state containers](https://github.com/omnidan/redux-undo)
 * [An alternative side effect model for Redux apps](https://github.com/redux-saga/redux-saga)
+* [CONNECTED REACT REDUX](https://github.com/supasate/connected-react-router)
+* [React Router and Redux](https://www.edx.org/course/react-router-and-redux-1)
 
 ### :rocket: REVEAL JS
 
