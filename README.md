@@ -243,7 +243,7 @@ style as a function of state
 
 ### :rocket: FABRIC JS
 
-Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser 
+Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 
 * [GITHUB](https://github.com/fabricjs/fabric.js)
 * [WEBSITE](http://fabricjs.com/)
@@ -304,6 +304,12 @@ GreenSock's GSAP JavaScript animation library (including Draggable)
 1 kB JavaScript micro-framework for building declarative web applications
 
 * [GITHUB](https://github.com/jorgebucaran/hyperapp)
+
+### :rocket: HTM
+
+Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
+
+* [GITHUB](https://github.com/developit/htm)
 
 ### :rocket: IMMUTABLE JS
 
