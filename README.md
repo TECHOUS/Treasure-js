@@ -215,6 +215,12 @@ React framework for building text editors
 
 * [SOURCE](https://github.com/facebook/draft-js)
 
+### :rocket: DOTDOM
+
+.dom is a tiny (511 byte) template engine that uses virtual DOM and some of react principles
+
+* [GITHUB](https://github.com/wavesoft/dot-dom)
+
 ### :rocket: EXPRESS JS
 
 1. [Express JS](https://www.javatpoint.com/expressjs-tutorial)
@@ -520,6 +526,7 @@ browser-side require() the node.js way
 * [Short id generator. Url-friendly. Non-predictable. Cluster-compatible](https://github.com/dylang/shortid)
 * [Oracle Database Driver](https://github.com/oracle/node-oracledb)
 * [A central repository for Flow library definitions](https://github.com/flow-typed/flow-typed)
+* [Find newer versions of package dependencies than what your package.json or bower.json allows](https://github.com/tjunnone/npm-check-updates)
 
 ### :rocket: NEXT JS
 
@@ -803,6 +810,7 @@ A progressive, incrementally-adoptable JavaScript framework for building UI on t
 * [DOCS](https://devdocs.io/vue~2/)
 * [Centralized State Management for Vue.js.](https://github.com/vuejs/vuex)
 * [Vue Storefront](https://github.com/DivanteLtd/vue-storefront)
+* [A Vuex plugin to persist the store.](https://github.com/championswimmer/vuex-persist)
 
 ### :rocket: VIVID JS
 
