@@ -527,6 +527,7 @@ browser-side require() the node.js way
 * [Oracle Database Driver](https://github.com/oracle/node-oracledb)
 * [A central repository for Flow library definitions](https://github.com/flow-typed/flow-typed)
 * [Find newer versions of package dependencies than what your package.json or bower.json allows](https://github.com/tjunnone/npm-check-updates)
+* [GREENLET](https://github.com/developit/greenlet)
 
 ### :rocket: NEXT JS
 
