@@ -240,24 +240,35 @@ CamanJS is (ca)nvas (man)ipulation in Javascript. It's a combination of a simple
 Commander is a light-weight, expressive, and powerful command-line framework
 
 * [GITHUB](https://github.com/tj/commander.js)
+* [DOCS](http://tj.github.io/commander.js/)
 
 ### :rocket: D3 JS
 
-1. [DATA VISUALIZATION](https://in.udacity.com/course/data-visualization-and-d3js--ud507)
-2. [D3 JS 5](https://devdocs.io/d3~5/)
-3. [D3 JS 4](https://devdocs.io/d3~4/)
-4. [D3 JS 3](https://devdocs.io/d3~3/)
+D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
+
+* [WEBSITE](https://d3js.org/)
+* [GITHUB](https://github.com/d3/d3)
+* [DOCS](https://github.com/d3/d3/wiki)
+* [D3 JS 5](https://devdocs.io/d3~5/)
+* [D3 JS 4](https://devdocs.io/d3~4/)
+* [D3 JS 3](https://devdocs.io/d3~3/)
+* [DATA VISUALIZATION](https://in.udacity.com/course/data-visualization-and-d3js--ud507)
 
 ### :rocket: DANGER JS
 
+Danger runs during your CI process, and gives teams the chance to automate common code review chores.
+
 * [GITHUB](https://github.com/danger/danger-js)
 * [WEBSITE](https://danger.systems/js/)
+* [DOCS](https://danger.systems/js/usage.html)
 
 ### :rocket: DRAFT JS
 
-React framework for building text editors
+Draft.js is a framework for building rich text editors in React, powered by an immutable model and abstracting over cross-browser differences.
 
-* [SOURCE](https://github.com/facebook/draft-js)
+* [GITHUB](https://github.com/facebook/draft-js)
+* [WEBSITE](https://draftjs.org/)
+* [DOCS](https://draftjs.org/docs/getting-started)
 
 ### :rocket: DOTDOM
 
@@ -267,15 +278,25 @@ React framework for building text editors
 
 ### :rocket: EXPRESS JS
 
-1. [Express JS](https://www.javatpoint.com/expressjs-tutorial)
-2. [DOCS](https://devdocs.io/express/)
+Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+
+* [WEBSITE](https://expressjs.com/)
+* [GITHUB](https://github.com/expressjs/expressjs.com)
+* [DOCS](https://expressjs.com/en/guide/routing.html)
+* [Express JS](https://www.javatpoint.com/expressjs-tutorial)
+* [DOCS](https://devdocs.io/express/)
 
 ### :rocket: EMBER JS
 
-1. [EMBER CREDIT CARD](https://github.com/esbanarango/ember-credit-card)
-2. [EMBER DECORATORS](https://github.com/ember-decorators/ember-decorators)
-3. [EMBER AUTO IMPORT](https://github.com/ef4/ember-auto-import)
-4. [DOCS](https://devdocs.io/ember/)
+Ember is a JavaScript front-end framework designed to help you build websites with rich and complex user interactions. It does so by providing developers both with many features that are essential to manage complexity in modern web applications, as well as an integrated development toolkit that enables rapid iteration.
+
+* [WEBSITE](https://emberjs.com/)
+* [GITHUB](https://github.com/emberjs/ember.js)
+* [DOCS](https://emberjs.com/learn/)
+* [DEVDOCS](https://devdocs.io/ember/)
+* [EMBER CREDIT CARD](https://github.com/esbanarango/ember-credit-card)
+* [EMBER DECORATORS](https://github.com/ember-decorators/ember-decorators)
+* [EMBER AUTO IMPORT](https://github.com/ef4/ember-auto-import)
 
 ### :rocket: EMOTION JS
 
