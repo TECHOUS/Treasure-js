@@ -324,12 +324,14 @@ Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 
 * [GITHUB](https://github.com/fabricjs/fabric.js)
 * [WEBSITE](http://fabricjs.com/)
+* [DOCS](http://fabricjs.com/docs/)
 
 ### :rocket: FACE-API JS
 
 JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 
 * [GITHUB](https://github.com/justadudewhohacks/face-api.js)
+* [DOCS](https://justadudewhohacks.github.io/face-api.js/docs/globals.html)
 
 ### :rocket: FIVE JS
 
@@ -351,30 +353,46 @@ GreenSock's GSAP JavaScript animation library (including Draggable)
 
 * [GITHUB](https://github.com/greensock/GreenSock-JS)
 * [WEBSITE](https://greensock.com/)
+* [DOCS](https://greensock.com/docs)
 
 ### :rocket: GATBYJS
 
-1. [Github](https://github.com/gatsbyjs/gatsby)
-2. [Website](https://www.gatsbyjs.org/)
+Gatsby lets you build blazing fast sites with your data, whatever the source. Liberate your sites from legacy CMSs and fly into the future.
+
+* [GITHUB](https://github.com/gatsbyjs/gatsby)
+* [WEBSITE](https://www.gatsbyjs.org/)
+* [DOCS](https://www.gatsbyjs.org/docs/)
 
 ### :rocket: GRUNT JS
 
+The JavaScript Task Runner
+
 * [WEBSITE](https://gruntjs.com/)
 * [GITHUB](https://github.com/gruntjs/grunt)
+* [DOCS](https://gruntjs.com/getting-started)
 
 ### :rocket: HELMET JS
 
+Helmet helps you secure your Express apps by setting various HTTP headers
+
 * [GITHUB](https://github.com/helmetjs/helmet)
 * [WEBSITE](https://helmetjs.github.io/)
+* [DOCS](https://helmetjs.github.io/docs/)
 
 ### :rocket: HLS JS
 
+JavaScript HLS client using Media Source Extension
+
 * [GITHUB](https://github.com/video-dev/hls.js)
+* [WEBSITE](https://hls-js.netlify.com/demo/)
 
 ### :rocket: HANDLEBARS JS
 
+Handlebars provides the power necessary to let you build semantic templates effectively with no frustration.
+
 * [GITHUB](https://github.com/wycats/handlebars.js/)
 * [WEBSITE](https://handlebarsjs.com/)
+* [DOCS](https://handlebarsjs.com/reference.html)
 
 ### :rocket: HYPERAPP
 
@@ -390,16 +408,24 @@ Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with
 
 ### :rocket: IMMUTABLE JS
 
+Immutable.js provides many Persistent Immutable data structures including: List, Stack, Map, OrderedMap, Set, OrderedSet and Record.
+
 * [GITHUB](https://github.com/facebook/immutable-js/)
 * [WEBSITE](https://facebook.github.io/immutable-js/)
+* [DOCS](https://facebook.github.io/immutable-js/docs/#/)
 
 ### :rocket: JQUERY
-  
-1. [W3 SCHOOLS](https://www.w3schools.com/jquery/default.asp)
-2. [Introduction to Jquery](https://www.edx.org/course/introduction-to-jquery-1)
-3. [Jquery Tutorial](https://www.javatpoint.com/jquery-tutorial)
-4. [Jquery UI](https://www.javatpoint.com/jquery-ui-tutorial)
-5. [INTRODUCTION TO JQUERY](https://in.udacity.com/course/intro-to-jquery--ud245)
+
+jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
+
+* [WEBSITE](http://jquery.com/)
+* [GITHUB](https://github.com/jquery/jquery)
+* [DOCS](https://api.jquery.com/)
+* [W3 SCHOOLS](https://www.w3schools.com/jquery/default.asp)
+* [Introduction to Jquery](https://www.edx.org/course/introduction-to-jquery-1)
+* [Jquery Tutorial](https://www.javatpoint.com/jquery-tutorial)
+* [Jquery UI](https://www.javatpoint.com/jquery-ui-tutorial)
+* [INTRODUCTION TO JQUERY](https://in.udacity.com/course/intro-to-jquery--ud245)
 
 ### :rocket: JASMINE
 
