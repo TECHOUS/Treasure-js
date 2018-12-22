@@ -178,13 +178,18 @@ Backbone.js gives structure to web applications by providing models with key-val
 
 ### :rocket: BOOTSTRAP
 
-1. [VERSION3 - W3 SCHOOLS](https://www.w3schools.com/bootstrap/default.asp)
-2. [VERSION4 - W3 SCHOOLS](https://www.w3schools.com/bootstrap4/default.asp)
-3. [Introduction to Bootstrap](https://www.edx.org/course/introduction-to-bootstrap-a-tutorial-1)
-4. [BootStrap - GFG](https://www.geeksforgeeks.org/beginning-bootstrap-part-1/)
-5. [Bootstrap Tutorial](https://www.javatpoint.com/bootstrap-tutorial)
-6. [DOCS 3](https://devdocs.io/bootstrap~3/)
-7. [DOCS 4](https://devdocs.io/bootstrap~4/)
+Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
+
+* [WEBSITE](https://getbootstrap.com/)
+* [GITHUB](https://github.com/twbs/bootstrap)
+* [DOCS 3](https://devdocs.io/bootstrap~3/)
+* [DOCS 4](https://devdocs.io/bootstrap~4/)
+* [DOCS 4.1](https://getbootstrap.com/docs/4.1/layout/overview/)
+* [VERSION3 - W3 SCHOOLS](https://www.w3schools.com/bootstrap/default.asp)
+* [VERSION4 - W3 SCHOOLS](https://www.w3schools.com/bootstrap4/default.asp)
+* [Introduction to Bootstrap](https://www.edx.org/course/introduction-to-bootstrap-a-tutorial-1)
+* [BootStrap - GFG](https://www.geeksforgeeks.org/beginning-bootstrap-part-1/)
+* [Bootstrap Tutorial](https://www.javatpoint.com/bootstrap-tutorial)
 
 ### :rocket: BABEL JS
 
