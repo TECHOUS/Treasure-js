@@ -300,13 +300,19 @@ Ember is a JavaScript front-end framework designed to help you build websites wi
 
 ### :rocket: EMOTION JS
 
-style as a function of state
+Emotion is a performant and flexible CSS-in-JS library
 
 * [GITHUB](https://github.com/emotion-js/emotion)
 * [WEBSITE](https://emotion.sh/)
+* [DOCS](https://emotion.sh/docs/introduction)
 
 ### :rocket: ELECTRON JS
 
+Build cross platform desktop apps with JavaScript, HTML, and CSS
+
+* [WEBSITE](https://electronjs.org/)
+* [GITHUB](https://github.com/electron/electron)
+* [DOCS](https://electronjs.org/docs)
 * [Lightweight update server](https://github.com/zeit/hazel)
 * [SPECTRON](https://github.com/electron/spectron)
 * [Collection of Apps build on electron](https://github.com/electron/apps)
