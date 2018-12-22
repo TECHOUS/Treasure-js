@@ -120,42 +120,61 @@ git clone https://github.com/TechOUs/Treasure-js.git
 
 ### :rocket: ANGULAR JS
 
-1. [DOCS](https://angular.io/docs)
-2. [GITHUB](https://github.com/angular/angular)
-3. [W3 SCHOOLS](https://www.w3schools.com/angular/default.asp)
-4. [Angular Fundamentals](https://www.edx.org/course/angular-fundamentals-1)
-5. [Angularjs Framework Fundamentals](https://www.edx.org/course/angularjs-framework-fundamentals)
-6. [Developing Dynamic Web Applications](https://www.edx.org/course/developing-dynamic-web-applications-1)
-7. [Angularjs-Advanced Framework Techniques](https://www.edx.org/course/angularjs-advanced-framework-techniques)
-8. [Angular JS](https://www.javatpoint.com/angularjs-tutorial)
-9. [Angular](https://devdocs.io/angular/)
-10. [Angular 4](https://devdocs.io/angular~4/)
-11. [Angular 5](https://devdocs.io/angular~5/)
-12. [Angular JS 1.2](https://devdocs.io/angularjs~1.2/)
-13. [Angular JS 1.3](https://devdocs.io/angularjs~1.3/)
-14. [Angular JS 1.4](https://devdocs.io/angularjs~1.4/)
-15. [Angular JS 1.5](https://devdocs.io/angularjs~1.5/)
-16. [Angular JS 1.6](https://devdocs.io/angularjs~1.6/)
+One framework. Mobile & desktop.
+
+* [DOCS](https://angular.io/docs)
+* [GITHUB](https://github.com/angular/angular)
+* [WEBSITE](https://angular.io/)
+* [Angular](https://devdocs.io/angular/)
+* [Angular 4](https://devdocs.io/angular~4/)
+* [Angular 5](https://devdocs.io/angular~5/)
+* [Angular JS 1.2](https://devdocs.io/angularjs~1.2/)
+* [Angular JS 1.3](https://devdocs.io/angularjs~1.3/)
+* [Angular JS 1.4](https://devdocs.io/angularjs~1.4/)
+* [Angular JS 1.5](https://devdocs.io/angularjs~1.5/)
+* [Angular JS 1.6](https://devdocs.io/angularjs~1.6/)
+* [W3 SCHOOLS](https://www.w3schools.com/angular/default.asp)
+* [Angular Fundamentals](https://www.edx.org/course/angular-fundamentals-1)
+* [Angularjs Framework Fundamentals](https://www.edx.org/course/angularjs-framework-fundamentals)
+* [Developing Dynamic Web Applications](https://www.edx.org/course/developing-dynamic-web-applications-1)
+* [Angularjs-Advanced Framework Techniques](https://www.edx.org/course/angularjs-advanced-framework-techniques)
+* [Angular JS](https://www.javatpoint.com/angularjs-tutorial)
 
 ### :rocket: ANIME JS
 
-1. [INTRO TUTORIAL](https://www.youtube.com/watch?v=g7WnZ9hxUak)
+JavaScript Animation Engine
+
+* [WEBSITE](http://animejs.com/)
+* [GITHUB](https://github.com/juliangarnier/anime)
+* [DOCS](http://animejs.com/documentation/)
+* [INTRO TUTORIAL](https://www.youtube.com/watch?v=g7WnZ9hxUak)
 
 ### :rocket: AMPLIFYJS
 
 A declarative JavaScript library for application development using cloud services
 
 * [GITHUB](https://github.com/aws-amplify/amplify-js)
+* [WEBSITE](https://aws-amplify.github.io/)
+* [DOCS](https://aws-amplify.github.io/docs/)
 
 ### :rocket: AURELIA JS
 
-* [The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building platform](https://github.com/aurelia/framework)
+The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building platform.
+
+* [GITHUB](https://github.com/aurelia/framework)
+* [WEBSITE](https://aurelia.io/)
+* [DOCS](https://aurelia.io/docs)
 
 ### :rocket: BACKBONE JS
 
-1. [Backbone JS](https://www.javatpoint.com/backbonejs-tutorial)
-2. [LEARN BACKBONE JS](https://in.udacity.com/course/learn-backbonejs--ud990)
-3. [DOCS](https://devdocs.io/backbone/)
+Backbone.js gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing API over a RESTful JSON interface.
+
+* [WEBSITE](http://backbonejs.org/)
+* [GITHUB](https://github.com/jashkenas/backbone)
+* [DOCS](http://backbonejs.org/docs/backbone.html)
+* [Backbone JS](https://www.javatpoint.com/backbonejs-tutorial)
+* [LEARN BACKBONE JS](https://in.udacity.com/course/learn-backbonejs--ud990)
+* [DOCS](https://devdocs.io/backbone/)
 
 ### :rocket: BOOTSTRAP
 
@@ -812,6 +831,7 @@ A progressive, incrementally-adoptable JavaScript framework for building UI on t
 * [Centralized State Management for Vue.js.](https://github.com/vuejs/vuex)
 * [Vue Storefront](https://github.com/DivanteLtd/vue-storefront)
 * [A Vuex plugin to persist the store.](https://github.com/championswimmer/vuex-persist)
+* [Delightful reading and tracking of your mangas](https://github.com/anshumanv/vueman.ga)
 
 ### :rocket: VIVID JS
 
