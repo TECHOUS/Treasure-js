@@ -193,7 +193,11 @@ Build responsive, mobile-first projects on the web with the world's most popular
 
 ### :rocket: BABEL JS
 
+Babel is a compiler for writing next generation JavaScript
+
+* [WEBSITE](https://babeljs.io/)
 * [DOCS](https://babeljs.io/docs/en/)
+* [GITHUB](https://github.com/babel/babel)
 * [Webpack plugin](https://github.com/babel/babel-loader)
 * [Compiles React.js components into native DOM instructions to eliminate the need for the react library at runtime.](https://github.com/sokra/rawact)
 * [Pre-evaluate code at build-time](https://github.com/kentcdodds/babel-plugin-preval)
@@ -204,20 +208,36 @@ A React-based UI toolkit for the web
 
 * [GITHUB](https://github.com/palantir/blueprint)
 * [WEBSITE](https://blueprintjs.com/)
+* [DOCS](https://blueprintjs.com/docs/)
 
 ### :rocket: CANVAS JS
 
+Responsive HTML5 Charting Library with a Simple API and 10x Performance – makes your dashboards fly!
+
+* [WEBSITE](https://canvasjs.com/)
+* [DOCS](https://canvasjs.com/docs/charts/basics-of-creating-html5-chart/)
+* [GITHUB](https://github.com/tsur/canvasjs)
+
 ### :rocket: CODECEPT JS
 
+Modern Era Acceptance Testing Framework
+
 * [GITHUB](https://github.com/codeception/codeceptjs/)
+* [WEBSITE](https://codecept.io/)
+* [DOCS](https://codecept.io/basics/)
 
 ### :rocket: CAMAN JS
 
-1. [INTRO](https://www.youtube.com/watch?v=MEENB3_9yUw)
+CamanJS is (ca)nvas (man)ipulation in Javascript. It's a combination of a simple-to-use interface with advanced and efficient image/canvas editing techniques.
+
+* [INTRO](https://www.youtube.com/watch?v=MEENB3_9yUw)
+* [WEBSITE](http://camanjs.com/)
+* [GITHUB](https://github.com/meltingice/CamanJS/)
+* [DOCS](http://camanjs.com/docs/)
 
 ### :rocket: COMMANDER JS
 
-node.js command-line interfaces made easy
+Commander is a light-weight, expressive, and powerful command-line framework
 
 * [GITHUB](https://github.com/tj/commander.js)
 
