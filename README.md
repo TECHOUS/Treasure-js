@@ -242,6 +242,14 @@ Commander is a light-weight, expressive, and powerful command-line framework
 * [GITHUB](https://github.com/tj/commander.js)
 * [DOCS](http://tj.github.io/commander.js/)
 
+### :rocket: DISCORD JS
+
+A powerful JavaScript library for interacting with the Discord API
+
+* [GITHUB](https://github.com/discordjs/discord.js)
+* [WEBSITE](https://discord.js.org/#/)
+* [DOCS](https://discord.js.org/#/docs/main/stable/general/welcome)
+
 ### :rocket: D3 JS
 
 D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
@@ -719,6 +727,7 @@ Practical functional Javascript
 * [Fast 3kB React alternative with the same modern API. Components & Virtual DOM.](https://github.com/developit/preact)
 * [React compatibility layer for Preact](https://github.com/developit/preact-compat)
 * [Simple HTML5 drag-drop zone with React.js](https://github.com/react-dropzone/react-dropzone)
+* [Bind events to state. Works with Preact and React.](https://github.com/developit/linkstate)
 
 #### REACT NATIVE
 
