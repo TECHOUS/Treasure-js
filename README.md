@@ -645,6 +645,14 @@ browser-side require() the node.js way
 
 * [DOCS](https://github.com/nuxt/docs)
 
+### :rocket: PASSPORT JS
+
+Passport is authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application.
+
+* [GITHUB](https://github.com/jaredhanson/passport)
+* [WEBSITE](http://www.passportjs.org/)
+* [DOCS](http://www.passportjs.org/docs/downloads/html/)
+
 ### :rocket: PUG JS
 
 * [WEBSITE](https://pugjs.org/api/getting-started.html)
@@ -862,6 +870,7 @@ SonarJS: JavaScript Analyzer for SonarQube
 
 * [GITHUB](https://github.com/SonarSource/SonarJS)
 * [WEBSITE](https://www.sonarsource.com/products/codeanalyzers/sonarjs.html)
+
 ### :rocket: SQL JS
 
 SQLite compiled to JavaScript through Emscripten
