@@ -190,6 +190,7 @@ Build responsive, mobile-first projects on the web with the world's most popular
 * [Introduction to Bootstrap](https://www.edx.org/course/introduction-to-bootstrap-a-tutorial-1)
 * [BootStrap - GFG](https://www.geeksforgeeks.org/beginning-bootstrap-part-1/)
 * [Bootstrap Tutorial](https://www.javatpoint.com/bootstrap-tutorial)
+* [BootstrapVue provides one of the most comprehensive implementations of Bootstrap 4 components and grid system for Vue.js and with extensive and automated WAI-ARIA accessibility markup.](https://github.com/bootstrap-vue/bootstrap-vue)
 
 ### :rocket: BABEL JS
 
@@ -884,6 +885,8 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 11. [DOCZ](https://github.com/pedronauck/docz)
 12. [An open source AutoML toolkit for neural architecture search and hyper-parameter tuning](https://github.com/Microsoft/nni)
 13. [Make images smaller using best-in-class codecs, right in the browser](https://github.com/GoogleChromeLabs/squoosh)
+14. [GraphQL server for Express, Connect, Hapi, Koa and more](https://github.com/apollographql/apollo-server)
+15. [ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms](https://github.com/typeorm/typeorm)
 
 ### :rocket: TENSORFLOW JS
 
