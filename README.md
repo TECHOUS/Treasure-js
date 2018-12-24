@@ -856,6 +856,12 @@ Realtime application framework (Node.JS server)
 * [WEBSITE](http://socket.io)
 * [DOCS](https://devdocs.io/socketio/)
 
+### :rocket: SONAR JS
+
+SonarJS: JavaScript Analyzer for SonarQube
+
+* [GITHUB](https://github.com/SonarSource/SonarJS)
+* [WEBSITE](https://www.sonarsource.com/products/codeanalyzers/sonarjs.html)
 ### :rocket: SQL JS
 
 SQLite compiled to JavaScript through Emscripten
