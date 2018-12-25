@@ -202,6 +202,7 @@ Babel is a compiler for writing next generation JavaScript
 * [Webpack plugin](https://github.com/babel/babel-loader)
 * [Compiles React.js components into native DOM instructions to eliminate the need for the react library at runtime.](https://github.com/sokra/rawact)
 * [Pre-evaluate code at build-time](https://github.com/kentcdodds/babel-plugin-preval)
+* [Super-fast alternative for babel written in rust](https://github.com/swc-project/swc)
 
 ### :rocket: BLUEPRINT JS
 
@@ -839,6 +840,14 @@ UI component framework based around useful principles from natural language
 
 * [GITHUB](https://github.com/Semantic-Org/Semantic-UI)
 * [WEBSITE](https://semantic-ui.com/)
+
+### :rocket: SEQUELIZE JS
+
+An easy-to-use multi SQL dialect ORM
+
+* [GITHUB](https://github.com/sequelize/sequelize)
+* [WEBSITE](http://docs.sequelizejs.com/)
+* [DOCS/REFERENCE](http://docs.sequelizejs.com/identifiers.html)
 
 ### :rocket: STORYBOOK JS
 
