@@ -1009,6 +1009,13 @@ vis.js is a dynamic, browser-based visualization library
 * [GITHUB](https://github.com/almende/vis)
 * [WEBSITE](http://visjs.org/)
 
+### :rocket: WARRIOR JS
+
+An exciting game of programming and Artificial Intelligence
+
+* [GITHUB](https://github.com/olistic/warriorjs)
+* [WEBSITE](https://warriorjs.com/)
+
 ### :rocket: WINSTON JS
 
 * [GITHUB](https://github.com/winstonjs/winston)
