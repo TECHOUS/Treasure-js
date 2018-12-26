@@ -968,6 +968,14 @@ Underscore is a JavaScript library that provides a whole mess of useful function
 * [GITHUB](https://github.com/jashkenas/underscore)
 * [DOCS](https://devdocs.io/underscore/)
 
+### :rocket: UMI JS
+
+Pluggable enterprise-level react application framework
+
+* [GITHUB](https://github.com/umijs/umi)
+* [WEBSITE](https://umijs.org/)
+* [DOCS](https://umijs.org/guide/)
+
 ### :rocket: VUE JS
 
 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
