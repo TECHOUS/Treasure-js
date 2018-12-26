@@ -730,7 +730,12 @@ The React Framework
 
 ### :rocket: NUXT JS
 
+Nuxt.js is a framework for creating Vue.js applications, you can choose between Universal, Static Generated or Single Page application.
+
+* [WEBSITE](https://nuxtjs.org/)
+* [GITHUB](https://github.com/nuxt/nuxt.js)
 * [DOCS](https://github.com/nuxt/docs)
+* [API](https://nuxtjs.org/api)
 
 ### :rocket: PASSPORT JS
 
@@ -742,7 +747,9 @@ Passport is authentication middleware for Node.js. Extremely flexible and modula
 
 ### :rocket: PUG JS
 
-* [WEBSITE](https://pugjs.org/api/getting-started.html)
+Pug – robust, elegant, feature rich template engine for Node.js
+
+* [WEBSITE/DOCS](https://pugjs.org/api/getting-started.html)
 * [GITHUB](https://github.com/pugjs/pug)
 * [OVERVIEW](https://devdocs.io/pug/)
 
