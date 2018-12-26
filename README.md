@@ -428,6 +428,13 @@ Immutable.js provides many Persistent Immutable data structures including: List,
 * [WEBSITE](https://facebook.github.io/immutable-js/)
 * [DOCS](https://facebook.github.io/immutable-js/docs/#/)
 
+### :rocket: INQUIRER JS
+
+A collection of common interactive command line user interfaces.
+
+* [GITHUB](https://github.com/SBoudrias/Inquirer.js)
+* [DOCS](https://github.com/SBoudrias/Inquirer.js#documentation)
+
 ### :rocket: JQUERY
 
 jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
