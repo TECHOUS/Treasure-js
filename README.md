@@ -536,8 +536,11 @@ Leaflet is the leading open-source JavaScript library for mobile-friendly intera
 
 ### :rocket: LODASH
 
+A modern JavaScript utility library delivering modularity, performance & extras.
+
 * [GITHUB](https://github.com/lodash/lodash/)
 * [WEBSITE](https://lodash.com/)
+* [DOCS 4.17.11](https://lodash.com/docs/4.17.11)
 * [DOCS 4](https://devdocs.io/lodash~4/)
 * [DOCS 3](https://devdocs.io/lodash~3/)
 * [DOCS 2](https://devdocs.io/lodash~2/)
@@ -557,15 +560,19 @@ A simple Node.js helper module for Mailgun API.
 
 ### :rocket: MAPBOX GL JS
 
-Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
+Mapbox GL JS is a JavaScript library that uses WebGL to render interactive maps fromvector tiles andMapbox styles. It is part of the Mapbox GL ecosystem, which includesMapbox Mobile, a compatible renderer written in C++ with bindings for desktop and mobile platforms.
 
 * [GITHUB](https://github.com/mapbox/mapbox-gl-js)
-* [WEBSITE](https://www.mapbox.com/mapbox-gl-js/api/)
+* [WEBSITE](https://www.mapbox.com/)
+* [DOCS](https://www.mapbox.com/mapbox-gl-js/api/)
 
 ### :rocket: MARIONETTE JS
 
+Marionette simplifies your Backbone application code with robust views and architecture solutions.
+
 * [GITHUB](https://github.com/marionettejs/backbone.marionette)
 * [WEBSITE](https://marionettejs.com/)
+* [DOCS](https://marionettejs.com/docs/current/)
 * [DOCS 4](https://devdocs.io/marionette~4/)
 * [DOCS 3](https://devdocs.io/marionette~3/)
 * [DOCS 2](https://devdocs.io/marionette~2/)
