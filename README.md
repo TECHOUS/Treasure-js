@@ -578,6 +578,14 @@ JSX in Markdown for ambitious projects
 
 * [SOURCE](https://github.com/mdx-js/mdx)
 
+### :rocket: METADATA JS
+
+Library for building offline-first browser-based applications :: stand-alone web application platform
+
+* [GITHUB](https://github.com/oknosoft/metadata.js)
+* [WEBSITE](http://www.oknosoft.ru/metadata/)
+* [DOCS](http://www.oknosoft.ru/metadata/)
+
 ### :rocket: METEOR JS
 
 Meteor, the JavaScript App Platform
