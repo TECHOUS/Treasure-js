@@ -881,7 +881,7 @@ Predictable state container for JavaScript apps
 
 The HTML Presentation Framework
 
-* [GITHUB](https://github.com/hakimel/reveal.js)
+* [GITHUB/DOCS](https://github.com/hakimel/reveal.js)
 * [WEBSITE](https://revealjs.com/)
 
 ### :rocket: REBASS JS
@@ -890,6 +890,7 @@ React primitive UI components built with styled-system
 
 * [GITHUB](https://github.com/rebassjs/rebassjs.org)
 * [WEBSITE](https://rebassjs.org/)
+* [DOCS](https://rebassjs.org/getting-started)
 
 ### :rocket: RELAY JS
 
@@ -918,15 +919,18 @@ An advanced Node.js driver for RebirthDB with a connection pool, support for str
 
 ### :rocket: RAPHAEL JS
 
+Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web. If you want to create your own specific chart or image crop and rotate widget, for example, you can achieve it simply and easily with this library.
+
 * [GITHUB](https://github.com/DmitryBaranovskiy/raphael)
-* [WEBSITE](http://raphaeljs.com/)
+* [WEBSITE](http://dmitrybaranovskiy.github.io/raphael/)
+* [DOCS](http://dmitrybaranovskiy.github.io/raphael/reference.html)
 
 ### :rocket: ROLLUP JS
 
 Next-generation ES module bundler
 
 * [GITHUB](https://github.com/rollup/rollup)
-* [WEBSITE](https://rollupjs.org/guide/en)
+* [WEBSITE/DOCS](https://rollupjs.org/guide/en)
 
 ### :rocket: STENCIL JS
 
@@ -934,12 +938,15 @@ A Web Component compiler for building fast, reusable UI components and Progressi
 
 * [GITHUB](https://github.com/ionic-team/stencil)
 * [WEBSITE](https://stenciljs.com/)
+* [DOCS](https://stenciljs.com/docs/introduction)
 
 ### :rocket: SLATE JS
 
 A completely customizable framework for building rich text editors.
 
-* [SOURCE](https://github.com/ianstormtaylor/slate)
+* [WEBSITE](https://www.slatejs.org/#/rich-text)
+* [GITHUB](https://github.com/ianstormtaylor/slate)
+* [DOCS](https://docs.slatejs.org/)
 
 ### :rocket: SEMANTIC UI
 
@@ -947,6 +954,7 @@ UI component framework based around useful principles from natural language
 
 * [GITHUB](https://github.com/Semantic-Org/Semantic-UI)
 * [WEBSITE](https://semantic-ui.com/)
+* [DOCS](https://semantic-ui.com/introduction/getting-started.html)
 
 ### :rocket: SEQUELIZE JS
 
@@ -961,7 +969,7 @@ An easy-to-use multi SQL dialect ORM
 Interactive UI component dev & test: React, React Native, Vue, Angular, Ember
 
 * [GITHUB](https://github.com/storybooks/storybook)
-* [WEBSITE](https://storybook.js.org/)
+* [WEBSITE/DOCS](https://storybook.js.org/)
 
 ### :rocket: SINON JS
 
@@ -992,33 +1000,35 @@ SonarJS: JavaScript Analyzer for SonarQube
 SQLite compiled to JavaScript through Emscripten
 
 * [GITHUB](https://github.com/kripken/sql.js)
+* [DOCS](http://kripken.github.io/sql.js/documentation/#http://kripken.github.io/sql.js/documentation/class/Database.html)
 
 ### :rocket: TERSER JS
 
 JavaScript parser, mangler, optimizer and beautifier toolkit for ES6+
 
-* [SOURCE](https://github.com/terser-js/terser)
+* [GITHUB/DOCS](https://github.com/terser-js/terser)
 
 ### :rocket: TYPESCRIPT
 
 TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 
-1. [GITHUB](https://github.com/Microsoft/TypeScript)
-2. [WEBSITE](http://www.typescriptlang.org)
-3. [DOCS](https://devdocs.io/typescript/)
-4. [EDX-Typescript 2](https://www.edx.org/course/introduction-to-typescript-2-1)
-5. [EVA ICONS](https://github.com/akveo/eva-icons)
-6. [probot](https://github.com/probot/probot)
-7. [DESKTOP](https://github.com/desktop/desktop)
-8. [GRAPHQL TOOLS](https://github.com/apollographql/graphql-tools)
-9. [TYPEORM](https://github.com/typeorm/typeorm)
-10. [TERMINUS](https://github.com/Eugeny/terminus)
-11. [DOCZ](https://github.com/pedronauck/docz)
-12. [An open source AutoML toolkit for neural architecture search and hyper-parameter tuning](https://github.com/Microsoft/nni)
-13. [Make images smaller using best-in-class codecs, right in the browser](https://github.com/GoogleChromeLabs/squoosh)
-14. [GraphQL server for Express, Connect, Hapi, Koa and more](https://github.com/apollographql/apollo-server)
-15. [ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms](https://github.com/typeorm/typeorm)
-16. [Browser extension for strava. "Elevate" tracks your fitness and progressions over time. Analyse deeper your activities & segments.](https://github.com/thomaschampagne/elevate)
+* [GITHUB](https://github.com/Microsoft/TypeScript)
+* [WEBSITE](http://www.typescriptlang.org)
+* [OFFICIAL DOCS](http://www.typescriptlang.org/docs/index.html)
+* [DOCS](https://devdocs.io/typescript/)
+* [EDX-Typescript 2](https://www.edx.org/course/introduction-to-typescript-2-1)
+* [EVA ICONS](https://github.com/akveo/eva-icons)
+* [probot](https://github.com/probot/probot)
+* [DESKTOP](https://github.com/desktop/desktop)
+* [GRAPHQL TOOLS](https://github.com/apollographql/graphql-tools)
+* [TYPEORM](https://github.com/typeorm/typeorm)
+* [TERMINUS](https://github.com/Eugeny/terminus)
+* [DOCZ](https://github.com/pedronauck/docz)
+* [An open source AutoML toolkit for neural architecture search and hyper-parameter tuning](https://github.com/Microsoft/nni)
+* [Make images smaller using best-in-class codecs, right in the browser](https://github.com/GoogleChromeLabs/squoosh)
+* [GraphQL server for Express, Connect, Hapi, Koa and more](https://github.com/apollographql/apollo-server)
+* [ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms](https://github.com/typeorm/typeorm)
+* [Browser extension for strava. "Elevate" tracks your fitness and progressions over time. Analyse deeper your activities & segments.](https://github.com/thomaschampagne/elevate)
 
 ### :rocket: TENSORFLOW JS
 
