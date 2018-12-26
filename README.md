@@ -1044,14 +1044,18 @@ A JavaScript library for training and deploying ML models in the browser and on 
 
 ### :rocket: THEIA
 
+Theia is an extensible platform to develop full-fledged multi-language Cloud & Desktop IDE-like products with state-of-the-art web technologies.
+
 * [GITHUB](https://github.com/theia-ide/theia)
 * [WEBSITE](https://www.theia-ide.org/)
+* [DOCS](https://www.theia-ide.org/doc/index.html)
 
 ### :rocket: UGLIFY JS
 
 JavaScript parser / mangler / compressor / beautifier toolkit
 
-* [SOURCE](https://github.com/mishoo/UglifyJS2)
+* [GITHUB/DOCS](https://github.com/mishoo/UglifyJS2)
+* [WEBSITE](http://lisperator.net/uglifyjs/)
 
 ### :rocket: UNDERSCORE JS
 
@@ -1082,6 +1086,12 @@ A progressive, incrementally-adoptable JavaScript framework for building UI on t
 * [Delightful reading and tracking of your mangas](https://github.com/anshumanv/vueman.ga)
 
 ### :rocket: VIVID JS
+
+A JavaScript library which is built to easily customize and use the SVG Icons with a blaze.
+
+* [WEBSITE](https://webkul.github.io/vivid/)
+* [GITHUB](https://github.com/webkul/vivid)
+* [DOCS](https://webkul.github.io/vivid/docs.html)
 
 ### :rocket: VIA JS
 
