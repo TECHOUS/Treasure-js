@@ -494,7 +494,10 @@ Knockout is a JavaScript library that helps you to create rich, responsive displ
 
 ### :rocket: LERNA
 
-* [GTIHUB](https://github.com/lerna/lerna)
+A tool for managing JavaScript projects with multiple packages.
+
+* [GITHUB](https://github.com/lerna/lerna)
+* [WEBSITE/DOCS](https://lernajs.io/)
 
 ### :rocket: LEAFLET JS
 
