@@ -719,6 +719,11 @@ npm is the package manager for JavaScript and the world’s largest software reg
 
 ### :rocket: NEXT JS
 
+The React Framework
+
+* [WEBSITE](https://nextjs.org/)
+* [DOCS](https://nextjs.org/docs/)
+* [GITHUB](https://github.com/zeit/next.js)
 * [NEXT APP](https://github.com/segmentio/create-next-app)
 * [Redux wrapper for Next.js](https://github.com/kirill-konshin/next-redux-wrapper)
 * [NEXT PLUGINS](https://github.com/zeit/next-plugins)
