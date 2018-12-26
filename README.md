@@ -607,6 +607,7 @@ Meteor, the JavaScript App Platform
 
 * [WEBSITE](https://www.meteor.com/)
 * [GITHUB](https://github.com/meteor/meteor/)
+* [DOCS](https://docs.meteor.com/#/full/)
 * [DOCS 1.5](https://devdocs.io/meteor~1.5/)
 * [DOCS 1.4](https://devdocs.io/meteor~1.4/)
 * [DOCS 1.3](https://devdocs.io/meteor~1.3/)
@@ -650,46 +651,52 @@ MongoDB object modeling designed to work in an asynchronous environment
 
 ### :rocket: MOBX JS
 
-Simple, scalable state management.
+MobX is proudly sponsored by Mendix, Coinbase, Canva, Facebook Open Source, Algolia, Guilded and many individual sponsors
 
 * [GITHUB](https://github.com/mobxjs/mobx)
 * [WEBSITE](https://mobx.js.org/)
+* [DOCS](https://mobx.js.org/refguide/api.html)
 
 ### :rocket: NODE JS
 
-1. [Nodejs - W3 SCHOOLS](https://www.w3schools.com/nodejs/default.asp)
-2. [Building Functional Prototypes](https://www.edx.org/course/building-functional-prototypes-using-nodejs-1)
-3. [Web App Development](https://www.edx.org/course/web-app-development-with-the-power-of-nodejs)
-4. [Nodejs](https://www.javatpoint.com/nodejs-tutorial)
-5. [netlify-cli](https://github.com/netlify/cli)
-6. [Ghost](https://github.com/TryGhost/Ghost)
-7. [intro to nodejs](https://github.com/FrontendMasters/intro-node-js)
-8. ANT DESIGN [github](https://github.com/ant-design/ant-design-pro)  [website](https://pro.ant.design/)
-9. [MONGOOSASTIC](https://github.com/mongoosastic/mongoosastic)
-10. [FLOOD](https://github.com/jfurrow/flood)
-11. [NEL](https://github.com/n-riesco/nel)
-12. [HTTP request logger middleware](https://github.com/expressjs/morgan)
-13. [Node.js based forum software built for the modern web](https://github.com/NodeBB/NodeBB)
-14. [Web rendering surface for Node applications](https://github.com/GoogleChromeLabs/carlo)
-15. [CLI tool to check if a word is trademarked](https://github.com/egoist/is-trademarked-cli)
-16. [Node.js based forum software built for the modern web](https://github.com/NodeBB/NodeBB)
-17. [SQUOOSH](https://github.com/GoogleChromeLabs/squoosh)
-18. [SOAP driver for Node.js (A complete rewrite of node-soap)](https://github.com/strongloop/strong-soap)
-19. [esm](https://github.com/standard-things/esm)
-20. [async](https://devdocs.io/async/)
-21. [CURRENT DOCS](https://devdocs.io/node/)
-22. [NODEJS 10 DOCS](https://devdocs.io/node~10_lts/)
-23. [NODEJS 8 DOCS](https://devdocs.io/node~8_lts/)
-24. [NODEJS 6 DOCS](https://devdocs.io/node~6_lts/)
-25. [NODEJS 4 DOCS](https://devdocs.io/node~4_lts/)
-26. [Web rendering surface for Node applications](https://github.com/GoogleChromeLabs/carlo)
-27. [A cross-platform nodejs driver for Neurosky Mindwave headsets](https://github.com/brainbang/mindwave)
-28. [The command-line interface for Now](https://github.com/zeit/now-cli)
-29. [In-browser code editor](https://github.com/codemirror/CodeMirror)
-30. [Prometheus client for node.js](https://github.com/siimon/prom-client)
-31. [Serve static files](https://github.com/expressjs/serve-static)
-32. [General purpose crypto utilities](https://github.com/hapijs/cryptiles)
-33. [Source for the Linode Developers Site (API v4 Docs)](https://github.com/linode/linode-api-docs)
+Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+
+* [WEBSITE](https://nodejs.org/en/)
+* [DOCS](https://nodejs.org/en/docs/)
+* [GITHUB](https://github.com/nodejs/node)
+* [async](https://devdocs.io/async/)
+* [CURRENT DOCS](https://devdocs.io/node/)
+* [NODEJS 10 DOCS](https://devdocs.io/node~10_lts/)
+* [NODEJS 8 DOCS](https://devdocs.io/node~8_lts/)
+* [NODEJS 6 DOCS](https://devdocs.io/node~6_lts/)
+* [NODEJS 4 DOCS](https://devdocs.io/node~4_lts/)
+* [Nodejs - W3 SCHOOLS](https://www.w3schools.com/nodejs/default.asp)
+* [Building Functional Prototypes](https://www.edx.org/course/building-functional-prototypes-using-nodejs-1)
+* [Web App Development](https://www.edx.org/course/web-app-development-with-the-power-of-nodejs)
+* [Nodejs](https://www.javatpoint.com/nodejs-tutorial)
+* [netlify-cli](https://github.com/netlify/cli)
+* [Ghost](https://github.com/TryGhost/Ghost)
+* [intro to nodejs](https://github.com/FrontendMasters/intro-node-js)
+* ANT DESIGN [github](https://github.com/ant-design/ant-design-pro)  [website](https://pro.ant.design/)
+* [MONGOOSASTIC](https://github.com/mongoosastic/mongoosastic)
+* [FLOOD](https://github.com/jfurrow/flood)
+* [NEL](https://github.com/n-riesco/nel)
+* [HTTP request logger middleware](https://github.com/expressjs/morgan)
+* [Node.js based forum software built for the modern web](https://github.com/NodeBB/NodeBB)
+* [Web rendering surface for Node applications](https://github.com/GoogleChromeLabs/carlo)
+* [CLI tool to check if a word is trademarked](https://github.com/egoist/is-trademarked-cli)
+* [Node.js based forum software built for the modern web](https://github.com/NodeBB/NodeBB)
+* [SQUOOSH](https://github.com/GoogleChromeLabs/squoosh)
+* [SOAP driver for Node.js (A complete rewrite of node-soap)](https://github.com/strongloop/strong-soap)
+* [esm](https://github.com/standard-things/esm)
+* [Web rendering surface for Node applications](https://github.com/GoogleChromeLabs/carlo)
+* [A cross-platform nodejs driver for Neurosky Mindwave headsets](https://github.com/brainbang/mindwave)
+* [The command-line interface for Now](https://github.com/zeit/now-cli)
+* [In-browser code editor](https://github.com/codemirror/CodeMirror)
+* [Prometheus client for node.js](https://github.com/siimon/prom-client)
+* [Serve static files](https://github.com/expressjs/serve-static)
+* [General purpose crypto utilities](https://github.com/hapijs/cryptiles)
+* [Source for the Linode Developers Site (API v4 Docs)](https://github.com/linode/linode-api-docs)
 
 #### BROWSERIFY
 
@@ -700,6 +707,9 @@ browser-side require() the node.js way
 
 #### :rocket: NPM
 
+npm is the package manager for JavaScript and the world’s largest software registry. Discover packages of reusable code — and assemble them in powerful new ways.
+
+* [WEBSITE](https://www.npmjs.com/)
 * [DOCS](https://devdocs.io/npm/)
 * [Short id generator. Url-friendly. Non-predictable. Cluster-compatible](https://github.com/dylang/shortid)
 * [Oracle Database Driver](https://github.com/oracle/node-oracledb)
