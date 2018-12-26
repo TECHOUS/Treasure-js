@@ -579,8 +579,11 @@ Marionette simplifies your Backbone application code with robust views and archi
 
 ### :rocket: MATTER JS
 
-1. [Website](http://brm.io/matter-js/)
-2. [Github](https://github.com/liabru/matter-js)
+Matter.js is a 2D physics engine for the web
+
+* [WEBSITE](http://brm.io/matter-js/)
+* [GITHUB](https://github.com/liabru/matter-js)
+* [DOCS](http://brm.io/matter-js/docs/)
 
 ### :rocket: MDX JS
 
