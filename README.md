@@ -791,6 +791,7 @@ Open-source JavaScript charting library behind plot.ly and Dash
 
 * [GITHUB](https://github.com/plotly/plotly.js)
 * [WEBSITE](https://plot.ly/javascript/)
+* [DOCS](https://plot.ly/javascript/reference/)
 
 ### :rocket: Q
 
@@ -806,10 +807,16 @@ Practical functional Javascript
 
 * [GITHUB](https://github.com/ramda/ramda/)
 * [WEBSITE](https://ramdajs.com)
-* [DOCS](https://devdocs.io/ramda/)
+* [DOCS](https://ramdajs.com/docs/)
+* [DEVDOCS](https://devdocs.io/ramda/)
 
 ### :rocket: REACT JS
 
+A JavaScript library for building user interfaces
+
+* [WEBSITE](https://reactjs.org/)
+* [DOCS](https://reactjs.org/docs/getting-started.html)
+* [GITHUB](https://github.com/facebook/react/)
 * [ROADMAP](https://github.com/adam-golab/react-developer-roadmap)
 * [DOCS](https://github.com/reactjs/reactjs.org)
 * [DEVDOCS](https://devdocs.io/react/)
