@@ -52,6 +52,10 @@ git clone https://github.com/TechOUs/Treasure-js.git
 
 1. [ky](https://github.com/sindresorhus/ky)
 
+### :rocket: PLUGIN
+
+* [axios plugin converting requests to cURL commands, saving and logging them.](https://github.com/delirius325/axios-curlirize)
+
 ### :rocket: PWA
 
 * [sample 1](https://github.com/aviaryan/todo-pwa-workshop)
@@ -439,13 +443,19 @@ jQuery is a fast, small, and feature-rich JavaScript library. It makes things li
 
 ### :rocket: JASMINE
 
+Behavior-Driven JavaScript
+
 * [WEBSITE](https://jasmine.github.io/api/3.2/index.html)
 * [GITHUB](https://github.com/jasmine/jasmine.github.io)
+* [DOCS](https://jasmine.github.io/pages/docs_home.html)
 
 ### :rocket: JEST
 
+Delightful JavaScript Testing
+
 * [WEBSITE](https://jestjs.io/)
 * [GITHUB](https://github.com/facebook/jest)
+* [DOCS](https://jestjs.io/docs/en/getting-started)
 
 ### :rocket: JSZIP
 
@@ -453,18 +463,25 @@ Create, read and edit .zip files with Javascript
 
 * [GITHUB](https://github.com/Stuk/jszip)
 * [WEBSITE](http://stuk.github.io/jszip/)
+* [DOCS](http://stuk.github.io/jszip/documentation/api_jszip.html)
 
 ### :rocket: KERAS JS
 
 Run Keras models in the browser, with GPU support using WebGL
 
 * [GITHUB](https://github.com/transcranial/keras-js)
-* [WEBSITE](https://transcranial.github.io/keras-js/#/)
+* [WEBSITE/DOCS](https://transcranial.github.io/keras-js/#/)
 
 ### :rocket: KOA JS
 
-1. [CRASH COURSE](https://www.youtube.com/watch?v=z84uTk5zmak)
-2. [DOCS](https://devdocs.io/koa/)
+Koa is a new web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs. By leveraging async functions, Koa allows you to ditch callbacks and greatly increase error-handling. Koa does not bundle any middleware within its core, and it provides an elegant suite of methods that make writing servers fast and enjoyable.
+
+* [WEBSITE](https://koajs.com/)
+* [DOCS](https://koajs.com/#application)
+* [GITHUB](https://github.com/koajs/koa)
+* [CRASH COURSE](https://www.youtube.com/watch?v=z84uTk5zmak)
+* [DEVDOCS](https://devdocs.io/koa/)
+* [Tutorials](https://www.tutorialspoint.com/koajs/)
 
 ### :rocket: KNOCKOUT JS
 
@@ -911,6 +928,7 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 13. [Make images smaller using best-in-class codecs, right in the browser](https://github.com/GoogleChromeLabs/squoosh)
 14. [GraphQL server for Express, Connect, Hapi, Koa and more](https://github.com/apollographql/apollo-server)
 15. [ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms](https://github.com/typeorm/typeorm)
+16. [Browser extension for strava. "Elevate" tracks your fitness and progressions over time. Analyse deeper your activities & segments.](https://github.com/thomaschampagne/elevate)
 
 ### :rocket: TENSORFLOW JS
 
