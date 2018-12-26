@@ -1032,7 +1032,15 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 
 ### :rocket: TENSORFLOW JS
 
+A JavaScript library for training and deploying ML models in the browser and on Node.js
+
+* [WEBSITE](https://js.tensorflow.org/)
+* [DOCS](https://js.tensorflow.org/api/0.14.1/)
+* [GITHUB](https://github.com/tensorflow/tfjs)
+* [examples](https://github.com/tensorflow/tfjs-examples)
 * [Tensorflow.js Explained](https://github.com/llSourcell/tensorflow.js_explained)
+* [Tensorflow in 7 minutes](https://medium.freecodecamp.org/get-to-know-tensorflow-js-in-7-minutes-afcd0dfd3d2f)
+* [TensorFlow.js Cheetsheet](https://towardsdatascience.com/50-tensorflow-js-api-explained-in-5-minutes-tensorflow-js-cheetsheet-4f8c7f9cc8b2)
 
 ### :rocket: THEIA
 
