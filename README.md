@@ -354,6 +354,14 @@ A library to overcomplicate 5
 * [GITHUB](https://github.com/jackdclark/five)
 * [WEBSITE](https://five.js.org/)
 
+### :rocket: FRINT JS
+
+Modular JavaScript framework for building scalable and reactive applications
+
+* [GITHUB](https://github.com/frintjs/frint)
+* [WEBSITE](https://frint.js.org/)
+* [DOCS](https://frint.js.org/docs)
+
 ### :rocket: FEATHERS JS
 
 A REST and realtime API layer for modern applications
