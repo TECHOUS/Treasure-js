@@ -759,24 +759,31 @@ A zero-config bundler for JavaScript applications
 
 * [GITHUB](https://github.com/egoist/poi)
 * [WEBSITE](https://poi.js.org/)
+* [API/DOCS](https://poi.js.org/api.html)
 
 ### :rocket: PUPPETEER JS
 
-* [WEBSITE](https://pptr.dev/)
+Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium.
+
+* [WEBSITE/DOCS](https://pptr.dev/)
 * [GITHUB](https://github.com/GoogleChrome/puppeteer)
 * [DOCS](https://devdocs.io/puppeteer/)
 
 ### :rocket: PARTICLES JS
 
-1. [GITHUB](https://github.com/VincentGarreau/particles.js)
-2. [WEBSITE](https://vincentgarreau.com/particles.js/)
-3. [TUTORIAL](https://www.youtube.com/watch?v=qK3cgD09Qf0)
+A lightweight JavaScript library for creating particles
+
+* [GITHUB/DOCS](https://github.com/VincentGarreau/particles.js)
+* [WEBSITE](https://vincentgarreau.com/particles.js/)
+* [TUTORIAL](https://www.youtube.com/watch?v=qK3cgD09Qf0)
 
 ### :rocket: P5 JS
 
 p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing
 
 * [GITHUB](https://github.com/processing/p5.js)
+* [WEBSITE](https://p5js.org/)
+* [DOCS](https://p5js.org/reference/)
 
 ### :rocket: PLOTLY JS
 
