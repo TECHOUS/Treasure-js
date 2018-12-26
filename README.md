@@ -1039,6 +1039,12 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 * [GITHUB](https://github.com/xtermjs/xterm.js)
 
+### :rocket: ZIPKIN JS
+
+This is a set of libraries for instrumenting Node.js and browser applications. The zipkin library can be run in both Node.js and the browser.
+
+* [GITHUB](https://github.com/openzipkin/zipkin-js)
+
 ### :rocket: MISC
 
 * [YOU DON'T NEED MOMENT JS](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
