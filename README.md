@@ -1129,10 +1129,15 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 * [GITHUB](https://github.com/webpack/webpack)
 * [WEBSITE](https://webpack.js.org/)
+* [DOCS](https://webpack.js.org/concepts/)
 
 ### :rocket: XTERM JS
 
+Xterm.js is a front-end component written in TypeScript that lets applications bring fully-featured terminals to their users in the browser.
+
 * [GITHUB](https://github.com/xtermjs/xterm.js)
+* [WEBSITE](https://xtermjs.org/)
+* [DOCS](https://xtermjs.org/docs/)
 
 ### :rocket: ZIPKIN JS
 
@@ -1143,9 +1148,12 @@ This is a set of libraries for instrumenting Node.js and browser applications. T
 ### :rocket: MISC
 
 * [YOU DON'T NEED MOMENT JS](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
-* GRAY MATTER
-  * Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers.
-  * [GITHUB](https://github.com/jonschlinkert/gray-matter)
+
+#### GRAY MATTER
+  
+Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers.
+  
+* [GITHUB](https://github.com/jonschlinkert/gray-matter)
 
 ## CONTRIBUTION
 
