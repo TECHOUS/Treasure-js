@@ -587,9 +587,11 @@ Matter.js is a 2D physics engine for the web
 
 ### :rocket: MDX JS
 
-JSX in Markdown for ambitious projects
+MDX is a format that lets you seamlessly use JSX in your Markdown documents. You can import components, like interactive charts or notifs, and export metadata. This makes writing long-form content with components a blast 🚀.
 
-* [SOURCE](https://github.com/mdx-js/mdx)
+* [GITHUB](https://github.com/mdx-js/mdx)
+* [WEBSITE](https://mdxjs.com/)
+* [DOCS](https://mdxjs.com/getting-started/)
 
 ### :rocket: METADATA JS
 
