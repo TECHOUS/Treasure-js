@@ -354,6 +354,14 @@ A library to overcomplicate 5
 * [GITHUB](https://github.com/jackdclark/five)
 * [WEBSITE](https://five.js.org/)
 
+### :rocket: FEATHERS JS
+
+A REST and realtime API layer for modern applications
+
+* [GITHUB](https://github.com/feathersjs/feathers)
+* [WEBSITE](https://feathersjs.com/)
+* [DOCS](http://docs.feathersjs.com/)
+
 ### :rocket: FUSE JS
 
 Lightweight fuzzy-search
