@@ -845,6 +845,8 @@ A JavaScript library for building user interfaces
 * [React compatibility layer for Preact](https://github.com/developit/preact-compat)
 * [Simple HTML5 drag-drop zone with React.js](https://github.com/react-dropzone/react-dropzone)
 * [Bind events to state. Works with Preact and React.](https://github.com/developit/linkstate)
+* [The Road to learn React: Your journey to master plain yet pragmatic React.js](https://github.com/the-road-to-learn-react/the-road-to-learn-react)
+* [Curated tutorial and resource links I've collected on React, Redux, ES6, and more](https://github.com/markerikson/react-redux-links)
 
 #### REACT NATIVE
 
@@ -1138,6 +1140,14 @@ Xterm.js is a front-end component written in TypeScript that lets applications b
 * [GITHUB](https://github.com/xtermjs/xterm.js)
 * [WEBSITE](https://xtermjs.org/)
 * [DOCS](https://xtermjs.org/docs/)
+
+### :rocket: Y JS
+
+A CRDT library with a powerful abstraction of shared data
+
+* [GITHUB](https://github.com/y-js/yjs)
+* [WEBSITE](http://y-js.org/)
+* [TUTORIAL/DOCS](http://y-js.org/#!/tutorial)
 
 ### :rocket: ZIPKIN JS
 
