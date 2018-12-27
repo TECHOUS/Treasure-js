@@ -1089,6 +1089,7 @@ Pluggable enterprise-level react application framework
 
 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 
+* [Roadmap to becoming a Vue.js developer in 2018](https://github.com/flaviocopes/vue-developer-roadmap)
 * [GITHUB](https://github.com/vuejs/vue)
 * [WEBSITE](https://vuejs.org/)
 * [DOCS](https://devdocs.io/vue~2/)
@@ -1096,6 +1097,7 @@ A progressive, incrementally-adoptable JavaScript framework for building UI on t
 * [Vue Storefront](https://github.com/DivanteLtd/vue-storefront)
 * [A Vuex plugin to persist the store.](https://github.com/championswimmer/vuex-persist)
 * [Delightful reading and tracking of your mangas](https://github.com/anshumanv/vueman.ga)
+* [Internationalization plugin for Vue.js](https://github.com/kazupon/vue-i18n)
 
 ### :rocket: VIVID JS
 
