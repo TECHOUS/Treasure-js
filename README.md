@@ -8,11 +8,13 @@
 
 * You can also [CONRIBUTE](CONTRIBUTING.md) to our repository it would really be helpful.
 
-* You will download zip [here](https://github.com/TechOUs/Treasure-js/archive/master.zip) or clone using
+* You can download zip according to our releases [here](https://github.com/TechOUs/Treasure-js/releases) or clone using
 
 ```bash
 git clone https://github.com/TechOUs/Treasure-js.git
 ```
+
+* You can also contribute to our repository [here](CONTRIBUTING.md)
 
 ## JAVASCRIPT
 
@@ -53,11 +55,11 @@ git clone https://github.com/TechOUs/Treasure-js.git
 
 1. [ky](https://github.com/sindresorhus/ky)
 
-### :rocket: PLUGIN
+### :rocket: PLUGINS
 
 * [axios plugin converting requests to cURL commands, saving and logging them.](https://github.com/delirius325/axios-curlirize)
 
-### :rocket: PWA
+### :rocket: PWA - Progrssive Web Apps
 
 * [sample 1](https://github.com/aviaryan/todo-pwa-workshop)
 
