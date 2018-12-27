@@ -43,6 +43,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 23. [Mostly adequate guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide)
 24. [Isomorphic arrayify function](https://github.com/75lb/array-back)
 25. [Starter files, final projects and FAQ for my Complete JavaScript course](https://github.com/jonasschmedtmann/complete-javascript-course)
+26. [HTML5 drag & drop for humans](https://github.com/feross/drag-drop)
 
 ### :rocket: VIDEOS
 
@@ -727,6 +728,7 @@ The React Framework
 * [NEXT APP](https://github.com/segmentio/create-next-app)
 * [Redux wrapper for Next.js](https://github.com/kirill-konshin/next-redux-wrapper)
 * [NEXT PLUGINS](https://github.com/zeit/next-plugins)
+* [nextjs starter project](https://github.com/me-io/nextjs-starter)
 
 ### :rocket: NUXT JS
 
@@ -847,6 +849,11 @@ A JavaScript library for building user interfaces
 * [Bind events to state. Works with Preact and React.](https://github.com/developit/linkstate)
 * [The Road to learn React: Your journey to master plain yet pragmatic React.js](https://github.com/the-road-to-learn-react/the-road-to-learn-react)
 * [Curated tutorial and resource links I've collected on React, Redux, ES6, and more](https://github.com/markerikson/react-redux-links)
+* [List of top 300 ReactJS Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
+
+#### REACT JS SAMPLES
+
+* [MyReads Project](https://github.com/Decoys-out/MyReads-UDACITY-React)
 
 #### REACT NATIVE
 
@@ -1031,6 +1038,7 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 * [GraphQL server for Express, Connect, Hapi, Koa and more](https://github.com/apollographql/apollo-server)
 * [ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms](https://github.com/typeorm/typeorm)
 * [Browser extension for strava. "Elevate" tracks your fitness and progressions over time. Analyse deeper your activities & segments.](https://github.com/thomaschampagne/elevate)
+* [The markdown-based note-taking app that doesn't suck.](https://github.com/fabiospampinato/notable)
 
 ### :rocket: TENSORFLOW JS
 
