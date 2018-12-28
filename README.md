@@ -46,6 +46,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 24. [Isomorphic arrayify function](https://github.com/75lb/array-back)
 25. [Starter files, final projects and FAQ for my Complete JavaScript course](https://github.com/jonasschmedtmann/complete-javascript-course)
 26. [HTML5 drag & drop for humans](https://github.com/feross/drag-drop)
+27. [Cookbook for JavaScript for Automation in Mac OS X Yosemite](https://github.com/JXA-Cookbook/JXA-Cookbook)
 
 ### :rocket: VIDEOS
 
@@ -875,6 +876,7 @@ A framework for building native apps with React
 * [twitter-clone-with-graphql-reactnative](https://github.com/EQuimper/twitter-clone-with-graphql-reactnative)
 * [React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
 * [React Native Testing Library](https://github.com/callstack/react-native-testing-library)
+* [A complete native navigation solution for React Native](https://github.com/wix/react-native-navigation)
 
 #### :rocket: REDUX
 
@@ -1049,7 +1051,8 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 * [GraphQL server for Express, Connect, Hapi, Koa and more](https://github.com/apollographql/apollo-server)
 * [ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms](https://github.com/typeorm/typeorm)
 * [Browser extension for strava. "Elevate" tracks your fitness and progressions over time. Analyse deeper your activities & segments.](https://github.com/thomaschampagne/elevate)
-* [The markdown-based note-taking app that doesn't suck.](https://github.com/fabiospampinato/notable)
+* [The markdown-based note-taking app](https://github.com/fabiospampinato/notable)
+* [CLIFlix](https://github.com/fabiospampinato/cliflix)
 
 ### :rocket: TENSORFLOW JS
 
