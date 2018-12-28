@@ -1053,6 +1053,7 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 * [Browser extension for strava. "Elevate" tracks your fitness and progressions over time. Analyse deeper your activities & segments.](https://github.com/thomaschampagne/elevate)
 * [The markdown-based note-taking app](https://github.com/fabiospampinato/notable)
 * [CLIFlix](https://github.com/fabiospampinato/cliflix)
+* [The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More](https://github.com/grafana/grafana)
 
 ### :rocket: TENSORFLOW JS
 
@@ -1110,6 +1111,7 @@ A progressive, incrementally-adoptable JavaScript framework for building UI on t
 * [A Vuex plugin to persist the store.](https://github.com/championswimmer/vuex-persist)
 * [Delightful reading and tracking of your mangas](https://github.com/anshumanv/vueman.ga)
 * [Internationalization plugin for Vue.js](https://github.com/kazupon/vue-i18n)
+* [Minimalistic Vue-powered static site generator](https://github.com/vuejs/vuepress)
 
 ### :rocket: VIVID JS
 
