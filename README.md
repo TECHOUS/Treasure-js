@@ -883,8 +883,10 @@ A framework for building native apps with React
 Predictable state container for JavaScript apps
 
 * [GITHUB](https://github.com/reduxjs/redux)
-* [DEVDOCS](https://devdocs.io/redux/)
 * [WEBSITE](https://redux.js.org/)
+* [Official React bindings for Redux](https://github.com/reduxjs/react-redux)
+* [DOCS](https://redux.js.org/introduction/getting-started)
+* [DEVDOCS](https://devdocs.io/redux/)
 * [DevTools extension](https://github.com/zalmoxisus/redux-devtools-extension)
 * [higher order reducer to add undo/redo functionality to redux state containers](https://github.com/omnidan/redux-undo)
 * [An alternative side effect model for Redux apps](https://github.com/redux-saga/redux-saga)
