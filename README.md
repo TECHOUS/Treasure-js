@@ -275,6 +275,12 @@ D3.js is a JavaScript library for manipulating documents based on data. D3 helps
 * [D3 JS 3](https://devdocs.io/d3~3/)
 * [DATA VISUALIZATION](https://in.udacity.com/course/data-visualization-and-d3js--ud507)
 
+### :rocket: DAY JS
+
+Day.js 2KB immutable date library alternative to Moment.js with the same modern API
+
+* [GITHUB/DOCS](https://github.com/iamkun/dayjs)
+
 ### :rocket: DANGER JS
 
 Danger runs during your CI process, and gives teams the chance to automate common code review chores.
