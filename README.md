@@ -712,6 +712,12 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 * [Source for the Linode Developers Site (API v4 Docs)](https://github.com/linode/linode-api-docs)
 * [How to create a RESTful CRUD API using Nodejs?](https://github.com/adnanrahic/nodejs-restful-api)
 
+#### TAPE
+
+tap-producing test harness for node and browsers
+
+* [GITHUB](https://github.com/substack/tape)
+
 #### BROWSERIFY
 
 browser-side require() the node.js way
@@ -1102,6 +1108,12 @@ Underscore is a JavaScript library that provides a whole mess of useful function
 * [WEBSITE](https://underscorejs.org/)
 * [GITHUB](https://github.com/jashkenas/underscore)
 * [DOCS](https://devdocs.io/underscore/)
+
+### :rocket: UNPOLY
+
+Unobtrusive Javascript Framework for server-side applications
+
+* [GITHUB](https://github.com/unpoly/unpoly)
 
 ### :rocket: UMI JS
 
