@@ -47,6 +47,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 25. [Starter files, final projects and FAQ for my Complete JavaScript course](https://github.com/jonasschmedtmann/complete-javascript-course)
 26. [HTML5 drag & drop for humans](https://github.com/feross/drag-drop)
 27. [Cookbook for JavaScript for Automation in Mac OS X Yosemite](https://github.com/JXA-Cookbook/JXA-Cookbook)
+28. [Chrome Apps](https://github.com/GoogleChrome/chrome-app-samples)
 
 ### :rocket: VIDEOS
 
@@ -99,6 +100,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 31. [Hackable console logger](https://github.com/klaussinani/signale)
 32. [An extensible media player for the web](https://github.com/clappr/clappr)
 33. [A zero-configuration #0CJS developer toolkit for building WordPress Gutenberg block plugins.](https://github.com/ahmadawais/create-guten-block)
+34. [Official Now Builders created by the ZEIT team](https://github.com/zeit/now-builders)
 
 * MDX-based presentation decks
   * [GITHUB](https://github.com/jxnblk/mdx-deck)
@@ -702,6 +704,7 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 * [Serve static files](https://github.com/expressjs/serve-static)
 * [General purpose crypto utilities](https://github.com/hapijs/cryptiles)
 * [Source for the Linode Developers Site (API v4 Docs)](https://github.com/linode/linode-api-docs)
+* [How to create a RESTful CRUD API using Nodejs?](https://github.com/adnanrahic/nodejs-restful-api)
 
 #### BROWSERIFY
 
@@ -854,6 +857,7 @@ A JavaScript library for building user interfaces
 * [The Road to learn React: Your journey to master plain yet pragmatic React.js](https://github.com/the-road-to-learn-react/the-road-to-learn-react)
 * [Curated tutorial and resource links I've collected on React, Redux, ES6, and more](https://github.com/markerikson/react-redux-links)
 * [List of top 300 ReactJS Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
+* [React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
 
 #### REACT JS SAMPLES
 
@@ -1056,6 +1060,7 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 * [The markdown-based note-taking app](https://github.com/fabiospampinato/notable)
 * [CLIFlix](https://github.com/fabiospampinato/cliflix)
 * [The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More](https://github.com/grafana/grafana)
+* [Make images smaller using best-in-class codecs, right in the browser.](https://github.com/GoogleChromeLabs/squoosh)
 
 ### :rocket: TENSORFLOW JS
 
