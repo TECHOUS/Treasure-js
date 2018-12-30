@@ -1005,6 +1005,14 @@ Next-generation ES module bundler
 * [GITHUB](https://github.com/rollup/rollup)
 * [WEBSITE/DOCS](https://rollupjs.org/guide/en)
 
+### :rocket: RX JS
+
+RxJS is a library for reactive programming using Observables, to make it easier to compose asynchronous or callback-based code.
+
+* [GITHUB](https://github.com/ReactiveX/rxjs)
+* [WEBSITE](https://rxjs-dev.firebaseapp.com/)
+* [DOCS](https://rxjs-dev.firebaseapp.com/api)
+
 ### :rocket: STANDARD JS
 
 JavaScript Style Guide, with linter & automatic code fixer
