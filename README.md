@@ -832,6 +832,14 @@ Practical functional Javascript
 * [DOCS](https://ramdajs.com/docs/)
 * [DEVDOCS](https://devdocs.io/ramda/)
 
+### :rocket: RAPHAEL JS
+
+Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web. If you want to create your own specific chart or image crop and rotate widget, for example, you can achieve it simply and easily with this library.
+
+* [GITHUB](https://github.com/DmitryBaranovskiy/raphael)
+* [WEBSITE](http://dmitrybaranovskiy.github.io/raphael/)
+* [DOCS](http://dmitrybaranovskiy.github.io/raphael/reference.html)
+
 ### :rocket: REACT JS
 
 A JavaScript library for building user interfaces
@@ -950,13 +958,13 @@ An advanced Node.js driver for RebirthDB with a connection pool, support for str
 * [WEBSITE](https://rethinkdb.com/)
 * [DOCS](https://devdocs.io/rethinkdb~javascript/)
 
-### :rocket: RAPHAEL JS
+### :rocket: RIOT JS
 
-Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web. If you want to create your own specific chart or image crop and rotate widget, for example, you can achieve it simply and easily with this library.
+Simple and elegant component-based UI library
 
-* [GITHUB](https://github.com/DmitryBaranovskiy/raphael)
-* [WEBSITE](http://dmitrybaranovskiy.github.io/raphael/)
-* [DOCS](http://dmitrybaranovskiy.github.io/raphael/reference.html)
+* [GITHUB](https://github.com/riot/riot)
+* [WEBSITE](https://riot.js.org/)
+* [GUIDE/DOCS](https://riot.js.org/guide/)
 
 ### :rocket: ROLLUP JS
 
