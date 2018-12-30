@@ -256,6 +256,13 @@ Commander is a light-weight, expressive, and powerful command-line framework
 * [GITHUB](https://github.com/tj/commander.js)
 * [DOCS](http://tj.github.io/commander.js/)
 
+### :rocket: CLIPBOARD JS
+
+Modern copy to clipboard. No Flash. Just 3kb gzipped
+
+* [GITHUB](https://github.com/zenorocha/clipboard.js)
+* [WEBSITE/DOCS](https://clipboardjs.com/)
+
 ### :rocket: DISCORD JS
 
 A powerful JavaScript library for interacting with the Discord API
