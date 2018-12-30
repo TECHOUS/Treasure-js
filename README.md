@@ -480,6 +480,14 @@ A collection of common interactive command line user interfaces.
 * [GITHUB](https://github.com/SBoudrias/Inquirer.js)
 * [DOCS](https://github.com/SBoudrias/Inquirer.js#documentation)
 
+### :rocket: INFERNO JS
+
+Inferno is an insanely fast, React-like library for building high-performance user interfaces on both the client and server.
+
+* [GITHUB](https://github.com/infernojs/inferno)
+* [WEBSITE](https://infernojs.org/)
+* [DOCS](https://infernojs.org/docs/guides/getting-started)
+
 ### :rocket: JQUERY
 
 jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
@@ -902,6 +910,7 @@ A JavaScript library for building user interfaces
 * [Curated tutorial and resource links I've collected on React, Redux, ES6, and more](https://github.com/markerikson/react-redux-links)
 * [List of top 300 ReactJS Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 * [React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
+* [If you're like me, you're sick of all the ceremony around state management in React, you want something that fits in well with the React way of thinking, but doesn't command some crazy architecture and methodology.](https://github.com/jamiebuilds/unstated)
 
 #### REACT JS SAMPLES
 
