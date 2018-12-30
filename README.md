@@ -224,6 +224,14 @@ A React-based UI toolkit for the web
 * [WEBSITE](https://blueprintjs.com/)
 * [DOCS](https://blueprintjs.com/docs/)
 
+### :rocket: BLISSFUL JS
+
+Want to use Vanilla JS but find native APIs a bit unwieldy? Bliss is for you
+
+* [GITHUB](https://github.com/LeaVerou/bliss)
+* [WEBSITE](https://blissfuljs.com/)
+* [DOCS](https://blissfuljs.com/docs.html)
+
 ### :rocket: CANVAS JS
 
 Responsive HTML5 Charting Library with a Simple API and 10x Performance – makes your dashboards fly!
@@ -1250,6 +1258,8 @@ This is a set of libraries for instrumenting Node.js and browser applications. T
 * [YOU DON'T NEED MOMENT JS](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
 * [A tiny css in js library](https://github.com/sadick254/scoped-style)
 * [StaticGen.com, A leaderboard of top open-source static site generators](https://github.com/netlify/staticgen)
+* [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
+* [CASH](https://github.com/kenwheeler/cash)
 
 #### NETLIFY CMS
 
