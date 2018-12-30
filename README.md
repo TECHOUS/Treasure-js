@@ -766,6 +766,14 @@ Nuxt.js is a framework for creating Vue.js applications, you can choose between 
 * [DOCS](https://github.com/nuxt/docs)
 * [API](https://nuxtjs.org/api)
 
+### :rocket: P5 JS
+
+p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing
+
+* [GITHUB](https://github.com/processing/p5.js)
+* [WEBSITE](https://p5js.org/)
+* [DOCS](https://p5js.org/reference/)
+
 ### :rocket: PASSPORT JS
 
 Passport is authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application.
@@ -773,30 +781,6 @@ Passport is authentication middleware for Node.js. Extremely flexible and modula
 * [GITHUB](https://github.com/jaredhanson/passport)
 * [WEBSITE](http://www.passportjs.org/)
 * [DOCS](http://www.passportjs.org/docs/downloads/html/)
-
-### :rocket: PUG JS
-
-Pug – robust, elegant, feature rich template engine for Node.js
-
-* [WEBSITE/DOCS](https://pugjs.org/api/getting-started.html)
-* [GITHUB](https://github.com/pugjs/pug)
-* [OVERVIEW](https://devdocs.io/pug/)
-
-### :rocket: POI JS
-
-A zero-config bundler for JavaScript applications
-
-* [GITHUB](https://github.com/egoist/poi)
-* [WEBSITE](https://poi.js.org/)
-* [API/DOCS](https://poi.js.org/api.html)
-
-### :rocket: PUPPETEER JS
-
-Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium.
-
-* [WEBSITE/DOCS](https://pptr.dev/)
-* [GITHUB](https://github.com/GoogleChrome/puppeteer)
-* [DOCS](https://devdocs.io/puppeteer/)
 
 ### :rocket: PARTICLES JS
 
@@ -806,14 +790,6 @@ A lightweight JavaScript library for creating particles
 * [WEBSITE](https://vincentgarreau.com/particles.js/)
 * [TUTORIAL](https://www.youtube.com/watch?v=qK3cgD09Qf0)
 
-### :rocket: P5 JS
-
-p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing
-
-* [GITHUB](https://github.com/processing/p5.js)
-* [WEBSITE](https://p5js.org/)
-* [DOCS](https://p5js.org/reference/)
-
 ### :rocket: PLOTLY JS
 
 Open-source JavaScript charting library behind plot.ly and Dash
@@ -821,6 +797,38 @@ Open-source JavaScript charting library behind plot.ly and Dash
 * [GITHUB](https://github.com/plotly/plotly.js)
 * [WEBSITE](https://plot.ly/javascript/)
 * [DOCS](https://plot.ly/javascript/reference/)
+
+### :rocket: POI JS
+
+A zero-config bundler for JavaScript applications
+
+* [GITHUB](https://github.com/egoist/poi)
+* [WEBSITE](https://poi.js.org/)
+* [API/DOCS](https://poi.js.org/api.html)
+
+### :rocket: POPPER JS
+
+A KICKASS LIBRARY USED TO MANAGE POPPERS IN WEB APPLICATIONS
+
+* [GITHUB](https://github.com/FezVrasta/popper.js)
+* [WEBSITE](https://popper.js.org/)
+* [DOCS](https://popper.js.org/popper-documentation.html)
+
+### :rocket: PUG JS
+
+Pug – robust, elegant, feature rich template engine for Node.js
+
+* [WEBSITE/DOCS](https://pugjs.org/api/getting-started.html)
+* [GITHUB](https://github.com/pugjs/pug)
+* [OVERVIEW](https://devdocs.io/pug/)
+
+### :rocket: PUPPETEER JS
+
+Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium.
+
+* [WEBSITE/DOCS](https://pptr.dev/)
+* [GITHUB](https://github.com/GoogleChrome/puppeteer)
+* [DOCS](https://devdocs.io/puppeteer/)
 
 ### :rocket: Q
 
