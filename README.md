@@ -1211,6 +1211,7 @@ This is a set of libraries for instrumenting Node.js and browser applications. T
 
 * [YOU DON'T NEED MOMENT JS](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
 * [A tiny css in js library](https://github.com/sadick254/scoped-style)
+* [StaticGen.com, A leaderboard of top open-source static site generators](https://github.com/netlify/staticgen)
 
 #### NETLIFY CMS
 
@@ -1219,6 +1220,13 @@ A CMS for Static Site Generators
 * [GITHUB](https://github.com/netlify/netlify-cms)
 * [WEBSITE](https://www.netlifycms.org/)
 * [DOCS](https://www.netlifycms.org/docs/intro)
+
+#### METALSMITH
+
+An extremely simple, pluggable static site generator.
+
+* [GITHUB](https://github.com/segmentio/metalsmith)
+* [WEBSITE](https://metalsmith.io/)
 
 #### GRAY MATTER
   
