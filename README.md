@@ -1087,6 +1087,13 @@ A JavaScript library for training and deploying ML models in the browser and on 
 * [Tensorflow in 7 minutes](https://medium.freecodecamp.org/get-to-know-tensorflow-js-in-7-minutes-afcd0dfd3d2f)
 * [TensorFlow.js Cheetsheet](https://towardsdatascience.com/50-tensorflow-js-api-explained-in-5-minutes-tensorflow-js-cheetsheet-4f8c7f9cc8b2)
 
+### :rocket: TETHER
+
+Tether is a small, focused JavaScript library for defining and managing the position of user interface (UI) elements in relation to one another on a web page. It is a tool for web developers building features that require certain UI elements to be precisely positioned based on the location of another UI element.
+
+* [GITHUB](https://github.com/HubSpot/tether)
+* [WEBSITE](http://tether.io/docs/welcome/)
+
 ### :rocket: THEIA
 
 Theia is an extensible platform to develop full-fledged multi-language Cloud & Desktop IDE-like products with state-of-the-art web technologies.
