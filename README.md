@@ -64,6 +64,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 ### :rocket: PWA - Progrssive Web Apps
 
 * [sample 1](https://github.com/aviaryan/todo-pwa-workshop)
+* [Auditing, performance metrics, and best practices for Progressive Web Apps](https://github.com/GoogleChrome/lighthouse)
 
 ### :rocket: OTHER EXAMPLES
 
@@ -1209,6 +1210,15 @@ This is a set of libraries for instrumenting Node.js and browser applications. T
 ### :rocket: MISC
 
 * [YOU DON'T NEED MOMENT JS](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
+* [A tiny css in js library](https://github.com/sadick254/scoped-style)
+
+#### NETLIFY CMS
+
+A CMS for Static Site Generators
+
+* [GITHUB](https://github.com/netlify/netlify-cms)
+* [WEBSITE](https://www.netlifycms.org/)
+* [DOCS](https://www.netlifycms.org/docs/intro)
 
 #### GRAY MATTER
   
