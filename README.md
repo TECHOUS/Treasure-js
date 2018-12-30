@@ -1229,6 +1229,13 @@ A dynamic, browser based visualization library. The library is designed to be ea
   * [GRAPH 3D](http://visjs.org/docs/graph3d/)
   * [DATASET](http://visjs.org/docs/data/)
 
+### :rocket: VOCA JS
+
+The Voca library offers helpful functions to make string manipulations comfortable: change case, trim, pad, slugify, latinise, sprintf'y, truncate, escape and much more. The modular design allows to load the entire library, or individual functions to minimize the application builds.
+
+* [GITHUB](https://github.com/panzerdp/voca)
+* [WEBSITE/DOCS](https://vocajs.com/)
+
 ### :rocket: WARRIOR JS
 
 An exciting game of programming and Artificial Intelligence
