@@ -1125,6 +1125,14 @@ Theia is an extensible platform to develop full-fledged multi-language Cloud & D
 * [WEBSITE](https://www.theia-ide.org/)
 * [DOCS](https://www.theia-ide.org/doc/index.html)
 
+### :rocket: UMBRELLA JS
+
+Lightweight javascript library for DOM manipulation and events
+
+* [GITHUB](https://github.com/franciscop/umbrella)
+* [WEBSITE](https://umbrellajs.com/)
+* [DOCS](https://umbrellajs.com/documentation)
+
 ### :rocket: UGLIFY JS
 
 JavaScript parser / mangler / compressor / beautifier toolkit
