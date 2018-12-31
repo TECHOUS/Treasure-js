@@ -328,6 +328,7 @@ Express is a minimal and flexible Node.js web application framework that provide
 * [DOCS](https://expressjs.com/en/guide/routing.html)
 * [Express JS](https://www.javatpoint.com/expressjs-tutorial)
 * [DOCS](https://devdocs.io/express/)
+* [A sample express environment that is well architected for scale](https://github.com/kelyvin/express-env-example)
 
 ### :rocket: EMBER JS
 
@@ -911,6 +912,7 @@ A JavaScript library for building user interfaces
 * [List of top 300 ReactJS Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 * [React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
 * [If you're like me, you're sick of all the ceremony around state management in React, you want something that fits in well with the React way of thinking, but doesn't command some crazy architecture and methodology.](https://github.com/jamiebuilds/unstated)
+* [React components for building experiences for Office and Office 365](https://github.com/OfficeDev/office-ui-fabric-react)
 
 #### REACT JS SAMPLES
 
@@ -1327,6 +1329,13 @@ PostCSS is a tool for transforming styles with JS plugins. These plugins can lin
 * [GITHUB](https://github.com/postcss/postcss)
 * [WEBSITE](https://postcss.org/)
 * [DOCS](https://github.com/postcss/postcss/tree/master/docs)
+
+#### now builders
+
+Official Now Builders created by the ZEIT team
+
+* [GITHUB](https://github.com/zeit/now-builders)
+* [DOCS](https://zeit.co/docs)
 
 ## CONTRIBUTION
 
