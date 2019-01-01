@@ -329,6 +329,7 @@ Express is a minimal and flexible Node.js web application framework that provide
 * [Express JS](https://www.javatpoint.com/expressjs-tutorial)
 * [DOCS](https://devdocs.io/express/)
 * [A sample express environment that is well architected for scale](https://github.com/kelyvin/express-env-example)
+* [connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes](https://github.com/auth0/express-jwt)
 
 ### :rocket: EMBER JS
 
@@ -876,6 +877,7 @@ Raphaël is a small JavaScript library that should simplify your work with vecto
 
 A JavaScript library for building user interfaces
 
+* [a cheatsheet for react users using typescript with react for the first (or nth!) time](https://github.com/sw-yx/react-typescript-cheatsheet)
 * [WEBSITE](https://reactjs.org/)
 * [DOCS](https://reactjs.org/docs/getting-started.html)
 * [GITHUB](https://github.com/facebook/react/)
