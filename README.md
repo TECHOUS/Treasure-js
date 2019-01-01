@@ -915,6 +915,8 @@ A JavaScript library for building user interfaces
 * [React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
 * [If you're like me, you're sick of all the ceremony around state management in React, you want something that fits in well with the React way of thinking, but doesn't command some crazy architecture and methodology.](https://github.com/jamiebuilds/unstated)
 * [React components for building experiences for Office and Office 365](https://github.com/OfficeDev/office-ui-fabric-react)
+* [Simple and complete React DOM testing utilities that encourage good testing practices](https://github.com/kentcdodds/react-testing-library)
+* [JavaScript Testing utilities for React](https://github.com/airbnb/enzyme)
 
 #### REACT JS SAMPLES
 
