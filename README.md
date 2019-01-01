@@ -490,6 +490,14 @@ Inferno is an insanely fast, React-like library for building high-performance us
 * [WEBSITE](https://infernojs.org/)
 * [DOCS](https://infernojs.org/docs/guides/getting-started)
 
+### :rocket: ISTANBUL JS
+
+Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests and browser tests. Built for scale.
+
+* [GITHUB](https://github.com/istanbuljs/istanbuljs)
+* [WEBSITE](https://istanbul.js.org/)
+* [TUTORIAL](https://istanbul.js.org/docs/tutorials/)
+
 ### :rocket: JQUERY
 
 jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
