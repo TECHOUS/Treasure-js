@@ -32,7 +32,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 10. [Javascript Tutorial](https://www.javatpoint.com/javascript-tutorial)
 11. [30 SECONDS OF CODE](https://github.com/30-seconds/30-seconds-of-code)
 12. [33 JS CONCEPTS](https://github.com/leonardomso/33-js-concepts)
-13. [INTRODCTION TO JAVASCRIPT](https://in.udacity.com/course/intro-to-javascript--ud803-india)
+13. [INTRODUCTION TO JAVASCRIPT](https://in.udacity.com/course/intro-to-javascript--ud803-india)
 14. [OBJECT ORIENTED JAVASCRIPT](https://in.udacity.com/course/object-oriented-javascript--ud015)
 15. [JAVASCRIPT PROMISES](https://in.udacity.com/course/javascript-promises--ud898)
 16. [ES6-JAVASCRIPT IMPROVED](https://in.udacity.com/course/es6-javascript-improved--ud356)
@@ -130,6 +130,14 @@ git clone https://github.com/TechOUs/Treasure-js.git
 
 * [2018 edition of our front-end development handbook](https://github.com/FrontendMasters/front-end-handbook-2018)
 
+### :rocket: AMPLIFYJS
+
+A declarative JavaScript library for application development using cloud services
+
+* [GITHUB](https://github.com/aws-amplify/amplify-js)
+* [WEBSITE](https://aws-amplify.github.io/)
+* [DOCS](https://aws-amplify.github.io/docs/)
+
 ### :rocket: ANGULAR JS
 
 One framework. Mobile & desktop.
@@ -161,14 +169,6 @@ JavaScript Animation Engine
 * [DOCS](http://animejs.com/documentation/)
 * [INTRO TUTORIAL](https://www.youtube.com/watch?v=g7WnZ9hxUak)
 
-### :rocket: AMPLIFYJS
-
-A declarative JavaScript library for application development using cloud services
-
-* [GITHUB](https://github.com/aws-amplify/amplify-js)
-* [WEBSITE](https://aws-amplify.github.io/)
-* [DOCS](https://aws-amplify.github.io/docs/)
-
 ### :rocket: AURELIA JS
 
 The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building platform.
@@ -176,6 +176,18 @@ The aurelia framework brings together all the required core aurelia libraries in
 * [GITHUB](https://github.com/aurelia/framework)
 * [WEBSITE](https://aurelia.io/)
 * [DOCS](https://aurelia.io/docs)
+
+### :rocket: BABEL JS
+
+Babel is a compiler for writing next generation JavaScript
+
+* [WEBSITE](https://babeljs.io/)
+* [DOCS](https://babeljs.io/docs/en/)
+* [GITHUB](https://github.com/babel/babel)
+* [Webpack plugin](https://github.com/babel/babel-loader)
+* [Compiles React.js components into native DOM instructions to eliminate the need for the react library at runtime.](https://github.com/sokra/rawact)
+* [Pre-evaluate code at build-time](https://github.com/kentcdodds/babel-plugin-preval)
+* [Super-fast alternative for babel written in rust](https://github.com/swc-project/swc)
 
 ### :rocket: BACKBONE JS
 
@@ -187,6 +199,29 @@ Backbone.js gives structure to web applications by providing models with key-val
 * [Backbone JS](https://www.javatpoint.com/backbonejs-tutorial)
 * [LEARN BACKBONE JS](https://in.udacity.com/course/learn-backbonejs--ud990)
 * [DOCS](https://devdocs.io/backbone/)
+
+### :rocket: BLISSFUL JS
+
+Want to use Vanilla JS but find native APIs a bit unwieldy? Bliss is for you
+
+* [GITHUB](https://github.com/LeaVerou/bliss)
+* [WEBSITE](https://blissfuljs.com/)
+* [DOCS](https://blissfuljs.com/docs.html)
+
+### :rocket: BLUEBIRD JS
+
+Bluebird is a full featured promise library with unmatched performance.
+
+* [GITHUB](https://github.com/petkaantonov/bluebird)
+* [WEBSITE/DOCS](http://bluebirdjs.com/docs/getting-started.html)
+
+### :rocket: BLUEPRINT JS
+
+A React-based UI toolkit for the web
+
+* [GITHUB](https://github.com/palantir/blueprint)
+* [WEBSITE](https://blueprintjs.com/)
+* [DOCS](https://blueprintjs.com/docs/)
 
 ### :rocket: BOOTSTRAP
 
@@ -204,57 +239,6 @@ Build responsive, mobile-first projects on the web with the world's most popular
 * [Bootstrap Tutorial](https://www.javatpoint.com/bootstrap-tutorial)
 * [BootstrapVue provides one of the most comprehensive implementations of Bootstrap 4 components and grid system for Vue.js and with extensive and automated WAI-ARIA accessibility markup.](https://github.com/bootstrap-vue/bootstrap-vue)
 
-### :rocket: BABEL JS
-
-Babel is a compiler for writing next generation JavaScript
-
-* [WEBSITE](https://babeljs.io/)
-* [DOCS](https://babeljs.io/docs/en/)
-* [GITHUB](https://github.com/babel/babel)
-* [Webpack plugin](https://github.com/babel/babel-loader)
-* [Compiles React.js components into native DOM instructions to eliminate the need for the react library at runtime.](https://github.com/sokra/rawact)
-* [Pre-evaluate code at build-time](https://github.com/kentcdodds/babel-plugin-preval)
-* [Super-fast alternative for babel written in rust](https://github.com/swc-project/swc)
-
-### :rocket: BLUEPRINT JS
-
-A React-based UI toolkit for the web
-
-* [GITHUB](https://github.com/palantir/blueprint)
-* [WEBSITE](https://blueprintjs.com/)
-* [DOCS](https://blueprintjs.com/docs/)
-
-### :rocket: BLUEBIRD JS
-
-Bluebird is a full featured promise library with unmatched performance.
-
-* [GITHUB](https://github.com/petkaantonov/bluebird)
-* [WEBSITE/DOCS](http://bluebirdjs.com/docs/getting-started.html)
-
-### :rocket: BLISSFUL JS
-
-Want to use Vanilla JS but find native APIs a bit unwieldy? Bliss is for you
-
-* [GITHUB](https://github.com/LeaVerou/bliss)
-* [WEBSITE](https://blissfuljs.com/)
-* [DOCS](https://blissfuljs.com/docs.html)
-
-### :rocket: CANVAS JS
-
-Responsive HTML5 Charting Library with a Simple API and 10x Performance – makes your dashboards fly!
-
-* [WEBSITE](https://canvasjs.com/)
-* [DOCS](https://canvasjs.com/docs/charts/basics-of-creating-html5-chart/)
-* [GITHUB](https://github.com/tsur/canvasjs)
-
-### :rocket: CODECEPT JS
-
-Modern Era Acceptance Testing Framework
-
-* [GITHUB](https://github.com/codeception/codeceptjs/)
-* [WEBSITE](https://codecept.io/)
-* [DOCS](https://codecept.io/basics/)
-
 ### :rocket: CAMAN JS
 
 CamanJS is (ca)nvas (man)ipulation in Javascript. It's a combination of a simple-to-use interface with advanced and efficient image/canvas editing techniques.
@@ -264,12 +248,13 @@ CamanJS is (ca)nvas (man)ipulation in Javascript. It's a combination of a simple
 * [GITHUB](https://github.com/meltingice/CamanJS/)
 * [DOCS](http://camanjs.com/docs/)
 
-### :rocket: COMMANDER JS
+### :rocket: CANVAS JS
 
-Commander is a light-weight, expressive, and powerful command-line framework
+Responsive HTML5 Charting Library with a Simple API and 10x Performance – makes your dashboards fly!
 
-* [GITHUB](https://github.com/tj/commander.js)
-* [DOCS](http://tj.github.io/commander.js/)
+* [WEBSITE](https://canvasjs.com/)
+* [DOCS](https://canvasjs.com/docs/charts/basics-of-creating-html5-chart/)
+* [GITHUB](https://github.com/tsur/canvasjs)
 
 ### :rocket: CLIPBOARD JS
 
@@ -278,13 +263,20 @@ Modern copy to clipboard. No Flash. Just 3kb gzipped
 * [GITHUB](https://github.com/zenorocha/clipboard.js)
 * [WEBSITE/DOCS](https://clipboardjs.com/)
 
-### :rocket: DISCORD JS
+### :rocket: CODECEPT JS
 
-A powerful JavaScript library for interacting with the Discord API
+Modern Era Acceptance Testing Framework
 
-* [GITHUB](https://github.com/discordjs/discord.js)
-* [WEBSITE](https://discord.js.org/#/)
-* [DOCS](https://discord.js.org/#/docs/main/stable/general/welcome)
+* [GITHUB](https://github.com/codeception/codeceptjs/)
+* [WEBSITE](https://codecept.io/)
+* [DOCS](https://codecept.io/basics/)
+
+### :rocket: COMMANDER JS
+
+Commander is a light-weight, expressive, and powerful command-line framework
+
+* [GITHUB](https://github.com/tj/commander.js)
+* [DOCS](http://tj.github.io/commander.js/)
 
 ### :rocket: D3 JS
 
@@ -312,6 +304,20 @@ Danger runs during your CI process, and gives teams the chance to automate commo
 * [WEBSITE](https://danger.systems/js/)
 * [DOCS](https://danger.systems/js/usage.html)
 
+### :rocket: DISCORD JS
+
+A powerful JavaScript library for interacting with the Discord API
+
+* [GITHUB](https://github.com/discordjs/discord.js)
+* [WEBSITE](https://discord.js.org/#/)
+* [DOCS](https://discord.js.org/#/docs/main/stable/general/welcome)
+
+### :rocket: DOTDOM
+
+.dom is a tiny (511 byte) template engine that uses virtual DOM and some of react principles
+
+* [GITHUB](https://github.com/wavesoft/dot-dom)
+
 ### :rocket: DRAFT JS
 
 Draft.js is a framework for building rich text editors in React, powered by an immutable model and abstracting over cross-browser differences.
@@ -320,23 +326,17 @@ Draft.js is a framework for building rich text editors in React, powered by an i
 * [WEBSITE](https://draftjs.org/)
 * [DOCS](https://draftjs.org/docs/getting-started)
 
-### :rocket: DOTDOM
+### :rocket: ELECTRON JS
 
-.dom is a tiny (511 byte) template engine that uses virtual DOM and some of react principles
+Build cross platform desktop apps with JavaScript, HTML, and CSS
 
-* [GITHUB](https://github.com/wavesoft/dot-dom)
-
-### :rocket: EXPRESS JS
-
-Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
-
-* [WEBSITE](https://expressjs.com/)
-* [GITHUB](https://github.com/expressjs/expressjs.com)
-* [DOCS](https://expressjs.com/en/guide/routing.html)
-* [Express JS](https://www.javatpoint.com/expressjs-tutorial)
-* [DOCS](https://devdocs.io/express/)
-* [A sample express environment that is well architected for scale](https://github.com/kelyvin/express-env-example)
-* [connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes](https://github.com/auth0/express-jwt)
+* [WEBSITE](https://electronjs.org/)
+* [GITHUB](https://github.com/electron/electron)
+* [DOCS](https://electronjs.org/docs)
+* [Lightweight update server](https://github.com/zeit/hazel)
+* [SPECTRON](https://github.com/electron/spectron)
+* [Collection of Apps build on electron](https://github.com/electron/apps)
+* [DOCS](https://devdocs.io/electron/)
 
 ### :rocket: EMBER JS
 
@@ -358,17 +358,17 @@ Emotion is a performant and flexible CSS-in-JS library
 * [WEBSITE](https://emotion.sh/)
 * [DOCS](https://emotion.sh/docs/introduction)
 
-### :rocket: ELECTRON JS
+### :rocket: EXPRESS JS
 
-Build cross platform desktop apps with JavaScript, HTML, and CSS
+Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
 
-* [WEBSITE](https://electronjs.org/)
-* [GITHUB](https://github.com/electron/electron)
-* [DOCS](https://electronjs.org/docs)
-* [Lightweight update server](https://github.com/zeit/hazel)
-* [SPECTRON](https://github.com/electron/spectron)
-* [Collection of Apps build on electron](https://github.com/electron/apps)
-* [DOCS](https://devdocs.io/electron/)
+* [WEBSITE](https://expressjs.com/)
+* [GITHUB](https://github.com/expressjs/expressjs.com)
+* [DOCS](https://expressjs.com/en/guide/routing.html)
+* [Express JS](https://www.javatpoint.com/expressjs-tutorial)
+* [DOCS](https://devdocs.io/express/)
+* [A sample express environment that is well architected for scale](https://github.com/kelyvin/express-env-example)
+* [connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes](https://github.com/auth0/express-jwt)
 
 ### :rocket: FABRIC JS
 
@@ -385,6 +385,14 @@ JavaScript API for face detection and face recognition in the browser and nodejs
 * [GITHUB](https://github.com/justadudewhohacks/face-api.js)
 * [DOCS](https://justadudewhohacks.github.io/face-api.js/docs/globals.html)
 
+### :rocket: FEATHERS JS
+
+A REST and realtime API layer for modern applications
+
+* [GITHUB](https://github.com/feathersjs/feathers)
+* [WEBSITE](https://feathersjs.com/)
+* [DOCS](http://docs.feathersjs.com/)
+
 ### :rocket: FIVE JS
 
 A library to overcomplicate 5
@@ -400,28 +408,12 @@ Modular JavaScript framework for building scalable and reactive applications
 * [WEBSITE](https://frint.js.org/)
 * [DOCS](https://frint.js.org/docs)
 
-### :rocket: FEATHERS JS
-
-A REST and realtime API layer for modern applications
-
-* [GITHUB](https://github.com/feathersjs/feathers)
-* [WEBSITE](https://feathersjs.com/)
-* [DOCS](http://docs.feathersjs.com/)
-
 ### :rocket: FUSE JS
 
 Lightweight fuzzy-search
 
 * [GITHUB](https://github.com/krisk/Fuse)
 * [WEBSITE](http://fusejs.io/)
-
-### :rocket: GREENSOCK JS
-
-GreenSock's GSAP JavaScript animation library (including Draggable)
-
-* [GITHUB](https://github.com/greensock/GreenSock-JS)
-* [WEBSITE](https://greensock.com/)
-* [DOCS](https://greensock.com/docs)
 
 ### :rocket: GATBYJS
 
@@ -431,6 +423,14 @@ Gatsby lets you build blazing fast sites with your data, whatever the source. Li
 * [WEBSITE](https://www.gatsbyjs.org/)
 * [DOCS](https://www.gatsbyjs.org/docs/)
 
+### :rocket: GREENSOCK JS
+
+GreenSock's GSAP JavaScript animation library (including Draggable)
+
+* [GITHUB](https://github.com/greensock/GreenSock-JS)
+* [WEBSITE](https://greensock.com/)
+* [DOCS](https://greensock.com/docs)
+
 ### :rocket: GRUNT JS
 
 The JavaScript Task Runner
@@ -438,6 +438,14 @@ The JavaScript Task Runner
 * [WEBSITE](https://gruntjs.com/)
 * [GITHUB](https://github.com/gruntjs/grunt)
 * [DOCS](https://gruntjs.com/getting-started)
+
+### :rocket: HANDLEBARS JS
+
+Handlebars provides the power necessary to let you build semantic templates effectively with no frustration.
+
+* [GITHUB](https://github.com/wycats/handlebars.js/)
+* [WEBSITE](https://handlebarsjs.com/)
+* [DOCS](https://handlebarsjs.com/reference.html)
 
 ### :rocket: HELMET JS
 
@@ -454,25 +462,17 @@ JavaScript HLS client using Media Source Extension
 * [GITHUB](https://github.com/video-dev/hls.js)
 * [WEBSITE](https://hls-js.netlify.com/demo/)
 
-### :rocket: HANDLEBARS JS
+### :rocket: HTM
 
-Handlebars provides the power necessary to let you build semantic templates effectively with no frustration.
+Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 
-* [GITHUB](https://github.com/wycats/handlebars.js/)
-* [WEBSITE](https://handlebarsjs.com/)
-* [DOCS](https://handlebarsjs.com/reference.html)
+* [GITHUB](https://github.com/developit/htm)
 
 ### :rocket: HYPERAPP
 
 1 kB JavaScript micro-framework for building declarative web applications
 
 * [GITHUB](https://github.com/jorgebucaran/hyperapp)
-
-### :rocket: HTM
-
-Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
-
-* [GITHUB](https://github.com/developit/htm)
 
 ### :rocket: IMMUTABLE JS
 
@@ -482,13 +482,6 @@ Immutable.js provides many Persistent Immutable data structures including: List,
 * [WEBSITE](https://facebook.github.io/immutable-js/)
 * [DOCS](https://facebook.github.io/immutable-js/docs/#/)
 
-### :rocket: INQUIRER JS
-
-A collection of common interactive command line user interfaces.
-
-* [GITHUB](https://github.com/SBoudrias/Inquirer.js)
-* [DOCS](https://github.com/SBoudrias/Inquirer.js#documentation)
-
 ### :rocket: INFERNO JS
 
 Inferno is an insanely fast, React-like library for building high-performance user interfaces on both the client and server.
@@ -497,6 +490,13 @@ Inferno is an insanely fast, React-like library for building high-performance us
 * [WEBSITE](https://infernojs.org/)
 * [DOCS](https://infernojs.org/docs/guides/getting-started)
 
+### :rocket: INQUIRER JS
+
+A collection of common interactive command line user interfaces.
+
+* [GITHUB](https://github.com/SBoudrias/Inquirer.js)
+* [DOCS](https://github.com/SBoudrias/Inquirer.js#documentation)
+
 ### :rocket: ISTANBUL JS
 
 Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests and browser tests. Built for scale.
@@ -504,19 +504,6 @@ Yet another JS code coverage tool that computes statement, line, function and br
 * [GITHUB](https://github.com/istanbuljs/istanbuljs)
 * [WEBSITE](https://istanbul.js.org/)
 * [TUTORIAL](https://istanbul.js.org/docs/tutorials/)
-
-### :rocket: JQUERY
-
-jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
-
-* [WEBSITE](http://jquery.com/)
-* [GITHUB](https://github.com/jquery/jquery)
-* [DOCS](https://api.jquery.com/)
-* [W3 SCHOOLS](https://www.w3schools.com/jquery/default.asp)
-* [Introduction to Jquery](https://www.edx.org/course/introduction-to-jquery-1)
-* [Jquery Tutorial](https://www.javatpoint.com/jquery-tutorial)
-* [Jquery UI](https://www.javatpoint.com/jquery-ui-tutorial)
-* [INTRODUCTION TO JQUERY](https://in.udacity.com/course/intro-to-jquery--ud245)
 
 ### :rocket: JASMINE
 
@@ -534,6 +521,19 @@ Delightful JavaScript Testing
 * [GITHUB](https://github.com/facebook/jest)
 * [DOCS](https://jestjs.io/docs/en/getting-started)
 
+### :rocket: JQUERY
+
+jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
+
+* [WEBSITE](http://jquery.com/)
+* [GITHUB](https://github.com/jquery/jquery)
+* [DOCS](https://api.jquery.com/)
+* [W3 SCHOOLS](https://www.w3schools.com/jquery/default.asp)
+* [Introduction to Jquery](https://www.edx.org/course/introduction-to-jquery-1)
+* [Jquery Tutorial](https://www.javatpoint.com/jquery-tutorial)
+* [Jquery UI](https://www.javatpoint.com/jquery-ui-tutorial)
+* [INTRODUCTION TO JQUERY](https://in.udacity.com/course/intro-to-jquery--ud245)
+
 ### :rocket: JSZIP
 
 Create, read and edit .zip files with Javascript
@@ -549,6 +549,15 @@ Run Keras models in the browser, with GPU support using WebGL
 * [GITHUB](https://github.com/transcranial/keras-js)
 * [WEBSITE/DOCS](https://transcranial.github.io/keras-js/#/)
 
+### :rocket: KNOCKOUT JS
+
+Knockout is a JavaScript library that helps you to create rich, responsive display and editor user interfaces with a clean underlying data model. Any time you have sections of UI that update dynamically (e.g., changing depending on the user’s actions or when an external data source changes), KO can help you implement it more simply and maintainably.
+
+* [GITHUB](https://github.com/knockout/knockout)
+* [WEBSITE](https://knockoutjs.com/)
+* [DOCS](https://knockoutjs.com/documentation/introduction.html)
+* [DEVDOCS](https://devdocs.io/knockout/)
+
 ### :rocket: KOA JS
 
 Koa is a new web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs. By leveraging async functions, Koa allows you to ditch callbacks and greatly increase error-handling. Koa does not bundle any middleware within its core, and it provides an elegant suite of methods that make writing servers fast and enjoyable.
@@ -559,22 +568,6 @@ Koa is a new web framework designed by the team behind Express, which aims to be
 * [CRASH COURSE](https://www.youtube.com/watch?v=z84uTk5zmak)
 * [DEVDOCS](https://devdocs.io/koa/)
 * [Tutorials](https://www.tutorialspoint.com/koajs/)
-
-### :rocket: KNOCKOUT JS
-
-Knockout is a JavaScript library that helps you to create rich, responsive display and editor user interfaces with a clean underlying data model. Any time you have sections of UI that update dynamically (e.g., changing depending on the user’s actions or when an external data source changes), KO can help you implement it more simply and maintainably.
-
-* [GITHUB](https://github.com/knockout/knockout)
-* [WEBSITE](https://knockoutjs.com/)
-* [DOCS](https://knockoutjs.com/documentation/introduction.html)
-* [DEVDOCS](https://devdocs.io/knockout/)
-
-### :rocket: LERNA
-
-A tool for managing JavaScript projects with multiple packages.
-
-* [GITHUB](https://github.com/lerna/lerna)
-* [WEBSITE/DOCS](https://lernajs.io/)
 
 ### :rocket: LEAFLET JS
 
@@ -588,6 +581,13 @@ Leaflet is the leading open-source JavaScript library for mobile-friendly intera
 * [DOCS 1.1](https://devdocs.io/leaflet~1.1/)
 * [DOCS 1.0](https://devdocs.io/leaflet~1.0/)
 
+### :rocket: LERNA
+
+A tool for managing JavaScript projects with multiple packages.
+
+* [GITHUB](https://github.com/lerna/lerna)
+* [WEBSITE/DOCS](https://lernajs.io/)
+
 ### :rocket: LODASH
 
 A modern JavaScript utility library delivering modularity, performance & extras.
@@ -599,18 +599,18 @@ A modern JavaScript utility library delivering modularity, performance & extras.
 * [DOCS 3](https://devdocs.io/lodash~3/)
 * [DOCS 2](https://devdocs.io/lodash~2/)
 
-### :rocket: MAMMOTH JS
-
-Convert Word documents (.docx files) to HTML
-
-* [GITHUB](https://github.com/mwilliamson/mammoth.js)
-
 ### :rocket: MAILGUN JS
 
 A simple Node.js helper module for Mailgun API.
 
 * [GITHUB](https://github.com/bojand/mailgun-js)
 * [WEBSITE/DOCS](http://bojand.github.io/mailgun-js/#/)
+
+### :rocket: MAMMOTH JS
+
+Convert Word documents (.docx files) to HTML
+
+* [GITHUB](https://github.com/mwilliamson/mammoth.js)
 
 ### :rocket: MAPBOX GL JS
 
@@ -673,13 +673,13 @@ A Javascript Framework for Building Brilliant Applications
 * [GITHUB](https://github.com/MithrilJS/mithril.js)
 * [WEBSITE/DOCS](https://mithril.js.org/)
 
-### :rocket: MOMENT JS
+### :rocket: MOBX JS
 
-Parse, validate, manipulate, and display dates in javascript
+MobX is proudly sponsored by Mendix, Coinbase, Canva, Facebook Open Source, Algolia, Guilded and many individual sponsors
 
-* [WEBSITE](http://momentjs.com/)
-* [GITHUB](https://github.com/moment/moment/)
-* [DOCS](https://devdocs.io/moment/)
+* [GITHUB](https://github.com/mobxjs/mobx)
+* [WEBSITE](https://mobx.js.org/)
+* [DOCS](https://mobx.js.org/refguide/api.html)
 
 ### :rocket: MOCHA JS
 
@@ -695,6 +695,14 @@ Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the us
 * [WEBSITE](https://modernizr.com/)
 * [DOCS](https://devdocs.io/modernizr/)
 
+### :rocket: MOMENT JS
+
+Parse, validate, manipulate, and display dates in javascript
+
+* [WEBSITE](http://momentjs.com/)
+* [GITHUB](https://github.com/moment/moment/)
+* [DOCS](https://devdocs.io/moment/)
+
 ### :rocket: MONGOOSE
 
 MongoDB object modeling designed to work in an asynchronous environment
@@ -703,13 +711,17 @@ MongoDB object modeling designed to work in an asynchronous environment
 * [GITHUB](https://github.com/Automattic/mongoose/)
 * [DOCS](https://devdocs.io/mongoose/)
 
-### :rocket: MOBX JS
+### :rocket: NEXT JS
 
-MobX is proudly sponsored by Mendix, Coinbase, Canva, Facebook Open Source, Algolia, Guilded and many individual sponsors
+The React Framework
 
-* [GITHUB](https://github.com/mobxjs/mobx)
-* [WEBSITE](https://mobx.js.org/)
-* [DOCS](https://mobx.js.org/refguide/api.html)
+* [WEBSITE](https://nextjs.org/)
+* [DOCS](https://nextjs.org/docs/)
+* [GITHUB](https://github.com/zeit/next.js)
+* [NEXT APP](https://github.com/segmentio/create-next-app)
+* [Redux wrapper for Next.js](https://github.com/kirill-konshin/next-redux-wrapper)
+* [NEXT PLUGINS](https://github.com/zeit/next-plugins)
+* [nextjs starter project](https://github.com/me-io/nextjs-starter)
 
 ### :rocket: NODE JS
 
@@ -779,18 +791,6 @@ npm is the package manager for JavaScript and the world’s largest software reg
 * [GREENLET](https://github.com/developit/greenlet)
 * [AUTOSSH](https://github.com/samueleaton/autossh)
 
-### :rocket: NEXT JS
-
-The React Framework
-
-* [WEBSITE](https://nextjs.org/)
-* [DOCS](https://nextjs.org/docs/)
-* [GITHUB](https://github.com/zeit/next.js)
-* [NEXT APP](https://github.com/segmentio/create-next-app)
-* [Redux wrapper for Next.js](https://github.com/kirill-konshin/next-redux-wrapper)
-* [NEXT PLUGINS](https://github.com/zeit/next-plugins)
-* [nextjs starter project](https://github.com/me-io/nextjs-starter)
-
 ### :rocket: NUXT JS
 
 Nuxt.js is a framework for creating Vue.js applications, you can choose between Universal, Static Generated or Single Page application.
@@ -808,14 +808,6 @@ p5.js is a client-side JS platform that empowers artists, designers, students, a
 * [WEBSITE](https://p5js.org/)
 * [DOCS](https://p5js.org/reference/)
 
-### :rocket: PASSPORT JS
-
-Passport is authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application.
-
-* [GITHUB](https://github.com/jaredhanson/passport)
-* [WEBSITE](http://www.passportjs.org/)
-* [DOCS](http://www.passportjs.org/docs/downloads/html/)
-
 ### :rocket: PARTICLES JS
 
 A lightweight JavaScript library for creating particles
@@ -824,6 +816,14 @@ A lightweight JavaScript library for creating particles
 * [WEBSITE](https://vincentgarreau.com/particles.js/)
 * [TUTORIAL](https://www.youtube.com/watch?v=qK3cgD09Qf0)
 
+### :rocket: PASSPORT JS
+
+Passport is authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application.
+
+* [GITHUB](https://github.com/jaredhanson/passport)
+* [WEBSITE](http://www.passportjs.org/)
+* [DOCS](http://www.passportjs.org/docs/downloads/html/)
+
 ### :rocket: PLOTLY JS
 
 Open-source JavaScript charting library behind plot.ly and Dash
@@ -831,6 +831,14 @@ Open-source JavaScript charting library behind plot.ly and Dash
 * [GITHUB](https://github.com/plotly/plotly.js)
 * [WEBSITE](https://plot.ly/javascript/)
 * [DOCS](https://plot.ly/javascript/reference/)
+
+### :rocket: PUG JS
+
+Pug – robust, elegant, feature rich template engine for Node.js
+
+* [WEBSITE/DOCS](https://pugjs.org/api/getting-started.html)
+* [GITHUB](https://github.com/pugjs/pug)
+* [OVERVIEW](https://devdocs.io/pug/)
 
 ### :rocket: POI JS
 
@@ -847,14 +855,6 @@ A KICKASS LIBRARY USED TO MANAGE POPPERS IN WEB APPLICATIONS
 * [GITHUB](https://github.com/FezVrasta/popper.js)
 * [WEBSITE](https://popper.js.org/)
 * [DOCS](https://popper.js.org/popper-documentation.html)
-
-### :rocket: PUG JS
-
-Pug – robust, elegant, feature rich template engine for Node.js
-
-* [WEBSITE/DOCS](https://pugjs.org/api/getting-started.html)
-* [GITHUB](https://github.com/pugjs/pug)
-* [OVERVIEW](https://devdocs.io/pug/)
 
 ### :rocket: PUPPETEER JS
 
@@ -972,13 +972,6 @@ Predictable state container for JavaScript apps
 * [CONNECTED REACT REDUX](https://github.com/supasate/connected-react-router)
 * [React Router and Redux](https://www.edx.org/course/react-router-and-redux-1)
 
-### :rocket: REVEAL JS
-
-The HTML Presentation Framework
-
-* [GITHUB/DOCS](https://github.com/hakimel/reveal.js)
-* [WEBSITE](https://revealjs.com/)
-
 ### :rocket: REBASS JS
 
 React primitive UI components built with styled-system
@@ -1012,6 +1005,13 @@ An advanced Node.js driver for RebirthDB with a connection pool, support for str
 * [WEBSITE](https://rethinkdb.com/)
 * [DOCS](https://devdocs.io/rethinkdb~javascript/)
 
+### :rocket: REVEAL JS
+
+The HTML Presentation Framework
+
+* [GITHUB/DOCS](https://github.com/hakimel/reveal.js)
+* [WEBSITE](https://revealjs.com/)
+
 ### :rocket: RIOT JS
 
 Simple and elegant component-based UI library
@@ -1035,30 +1035,6 @@ RxJS is a library for reactive programming using Observables, to make it easier 
 * [WEBSITE](https://rxjs-dev.firebaseapp.com/)
 * [DOCS](https://rxjs-dev.firebaseapp.com/api)
 
-### :rocket: STANDARD JS
-
-JavaScript Style Guide, with linter & automatic code fixer
-
-* [GITHUB](https://github.com/standard/standard)
-* [WEBSITE](https://standardjs.com/)
-* [USAGE/DOCS](https://standardjs.com/#usage)
-
-### :rocket: STENCIL JS
-
-A Web Component compiler for building fast, reusable UI components and Progressive Web Apps gem Built by the Ionic Framework team
-
-* [GITHUB](https://github.com/ionic-team/stencil)
-* [WEBSITE](https://stenciljs.com/)
-* [DOCS](https://stenciljs.com/docs/introduction)
-
-### :rocket: SLATE JS
-
-A completely customizable framework for building rich text editors.
-
-* [WEBSITE](https://www.slatejs.org/#/rich-text)
-* [GITHUB](https://github.com/ianstormtaylor/slate)
-* [DOCS](https://docs.slatejs.org/)
-
 ### :rocket: SEMANTIC UI
 
 UI component framework based around useful principles from natural language
@@ -1075,13 +1051,6 @@ An easy-to-use multi SQL dialect ORM
 * [WEBSITE](http://docs.sequelizejs.com/)
 * [DOCS/REFERENCE](http://docs.sequelizejs.com/identifiers.html)
 
-### :rocket: STORYBOOK JS
-
-Interactive UI component dev & test: React, React Native, Vue, Angular, Ember
-
-* [GITHUB](https://github.com/storybooks/storybook)
-* [WEBSITE/DOCS](https://storybook.js.org/)
-
 ### :rocket: SINON JS
 
 Test spies, stubs and mocks for JavaScript.
@@ -1090,6 +1059,14 @@ Test spies, stubs and mocks for JavaScript.
 * [DOCS](https://sinonjs.org/releases/latest/)
 * [WEBSITE](https://sinonjs.org/)
 * [DEVDOCS](https://devdocs.io/sinon~7/)
+
+### :rocket: SLATE JS
+
+A completely customizable framework for building rich text editors.
+
+* [WEBSITE](https://www.slatejs.org/#/rich-text)
+* [GITHUB](https://github.com/ianstormtaylor/slate)
+* [DOCS](https://docs.slatejs.org/)
 
 ### :rocket: SOCKET IO
 
@@ -1113,11 +1090,61 @@ SQLite compiled to JavaScript through Emscripten
 * [GITHUB](https://github.com/kripken/sql.js)
 * [DOCS](http://kripken.github.io/sql.js/documentation/#http://kripken.github.io/sql.js/documentation/class/Database.html)
 
+### :rocket: STANDARD JS
+
+JavaScript Style Guide, with linter & automatic code fixer
+
+* [GITHUB](https://github.com/standard/standard)
+* [WEBSITE](https://standardjs.com/)
+* [USAGE/DOCS](https://standardjs.com/#usage)
+
+### :rocket: STENCIL JS
+
+A Web Component compiler for building fast, reusable UI components and Progressive Web Apps gem Built by the Ionic Framework team
+
+* [GITHUB](https://github.com/ionic-team/stencil)
+* [WEBSITE](https://stenciljs.com/)
+* [DOCS](https://stenciljs.com/docs/introduction)
+
+### :rocket: STORYBOOK JS
+
+Interactive UI component dev & test: React, React Native, Vue, Angular, Ember
+
+* [GITHUB](https://github.com/storybooks/storybook)
+* [WEBSITE/DOCS](https://storybook.js.org/)
+
+### :rocket: TENSORFLOW JS
+
+A JavaScript library for training and deploying ML models in the browser and on Node.js
+
+* [WEBSITE](https://js.tensorflow.org/)
+* [DOCS](https://js.tensorflow.org/api/0.14.1/)
+* [GITHUB](https://github.com/tensorflow/tfjs)
+* [examples](https://github.com/tensorflow/tfjs-examples)
+* [Tensorflow.js Explained](https://github.com/llSourcell/tensorflow.js_explained)
+* [Tensorflow in 7 minutes](https://medium.freecodecamp.org/get-to-know-tensorflow-js-in-7-minutes-afcd0dfd3d2f)
+* [TensorFlow.js Cheetsheet](https://towardsdatascience.com/50-tensorflow-js-api-explained-in-5-minutes-tensorflow-js-cheetsheet-4f8c7f9cc8b2)
+
 ### :rocket: TERSER JS
 
 JavaScript parser, mangler, optimizer and beautifier toolkit for ES6+
 
 * [GITHUB/DOCS](https://github.com/terser-js/terser)
+
+### :rocket: TETHER
+
+Tether is a small, focused JavaScript library for defining and managing the position of user interface (UI) elements in relation to one another on a web page. It is a tool for web developers building features that require certain UI elements to be precisely positioned based on the location of another UI element.
+
+* [GITHUB](https://github.com/HubSpot/tether)
+* [WEBSITE](http://tether.io/docs/welcome/)
+
+### :rocket: THEIA
+
+Theia is an extensible platform to develop full-fledged multi-language Cloud & Desktop IDE-like products with state-of-the-art web technologies.
+
+* [GITHUB](https://github.com/theia-ide/theia)
+* [WEBSITE](https://www.theia-ide.org/)
+* [DOCS](https://www.theia-ide.org/doc/index.html)
 
 ### :rocket: TYPESCRIPT
 
@@ -1145,32 +1172,12 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 * [The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More](https://github.com/grafana/grafana)
 * [Make images smaller using best-in-class codecs, right in the browser.](https://github.com/GoogleChromeLabs/squoosh)
 
-### :rocket: TENSORFLOW JS
+### :rocket: UGLIFY JS
 
-A JavaScript library for training and deploying ML models in the browser and on Node.js
+JavaScript parser / mangler / compressor / beautifier toolkit
 
-* [WEBSITE](https://js.tensorflow.org/)
-* [DOCS](https://js.tensorflow.org/api/0.14.1/)
-* [GITHUB](https://github.com/tensorflow/tfjs)
-* [examples](https://github.com/tensorflow/tfjs-examples)
-* [Tensorflow.js Explained](https://github.com/llSourcell/tensorflow.js_explained)
-* [Tensorflow in 7 minutes](https://medium.freecodecamp.org/get-to-know-tensorflow-js-in-7-minutes-afcd0dfd3d2f)
-* [TensorFlow.js Cheetsheet](https://towardsdatascience.com/50-tensorflow-js-api-explained-in-5-minutes-tensorflow-js-cheetsheet-4f8c7f9cc8b2)
-
-### :rocket: TETHER
-
-Tether is a small, focused JavaScript library for defining and managing the position of user interface (UI) elements in relation to one another on a web page. It is a tool for web developers building features that require certain UI elements to be precisely positioned based on the location of another UI element.
-
-* [GITHUB](https://github.com/HubSpot/tether)
-* [WEBSITE](http://tether.io/docs/welcome/)
-
-### :rocket: THEIA
-
-Theia is an extensible platform to develop full-fledged multi-language Cloud & Desktop IDE-like products with state-of-the-art web technologies.
-
-* [GITHUB](https://github.com/theia-ide/theia)
-* [WEBSITE](https://www.theia-ide.org/)
-* [DOCS](https://www.theia-ide.org/doc/index.html)
+* [GITHUB/DOCS](https://github.com/mishoo/UglifyJS2)
+* [WEBSITE](http://lisperator.net/uglifyjs/)
 
 ### :rocket: UMBRELLA JS
 
@@ -1180,12 +1187,13 @@ Lightweight javascript library for DOM manipulation and events
 * [WEBSITE](https://umbrellajs.com/)
 * [DOCS](https://umbrellajs.com/documentation)
 
-### :rocket: UGLIFY JS
+### :rocket: UMI JS
 
-JavaScript parser / mangler / compressor / beautifier toolkit
+Pluggable enterprise-level react application framework
 
-* [GITHUB/DOCS](https://github.com/mishoo/UglifyJS2)
-* [WEBSITE](http://lisperator.net/uglifyjs/)
+* [GITHUB](https://github.com/umijs/umi)
+* [WEBSITE](https://umijs.org/)
+* [DOCS](https://umijs.org/guide/)
 
 ### :rocket: UNDERSCORE JS
 
@@ -1200,37 +1208,6 @@ Underscore is a JavaScript library that provides a whole mess of useful function
 Unobtrusive Javascript Framework for server-side applications
 
 * [GITHUB](https://github.com/unpoly/unpoly)
-
-### :rocket: UMI JS
-
-Pluggable enterprise-level react application framework
-
-* [GITHUB](https://github.com/umijs/umi)
-* [WEBSITE](https://umijs.org/)
-* [DOCS](https://umijs.org/guide/)
-
-### :rocket: VUE JS
-
-A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-
-* [Roadmap to becoming a Vue.js developer in 2018](https://github.com/flaviocopes/vue-developer-roadmap)
-* [GITHUB](https://github.com/vuejs/vue)
-* [WEBSITE](https://vuejs.org/)
-* [DOCS](https://devdocs.io/vue~2/)
-* [Centralized State Management for Vue.js.](https://github.com/vuejs/vuex)
-* [Vue Storefront](https://github.com/DivanteLtd/vue-storefront)
-* [A Vuex plugin to persist the store.](https://github.com/championswimmer/vuex-persist)
-* [Delightful reading and tracking of your mangas](https://github.com/anshumanv/vueman.ga)
-* [Internationalization plugin for Vue.js](https://github.com/kazupon/vue-i18n)
-* [Minimalistic Vue-powered static site generator](https://github.com/vuejs/vuepress)
-
-### :rocket: VIVID JS
-
-A JavaScript library which is built to easily customize and use the SVG Icons with a blaze.
-
-* [WEBSITE](https://webkul.github.io/vivid/)
-* [GITHUB](https://github.com/webkul/vivid)
-* [DOCS](https://webkul.github.io/vivid/docs.html)
 
 ### :rocket: VIA JS
 
@@ -1251,6 +1228,14 @@ A dynamic, browser based visualization library. The library is designed to be ea
   * [GRAPH 3D](http://visjs.org/docs/graph3d/)
   * [DATASET](http://visjs.org/docs/data/)
 
+### :rocket: VIVID JS
+
+A JavaScript library which is built to easily customize and use the SVG Icons with a blaze.
+
+* [WEBSITE](https://webkul.github.io/vivid/)
+* [GITHUB](https://github.com/webkul/vivid)
+* [DOCS](https://webkul.github.io/vivid/docs.html)
+
 ### :rocket: VOCA JS
 
 The Voca library offers helpful functions to make string manipulations comfortable: change case, trim, pad, slugify, latinise, sprintf'y, truncate, escape and much more. The modular design allows to load the entire library, or individual functions to minimize the application builds.
@@ -1258,16 +1243,27 @@ The Voca library offers helpful functions to make string manipulations comfortab
 * [GITHUB](https://github.com/panzerdp/voca)
 * [WEBSITE/DOCS](https://vocajs.com/)
 
+### :rocket: VUE JS
+
+A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+
+* [Roadmap to becoming a Vue.js developer in 2018](https://github.com/flaviocopes/vue-developer-roadmap)
+* [GITHUB](https://github.com/vuejs/vue)
+* [WEBSITE](https://vuejs.org/)
+* [DOCS](https://devdocs.io/vue~2/)
+* [Centralized State Management for Vue.js.](https://github.com/vuejs/vuex)
+* [Vue Storefront](https://github.com/DivanteLtd/vue-storefront)
+* [A Vuex plugin to persist the store.](https://github.com/championswimmer/vuex-persist)
+* [Delightful reading and tracking of your mangas](https://github.com/anshumanv/vueman.ga)
+* [Internationalization plugin for Vue.js](https://github.com/kazupon/vue-i18n)
+* [Minimalistic Vue-powered static site generator](https://github.com/vuejs/vuepress)
+
 ### :rocket: WARRIOR JS
 
 An exciting game of programming and Artificial Intelligence
 
 * [GITHUB](https://github.com/olistic/warriorjs)
 * [WEBSITE](https://warriorjs.com/)
-
-### :rocket: WINSTON JS
-
-* [GITHUB](https://github.com/winstonjs/winston)
 
 ### :rocket: WEBPACK JS
 
@@ -1277,13 +1273,9 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 * [WEBSITE](https://webpack.js.org/)
 * [DOCS](https://webpack.js.org/concepts/)
 
-### :rocket: XTERM JS
+### :rocket: WINSTON JS
 
-Xterm.js is a front-end component written in TypeScript that lets applications bring fully-featured terminals to their users in the browser.
-
-* [GITHUB](https://github.com/xtermjs/xterm.js)
-* [WEBSITE](https://xtermjs.org/)
-* [DOCS](https://xtermjs.org/docs/)
+* [GITHUB](https://github.com/winstonjs/winston)
 
 ### :rocket: XREGEXP
 
@@ -1291,6 +1283,14 @@ XRegExp provides augmented (and extensible) JavaScript regular expressions. You 
 
 * [GITHUB](https://github.com/slevithan/xregexp)
 * [WEBSITE/DOCS](http://xregexp.com/)
+
+### :rocket: XTERM JS
+
+Xterm.js is a front-end component written in TypeScript that lets applications bring fully-featured terminals to their users in the browser.
+
+* [GITHUB](https://github.com/xtermjs/xterm.js)
+* [WEBSITE](https://xtermjs.org/)
+* [DOCS](https://xtermjs.org/docs/)
 
 ### :rocket: Y JS
 
@@ -1321,13 +1321,11 @@ This is a set of libraries for instrumenting Node.js and browser applications. T
 * [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
 * [CASH](https://github.com/kenwheeler/cash)
 
-#### NETLIFY CMS
-
-A CMS for Static Site Generators
-
-* [GITHUB](https://github.com/netlify/netlify-cms)
-* [WEBSITE](https://www.netlifycms.org/)
-* [DOCS](https://www.netlifycms.org/docs/intro)
+#### GRAY MATTER
+  
+Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers.
+  
+* [GITHUB](https://github.com/jonschlinkert/gray-matter)
 
 #### METALSMITH
 
@@ -1336,11 +1334,20 @@ An extremely simple, pluggable static site generator.
 * [GITHUB](https://github.com/segmentio/metalsmith)
 * [WEBSITE](https://metalsmith.io/)
 
-#### GRAY MATTER
-  
-Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers.
-  
-* [GITHUB](https://github.com/jonschlinkert/gray-matter)
+#### NETLIFY CMS
+
+A CMS for Static Site Generators
+
+* [GITHUB](https://github.com/netlify/netlify-cms)
+* [WEBSITE](https://www.netlifycms.org/)
+* [DOCS](https://www.netlifycms.org/docs/intro)
+
+#### NOW BUILDERS
+
+Official Now Builders created by the ZEIT team
+
+* [GITHUB](https://github.com/zeit/now-builders)
+* [DOCS](https://zeit.co/docs)
 
 #### POSTCSS
 
@@ -1349,13 +1356,6 @@ PostCSS is a tool for transforming styles with JS plugins. These plugins can lin
 * [GITHUB](https://github.com/postcss/postcss)
 * [WEBSITE](https://postcss.org/)
 * [DOCS](https://github.com/postcss/postcss/tree/master/docs)
-
-#### now builders
-
-Official Now Builders created by the ZEIT team
-
-* [GITHUB](https://github.com/zeit/now-builders)
-* [DOCS](https://zeit.co/docs)
 
 ## CONTRIBUTION
 
