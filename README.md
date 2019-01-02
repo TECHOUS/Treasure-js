@@ -224,6 +224,13 @@ A React-based UI toolkit for the web
 * [WEBSITE](https://blueprintjs.com/)
 * [DOCS](https://blueprintjs.com/docs/)
 
+### :rocket: BLUEBIRD JS
+
+Bluebird is a full featured promise library with unmatched performance.
+
+* [GITHUB](https://github.com/petkaantonov/bluebird)
+* [WEBSITE/DOCS](http://bluebirdjs.com/docs/getting-started.html)
+
 ### :rocket: BLISSFUL JS
 
 Want to use Vanilla JS but find native APIs a bit unwieldy? Bliss is for you
@@ -770,6 +777,7 @@ npm is the package manager for JavaScript and the world’s largest software reg
 * [A central repository for Flow library definitions](https://github.com/flow-typed/flow-typed)
 * [Find newer versions of package dependencies than what your package.json or bower.json allows](https://github.com/tjunnone/npm-check-updates)
 * [GREENLET](https://github.com/developit/greenlet)
+* [AUTOSSH](https://github.com/samueleaton/autossh)
 
 ### :rocket: NEXT JS
 
