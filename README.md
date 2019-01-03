@@ -48,6 +48,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 26. [HTML5 drag & drop for humans](https://github.com/feross/drag-drop)
 27. [Cookbook for JavaScript for Automation in Mac OS X Yosemite](https://github.com/JXA-Cookbook/JXA-Cookbook)
 28. [Chrome Apps](https://github.com/GoogleChrome/chrome-app-samples)
+29. [A repository for research code, papers, interactive visualizers, etc., for spline research](https://github.com/raphlinus/spline-research)
 
 ### :rocket: VIDEOS
 
@@ -55,7 +56,8 @@ git clone https://github.com/TechOUs/Treasure-js.git
 
 ### :rocket: APIs
 
-1. [ky](https://github.com/sindresorhus/ky)
+* [ky](https://github.com/sindresorhus/ky)
+* [Get a full fake REST API with zero coding in less than 30 seconds](https://github.com/typicode/json-server)
 
 ### :rocket: PLUGINS
 
