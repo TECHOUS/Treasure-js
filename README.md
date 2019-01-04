@@ -388,6 +388,13 @@ JavaScript API for face detection and face recognition in the browser and nodejs
 * [GITHUB](https://github.com/justadudewhohacks/face-api.js)
 * [DOCS](https://justadudewhohacks.github.io/face-api.js/docs/globals.html)
 
+### :rocket: FBT
+
+FBT is a framework for internationalizing user interfaces. It is designed to be not only powerful and flexible, but also simple and intuitive. Getting grammatically correct translated texts in dynamic applications is hard.
+
+* [GITHUB](https://github.com/facebookincubator/fbt)
+* [WEBSITE/DOCS](https://facebookincubator.github.io/fbt/)
+
 ### :rocket: FEATHERS JS
 
 A REST and realtime API layer for modern applications
