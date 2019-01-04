@@ -131,6 +131,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 ## JAVASCRIPT FRAMEWORKS ,LIBRARIES AND PREPROCESSORS (A - Z)
 
 * [2018 edition of our front-end development handbook](https://github.com/FrontendMasters/front-end-handbook-2018)
+* [Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
 
 ### :rocket: AMPLIFYJS
 
@@ -935,6 +936,8 @@ A JavaScript library for building user interfaces
 * [React components for building experiences for Office and Office 365](https://github.com/OfficeDev/office-ui-fabric-react)
 * [Simple and complete React DOM testing utilities that encourage good testing practices](https://github.com/kentcdodds/react-testing-library)
 * [JavaScript Testing utilities for React](https://github.com/airbnb/enzyme)
+* [Companion code to the "How to Write a Google Maps React Component" Tutorial](https://github.com/fullstackreact/google-maps-react)
+* [React crash course](https://github.com/bradtraversy/react_crash_todo)
 
 #### REACT JS SAMPLES
 
@@ -1173,6 +1176,7 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 * [CLIFlix](https://github.com/fabiospampinato/cliflix)
 * [The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More](https://github.com/grafana/grafana)
 * [Make images smaller using best-in-class codecs, right in the browser.](https://github.com/GoogleChromeLabs/squoosh)
+* [Sample code illustrating the VS Code extension API.](https://github.com/Microsoft/vscode-extension-samples)
 
 ### :rocket: UGLIFY JS
 
