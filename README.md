@@ -307,6 +307,14 @@ Danger runs during your CI process, and gives teams the chance to automate commo
 * [WEBSITE](https://danger.systems/js/)
 * [DOCS](https://danger.systems/js/usage.html)
 
+### :rocket: DATE FNS
+
+Modern JavaScript date utility library: date-fns provides the most comprehensive, yet simple and consistent toolset for manipulating JavaScript dates in a browser & Node.js.
+
+* [GITHUB](https://github.com/date-fns/date-fns)
+* [WEBSITE](https://date-fns.org/)
+* [DOCS](https://date-fns.org/docs/Getting-Started)
+
 ### :rocket: DISCORD JS
 
 A powerful JavaScript library for interacting with the Discord API
