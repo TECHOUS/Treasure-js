@@ -783,18 +783,24 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 * [Source for the Linode Developers Site (API v4 Docs)](https://github.com/linode/linode-api-docs)
 * [How to create a RESTful CRUD API using Nodejs?](https://github.com/adnanrahic/nodejs-restful-api)
 
-#### TAPE
-
-tap-producing test harness for node and browsers
-
-* [GITHUB](https://github.com/substack/tape)
-
 #### BROWSERIFY
 
 browser-side require() the node.js way
 
 * [GITHUB](https://github.com/browserify/browserify)
 * [WEBSITE](http://browserify.org/)
+
+#### TAPE
+
+tap-producing test harness for node and browsers
+
+* [GITHUB](https://github.com/substack/tape)
+
+#### JEX
+
+Jex is a Node.js module for building dynamic and static websites. It draws inspiration from Jekyll, a Ruby tool for creating static websites. Jekyll meets Express!
+
+* [GITHUB](https://github.com/jex/jex)
 
 #### :rocket: NPM
 
@@ -953,6 +959,8 @@ A JavaScript library for building user interfaces
 * [JavaScript Testing utilities for React](https://github.com/airbnb/enzyme)
 * [Companion code to the "How to Write a Google Maps React Component" Tutorial](https://github.com/fullstackreact/google-maps-react)
 * [React crash course](https://github.com/bradtraversy/react_crash_todo)
+* [React hook for providing info from gamepads connected to the system](https://github.com/ythecombinator/gamepads)
+* [React hook for providing both read and write access to the system clipboard.](https://github.com/ythecombinator/clipboard)
 
 #### REACT JS SAMPLES
 
@@ -976,6 +984,7 @@ A framework for building native apps with React
 * [React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
 * [React Native Testing Library](https://github.com/callstack/react-native-testing-library)
 * [A complete native navigation solution for React Native](https://github.com/wix/react-native-navigation)
+* [React Native wrapper for Intercom.io](https://github.com/Annihil/react-native-intercom)
 
 #### :rocket: REDUX
 
