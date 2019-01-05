@@ -1195,6 +1195,14 @@ Theia is an extensible platform to develop full-fledged multi-language Cloud & D
 * [GITHUB](https://github.com/fernandojsg/thisway.js)
 * [WEBSITE](http://fernandojsg.com/lab/thiswayjs/)
 
+### :rocket: THREE JS
+
+JavaScript 3D library.
+
+* [GITHUB](https://github.com/mrdoob/three.js/)
+* [WEBSITE](https://threejs.org/)
+* [DOCS](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
+
 ### :rocket: TYPESCRIPT
 
 TypeScript is a superset of JavaScript that compiles to clean JavaScript output
