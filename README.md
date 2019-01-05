@@ -1182,6 +1182,13 @@ Theia is an extensible platform to develop full-fledged multi-language Cloud & D
 * [WEBSITE](https://www.theia-ide.org/)
 * [DOCS](https://www.theia-ide.org/doc/index.html)
 
+### :rocket: THISWAY JS
+
+"this way" webgl/javascript demo
+
+* [GITHUB](https://github.com/fernandojsg/thisway.js)
+* [WEBSITE](http://fernandojsg.com/lab/thiswayjs/)
+
 ### :rocket: TYPESCRIPT
 
 TypeScript is a superset of JavaScript that compiles to clean JavaScript output
