@@ -1322,6 +1322,13 @@ An exciting game of programming and Artificial Intelligence
 * [GITHUB](https://github.com/olistic/warriorjs)
 * [WEBSITE](https://warriorjs.com/)
 
+### :rocket: WAY JS
+
+Simple, lightweight, persistent two-way databinding
+
+* [GITHUB](https://github.com/gwendall/way.js)
+* [DEMO/WEBSITE](http://gwendall.github.io/way/)
+
 ### :rocket: WEBPACK JS
 
 A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
