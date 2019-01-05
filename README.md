@@ -242,6 +242,13 @@ Build responsive, mobile-first projects on the web with the world's most popular
 * [Bootstrap Tutorial](https://www.javatpoint.com/bootstrap-tutorial)
 * [BootstrapVue provides one of the most comprehensive implementations of Bootstrap 4 components and grid system for Vue.js and with extensive and automated WAI-ARIA accessibility markup.](https://github.com/bootstrap-vue/bootstrap-vue)
 
+### :rocket: BRAIN JS
+
+Neural networks in JavaScript
+
+* [GITHUB](https://github.com/BrainJS/brain.js)
+* [WEBSITE](https://brain.js.org/)
+
 ### :rocket: CAMAN JS
 
 CamanJS is (ca)nvas (man)ipulation in Javascript. It's a combination of a simple-to-use interface with advanced and efficient image/canvas editing techniques.
