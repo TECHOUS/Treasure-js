@@ -1202,6 +1202,12 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 * [Make images smaller using best-in-class codecs, right in the browser.](https://github.com/GoogleChromeLabs/squoosh)
 * [Sample code illustrating the VS Code extension API.](https://github.com/Microsoft/vscode-extension-samples)
 
+### :rocket: μ
+
+μ is a JavaScript library for encoding/decoding state (JavaScript object) in URL
+
+* [GITHUB](https://github.com/ananthakumaran/u)
+
 ### :rocket: UGLIFY JS
 
 JavaScript parser / mangler / compressor / beautifier toolkit
@@ -1287,6 +1293,7 @@ A progressive, incrementally-adoptable JavaScript framework for building UI on t
 * [Delightful reading and tracking of your mangas](https://github.com/anshumanv/vueman.ga)
 * [Internationalization plugin for Vue.js](https://github.com/kazupon/vue-i18n)
 * [Minimalistic Vue-powered static site generator](https://github.com/vuejs/vuepress)
+* [A Vue Compiler that allows you compile your string literals to render functions at build time and write components in SFC paradigm](https://github.com/michaelolof/vue-literal-compiler)
 
 ### :rocket: WARRIOR JS
 
