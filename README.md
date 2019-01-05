@@ -464,6 +464,12 @@ The JavaScript Task Runner
 * [GITHUB](https://github.com/gruntjs/grunt)
 * [DOCS](https://gruntjs.com/getting-started)
 
+### :rocket: GUITAREDITOR JS
+
+Guitar Tablature Editor in Javascript
+
+* [GITHUB](https://github.com/fernandojsg/guitareditor.js)
+
 ### :rocket: HANDLEBARS JS
 
 Handlebars provides the power necessary to let you build semantic templates effectively with no frustration.
