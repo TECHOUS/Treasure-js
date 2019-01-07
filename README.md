@@ -69,6 +69,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 * [Auditing, performance metrics, and best practices for Progressive Web Apps](https://github.com/GoogleChrome/lighthouse)
 * [BrightID mobile app to access the BrightID identity network](https://github.com/BrightID/BrightID)
 * [A super fast menubar app](https://github.com/Booligoosh/makerlog-menubar)
+* [Translation strings used in the Stremio app](https://github.com/Stremio/stremio-translations)
 
 ### :rocket: OTHER EXAMPLES
 
@@ -755,6 +756,7 @@ The React Framework
 * [Redux wrapper for Next.js](https://github.com/kirill-konshin/next-redux-wrapper)
 * [NEXT PLUGINS](https://github.com/zeit/next-plugins)
 * [nextjs starter project](https://github.com/me-io/nextjs-starter)
+* [CLI for easily creating Next.js apps in one command](https://github.com/themodernjavascript/create-next-app-cli)
 
 ### :rocket: NODE JS
 
@@ -1231,6 +1233,7 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 * [The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More](https://github.com/grafana/grafana)
 * [Make images smaller using best-in-class codecs, right in the browser.](https://github.com/GoogleChromeLabs/squoosh)
 * [Sample code illustrating the VS Code extension API.](https://github.com/Microsoft/vscode-extension-samples)
+* [Fixtures loader for typeorm](https://github.com/RobinCK/typeorm-fixtures)
 
 ### :rocket: μ
 
