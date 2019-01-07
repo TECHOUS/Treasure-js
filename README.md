@@ -107,6 +107,8 @@ git clone https://github.com/TechOUs/Treasure-js.git
 32. [An extensible media player for the web](https://github.com/clappr/clappr)
 33. [A zero-configuration #0CJS developer toolkit for building WordPress Gutenberg block plugins.](https://github.com/ahmadawais/create-guten-block)
 34. [Official Now Builders created by the ZEIT team](https://github.com/zeit/now-builders)
+35. [A tiny (252B) utility that converts route patterns into RegExp. Limited alternative to path-to-regexp](https://github.com/lukeed/regexparam)
+36. [Make any web page a desktop application](https://github.com/jiahaog/nativefier)
 
 * MDX-based presentation decks
   * [GITHUB](https://github.com/jxnblk/mdx-deck)
@@ -1206,6 +1208,13 @@ JavaScript 3D library.
 * [GITHUB](https://github.com/mrdoob/three.js/)
 * [WEBSITE](https://threejs.org/)
 * [DOCS](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
+
+### :rocket: TRANSFORM
+
+Transform JS objects to get something useful
+
+* [GITHUB](https://github.com/transform-it/transform-www)
+* [WEBSITE](https://transform.now.sh/)
 
 ### :rocket: TYPESCRIPT
 
