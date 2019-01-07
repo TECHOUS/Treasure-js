@@ -67,6 +67,8 @@ git clone https://github.com/TechOUs/Treasure-js.git
 
 * [sample 1](https://github.com/aviaryan/todo-pwa-workshop)
 * [Auditing, performance metrics, and best practices for Progressive Web Apps](https://github.com/GoogleChrome/lighthouse)
+* [BrightID mobile app to access the BrightID identity network](https://github.com/BrightID/BrightID)
+* [A super fast menubar app](https://github.com/Booligoosh/makerlog-menubar)
 
 ### :rocket: OTHER EXAMPLES
 
