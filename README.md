@@ -47,6 +47,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 27. [Cookbook for JavaScript for Automation in Mac OS X Yosemite](https://github.com/JXA-Cookbook/JXA-Cookbook)
 28. [Chrome Apps](https://github.com/GoogleChrome/chrome-app-samples)
 29. [A repository for research code, papers, interactive visualizers, etc., for spline research](https://github.com/raphlinus/spline-research)
+30. [JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 ### :rocket: VIDEOS
 
@@ -990,6 +991,7 @@ A JavaScript library for building user interfaces
 #### REACT JS SAMPLES
 
 * [MyReads Project](https://github.com/Decoys-out/MyReads-UDACITY-React)
+* [react-weather-app](https://github.com/ReactExpert/react-weather-app)
 
 #### REACT STATIC
 
