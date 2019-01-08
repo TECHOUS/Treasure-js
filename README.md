@@ -987,6 +987,7 @@ A JavaScript library for building user interfaces
 * [React crash course](https://github.com/bradtraversy/react_crash_todo)
 * [React hook for providing info from gamepads connected to the system](https://github.com/ythecombinator/gamepads)
 * [React hook for providing both read and write access to the system clipboard.](https://github.com/ythecombinator/clipboard)
+* [Cute React UI Components](https://github.com/miukimiu/react-kawaii)
 
 #### REACT JS SAMPLES
 
@@ -1350,6 +1351,7 @@ A progressive, incrementally-adoptable JavaScript framework for building UI on t
 * [Internationalization plugin for Vue.js](https://github.com/kazupon/vue-i18n)
 * [Minimalistic Vue-powered static site generator](https://github.com/vuejs/vuepress)
 * [A Vue Compiler that allows you compile your string literals to render functions at build time and write components in SFC paradigm](https://github.com/michaelolof/vue-literal-compiler)
+* [The ultimate learning resource for Vue developers](https://github.com/Code-Pop/vue-mastery)
 
 ### :rocket: WARRIOR JS
 
@@ -1482,3 +1484,4 @@ See [CONTRIBUTORS](CONTRIBUTORS.md)
 
 :copyright:Gaurav Walia
 :copyright:TechOus
+We don't own any of these repositories.
