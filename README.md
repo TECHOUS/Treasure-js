@@ -14,8 +14,6 @@
 git clone https://github.com/TechOUs/Treasure-js.git
 ```
 
-* You can also contribute to our repository [here](CONTRIBUTING.md)
-
 ## JAVASCRIPT
 
 ### :rocket: BEST FREE COURSES
