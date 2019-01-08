@@ -1443,6 +1443,19 @@ PostCSS is a tool for transforming styles with JS plugins. These plugins can lin
 * [WEBSITE](https://postcss.org/)
 * [DOCS](https://github.com/postcss/postcss/tree/master/docs)
 
+#### PRETTIER
+
+Prettier is an opinionated code formatter.
+
+* [GITHUB](https://github.com/prettier/prettier)
+* [WEBSITE](https://prettier.io)
+
+#### TRILLIUM
+
+Build your personal knowledge base with Trilium Notes
+
+* [GITHUB](https://github.com/zadam/trilium)
+
 ## CONTRIBUTION
 
 CONTRIBUTE AS MUCH YOU CAN !!!
