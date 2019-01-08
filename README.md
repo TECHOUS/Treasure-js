@@ -983,6 +983,12 @@ A JavaScript library for building user interfaces
 
 * [MyReads Project](https://github.com/Decoys-out/MyReads-UDACITY-React)
 
+#### REACT STATIC
+
+React-Static is a fast, lightweight, and powerful framework for building static-progressive React applications and websites. It's been carefully designed to meet the highest standards of static-site performance, and user/developer experience.
+
+* [GITHUB](https://github.com/nozzle/react-static)
+
 #### REACT NATIVE
 
 A framework for building native apps with React
