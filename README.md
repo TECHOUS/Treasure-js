@@ -48,6 +48,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 28. [Chrome Apps](https://github.com/GoogleChrome/chrome-app-samples)
 29. [A repository for research code, papers, interactive visualizers, etc., for spline research](https://github.com/raphlinus/spline-research)
 30. [JavaScript Style Guide](https://github.com/airbnb/javascript)
+31. [Useful pieces of JavaScript. Some old, some new](https://github.com/Caged/javascript-bits)
 
 ### :rocket: VIDEOS
 
@@ -108,6 +109,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 34. [Official Now Builders created by the ZEIT team](https://github.com/zeit/now-builders)
 35. [A tiny (252B) utility that converts route patterns into RegExp. Limited alternative to path-to-regexp](https://github.com/lukeed/regexparam)
 36. [Make any web page a desktop application](https://github.com/jiahaog/nativefier)
+37. [Vain Portal of our community](https://github.com/OSWeekends/vanity.osweekends.com)
 
 * MDX-based presentation decks
   * [GITHUB](https://github.com/jxnblk/mdx-deck)
@@ -988,6 +990,7 @@ A JavaScript library for building user interfaces
 * [React hook for providing info from gamepads connected to the system](https://github.com/ythecombinator/gamepads)
 * [React hook for providing both read and write access to the system clipboard.](https://github.com/ythecombinator/clipboard)
 * [Cute React UI Components](https://github.com/miukimiu/react-kawaii)
+* ["Shrine" Progressive Web App sample built with React](https://github.com/GoogleChromeLabs/react-shrine)
 
 #### REACT JS SAMPLES
 
@@ -1352,6 +1355,8 @@ A progressive, incrementally-adoptable JavaScript framework for building UI on t
 * [Minimalistic Vue-powered static site generator](https://github.com/vuejs/vuepress)
 * [A Vue Compiler that allows you compile your string literals to render functions at build time and write components in SFC paradigm](https://github.com/michaelolof/vue-literal-compiler)
 * [The ultimate learning resource for Vue developers](https://github.com/Code-Pop/vue-mastery)
+* [Repo for the article How To Publish Your Vue.js Component On NPM](https://github.com/anthonygore/vue-clock-simple)
+* [A blog theme for VuePress by Ktquez](https://github.com/ktquez/vuepress-theme-ktquez)
 
 ### :rocket: WARRIOR JS
 
