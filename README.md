@@ -492,6 +492,14 @@ Helmet helps you secure your Express apps by setting various HTTP headers
 * [WEBSITE](https://helmetjs.github.io/)
 * [DOCS](https://helmetjs.github.io/docs/)
 
+### :rocket: HIGHLIGHT JS
+
+Javascript syntax highlighter
+
+* [GITHUB](https://github.com/highlightjs/highlight.js)
+* [WEBSITE](https://highlightjs.org/)
+* [USAGE](https://highlightjs.org/usage/)
+
 ### :rocket: HLS JS
 
 JavaScript HLS client using Media Source Extension
