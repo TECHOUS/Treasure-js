@@ -1046,6 +1046,12 @@ React primitive UI components built with styled-system
 * [WEBSITE](https://rebassjs.org/)
 * [DOCS](https://rebassjs.org/getting-started)
 
+### :rocket: REBOUND JS
+
+Spring dynamics in JavaScript.
+
+* [GITHUB](https://github.com/facebook/rebound-js)
+
 ### :rocket: RELAY JS
 
 Relay is a JavaScript framework for building data-driven React applications
