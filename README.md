@@ -1363,6 +1363,7 @@ A progressive, incrementally-adoptable JavaScript framework for building UI on t
 * [The ultimate learning resource for Vue developers](https://github.com/Code-Pop/vue-mastery)
 * [Repo for the article How To Publish Your Vue.js Component On NPM](https://github.com/anthonygore/vue-clock-simple)
 * [A blog theme for VuePress by Ktquez](https://github.com/ktquez/vuepress-theme-ktquez)
+* [An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
 
 ### :rocket: WARRIOR JS
 
@@ -1482,6 +1483,12 @@ Prettier is an opinionated code formatter.
 Build your personal knowledge base with Trilium Notes
 
 * [GITHUB](https://github.com/zadam/trilium)
+
+#### YALC
+
+Work with yarn/npm packages locally like a boss
+
+* [GITHUB](https://github.com/whitecolor/yalc)
 
 ## CONTRIBUTION
 
