@@ -1022,6 +1022,7 @@ A framework for building native apps with React
 * [React Native Testing Library](https://github.com/callstack/react-native-testing-library)
 * [A complete native navigation solution for React Native](https://github.com/wix/react-native-navigation)
 * [React Native wrapper for Intercom.io](https://github.com/Annihil/react-native-intercom)
+* [React Native Chart Kit: Line Chart, Bezier Line Chart, Progress Ring, Bar chart, Pie chart, Contribution graph (heatmap)](https://github.com/indiespirit/react-native-chart-kit)
 
 #### :rocket: REDUX
 
@@ -1267,6 +1268,7 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 * [Make images smaller using best-in-class codecs, right in the browser.](https://github.com/GoogleChromeLabs/squoosh)
 * [Sample code illustrating the VS Code extension API.](https://github.com/Microsoft/vscode-extension-samples)
 * [Fixtures loader for typeorm](https://github.com/RobinCK/typeorm-fixtures)
+* [TypeScript execution and REPL for node.js](https://github.com/TypeStrong/ts-node)
 
 ### :rocket: μ
 
@@ -1364,6 +1366,7 @@ A progressive, incrementally-adoptable JavaScript framework for building UI on t
 * [Repo for the article How To Publish Your Vue.js Component On NPM](https://github.com/anthonygore/vue-clock-simple)
 * [A blog theme for VuePress by Ktquez](https://github.com/ktquez/vuepress-theme-ktquez)
 * [An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
+* [Certificate Transparency Log aggregation, parsing, and streaming service written in Elixir](https://github.com/CaliDog/certstream-server)
 
 ### :rocket: WARRIOR JS
 
