@@ -1228,6 +1228,14 @@ A Web Component compiler for building fast, reusable UI components and Progressi
 * [WEBSITE](https://stenciljs.com/)
 * [DOCS](https://stenciljs.com/docs/introduction)
 
+### :rocket: STICKYBITS
+
+Stickybits is a lightweight alternative to position: sticky polyfills
+
+* [GITHUB](https://github.com/dollarshaveclub/stickybits)
+* [WEBSITE](https://dollarshaveclub.github.io/stickybits/)
+* [USAGE/DOCS](https://dollarshaveclub.github.io/stickybits/#usage)
+
 ### :rocket: STORYBOOK JS
 
 Interactive UI component dev & test: React, React Native, Vue, Angular, Ember
