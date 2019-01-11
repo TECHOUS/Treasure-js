@@ -899,6 +899,14 @@ Nuxt.js is a framework for creating Vue.js applications, you can choose between 
 * [DOCS](https://github.com/nuxt/docs)
 * [API](https://nuxtjs.org/api)
 
+### :rocket: OpenZeppelin
+
+OpenZeppelin is a library for secure smart contract development
+
+* [GITHUB](https://github.com/OpenZeppelin/openzeppelin-solidity)
+* [WEBSITE](https://openzeppelin.org/)
+* [DOCS](https://openzeppelin.org/api/docs/get-started.html)
+
 ### :rocket: P5 JS
 
 p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing
