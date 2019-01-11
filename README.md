@@ -504,6 +504,14 @@ Helmet helps you secure your Express apps by setting various HTTP headers
 * [WEBSITE](https://helmetjs.github.io/)
 * [DOCS](https://helmetjs.github.io/docs/)
 
+### :rocket: HIGHCHART JS
+
+Highcharts JS, the JavaScript charting framework
+
+* [GITHUB](https://github.com/highcharts/highcharts)
+* [WEBSITE](https://www.highcharts.com/)
+* [DOCS](https://www.highcharts.com/docs/)
+
 ### :rocket: HIGHLIGHT JS
 
 Javascript syntax highlighter
