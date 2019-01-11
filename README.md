@@ -1263,6 +1263,12 @@ A JavaScript library for training and deploying ML models in the browser and on 
 * [Tensorflow in 7 minutes](https://medium.freecodecamp.org/get-to-know-tensorflow-js-in-7-minutes-afcd0dfd3d2f)
 * [TensorFlow.js Cheetsheet](https://towardsdatascience.com/50-tensorflow-js-api-explained-in-5-minutes-tensorflow-js-cheetsheet-4f8c7f9cc8b2)
 
+### :rocket: TERMYNAL
+
+Lightweight and modern terminal animations using async/await
+
+* [GITHUB/DOCS](https://github.com/ines/termynal)
+
 ### :rocket: TERSER JS
 
 JavaScript parser, mangler, optimizer and beautifier toolkit for ES6+
