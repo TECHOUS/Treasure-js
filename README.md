@@ -110,6 +110,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 35. [A tiny (252B) utility that converts route patterns into RegExp. Limited alternative to path-to-regexp](https://github.com/lukeed/regexparam)
 36. [Make any web page a desktop application](https://github.com/jiahaog/nativefier)
 37. [Vain Portal of our community](https://github.com/OSWeekends/vanity.osweekends.com)
+38. [Learn how computers work by simulating them in Javascript](https://github.com/jsdf/little-virtual-computer)
 
 * MDX-based presentation decks
   * [GITHUB](https://github.com/jxnblk/mdx-deck)
@@ -139,6 +140,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 * [2018 edition of our front-end development handbook](https://github.com/FrontendMasters/front-end-handbook-2018)
 * [Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
 * [The perfect Front-End Checklist for modern websites and meticulous developers](https://github.com/thedaviddias/Front-End-Checklist)
+* [The OpenAPI Specification Repository](https://github.com/OAI/OpenAPI-Specification)
 
 ### :rocket: AMPLIFYJS
 
@@ -302,7 +304,7 @@ The leading content management solution for modern digital teams
 * Official Gatsby source plugin for Cosmic JS
   * [GITHUB](https://github.com/cosmicjs/gatsby-source-cosmicjs)
   * [WEBSITE](https://cosmicjs.com/)
-* [The official JavaScript client for Cosmic JS]()
+* [The official JavaScript client for Cosmic JS](#cosmic-node)
 
 ### :rocket: D3 JS
 
@@ -1022,6 +1024,14 @@ A JavaScript library for building user interfaces
 * [React hook for providing both read and write access to the system clipboard.](https://github.com/ythecombinator/clipboard)
 * [Cute React UI Components](https://github.com/miukimiu/react-kawaii)
 * ["Shrine" Progressive Web App sample built with React](https://github.com/GoogleChromeLabs/react-shrine)
+* [React wrapper for Chart.js](https://github.com/jerairrest/react-chartjs-2)
+
+#### REACT VIS
+
+Data Visualization Components
+
+* [GITHUB](https://github.com/uber/react-vis)
+* [WEBSITE](https://uber.github.io/react-vis/)
 
 #### REACT JS SAMPLES
 
@@ -1382,6 +1392,7 @@ The Voca library offers helpful functions to make string manipulations comfortab
 
 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 
+* [A Vue.js 2.0 UI Toolkit for Web](https://github.com/ElemeFE/element)
 * [Roadmap to becoming a Vue.js developer in 2018](https://github.com/flaviocopes/vue-developer-roadmap)
 * [GITHUB](https://github.com/vuejs/vue)
 * [WEBSITE](https://vuejs.org/)
