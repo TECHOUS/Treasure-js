@@ -1446,6 +1446,13 @@ This is a set of libraries for instrumenting Node.js and browser applications. T
 * [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
 * [CASH](https://github.com/kenwheeler/cash)
 
+#### DOMPURIFY
+
+DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks.
+
+* [GITHUB](https://github.com/cure53/DOMPurify)
+* [WEBSITE](https://cure53.de/purify)
+
 #### GRAY MATTER
   
 Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers.
