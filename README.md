@@ -283,6 +283,12 @@ Simple HTML5 Charts using the canvas tag
 * [WEBSITE](https://www.chartjs.org/)
 * [DOCS](https://www.chartjs.org/docs/latest/)
 
+### :rocket: CLASSNAMES
+
+A simple javascript utility for conditionally joining classNames together
+
+* [GITHUB](https://github.com/JedWatson/classnames)
+
 ### :rocket: CLIPBOARD JS
 
 Modern copy to clipboard. No Flash. Just 3kb gzipped
