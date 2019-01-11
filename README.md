@@ -275,6 +275,14 @@ Responsive HTML5 Charting Library with a Simple API and 10x Performance – make
 * [DOCS](https://canvasjs.com/docs/charts/basics-of-creating-html5-chart/)
 * [GITHUB](https://github.com/tsur/canvasjs)
 
+### :rocket: CHART JS
+
+Simple HTML5 Charts using the canvas tag
+
+* [GITHUB](https://github.com/chartjs/Chart.js)
+* [WEBSITE](https://www.chartjs.org/)
+* [DOCS](https://www.chartjs.org/docs/latest/)
+
 ### :rocket: CLIPBOARD JS
 
 Modern copy to clipboard. No Flash. Just 3kb gzipped
