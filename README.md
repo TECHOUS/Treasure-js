@@ -519,6 +519,12 @@ Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with
 
 * [GITHUB](https://github.com/jorgebucaran/hyperapp)
 
+### :rocket: IMAGEMIN
+
+Tense, nervous, minifying images
+
+* [GITHUB](https://github.com/imagemin/imagemin)
+
 ### :rocket: IMMUTABLE JS
 
 Immutable.js provides many Persistent Immutable data structures including: List, Stack, Map, OrderedMap, Set, OrderedSet and Record.
