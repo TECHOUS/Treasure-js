@@ -138,6 +138,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 
 * [2018 edition of our front-end development handbook](https://github.com/FrontendMasters/front-end-handbook-2018)
 * [Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
+* [The perfect Front-End Checklist for modern websites and meticulous developers](https://github.com/thedaviddias/Front-End-Checklist)
 
 ### :rocket: AMPLIFYJS
 
@@ -293,6 +294,15 @@ Commander is a light-weight, expressive, and powerful command-line framework
 
 * [GITHUB](https://github.com/tj/commander.js)
 * [DOCS](http://tj.github.io/commander.js/)
+
+### :rocket: COSMIC JS
+
+The leading content management solution for modern digital teams
+
+* Official Gatsby source plugin for Cosmic JS
+  * [GITHUB](https://github.com/cosmicjs/gatsby-source-cosmicjs)
+  * [WEBSITE](https://cosmicjs.com/)
+* [The official JavaScript client for Cosmic JS]()
 
 ### :rocket: D3 JS
 
@@ -823,6 +833,13 @@ browser-side require() the node.js way
 
 * [GITHUB](https://github.com/browserify/browserify)
 * [WEBSITE](http://browserify.org/)
+
+#### COSMIC NODE
+
+The official JavaScript client for Cosmic JS. Use it to power content server-side, in the browser and in native apps
+
+* [GITHUB](https://github.com/cosmicjs/cosmicjs-node)
+* [WEBSITE](https://www.npmjs.com/package/cosmicjs)
 
 #### TAPE
 
