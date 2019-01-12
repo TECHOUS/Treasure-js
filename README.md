@@ -49,6 +49,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 29. [A repository for research code, papers, interactive visualizers, etc., for spline research](https://github.com/raphlinus/spline-research)
 30. [JavaScript Style Guide](https://github.com/airbnb/javascript)
 31. [Useful pieces of JavaScript. Some old, some new](https://github.com/Caged/javascript-bits)
+32. [WebAR-Article is a responsive and information rich website that is progressively enhanced with Augmented Reality content exposed through experimental web technologies](https://github.com/google-ar/WebAR-Article)
 
 ### :rocket: VIDEOS
 
@@ -1370,6 +1371,8 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 * [Sample code illustrating the VS Code extension API.](https://github.com/Microsoft/vscode-extension-samples)
 * [Fixtures loader for typeorm](https://github.com/RobinCK/typeorm-fixtures)
 * [TypeScript execution and REPL for node.js](https://github.com/TypeStrong/ts-node)
+* [Netlify menubar app to receive build information or trigger new builds](https://github.com/stefanjudis/netlify-menubar)
+* [An API boilerplate project built on Node.js and TypeScript](https://github.com/Ethan-Arrowood/matterhorn)
 
 ### :rocket: μ
 
