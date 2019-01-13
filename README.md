@@ -760,6 +760,13 @@ Meteor, the JavaScript App Platform
 * [DOCS 1.4](https://devdocs.io/meteor~1.4/)
 * [DOCS 1.3](https://devdocs.io/meteor~1.3/)
 
+### :rocket: MGRS-Mapper
+
+Integrates Google Maps with an MGRS overlay and NATO military map symbols
+
+* [GITHUB](https://github.com/pistell/MGRS-Mapper)
+* [WEBSITE](https://mgrs-mapper.com/)
+
 ### :rocket: MITHRIL JS
 
 A Javascript Framework for Building Brilliant Applications
