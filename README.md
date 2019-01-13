@@ -892,6 +892,12 @@ Jex is a Node.js module for building dynamic and static websites. It draws inspi
 
 * [GITHUB](https://github.com/jex/jex)
 
+#### LISTR
+
+Terminal task list
+
+* [GITHUB](https://github.com/SamVerschueren/listr)
+
 #### :rocket: NPM
 
 npm is the package manager for JavaScript and the world’s largest software registry. Discover packages of reusable code — and assemble them in powerful new ways.
