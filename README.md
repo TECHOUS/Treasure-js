@@ -874,6 +874,12 @@ The official JavaScript client for Cosmic JS. Use it to power content server-sid
 * [GITHUB](https://github.com/cosmicjs/cosmicjs-node)
 * [WEBSITE](https://www.npmjs.com/package/cosmicjs)
 
+#### ORA
+
+Elegant terminal spinner
+
+* [GITHUB](https://github.com/sindresorhus/ora)
+
 #### TAPE
 
 tap-producing test harness for node and browsers
