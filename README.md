@@ -1091,6 +1091,7 @@ A JavaScript library for building user interfaces
 * [Cute React UI Components](https://github.com/miukimiu/react-kawaii)
 * ["Shrine" Progressive Web App sample built with React](https://github.com/GoogleChromeLabs/react-shrine)
 * [React wrapper for Chart.js](https://github.com/jerairrest/react-chartjs-2)
+* [Simple React Bootstrap 4 components](https://github.com/reactstrap/reactstrap)
 
 #### REACT VIS
 
@@ -1582,6 +1583,14 @@ DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML
 Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers.
   
 * [GITHUB](https://github.com/jonschlinkert/gray-matter)
+
+#### KEYFRAMES
+
+A library for converting Adobe AE shape based animations to a data format and playing it back on Android and iOS devices
+
+* [GITHUB](https://github.com/facebookincubator/Keyframes)
+* [WEBSITE](https://facebookincubator.github.io/Keyframes/)
+* [DOCS](https://facebookincubator.github.io/Keyframes/docs/getting-started)
 
 #### METALSMITH
 
