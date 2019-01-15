@@ -895,6 +895,14 @@ Elegant terminal spinner
 
 * [GITHUB](https://github.com/sindresorhus/ora)
 
+#### PM2
+
+Node.js Production Process Manager with a built-in Load Balancer.
+
+* [GITHUB](https://github.com/Unitech/pm2)
+* [WEBSITE](https://pm2.io/)
+* [DOCS](https://pm2.io/doc/)
+
 #### TAPE
 
 tap-producing test harness for node and browsers
@@ -1092,6 +1100,7 @@ A JavaScript library for building user interfaces
 * ["Shrine" Progressive Web App sample built with React](https://github.com/GoogleChromeLabs/react-shrine)
 * [React wrapper for Chart.js](https://github.com/jerairrest/react-chartjs-2)
 * [Simple React Bootstrap 4 components](https://github.com/reactstrap/reactstrap)
+* [Accessible modal dialog component for React](https://github.com/reactjs/react-modal)
 
 #### REACT VIS
 
