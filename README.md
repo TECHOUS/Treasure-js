@@ -50,6 +50,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 30. [JavaScript Style Guide](https://github.com/airbnb/javascript)
 31. [Useful pieces of JavaScript. Some old, some new](https://github.com/Caged/javascript-bits)
 32. [WebAR-Article is a responsive and information rich website that is progressively enhanced with Augmented Reality content exposed through experimental web technologies](https://github.com/google-ar/WebAR-Article)
+33. [Asynchronous function queue with adjustable concurrency](https://github.com/jessetane/queue)
 
 ### :rocket: VIDEOS
 
@@ -875,6 +876,12 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 * [Source for the Linode Developers Site (API v4 Docs)](https://github.com/linode/linode-api-docs)
 * [How to create a RESTful CRUD API using Nodejs?](https://github.com/adnanrahic/nodejs-restful-api)
 
+#### AUTOCANNON
+
+fast HTTP/1.1 benchmarking tool written in Node.js
+
+* [GITHUB](https://github.com/mcollina/autocannon)
+
 #### BROWSERIFY
 
 browser-side require() the node.js way
@@ -933,6 +940,7 @@ npm is the package manager for JavaScript and the world’s largest software reg
 * [Find newer versions of package dependencies than what your package.json or bower.json allows](https://github.com/tjunnone/npm-check-updates)
 * [GREENLET](https://github.com/developit/greenlet)
 * [AUTOSSH](https://github.com/samueleaton/autossh)
+* [Runs a load test on the selected URL. Easy to extend minimally for your own ends](https://github.com/alexfernandez/loadtest)
 
 ### :rocket: NUXT JS
 
