@@ -202,6 +202,7 @@ Babel is a compiler for writing next generation JavaScript
 * [Compiles React.js components into native DOM instructions to eliminate the need for the react library at runtime.](https://github.com/sokra/rawact)
 * [Pre-evaluate code at build-time](https://github.com/kentcdodds/babel-plugin-preval)
 * [Super-fast alternative for babel written in rust](https://github.com/swc-project/swc)
+* [Add the opportunity to import modules by the root path](https://github.com/entwicklerstube/babel-plugin-root-import)
 
 ### :rocket: BACKBONE JS
 
@@ -436,6 +437,12 @@ JavaScript API for face detection and face recognition in the browser and nodejs
 
 * [GITHUB](https://github.com/justadudewhohacks/face-api.js)
 * [DOCS](https://justadudewhohacks.github.io/face-api.js/docs/globals.html)
+
+### :rocket: FASTIFY
+
+Fake HTTP injection library
+
+* [GITHUB](https://github.com/fastify/light-my-request)
 
 ### :rocket: FBT
 
