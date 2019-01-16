@@ -925,6 +925,12 @@ Node.js Production Process Manager with a built-in Load Balancer.
 * [WEBSITE](https://pm2.io/)
 * [DOCS](https://pm2.io/doc/)
 
+#### STATSD
+
+Daemon for easy but powerful stats aggregation
+
+* [GITHUB](https://github.com/etsy/statsd)
+
 #### TAPE
 
 tap-producing test harness for node and browsers
