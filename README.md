@@ -701,6 +701,13 @@ A modern JavaScript utility library delivering modularity, performance & extras.
 * [DOCS 3](https://devdocs.io/lodash~3/)
 * [DOCS 2](https://devdocs.io/lodash~2/)
 
+### :rocket: LUCID
+
+A developer tool for engineers working with React and GraphQL
+
+* [GITHUB](https://github.com/Gossamer-React/Lucid)
+* [WEBSITE](https://reactlucid.io/)
+
 ### :rocket: MAILGUN JS
 
 A simple Node.js helper module for Mailgun API.
