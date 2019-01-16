@@ -1334,6 +1334,12 @@ Interactive UI component dev & test: React, React Native, Vue, Angular, Ember
 * [GITHUB](https://github.com/storybooks/storybook)
 * [WEBSITE/DOCS](https://storybook.js.org/)
 
+### :rocket: SUPERTEST
+
+Super-agent driven library for testing node.js HTTP servers using a fluent API
+
+* [GITHUB](https://github.com/visionmedia/supertest)
+
 ### :rocket: TENSORFLOW JS
 
 A JavaScript library for training and deploying ML models in the browser and on Node.js
