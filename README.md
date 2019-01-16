@@ -882,6 +882,7 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 * [General purpose crypto utilities](https://github.com/hapijs/cryptiles)
 * [Source for the Linode Developers Site (API v4 Docs)](https://github.com/linode/linode-api-docs)
 * [How to create a RESTful CRUD API using Nodejs?](https://github.com/adnanrahic/nodejs-restful-api)
+* [A boilerplate for Node.js web applications](https://github.com/sahat/hackathon-starter)
 
 #### AUTOCANNON
 
