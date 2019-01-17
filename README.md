@@ -1081,6 +1081,7 @@ Raphaël is a small JavaScript library that should simplify your work with vecto
 
 A JavaScript library for building user interfaces
 
+* [A comprehensive reference guide to kickstart your React architecting career!](https://github.com/kudos-dude/react-best-practices)
 * [a cheatsheet for react users using typescript with react for the first (or nth!) time](https://github.com/sw-yx/react-typescript-cheatsheet)
 * [WEBSITE](https://reactjs.org/)
 * [DOCS](https://reactjs.org/docs/getting-started.html)
@@ -1130,6 +1131,12 @@ A JavaScript library for building user interfaces
 * [React wrapper for Chart.js](https://github.com/jerairrest/react-chartjs-2)
 * [Simple React Bootstrap 4 components](https://github.com/reactstrap/reactstrap)
 * [Accessible modal dialog component for React](https://github.com/reactjs/react-modal)
+* [Multi step form built with React and Material UI](https://github.com/bradtraversy/react_step_form)
+* [Datatable for React based on material-ui's table with additional features](https://github.com/mbrn/material-table)
+* [Datatables for React using Material-UI](https://github.com/gregnb/mui-datatables)
+* [Material UI Datatable in React way](https://github.com/DTupalov/react-material-ui-datatable)
+* [An another React Data tables component.](https://github.com/hyojin/material-ui-datatables)
+* [UI Components for React](https://github.com/primefaces/primereact)
 
 #### REACT VIS
 
