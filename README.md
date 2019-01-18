@@ -1686,6 +1686,12 @@ Build your personal knowledge base with Trilium Notes
 
 * [GITHUB](https://github.com/zadam/trilium)
 
+#### WASM METERING
+
+Injects metering into webassembly binaries
+
+* [GITHUB](https://github.com/ewasm/wasm-metering)
+
 #### YALC
 
 Work with yarn/npm packages locally like a boss
