@@ -1635,6 +1635,13 @@ Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble,
   
 * [GITHUB](https://github.com/jonschlinkert/gray-matter)
 
+#### HASURA GRAPHQL ENGINE
+
+Hasura GraphQL Engine is a blazing-fast GraphQL server that gives you instant, realtime GraphQL APIs over Postgres, with webhook triggers on database events, and remote schemas for business logic.
+
+* [GITHUB](https://github.com/hasura/graphql-engine)
+* [WEBSITE](https://hasura.io)
+
 #### KEYFRAMES
 
 A library for converting Adobe AE shape based animations to a data format and playing it back on Android and iOS devices
