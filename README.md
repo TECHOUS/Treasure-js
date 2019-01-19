@@ -113,6 +113,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 36. [Make any web page a desktop application](https://github.com/jiahaog/nativefier)
 37. [Vain Portal of our community](https://github.com/OSWeekends/vanity.osweekends.com)
 38. [Learn how computers work by simulating them in Javascript](https://github.com/jsdf/little-virtual-computer)
+39. [Monorepo for all the tooling which enables ESLint to support TypeScript](https://github.com/typescript-eslint/typescript-eslint)
 
 * MDX-based presentation decks
   * [GITHUB](https://github.com/jxnblk/mdx-deck)
