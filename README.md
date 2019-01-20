@@ -1345,6 +1345,14 @@ JavaScript Style Guide, with linter & automatic code fixer
 * [WEBSITE](https://standardjs.com/)
 * [USAGE/DOCS](https://standardjs.com/#usage)
 
+### :rocket: STDLIB JS
+
+Standard library for JavaScript and Node.js.
+
+* [GITHUB](https://github.com/stdlib-js/stdlib)
+* [WEBSITE](https://stdlib.io)
+* [DOCS](https://stdlib.io/develop/docs/api/@stdlib/)
+
 ### :rocket: STENCIL JS
 
 A Web Component compiler for building fast, reusable UI components and Progressive Web Apps gem Built by the Ionic Framework team
