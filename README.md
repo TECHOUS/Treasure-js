@@ -145,6 +145,14 @@ git clone https://github.com/TechOUs/Treasure-js.git
 * [The perfect Front-End Checklist for modern websites and meticulous developers](https://github.com/thedaviddias/Front-End-Checklist)
 * [The OpenAPI Specification Repository](https://github.com/OAI/OpenAPI-Specification)
 
+### :rocket: ALASQL JS
+
+AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel
+
+* [GITHUB](https://github.com/agershun/alasql)
+* [WEBSITE](http://alasql.org/)
+* [DOCS](https://github.com/agershun/alasql/wiki)
+
 ### :rocket: AMPLIFYJS
 
 A declarative JavaScript library for application development using cloud services
@@ -1453,6 +1461,7 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 * [TypeScript execution and REPL for node.js](https://github.com/TypeStrong/ts-node)
 * [Netlify menubar app to receive build information or trigger new builds](https://github.com/stefanjudis/netlify-menubar)
 * [An API boilerplate project built on Node.js and TypeScript](https://github.com/Ethan-Arrowood/matterhorn)
+* [Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element](https://github.com/matvp91/indigo-player)
 
 ### :rocket: μ
 
