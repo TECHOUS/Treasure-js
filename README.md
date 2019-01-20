@@ -114,6 +114,8 @@ git clone https://github.com/TechOUs/Treasure-js.git
 37. [Vain Portal of our community](https://github.com/OSWeekends/vanity.osweekends.com)
 38. [Learn how computers work by simulating them in Javascript](https://github.com/jsdf/little-virtual-computer)
 39. [Monorepo for all the tooling which enables ESLint to support TypeScript](https://github.com/typescript-eslint/typescript-eslint)
+40. [Build terminal dashboards using ascii/ansi art and javascript](https://github.com/yaronn/blessed-contrib)
+41. [A little dashboard that tries to take care of you when you're using your terminal.](https://github.com/notwaldorf/tiny-care-terminal)
 
 * MDX-based presentation decks
   * [GITHUB](https://github.com/jxnblk/mdx-deck)
@@ -980,6 +982,7 @@ Nuxt.js is a framework for creating Vue.js applications, you can choose between 
 * [GITHUB](https://github.com/nuxt/nuxt.js)
 * [DOCS](https://github.com/nuxt/docs)
 * [API](https://nuxtjs.org/api)
+* [Minify the html for each request served by nuxt server](https://github.com/nuxt-community/html-minifier-module)
 
 ### :rocket: OpenZeppelin
 
@@ -1185,6 +1188,7 @@ A framework for building native apps with React
 * [A complete native navigation solution for React Native](https://github.com/wix/react-native-navigation)
 * [React Native wrapper for Intercom.io](https://github.com/Annihil/react-native-intercom)
 * [React Native Chart Kit: Line Chart, Bezier Line Chart, Progress Ring, Bar chart, Pie chart, Contribution graph (heatmap)](https://github.com/indiespirit/react-native-chart-kit)
+* [Javascript animated polyline for react native maps](https://github.com/shameemz/react-native-maps-animated-polyline)
 
 #### :rocket: REDUX
 
