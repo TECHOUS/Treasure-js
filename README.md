@@ -1689,6 +1689,12 @@ A library for converting Adobe AE shape based animations to a data format and pl
 * [WEBSITE](https://facebookincubator.github.io/Keyframes/)
 * [DOCS](https://facebookincubator.github.io/Keyframes/docs/getting-started)
 
+#### LOWDB
+
+lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
+
+* [GITHUB](https://github.com/typicode/lowdb)
+
 #### METALSMITH
 
 An extremely simple, pluggable static site generator.
