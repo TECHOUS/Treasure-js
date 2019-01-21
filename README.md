@@ -51,6 +51,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 31. [Useful pieces of JavaScript. Some old, some new](https://github.com/Caged/javascript-bits)
 32. [WebAR-Article is a responsive and information rich website that is progressively enhanced with Augmented Reality content exposed through experimental web technologies](https://github.com/google-ar/WebAR-Article)
 33. [Asynchronous function queue with adjustable concurrency](https://github.com/jessetane/queue)
+34. [Check the compliance of your design guidelines within seconds](https://github.com/saranshsolanki/sketch-lint)
 
 ### :rocket: VIDEOS
 
@@ -116,6 +117,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 39. [Monorepo for all the tooling which enables ESLint to support TypeScript](https://github.com/typescript-eslint/typescript-eslint)
 40. [Build terminal dashboards using ascii/ansi art and javascript](https://github.com/yaronn/blessed-contrib)
 41. [A little dashboard that tries to take care of you when you're using your terminal.](https://github.com/notwaldorf/tiny-care-terminal)
+42. [Get a full fake REST API with zero coding in less than 30 seconds](https://github.com/typicode/json-server)
 
 * MDX-based presentation decks
   * [GITHUB](https://github.com/jxnblk/mdx-deck)
@@ -1157,6 +1159,7 @@ A JavaScript library for building user interfaces
 * [Material UI Datatable in React way](https://github.com/DTupalov/react-material-ui-datatable)
 * [An another React Data tables component.](https://github.com/hyojin/material-ui-datatables)
 * [UI Components for React](https://github.com/primefaces/primereact)
+* [A draggable toggle-switch component for React](https://github.com/markusenglund/react-switch)
 
 #### REACT HOOKS HELPER
 
