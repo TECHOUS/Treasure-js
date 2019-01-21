@@ -1158,6 +1158,12 @@ A JavaScript library for building user interfaces
 * [An another React Data tables component.](https://github.com/hyojin/material-ui-datatables)
 * [UI Components for React](https://github.com/primefaces/primereact)
 
+#### REACT HOOKS HELPER
+
+A custom React Hooks library that gives you custom hooks for your code.
+
+* [GITHUB](https://github.com/revelcw/react-hooks-helper)
+
 #### REACT VIS
 
 Data Visualization Components
