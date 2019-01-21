@@ -147,6 +147,14 @@ git clone https://github.com/TechOUs/Treasure-js.git
 * [The perfect Front-End Checklist for modern websites and meticulous developers](https://github.com/thedaviddias/Front-End-Checklist)
 * [The OpenAPI Specification Repository](https://github.com/OAI/OpenAPI-Specification)
 
+### :rocket: AFRAME
+
+a web framework for building virtual reality experiences
+
+* [GITHUB](https://github.com/aframevr/aframe)
+* [WEBSITE](https://aframe.io/)
+* [DOCS](https://aframe.io/docs/0.8.0/introduction/)
+
 ### :rocket: ALASQL JS
 
 AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel
