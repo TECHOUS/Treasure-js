@@ -52,6 +52,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 32. [WebAR-Article is a responsive and information rich website that is progressively enhanced with Augmented Reality content exposed through experimental web technologies](https://github.com/google-ar/WebAR-Article)
 33. [Asynchronous function queue with adjustable concurrency](https://github.com/jessetane/queue)
 34. [Check the compliance of your design guidelines within seconds](https://github.com/saranshsolanki/sketch-lint)
+35. [Webrecorder Player for Desktop (OSX/Windows/Linux). (Built with Electron + Webrecorder)](https://github.com/webrecorder/webrecorder-player)
 
 ### :rocket: VIDEOS
 
@@ -911,6 +912,7 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 * [Source for the Linode Developers Site (API v4 Docs)](https://github.com/linode/linode-api-docs)
 * [How to create a RESTful CRUD API using Nodejs?](https://github.com/adnanrahic/nodejs-restful-api)
 * [A boilerplate for Node.js web applications](https://github.com/sahat/hackathon-starter)
+* [glob functionality for node.js](https://github.com/isaacs/node-glob)
 
 #### AUTOCANNON
 
@@ -1491,6 +1493,7 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 * [Netlify menubar app to receive build information or trigger new builds](https://github.com/stefanjudis/netlify-menubar)
 * [An API boilerplate project built on Node.js and TypeScript](https://github.com/Ethan-Arrowood/matterhorn)
 * [Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element](https://github.com/matvp91/indigo-player)
+* [A super-simple-small promise-based keyval store implemented with IndexedDB](https://github.com/jakearchibald/idb-keyval)
 
 ### :rocket: μ
 
