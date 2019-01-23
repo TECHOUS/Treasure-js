@@ -819,6 +819,14 @@ A Javascript Framework for Building Brilliant Applications
 * [GITHUB](https://github.com/MithrilJS/mithril.js)
 * [WEBSITE/DOCS](https://mithril.js.org/)
 
+### :rocket: ML5 JS
+
+Friendly machine learning for the web!
+
+* [GITHUB](https://github.com/ml5js/ml5-library)
+* [WEBSITE](https://ml5js.org/)
+* [DOCS](https://ml5js.org/docs/getting-started)
+
 ### :rocket: MOBX JS
 
 MobX is proudly sponsored by Mendix, Coinbase, Canva, Facebook Open Source, Algolia, Guilded and many individual sponsors
@@ -1223,6 +1231,7 @@ Predictable state container for JavaScript apps
 * [An alternative side effect model for Redux apps](https://github.com/redux-saga/redux-saga)
 * [CONNECTED REACT REDUX](https://github.com/supasate/connected-react-router)
 * [React Router and Redux](https://www.edx.org/course/react-router-and-redux-1)
+* [Enables simple, yet robust handling of async action creators in Redux](https://github.com/pburtchaell/redux-promise-middleware)
 
 ### :rocket: REBASS JS
 
