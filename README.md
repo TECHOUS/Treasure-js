@@ -1171,6 +1171,13 @@ A JavaScript library for building user interfaces
 * [UI Components for React](https://github.com/primefaces/primereact)
 * [A draggable toggle-switch component for React](https://github.com/markusenglund/react-switch)
 
+#### CONSTATE
+
+Scalable state manager using React Hooks & Context
+
+* [GITHUB](https://github.com/diegohaz/constate)
+* [WEBSITE](https://codesandbox.io/s/github/diegohaz/constate/tree/master/examples/counter)
+
 #### REACT HOOKS HELPER
 
 A custom React Hooks library that gives you custom hooks for your code.
