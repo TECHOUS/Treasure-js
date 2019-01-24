@@ -120,6 +120,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 41. [A little dashboard that tries to take care of you when you're using your terminal.](https://github.com/notwaldorf/tiny-care-terminal)
 42. [Get a full fake REST API with zero coding in less than 30 seconds](https://github.com/typicode/json-server)
 43. [Git hooks made easy](https://github.com/typicode/husky)
+44. [Manage session history with JavaScript](https://github.com/ReactTraining/history)
 
 * MDX-based presentation decks
   * [GITHUB](https://github.com/jxnblk/mdx-deck)
@@ -1171,6 +1172,7 @@ A JavaScript library for building user interfaces
 * [An another React Data tables component.](https://github.com/hyojin/material-ui-datatables)
 * [UI Components for React](https://github.com/primefaces/primereact)
 * [A draggable toggle-switch component for React](https://github.com/markusenglund/react-switch)
+* [Font Awesome 5 React component](https://github.com/FortAwesome/react-fontawesome)
 
 #### CONSTATE
 
