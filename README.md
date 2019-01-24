@@ -119,6 +119,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 40. [Build terminal dashboards using ascii/ansi art and javascript](https://github.com/yaronn/blessed-contrib)
 41. [A little dashboard that tries to take care of you when you're using your terminal.](https://github.com/notwaldorf/tiny-care-terminal)
 42. [Get a full fake REST API with zero coding in less than 30 seconds](https://github.com/typicode/json-server)
+43. [Git hooks made easy](https://github.com/typicode/husky)
 
 * MDX-based presentation decks
   * [GITHUB](https://github.com/jxnblk/mdx-deck)
@@ -1195,6 +1196,14 @@ Data Visualization Components
 
 * [MyReads Project](https://github.com/Decoys-out/MyReads-UDACITY-React)
 * [react-weather-app](https://github.com/ReactExpert/react-weather-app)
+
+#### REACT SPRING
+
+A spring physics based React animation library
+
+* [GITHUB](https://github.com/react-spring/react-spring)
+* [WEBSITE](http://react-spring.surge.sh/)
+* [DOCS](http://react-spring.surge.sh/spring)
 
 #### REACT STATIC
 
