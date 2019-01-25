@@ -121,6 +121,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 42. [Get a full fake REST API with zero coding in less than 30 seconds](https://github.com/typicode/json-server)
 43. [Git hooks made easy](https://github.com/typicode/husky)
 44. [Manage session history with JavaScript](https://github.com/ReactTraining/history)
+45. [Codemod to migrate from Lodash get and logical and expressions to optional chaining](https://github.com/villesau/optional-chaining-codemod)
 
 * MDX-based presentation decks
   * [GITHUB](https://github.com/jxnblk/mdx-deck)
@@ -446,6 +447,7 @@ Express is a minimal and flexible Node.js web application framework that provide
 * [DOCS](https://devdocs.io/express/)
 * [A sample express environment that is well architected for scale](https://github.com/kelyvin/express-env-example)
 * [connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes](https://github.com/auth0/express-jwt)
+* [A Yeoman generator for Express.js based 12-factor apps and apis](https://github.com/cdimascio/generator-express-no-stress)
 
 ### :rocket: FABRIC JS
 
@@ -1173,6 +1175,7 @@ A JavaScript library for building user interfaces
 * [UI Components for React](https://github.com/primefaces/primereact)
 * [A draggable toggle-switch component for React](https://github.com/markusenglund/react-switch)
 * [Font Awesome 5 React component](https://github.com/FortAwesome/react-fontawesome)
+* [a collection of simple demos of React.js](https://github.com/ruanyf/react-demos)
 
 #### CONSTATE
 
