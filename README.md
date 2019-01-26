@@ -122,6 +122,8 @@ git clone https://github.com/TechOUs/Treasure-js.git
 43. [Git hooks made easy](https://github.com/typicode/husky)
 44. [Manage session history with JavaScript](https://github.com/ReactTraining/history)
 45. [Codemod to migrate from Lodash get and logical and expressions to optional chaining](https://github.com/villesau/optional-chaining-codemod)
+46. [Origami: Artificial Intelligence as a Service](https://github.com/Cloud-CV/Origami)
+47. [A CSS3 HTML5 audio player with a circular seekable progress bar and complete fallback](https://github.com/maboa/circleplayer)
 
 * MDX-based presentation decks
   * [GITHUB](https://github.com/jxnblk/mdx-deck)
