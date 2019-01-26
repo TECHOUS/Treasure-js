@@ -450,6 +450,7 @@ Express is a minimal and flexible Node.js web application framework that provide
 * [A sample express environment that is well architected for scale](https://github.com/kelyvin/express-env-example)
 * [connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes](https://github.com/auth0/express-jwt)
 * [A Yeoman generator for Express.js based 12-factor apps and apis](https://github.com/cdimascio/generator-express-no-stress)
+* [Example Node (Express + Mongoose) codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld API spec.](https://github.com/gothinkster/node-express-realworld-example-app)
 
 ### :rocket: FABRIC JS
 
@@ -1185,6 +1186,14 @@ Scalable state manager using React Hooks & Context
 
 * [GITHUB](https://github.com/diegohaz/constate)
 * [WEBSITE](https://codesandbox.io/s/github/diegohaz/constate/tree/master/examples/counter)
+
+#### REACT AUTOSUGGEST
+
+WAI-ARIA compliant React autosuggest component
+
+* [GITHUB](https://github.com/moroshko/react-autosuggest)
+* [WEBSITE](http://react-autosuggest.js.org/)
+* [USAGE](https://github.com/moroshko/react-autosuggest#installation)
 
 #### REACT HOOKS HELPER
 
