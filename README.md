@@ -1179,6 +1179,7 @@ A JavaScript library for building user interfaces
 * [A draggable toggle-switch component for React](https://github.com/markusenglund/react-switch)
 * [Font Awesome 5 React component](https://github.com/FortAwesome/react-fontawesome)
 * [a collection of simple demos of React.js](https://github.com/ruanyf/react-demos)
+* [Google Material Design (Material-UI) styled React component using Google Maps Places Autocomplete](https://github.com/Giners/mui-places-autocomplete)
 
 #### CONSTATE
 
@@ -1186,6 +1187,14 @@ Scalable state manager using React Hooks & Context
 
 * [GITHUB](https://github.com/diegohaz/constate)
 * [WEBSITE](https://codesandbox.io/s/github/diegohaz/constate/tree/master/examples/counter)
+
+#### POLARIS REACT
+
+Shopify’s product component library
+
+* [GITHUB](https://github.com/Shopify/polaris-react)
+* [WEBSITE](https://polaris.shopify.com/)
+* [DOCS](https://polaris.shopify.com/components/get-started)
 
 #### REACT AUTOSUGGEST
 
