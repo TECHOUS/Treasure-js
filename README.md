@@ -1195,6 +1195,14 @@ WAI-ARIA compliant React autosuggest component
 * [WEBSITE](http://react-autosuggest.js.org/)
 * [USAGE](https://github.com/moroshko/react-autosuggest#installation)
 
+#### REACT SELECT
+
+The Select Component for React.js
+
+* [GITHUB](https://github.com/JedWatson/react-select)
+* [WEBSITE](https://react-select.com/)
+* [DOCS](https://react-select.com/components)
+
 #### REACT HOOKS HELPER
 
 A custom React Hooks library that gives you custom hooks for your code.
