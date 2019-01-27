@@ -579,6 +579,13 @@ JavaScript HLS client using Media Source Extension
 * [GITHUB](https://github.com/video-dev/hls.js)
 * [WEBSITE](https://hls-js.netlify.com/demo/)
 
+### :rocket: HOGAN JS
+
+Hogan.js is a 3.4k JS templating engine developed at Twitter. Use it as a part of your asset packager to compile templates ahead of time or include it in your browser to handle dynamic templates.
+
+* [GITHUB](https://github.com/twitter/hogan.js)
+* [WEBSITE](http://twitter.github.io/hogan.js/)
+
 ### :rocket: HTM
 
 Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
@@ -928,6 +935,7 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 * [How to create a RESTful CRUD API using Nodejs?](https://github.com/adnanrahic/nodejs-restful-api)
 * [A boilerplate for Node.js web applications](https://github.com/sahat/hackathon-starter)
 * [glob functionality for node.js](https://github.com/isaacs/node-glob)
+* [Instagram NODE.JS private API](https://github.com/dilame/instagram-private-api)
 
 #### AUTOCANNON
 
