@@ -1716,6 +1716,13 @@ A CRDT library with a powerful abstraction of shared data
 * [WEBSITE](http://y-js.org/)
 * [TUTORIAL/DOCS](http://y-js.org/#!/tutorial)
 
+### :rocket: YUP
+
+Yup is a JavaScript object schema validator and object parser. The API and style is stolen heavily inspired by Joi, which is an amazing library but is generally too large and difficult to package for use in a browser. Yup is leaner: in the same spirit, without some of the fancy features. You can use it on the server as well, but in that case you might as well just use Joi.
+
+* [GITHUB](https://github.com/jquense/yup)
+* [USAGE](https://github.com/jquense/yup#usage)
+
 ### :rocket: ZEPTO JS
 
 Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
