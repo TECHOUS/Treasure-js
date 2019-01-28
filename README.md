@@ -879,6 +879,13 @@ MongoDB object modeling designed to work in an asynchronous environment
 * [GITHUB](https://github.com/Automattic/mongoose/)
 * [DOCS](https://devdocs.io/mongoose/)
 
+### :rocket: NETSCOPE
+
+A web-based tool for visualizing neural network topologies
+
+* [GITHUB](https://github.com/ethereon/netscope)
+* [WEBSITE](http://ethereon.github.io/netscope/quickstart.html)
+
 ### :rocket: NEXT JS
 
 The React Framework
