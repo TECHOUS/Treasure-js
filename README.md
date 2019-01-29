@@ -53,6 +53,8 @@ git clone https://github.com/TechOUs/Treasure-js.git
 33. [Asynchronous function queue with adjustable concurrency](https://github.com/jessetane/queue)
 34. [Check the compliance of your design guidelines within seconds](https://github.com/saranshsolanki/sketch-lint)
 35. [Webrecorder Player for Desktop (OSX/Windows/Linux). (Built with Electron + Webrecorder)](https://github.com/webrecorder/webrecorder-player)
+36. [A PostgreSQL client with strict types, detail logging and assertions.](https://github.com/gajus/slonik)
+37. [Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input](https://github.com/sindresorhus/mem)
 
 ### :rocket: VIDEOS
 
