@@ -1273,6 +1273,13 @@ React-Static is a fast, lightweight, and powerful framework for building static-
 
 * [GITHUB](https://github.com/nozzle/react-static)
 
+#### REACT MOVABLE
+
+Drag and drop for your React lists and tables. Accessible. Tiny
+
+* [GITHUB](https://github.com/tajo/react-movable)
+* [WEBSITE](https://react-movable.netlify.com/)
+
 #### REACT NATIVE
 
 A framework for building native apps with React
