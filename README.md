@@ -1209,6 +1209,14 @@ Scalable state manager using React Hooks & Context
 * [GITHUB](https://github.com/diegohaz/constate)
 * [WEBSITE](https://codesandbox.io/s/github/diegohaz/constate/tree/master/examples/counter)
 
+#### EVERGREEN
+
+Evergreen React UI Framework by Segment
+
+* [GITHUB](https://github.com/segmentio/evergreen)
+* [WEBSITE](https://evergreen.segment.com/)
+* [DOCS](https://evergreen.segment.com/components/)
+
 #### POLARIS REACT
 
 Shopify’s product component library
