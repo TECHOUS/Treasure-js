@@ -55,6 +55,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 35. [Webrecorder Player for Desktop (OSX/Windows/Linux). (Built with Electron + Webrecorder)](https://github.com/webrecorder/webrecorder-player)
 36. [A PostgreSQL client with strict types, detail logging and assertions.](https://github.com/gajus/slonik)
 37. [Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input](https://github.com/sindresorhus/mem)
+38. [Distributed crawler powered by Headless Chrome](https://github.com/yujiosaka/headless-chrome-crawler)
 
 ### :rocket: VIDEOS
 
@@ -76,6 +77,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 * [BrightID mobile app to access the BrightID identity network](https://github.com/BrightID/BrightID)
 * [A super fast menubar app](https://github.com/Booligoosh/makerlog-menubar)
 * [Translation strings used in the Stremio app](https://github.com/Stremio/stremio-translations)
+* [Containerize your Apps with Docker and Kubernetes, published by Packt](https://github.com/PacktPublishing/Containerize-your-Apps-with-Docker-and-Kubernetes)
 
 ### :rocket: OTHER EXAMPLES
 
@@ -126,6 +128,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 45. [Codemod to migrate from Lodash get and logical and expressions to optional chaining](https://github.com/villesau/optional-chaining-codemod)
 46. [Origami: Artificial Intelligence as a Service](https://github.com/Cloud-CV/Origami)
 47. [A CSS3 HTML5 audio player with a circular seekable progress bar and complete fallback](https://github.com/maboa/circleplayer)
+48. [Open source wiki and knowledge base for growing teams](https://github.com/outline/outline)
 
 * MDX-based presentation decks
   * [GITHUB](https://github.com/jxnblk/mdx-deck)
@@ -1027,6 +1030,7 @@ Nuxt.js is a framework for creating Vue.js applications, you can choose between 
 * [DOCS](https://github.com/nuxt/docs)
 * [API](https://nuxtjs.org/api)
 * [Minify the html for each request served by nuxt server](https://github.com/nuxt-community/html-minifier-module)
+* [Supercharge Nuxt with a heavily tested, updated and stable PWA solution](https://github.com/nuxt-community/pwa-module)
 
 ### :rocket: OpenZeppelin
 
@@ -1569,6 +1573,7 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 * [An API boilerplate project built on Node.js and TypeScript](https://github.com/Ethan-Arrowood/matterhorn)
 * [Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element](https://github.com/matvp91/indigo-player)
 * [A super-simple-small promise-based keyval store implemented with IndexedDB](https://github.com/jakearchibald/idb-keyval)
+* [Very fast and lightweight, standards-compliant, self-hosted javascript parser with high focus on both performance and stability](https://github.com/cherow/cherow)
 
 ### :rocket: μ
 
