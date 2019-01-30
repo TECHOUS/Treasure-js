@@ -609,6 +609,12 @@ Tense, nervous, minifying images
 
 * [GITHUB](https://github.com/imagemin/imagemin)
 
+### :rocket: IMMORTAL DB
+
+A relentless key-value store for the browser.
+
+* [GITHUB/DOCS](https://github.com/gruns/ImmortalDB)
+
 ### :rocket: IMMUTABLE JS
 
 Immutable.js provides many Persistent Immutable data structures including: List, Stack, Map, OrderedMap, Set, OrderedSet and Record.
