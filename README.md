@@ -1209,6 +1209,7 @@ A JavaScript library for building user interfaces
 * [Font Awesome 5 React component](https://github.com/FortAwesome/react-fontawesome)
 * [a collection of simple demos of React.js](https://github.com/ruanyf/react-demos)
 * [Google Material Design (Material-UI) styled React component using Google Maps Places Autocomplete](https://github.com/Giners/mui-places-autocomplete)
+* [Country / region React select boxes for your forms.](https://github.com/country-regions/react-country-region-selector)
 
 #### CONSTATE
 
@@ -1232,6 +1233,14 @@ Shopify’s product component library
 * [GITHUB](https://github.com/Shopify/polaris-react)
 * [WEBSITE](https://polaris.shopify.com/)
 * [DOCS](https://polaris.shopify.com/components/get-started)
+
+#### REAKIT
+
+Toolkit for building really interactive UIs with React
+
+* [GITHUB](https://github.com/reakit/reakit)
+* [WEBSITE](https://reakit.io/)
+* [DOCS](https://reakit.io/guide/get-started)
 
 #### REACT AUTOSUGGEST
 
