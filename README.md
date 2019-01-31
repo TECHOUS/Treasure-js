@@ -129,6 +129,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 46. [Origami: Artificial Intelligence as a Service](https://github.com/Cloud-CV/Origami)
 47. [A CSS3 HTML5 audio player with a circular seekable progress bar and complete fallback](https://github.com/maboa/circleplayer)
 48. [Open source wiki and knowledge base for growing teams](https://github.com/outline/outline)
+49. [Extension containing an experimental libdweb APIs](https://github.com/mozilla/libdweb)
 
 * MDX-based presentation decks
   * [GITHUB](https://github.com/jxnblk/mdx-deck)
@@ -1037,6 +1038,7 @@ Nuxt.js is a framework for creating Vue.js applications, you can choose between 
 * [API](https://nuxtjs.org/api)
 * [Minify the html for each request served by nuxt server](https://github.com/nuxt-community/html-minifier-module)
 * [Supercharge Nuxt with a heavily tested, updated and stable PWA solution](https://github.com/nuxt-community/pwa-module)
+* [Nobody likes extra @import statements!](https://github.com/nuxt-community/style-resources-module)
 
 ### :rocket: OpenZeppelin
 
