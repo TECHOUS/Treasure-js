@@ -56,6 +56,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 36. [A PostgreSQL client with strict types, detail logging and assertions.](https://github.com/gajus/slonik)
 37. [Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input](https://github.com/sindresorhus/mem)
 38. [Distributed crawler powered by Headless Chrome](https://github.com/yujiosaka/headless-chrome-crawler)
+39. [Webbased old-school Amiga music tracker in plain old javascript - Plays and edits Amiga Mod files and FastTracker XM files](https://github.com/steffest/BassoonTracker)
 
 ### :rocket: VIDEOS
 
@@ -130,6 +131,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 47. [A CSS3 HTML5 audio player with a circular seekable progress bar and complete fallback](https://github.com/maboa/circleplayer)
 48. [Open source wiki and knowledge base for growing teams](https://github.com/outline/outline)
 49. [Extension containing an experimental libdweb APIs](https://github.com/mozilla/libdweb)
+50. [Useful interpolated functions for CSS-in-JS](https://github.com/diegohaz/styled-tools)
 
 * MDX-based presentation decks
   * [GITHUB](https://github.com/jxnblk/mdx-deck)
