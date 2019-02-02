@@ -562,6 +562,15 @@ Handlebars provides the power necessary to let you build semantic templates effe
 * [WEBSITE](https://handlebarsjs.com/)
 * [DOCS](https://handlebarsjs.com/reference.html)
 
+### :rocket: HAPI JS
+
+hapi is a simple to use configuration-centric framework with built-in support for input validation, caching, authentication, and other essential facilities for building web and services applications. hapi enables developers to focus on writing reusable application logic in a highly modular and prescriptive approach.
+
+* [GITHUB](https://github.com/hapijs/hapi)
+* [WEBSITE](https://hapijs.com/)
+* [DOCS](https://hapijs.com/tutorials)
+* [General purpose crypto utilities](https://github.com/hapijs/cryptiles)
+
 ### :rocket: HELMET JS
 
 Helmet helps you secure your Express apps by setting various HTTP headers
@@ -957,7 +966,6 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 * [In-browser code editor](https://github.com/codemirror/CodeMirror)
 * [Prometheus client for node.js](https://github.com/siimon/prom-client)
 * [Serve static files](https://github.com/expressjs/serve-static)
-* [General purpose crypto utilities](https://github.com/hapijs/cryptiles)
 * [Source for the Linode Developers Site (API v4 Docs)](https://github.com/linode/linode-api-docs)
 * [How to create a RESTful CRUD API using Nodejs?](https://github.com/adnanrahic/nodejs-restful-api)
 * [A boilerplate for Node.js web applications](https://github.com/sahat/hackathon-starter)
