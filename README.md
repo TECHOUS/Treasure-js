@@ -570,6 +570,7 @@ hapi is a simple to use configuration-centric framework with built-in support fo
 * [WEBSITE](https://hapijs.com/)
 * [DOCS](https://hapijs.com/tutorials)
 * [General purpose crypto utilities](https://github.com/hapijs/cryptiles)
+* [JSON.parse() drop-in replacement with prototype poisoning protection](https://github.com/hapijs/bourne)
 
 ### :rocket: HELMET JS
 
@@ -1799,6 +1800,12 @@ Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-c
 This is a set of libraries for instrumenting Node.js and browser applications. The zipkin library can be run in both Node.js and the browser.
 
 * [GITHUB](https://github.com/openzipkin/zipkin-js)
+
+### :rocket: ZRPC JS
+
+rpc micro-services inspired by muxrpc and serverless functions, based on zmq
+
+* [GITHUB](https://github.com/ahdinosaur/zrpc-js)
 
 ### :rocket: MISC
 
