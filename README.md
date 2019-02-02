@@ -502,6 +502,12 @@ A REST and realtime API layer for modern applications
 * [WEBSITE](https://feathersjs.com/)
 * [DOCS](http://docs.feathersjs.com/)
 
+### :rocket: FINANCE JS
+
+A JavaScript library for common financial calculations
+
+* [GITHUB](https://github.com/ebradyjobory/finance.js)
+
 ### :rocket: FIVE JS
 
 A library to overcomplicate 5
