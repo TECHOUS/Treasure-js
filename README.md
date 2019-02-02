@@ -1082,6 +1082,14 @@ Open-source JavaScript charting library behind plot.ly and Dash
 * [WEBSITE](https://plot.ly/javascript/)
 * [DOCS](https://plot.ly/javascript/reference/)
 
+### :rocket: PNPM
+
+Fast, disk space efficient package manager
+
+* [GITHUB](https://github.com/pnpm/pnpm)
+* [WEBSITE](https://pnpm.js.org/)
+* [DOCS](https://pnpm.js.org/docs/en/motivation.html)
+
 ### :rocket: PUG JS
 
 Pug – robust, elegant, feature rich template engine for Node.js
@@ -1196,6 +1204,7 @@ A JavaScript library for building user interfaces
 * [React crash course](https://github.com/bradtraversy/react_crash_todo)
 * [React hook for providing info from gamepads connected to the system](https://github.com/ythecombinator/gamepads)
 * [React hook for providing both read and write access to the system clipboard.](https://github.com/ythecombinator/clipboard)
+* [React Hook for accessing state and dispatch from a Redux store](https://github.com/facebookincubator/redux-react-hook)
 * [Cute React UI Components](https://github.com/miukimiu/react-kawaii)
 * ["Shrine" Progressive Web App sample built with React](https://github.com/GoogleChromeLabs/react-shrine)
 * [React wrapper for Chart.js](https://github.com/jerairrest/react-chartjs-2)
