@@ -404,6 +404,13 @@ A powerful JavaScript library for interacting with the Discord API
 * [WEBSITE](https://discord.js.org/#/)
 * [DOCS](https://discord.js.org/#/docs/main/stable/general/welcome)
 
+### :rocket: DOMPURIFY
+
+DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks.
+
+* [GITHUB](https://github.com/cure53/DOMPurify)
+* [WEBSITE](https://cure53.de/purify)
+
 ### :rocket: DOTDOM
 
 .dom is a tiny (511 byte) template engine that uses virtual DOM and some of react principles
@@ -550,6 +557,12 @@ GreenSock's GSAP JavaScript animation library (including Draggable)
 * [WEBSITE](https://greensock.com/)
 * [DOCS](https://greensock.com/docs)
 
+### :rocket: GRAY MATTER
+  
+Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers.
+  
+* [GITHUB](https://github.com/jonschlinkert/gray-matter)
+
 ### :rocket: GRUNT JS
 
 The JavaScript Task Runner
@@ -581,6 +594,13 @@ hapi is a simple to use configuration-centric framework with built-in support fo
 * [DOCS](https://hapijs.com/tutorials)
 * [General purpose crypto utilities](https://github.com/hapijs/cryptiles)
 * [JSON.parse() drop-in replacement with prototype poisoning protection](https://github.com/hapijs/bourne)
+
+### :rocket: HASURA GRAPHQL ENGINE
+
+Hasura GraphQL Engine is a blazing-fast GraphQL server that gives you instant, realtime GraphQL APIs over Postgres, with webhook triggers on database events, and remote schemas for business logic.
+
+* [GITHUB](https://github.com/hasura/graphql-engine)
+* [WEBSITE](https://hasura.io)
 
 ### :rocket: HELMET JS
 
@@ -777,6 +797,12 @@ A modern JavaScript utility library delivering modularity, performance & extras.
 * [DOCS 3](https://devdocs.io/lodash~3/)
 * [DOCS 2](https://devdocs.io/lodash~2/)
 
+### :rocket: LOWDB
+
+lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
+
+* [GITHUB](https://github.com/typicode/lowdb)
+
 ### :rocket: LUCID
 
 A developer tool for engineers working with React and GraphQL
@@ -839,6 +865,13 @@ Library for building offline-first browser-based applications :: stand-alone web
 * [GITHUB](https://github.com/oknosoft/metadata.js)
 * [WEBSITE](http://www.oknosoft.ru/metadata/)
 * [DOCS](http://www.oknosoft.ru/metadata/)
+
+### :rocket: METALSMITH
+
+An extremely simple, pluggable static site generator.
+
+* [GITHUB](https://github.com/segmentio/metalsmith)
+* [WEBSITE](https://metalsmith.io/)
 
 ### :rocket: METEOR JS
 
@@ -1055,6 +1088,13 @@ npm is the package manager for JavaScript and the world’s largest software reg
 * [AUTOSSH](https://github.com/samueleaton/autossh)
 * [Runs a load test on the selected URL. Easy to extend minimally for your own ends](https://github.com/alexfernandez/loadtest)
 
+### :rocket: NOW BUILDERS
+
+Official Now Builders created by the ZEIT team
+
+* [GITHUB](https://github.com/zeit/now-builders)
+* [DOCS](https://zeit.co/docs)
+
 ### :rocket: NUXT JS
 
 Nuxt.js is a framework for creating Vue.js applications, you can choose between Universal, Static Generated or Single Page application.
@@ -1138,6 +1178,14 @@ A KICKASS LIBRARY USED TO MANAGE POPPERS IN WEB APPLICATIONS
 * [GITHUB](https://github.com/FezVrasta/popper.js)
 * [WEBSITE](https://popper.js.org/)
 * [DOCS](https://popper.js.org/popper-documentation.html)
+
+### :rocket: POSTCSS
+
+PostCSS is a tool for transforming styles with JS plugins. These plugins can lint your CSS, support variables and mixins, transpile future CSS syntax, inline images, and more.
+
+* [GITHUB](https://github.com/postcss/postcss)
+* [WEBSITE](https://postcss.org/)
+* [DOCS](https://github.com/postcss/postcss/tree/master/docs)
 
 ### :rocket: PUPPETEER JS
 
@@ -1749,6 +1797,12 @@ An exciting game of programming and Artificial Intelligence
 * [GITHUB](https://github.com/olistic/warriorjs)
 * [WEBSITE](https://warriorjs.com/)
 
+### :rocket: WASM METERING
+
+Injects metering into webassembly binaries
+
+* [GITHUB](https://github.com/ewasm/wasm-metering)
+
 ### :rocket: WAY JS
 
 Simple, lightweight, persistent two-way databinding
@@ -1791,6 +1845,12 @@ A CRDT library with a powerful abstraction of shared data
 * [WEBSITE](http://y-js.org/)
 * [TUTORIAL/DOCS](http://y-js.org/#!/tutorial)
 
+### :rocket: YALC
+
+Work with yarn/npm packages locally like a boss
+
+* [GITHUB](https://github.com/whitecolor/yalc)
+
 ### :rocket: YUP
 
 Yup is a JavaScript object schema validator and object parser. The API and style is stolen heavily inspired by Joi, which is an amazing library but is generally too large and difficult to package for use in a browser. Yup is leaner: in the same spirit, without some of the fancy features. You can use it on the server as well, but in that case you might as well just use Joi.
@@ -1825,94 +1885,15 @@ rpc micro-services inspired by muxrpc and serverless functions, based on zmq
 * [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
 * [CASH](https://github.com/kenwheeler/cash)
 
-#### DOMPURIFY
+### :rocket: DEPRECATED
 
-DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks.
+#### [KEYFRAMES](Deprecated.md#keyframes)
 
-* [GITHUB](https://github.com/cure53/DOMPurify)
-* [WEBSITE](https://cure53.de/purify)
+#### [NETLIFY CMS](Deprecated.md#netlify-cms)
 
-#### GRAY MATTER
-  
-Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers.
-  
-* [GITHUB](https://github.com/jonschlinkert/gray-matter)
+#### [PRETTIER](Deprecated.md#prettier)
 
-#### HASURA GRAPHQL ENGINE
-
-Hasura GraphQL Engine is a blazing-fast GraphQL server that gives you instant, realtime GraphQL APIs over Postgres, with webhook triggers on database events, and remote schemas for business logic.
-
-* [GITHUB](https://github.com/hasura/graphql-engine)
-* [WEBSITE](https://hasura.io)
-
-#### KEYFRAMES
-
-A library for converting Adobe AE shape based animations to a data format and playing it back on Android and iOS devices
-
-* [GITHUB](https://github.com/facebookincubator/Keyframes)
-* [WEBSITE](https://facebookincubator.github.io/Keyframes/)
-* [DOCS](https://facebookincubator.github.io/Keyframes/docs/getting-started)
-
-#### LOWDB
-
-lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
-
-* [GITHUB](https://github.com/typicode/lowdb)
-
-#### METALSMITH
-
-An extremely simple, pluggable static site generator.
-
-* [GITHUB](https://github.com/segmentio/metalsmith)
-* [WEBSITE](https://metalsmith.io/)
-
-#### NETLIFY CMS
-
-A CMS for Static Site Generators
-
-* [GITHUB](https://github.com/netlify/netlify-cms)
-* [WEBSITE](https://www.netlifycms.org/)
-* [DOCS](https://www.netlifycms.org/docs/intro)
-
-#### NOW BUILDERS
-
-Official Now Builders created by the ZEIT team
-
-* [GITHUB](https://github.com/zeit/now-builders)
-* [DOCS](https://zeit.co/docs)
-
-#### POSTCSS
-
-PostCSS is a tool for transforming styles with JS plugins. These plugins can lint your CSS, support variables and mixins, transpile future CSS syntax, inline images, and more.
-
-* [GITHUB](https://github.com/postcss/postcss)
-* [WEBSITE](https://postcss.org/)
-* [DOCS](https://github.com/postcss/postcss/tree/master/docs)
-
-#### PRETTIER
-
-Prettier is an opinionated code formatter.
-
-* [GITHUB](https://github.com/prettier/prettier)
-* [WEBSITE](https://prettier.io)
-
-#### TRILLIUM
-
-Build your personal knowledge base with Trilium Notes
-
-* [GITHUB](https://github.com/zadam/trilium)
-
-#### WASM METERING
-
-Injects metering into webassembly binaries
-
-* [GITHUB](https://github.com/ewasm/wasm-metering)
-
-#### YALC
-
-Work with yarn/npm packages locally like a boss
-
-* [GITHUB](https://github.com/whitecolor/yalc)
+#### [TRILLIUM](Deprecated.md#trillium)
 
 ## CONTRIBUTION
 
