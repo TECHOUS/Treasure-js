@@ -1818,6 +1818,14 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 * [WEBSITE](https://webpack.js.org/)
 * [DOCS](https://webpack.js.org/concepts/)
 
+### :rocket: WHEELNAV JS
+
+Animated wheel navigation JavaScript library based on Raphaël.js (SVG/VML). It can be a pie menu (radial menu, circular menu) and many more
+
+* [GITHUB](https://github.com/softwaretailoring/wheelnav)
+* [WEBSITE](https://wheelnavjs.softwaretailoring.net/)
+* [DOCS](https://wheelnavjs.softwaretailoring.net/documentation.html)
+
 ### :rocket: WINSTON JS
 
 * [GITHUB](https://github.com/winstonjs/winston)
