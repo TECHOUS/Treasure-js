@@ -1,4 +1,4 @@
-# VERSION 2.0.0
+# VERSION 2.0.1
 
 * Now can see JS tools in treasure also
 * Added semantic versioning
@@ -11,6 +11,10 @@
 
 * Fixed the deprecated items
 * Fixed numbers for examples to dots
+
+### PATCH 1
+
+Fixed number system in JS resources.
 
 ## VERSION 1.0
 
