@@ -1,5 +1,7 @@
 # DEPRECATED RESOURCES
 
+This treasure contain the items that are not useful for treasure. Actually they are not deprecated.
+
 ## KEYFRAMES
 
 A library for converting Adobe AE shape based animations to a data format and playing it back on Android and iOS devices
