@@ -58,6 +58,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 * [Distributed crawler powered by Headless Chrome](https://github.com/yujiosaka/headless-chrome-crawler)
 * [Webbased old-school Amiga music tracker in plain old javascript - Plays and edits Amiga Mod files and FastTracker XM files](https://github.com/steffest/BassoonTracker)
 * [Programming Web JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
+* [How to control the behavior of JavaScript imports](https://github.com/WICG/import-maps)
 
 ### :rocket: VIDEOS
 
@@ -72,7 +73,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 
 * [axios plugin converting requests to cURL commands, saving and logging them.](https://github.com/delirius325/axios-curlirize)
 
-### :rocket: PWA - Progrssive Web Apps
+### :rocket: PWA - Progressive Web Apps
 
 * [sample 1](https://github.com/aviaryan/todo-pwa-workshop)
 * [Auditing, performance metrics, and best practices for Progressive Web Apps](https://github.com/GoogleChrome/lighthouse)
@@ -927,6 +928,8 @@ MobX is proudly sponsored by Mendix, Coinbase, Canva, Facebook Open Source, Algo
 
 ### :rocket: MOCHA JS
 
+simple, flexible, fun javascript test framework for node.js & the browser
+
 * [WEBSITE](https://mochajs.org/)
 * [GITHUB](https://github.com/mochajs/mocha)
 * [DOCS](https://devdocs.io/mocha/)
@@ -1297,6 +1300,8 @@ A JavaScript library for building user interfaces
 * [a collection of simple demos of React.js](https://github.com/ruanyf/react-demos)
 * [Google Material Design (Material-UI) styled React component using Google Maps Places Autocomplete](https://github.com/Giners/mui-places-autocomplete)
 * [Country / region React select boxes for your forms.](https://github.com/country-regions/react-country-region-selector)
+* [svg react icons of popular icon packs](https://github.com/react-icons/react-icons)
+* [Collection of animated burgers for React, also available as HTML+CSS](https://github.com/march08/animated-burgers)
 
 #### CONSTATE
 
