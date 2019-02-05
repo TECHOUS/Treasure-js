@@ -1,4 +1,9 @@
-# VERSION 2.0.1
+# VERSION 2.1.0
+
+* Added readbility js
+* Some updates for treasure
+
+## VERSION 2.0.1
 
 * Now can see JS tools in treasure also
 * Added semantic versioning
@@ -7,7 +12,7 @@
 * Added deprecated column for treasure
 * Logo will soon be released
 
-## BUGS AND FIXES
+### BUGS AND FIXES 2.0.0
 
 * Fixed the deprecated items
 * Fixed numbers for examples to dots
