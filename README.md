@@ -84,7 +84,6 @@ git clone https://github.com/TechOUs/Treasure-js.git
 
 ### :rocket: OTHER EXAMPLES
 
-* [Babel Macro for graphql-tag](https://github.com/leoasis/graphql-tag.macro)
 * [ZEN AUDIO PLAYER](https://github.com/zen-audio-player/zen-audio-player.github.io)
 * [QUERY STRING](https://github.com/sindresorhus/query-string)
 * [WALT](https://github.com/callstack/react-native-testing-library)
@@ -239,6 +238,9 @@ Babel is a compiler for writing next generation JavaScript
 * [Pre-evaluate code at build-time](https://github.com/kentcdodds/babel-plugin-preval)
 * [Super-fast alternative for babel written in rust](https://github.com/swc-project/swc)
 * [Add the opportunity to import modules by the root path](https://github.com/entwicklerstube/babel-plugin-root-import)
+* [Allows you to build simple compile-time libraries](https://github.com/kentcdodds/babel-plugin-macros)
+* [Babel Macro for graphql-tag](https://github.com/leoasis/graphql-tag.macro)
+* [Compile GraphQL AST at build-time with babel-plugin-macros.](https://github.com/evenchange4/graphql.macro)
 
 ### :rocket: BACKBONE JS
 
@@ -607,7 +609,7 @@ Helmet helps you secure your Express apps by setting various HTTP headers
 * [WEBSITE](https://helmetjs.github.io/)
 * [DOCS](https://helmetjs.github.io/docs/)
 
-### :rocket: HIGHCHART JS
+### :rocket: HIGHCHARTS JS
 
 Highcharts JS, the JavaScript charting framework
 
@@ -1302,6 +1304,9 @@ A JavaScript library for building user interfaces
 * [Country / region React select boxes for your forms.](https://github.com/country-regions/react-country-region-selector)
 * [svg react icons of popular icon packs](https://github.com/react-icons/react-icons)
 * [Collection of animated burgers for React, also available as HTML+CSS](https://github.com/march08/animated-burgers)
+* [A free and beautiful React admin dashboard template pack](https://github.com/DesignRevision/shards-dashboard-react)
+* [A Bootstrap table built with React.js](https://github.com/AllenFang/react-bootstrap-table)
+* [Next Generation of react-bootstrap-table](https://github.com/react-bootstrap-table/react-bootstrap-table2)
 
 #### CONSTATE
 
@@ -1698,6 +1703,7 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 * [Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element](https://github.com/matvp91/indigo-player)
 * [A super-simple-small promise-based keyval store implemented with IndexedDB](https://github.com/jakearchibald/idb-keyval)
 * [Very fast and lightweight, standards-compliant, self-hosted javascript parser with high focus on both performance and stability](https://github.com/cherow/cherow)
+* [Serverless back-end framework in TypeScript for AWS Lambda. Declarative dependency injection and event binding.](https://github.com/alitelabs/tyx)
 
 ### :rocket: μ
 
