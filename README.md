@@ -980,6 +980,13 @@ The React Framework
 * [nextjs starter project](https://github.com/me-io/nextjs-starter)
 * [CLI for easily creating Next.js apps in one command](https://github.com/themodernjavascript/create-next-app-cli)
 
+### :rocket: NOCK
+
+HTTP server mocking and expectations library for Node.js
+
+* [GITHUB](https://github.com/nock/nock)
+* [DOCS](https://github.com/nock/nock#usage)
+
 ### :rocket: NODE JS
 
 Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.

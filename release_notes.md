@@ -1,7 +1,13 @@
-# VERSION 2.1.0
+# VERSION 2.1.1
+
+## UPDATE 2.1.0
 
 * Added readbility js
 * Some updates for treasure
+
+## PATCH 2.1.1
+
+* Added nock
 
 ## VERSION 2.0.1
 
@@ -17,7 +23,7 @@
 * Fixed the deprecated items
 * Fixed numbers for examples to dots
 
-### PATCH 1
+### PATCH 2.0.1
 
 Fixed number system in JS resources.
 
