@@ -1432,6 +1432,12 @@ Predictable state container for JavaScript apps
 * [React Router and Redux](https://www.edx.org/course/react-router-and-redux-1)
 * [Enables simple, yet robust handling of async action creators in Redux](https://github.com/pburtchaell/redux-promise-middleware)
 
+### :rocket: READABILITY JS
+
+A standalone version of the readability lib
+
+* [GITHUB/DOCS](https://github.com/mozilla/readability)
+
 ### :rocket: REBASS JS
 
 React primitive UI components built with styled-system
