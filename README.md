@@ -132,6 +132,8 @@ git clone https://github.com/TechOUs/Treasure-js.git
 * [Extension containing an experimental libdweb APIs](https://github.com/mozilla/libdweb)
 * [Useful interpolated functions for CSS-in-JS](https://github.com/diegohaz/styled-tools)
 * [Ace (Ajax.org Cloud9 Editor)](https://github.com/ajaxorg/ace)
+* [Browse the history of any file from GitHub with style](https://github.com/pomber/github-history)
+* [Bookmark and archive webpages from the command line](https://github.com/marvelm/erised)
 
 ## JSON (JavaScript Object Notation)
 
@@ -569,6 +571,13 @@ The JavaScript Task Runner
 * [WEBSITE](https://gruntjs.com/)
 * [GITHUB](https://github.com/gruntjs/grunt)
 * [DOCS](https://gruntjs.com/getting-started)
+
+### :rocket: GUESS JS
+
+Libraries & tools for enabling Machine Learning driven user-experiences on the web
+
+* [GITHUB](https://github.com/guess-js/guess)
+* [WEBSITE](https://guess-js.github.io/)
 
 ### :rocket: GUITAREDITOR JS
 
