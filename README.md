@@ -1564,6 +1564,14 @@ A completely customizable framework for building rich text editors.
 * [GITHUB](https://github.com/ianstormtaylor/slate)
 * [DOCS](https://docs.slatejs.org/)
 
+### :rocket: SNAP SVG
+
+SVG is an excellent way to create interactive, resolution-independent vector graphics that will look great on any size screen. And the Snap.svg JavaScript library makes working with your SVG assets as easy as jQuery makes working with the DOM.
+
+* [GITHUB](https://github.com/adobe-webplatform/Snap.svg)
+* [WEBSITE](http://snapsvg.io/)
+* [DOCS](http://snapsvg.io/docs/)
+
 ### :rocket: SOCKET IO
 
 Realtime application framework (Node.JS server)
