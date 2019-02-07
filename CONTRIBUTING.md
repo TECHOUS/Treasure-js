@@ -39,3 +39,11 @@ Make ISSUE for it we will check and take ACTION against it
 ## WANT TO SUGGEST NEW FEATURES
 
 Make ISSUE for it we will reply on that ISSUE ASAP.
+
+## VERSIONING
+
+MAJOR.MINOR.PATCH
+
+* MAJOR -> Updated structured of readme
+* MINOR -> Added 5 libraries
+* PATCH -> Update the bugs

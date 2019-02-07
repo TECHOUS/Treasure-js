@@ -1,15 +1,19 @@
-# VERSION 2.1.1
+# VERSION 2
 
-## UPDATE 2.1.0
-
-* Added readbility js
-* Some updates for treasure
+* Added guess js
+* Added snap svg
+* Added clinic js
 
 ## PATCH 2.1.1
 
 * Added nock
 
-## VERSION 2.0.1
+### UPDATE 2.1.0
+
+* Added readbility js
+* Some updates for treasure
+
+### UPDATE 2.0.1
 
 * Now can see JS tools in treasure also
 * Added semantic versioning

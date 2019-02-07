@@ -332,6 +332,14 @@ A simple javascript utility for conditionally joining classNames together
 
 * [GITHUB](https://github.com/JedWatson/classnames)
 
+### :rocket: CLINIC JS
+
+Diagnose performance issues in your Node.js applications
+
+* [GITHUB](https://github.com/nearform/node-clinic)
+* [WEBSITE](https://clinicjs.org/)
+* [DOCS](https://clinicjs.org/documentation/)
+
 ### :rocket: CLIPBOARD JS
 
 Modern copy to clipboard. No Flash. Just 3kb gzipped
