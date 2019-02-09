@@ -1331,6 +1331,7 @@ A JavaScript library for building user interfaces
 * [A free and beautiful React admin dashboard template pack](https://github.com/DesignRevision/shards-dashboard-react)
 * [A Bootstrap table built with React.js](https://github.com/AllenFang/react-bootstrap-table)
 * [Next Generation of react-bootstrap-table](https://github.com/react-bootstrap-table/react-bootstrap-table2)
+* [Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the ground with React!](https://github.com/tyroprogrammer/learn-react-app)
 
 #### CONSTATE
 
@@ -1439,6 +1440,7 @@ A framework for building native apps with React
 * [React Native wrapper for Intercom.io](https://github.com/Annihil/react-native-intercom)
 * [React Native Chart Kit: Line Chart, Bezier Line Chart, Progress Ring, Bar chart, Pie chart, Contribution graph (heatmap)](https://github.com/indiespirit/react-native-chart-kit)
 * [Javascript animated polyline for react native maps](https://github.com/shameemz/react-native-maps-animated-polyline)
+* [React Native APIs turned into React Hooks for use in functional React components](https://github.com/react-native-community/react-native-hooks)
 
 #### :rocket: REDUX
 
