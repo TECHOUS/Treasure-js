@@ -445,6 +445,7 @@ Build cross platform desktop apps with JavaScript, HTML, and CSS
 * [SPECTRON](https://github.com/electron/spectron)
 * [Collection of Apps build on electron](https://github.com/electron/apps)
 * [DOCS](https://devdocs.io/electron/)
+* [Windows 95 in Electron. Runs on macOS, Linux, and Windows.](https://github.com/felixrieseberg/windows95)
 
 ### :rocket: EMBER JS
 
@@ -1332,6 +1333,7 @@ A JavaScript library for building user interfaces
 * [A Bootstrap table built with React.js](https://github.com/AllenFang/react-bootstrap-table)
 * [Next Generation of react-bootstrap-table](https://github.com/react-bootstrap-table/react-bootstrap-table2)
 * [Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the ground with React!](https://github.com/tyroprogrammer/learn-react-app)
+* [React components that implement Google's Material Design.](https://github.com/mui-org/material-ui)
 
 #### CONSTATE
 
