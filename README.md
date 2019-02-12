@@ -81,6 +81,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 * [A super fast menubar app](https://github.com/Booligoosh/makerlog-menubar)
 * [Translation strings used in the Stremio app](https://github.com/Stremio/stremio-translations)
 * [Containerize your Apps with Docker and Kubernetes, published by Packt](https://github.com/PacktPublishing/Containerize-your-Apps-with-Docker-and-Kubernetes)
+* [Workbox: JavaScript libraries for Progressive Web Apps](https://github.com/GoogleChrome/workbox)
 
 ### :rocket: OTHER EXAMPLES
 
@@ -1317,6 +1318,7 @@ A JavaScript library for building user interfaces
 * [Simple and complete React DOM testing utilities that encourage good testing practices](https://github.com/kentcdodds/react-testing-library)
 * [JavaScript Testing utilities for React](https://github.com/airbnb/enzyme)
 * [Companion code to the "How to Write a Google Maps React Component" Tutorial](https://github.com/fullstackreact/google-maps-react)
+* [High performance subscription-based form state management for React](https://github.com/final-form/react-final-form)
 * [React crash course](https://github.com/bradtraversy/react_crash_todo)
 * [React hook for providing info from gamepads connected to the system](https://github.com/ythecombinator/gamepads)
 * [React hook for providing both read and write access to the system clipboard.](https://github.com/ythecombinator/clipboard)
@@ -1344,6 +1346,7 @@ A JavaScript library for building user interfaces
 * [Next Generation of react-bootstrap-table](https://github.com/react-bootstrap-table/react-bootstrap-table2)
 * [Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the ground with React!](https://github.com/tyroprogrammer/learn-react-app)
 * [React components that implement Google's Material Design.](https://github.com/mui-org/material-ui)
+* [a cheatsheet for react users using typescript with react for the first (or nth!) time](https://github.com/sw-yx/react-typescript-cheatsheet)
 
 #### CONSTATE
 
@@ -1469,6 +1472,7 @@ Predictable state container for JavaScript apps
 * [CONNECTED REACT REDUX](https://github.com/supasate/connected-react-router)
 * [React Router and Redux](https://www.edx.org/course/react-router-and-redux-1)
 * [Enables simple, yet robust handling of async action creators in Redux](https://github.com/pburtchaell/redux-promise-middleware)
+* [Thunk middleware for Redux](https://github.com/reduxjs/redux-thunk)
 
 ### :rocket: READABILITY JS
 
@@ -1744,6 +1748,7 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 * [ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms](https://github.com/typeorm/typeorm)
 * [Browser extension for strava. "Elevate" tracks your fitness and progressions over time. Analyse deeper your activities & segments.](https://github.com/thomaschampagne/elevate)
 * [The markdown-based note-taking app](https://github.com/fabiospampinato/notable)
+* [Convert React JavaScript code to TypeScript with proper typing](https://github.com/lyft/react-javascript-to-typescript-transform)
 * [CLIFlix](https://github.com/fabiospampinato/cliflix)
 * [The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More](https://github.com/grafana/grafana)
 * [Make images smaller using best-in-class codecs, right in the browser.](https://github.com/GoogleChromeLabs/squoosh)
