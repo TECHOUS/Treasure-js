@@ -103,7 +103,9 @@ git clone https://github.com/TechOUs/Treasure-js.git
 * [A collection of small corpuses of interesting data for the creation of bots and similar stuff](https://github.com/dariusk/corpora)
 * [Create the next immutable state by mutating the current one](https://github.com/mweststrate/immer)
 * [VIRTUAL SCROLLER](https://github.com/valdrinkoshi/virtual-scroller)
+* [wolkenkit-boards is a team collaboration application.](https://github.com/thenativeweb/wolkenkit-boards)
 * [bg-sound](https://github.com/feross/bg-sound)
+* [An add-on to let you snooze your tabs for a while.](https://github.com/bwinton/SnoozeTabs)
 * [Simple app to tell you where there is uber](https://github.com/SaraVieira/uber-cities)
 * [JS DOM](https://github.com/jsdom/jsdom)
 * [BRACKETS](https://github.com/adobe/brackets)
@@ -1891,7 +1893,10 @@ Animated wheel navigation JavaScript library based on Raphaël.js (SVG/VML). It 
 
 ### :rocket: WINSTON JS
 
+winston is designed to be a simple and universal logging library with support for multiple transports. A transport is essentially a storage device for your logs. Each winston logger can have multiple transports (see: Transports) configured at different levels (see: Logging levels). For example, one may want error logs to be stored in a persistent remote location (like a database), but all logs output to the console or a local file.
+
 * [GITHUB](https://github.com/winstonjs/winston)
+* [USAGE](https://github.com/winstonjs/winston#usage)
 
 ### :rocket: XREGEXP
 
