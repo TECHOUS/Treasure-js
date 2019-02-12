@@ -4,6 +4,7 @@
 * Added snap svg
 * Added clinic js
 * Added Mercury Parser
+* Added Wolkenkit
 
 ## PATCH 2.1.1
 

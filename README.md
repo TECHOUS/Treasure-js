@@ -1898,6 +1898,14 @@ winston is designed to be a simple and universal logging library with support fo
 * [GITHUB](https://github.com/winstonjs/winston)
 * [USAGE](https://github.com/winstonjs/winston#usage)
 
+### :rocket: WOLKENKIT
+
+wolkenkit is a CQRS and event-sourcing framework for JavaScript and Node.js which fits perfectly with domain-driven design (DDD). It provides the technical foundation for your application, including an event-store and a scalable real-time API. This allows you to focus on what's essential: Solving actual real-world problems in no time.
+
+* [GITHUB](https://github.com/thenativeweb/wolkenkit)
+* [WEBSITE](https://www.wolkenkit.io/)
+* [DOCS](https://docs.wolkenkit.io/3.1.0/)
+
 ### :rocket: XREGEXP
 
 XRegExp provides augmented (and extensible) JavaScript regular expressions. You get modern syntax and flags beyond what browsers support natively. XRegExp is also a regex utility belt with tools to make your grepping and parsing easier, while freeing you from regex cross-browser inconsistencies and other annoyances.
