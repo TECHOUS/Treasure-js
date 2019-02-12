@@ -890,6 +890,13 @@ Library for building offline-first browser-based applications :: stand-alone web
 * [WEBSITE](http://www.oknosoft.ru/metadata/)
 * [DOCS](http://www.oknosoft.ru/metadata/)
 
+### :rocket: MERCURY PARSER
+
+The Mercury Parser extracts the bits that humans care about from any URL you give it. That includes article content, titles, authors, published dates, excerpts, lead images, and more.
+
+* [GITHUB](https://github.com/postlight/mercury-parser)
+* [WEBSITE](https://mercury.postlight.com/web-parser/)
+
 ### :rocket: METALSMITH
 
 An extremely simple, pluggable static site generator.

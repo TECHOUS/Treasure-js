@@ -3,6 +3,7 @@
 * Added guess js
 * Added snap svg
 * Added clinic js
+* Added Mercury Parser
 
 ## PATCH 2.1.1
 
