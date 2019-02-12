@@ -1,21 +1,23 @@
 # VERSION 2
 
+## UPDATES 2.2.0
+
 * Added guess js
 * Added snap svg
 * Added clinic js
 * Added Mercury Parser
 * Added Wolkenkit
 
-## PATCH 2.1.1
+### PATCH 2.1.1
 
-* Added nock
+* Added nock and fixed
 
-### UPDATE 2.1.0
+### UPDATES 2.1.0
 
 * Added readbility js
 * Some updates for treasure
 
-### UPDATE 2.0.1
+### PATCH 2.0.1
 
 * Now can see JS tools in treasure also
 * Added semantic versioning
@@ -23,15 +25,12 @@
 * Added more wonderful items in treasure
 * Added deprecated column for treasure
 * Logo will soon be released
+* Fixed number system in JS resources.
 
 ### BUGS AND FIXES 2.0.0
 
 * Fixed the deprecated items
 * Fixed numbers for examples to dots
-
-### PATCH 2.0.1
-
-Fixed number system in JS resources.
 
 ## VERSION 1.0
 

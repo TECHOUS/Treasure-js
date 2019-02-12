@@ -111,6 +111,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 * [BRACKETS](https://github.com/adobe/brackets)
 * [A tool to manage your wallets](https://github.com/balance-io/balance-manager)
 * [QUICKLINK: Faster subsequent page-loads by prefetching in-viewport links during idle time](https://github.com/GoogleChromeLabs/quicklink)
+* [A modular and easily extendable system for repeatable workflows](https://github.com/bioinformatics-ua/taska)
 * [PDF Reader in JavaScript](https://github.com/mozilla/pdf.js)
 * [Composer is a framework for building Blockchain business networks](https://github.com/hyperledger/composer)
 * [Hackable console logger](https://github.com/klaussinani/signale)
