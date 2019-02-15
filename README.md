@@ -82,6 +82,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 * [Translation strings used in the Stremio app](https://github.com/Stremio/stremio-translations)
 * [Containerize your Apps with Docker and Kubernetes, published by Packt](https://github.com/PacktPublishing/Containerize-your-Apps-with-Docker-and-Kubernetes)
 * [Workbox: JavaScript libraries for Progressive Web Apps](https://github.com/GoogleChrome/workbox)
+* [Your next Preact PWA starts in 30 seconds.](https://github.com/developit/preact-cli)
 
 ### :rocket: OTHER EXAMPLES
 
@@ -562,6 +563,7 @@ Gatsby lets you build blazing fast sites with your data, whatever the source. Li
 * [GITHUB](https://github.com/gatsbyjs/gatsby)
 * [WEBSITE](https://www.gatsbyjs.org/)
 * [DOCS](https://www.gatsbyjs.org/docs/)
+* [Gatsby+MDX • Transformers, CMS UI Extensions, and Ecosystem Components for ambitious projects](https://github.com/ChristopherBiscardi/gatsby-mdx)
 
 ### :rocket: GREENSOCK JS
 
