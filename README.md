@@ -161,6 +161,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 * [Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
 * [The perfect Front-End Checklist for modern websites and meticulous developers](https://github.com/thedaviddias/Front-End-Checklist)
 * [The OpenAPI Specification Repository](https://github.com/OAI/OpenAPI-Specification)
+* [Curated list of framework component libraries for UI styles/toolkit](https://github.com/anubhavsrivastava/awesome-ui-component-library)
 
 ### :rocket: AFRAME
 
@@ -1337,7 +1338,6 @@ A JavaScript library for building user interfaces
 * [An another React Data tables component.](https://github.com/hyojin/material-ui-datatables)
 * [UI Components for React](https://github.com/primefaces/primereact)
 * [A draggable toggle-switch component for React](https://github.com/markusenglund/react-switch)
-* [Font Awesome 5 React component](https://github.com/FortAwesome/react-fontawesome)
 * [a collection of simple demos of React.js](https://github.com/ruanyf/react-demos)
 * [Google Material Design (Material-UI) styled React component using Google Maps Places Autocomplete](https://github.com/Giners/mui-places-autocomplete)
 * [Country / region React select boxes for your forms.](https://github.com/country-regions/react-country-region-selector)
