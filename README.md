@@ -565,6 +565,7 @@ Gatsby lets you build blazing fast sites with your data, whatever the source. Li
 * [WEBSITE](https://www.gatsbyjs.org/)
 * [DOCS](https://www.gatsbyjs.org/docs/)
 * [Gatsby+MDX • Transformers, CMS UI Extensions, and Ecosystem Components for ambitious projects](https://github.com/ChristopherBiscardi/gatsby-mdx)
+* [Gatsby + Netlify CMS Starter](https://github.com/ahmadawais/gatsby-starter-netlify-cms-test)
 
 ### :rocket: GREENSOCK JS
 
@@ -1574,6 +1575,13 @@ An easy-to-use multi SQL dialect ORM
 * [GITHUB](https://github.com/sequelize/sequelize)
 * [WEBSITE](http://docs.sequelizejs.com/)
 * [DOCS/REFERENCE](http://docs.sequelizejs.com/identifiers.html)
+
+### :rocket: SERVE
+
+Static file serving and directory listing
+
+* [GITHUB](https://github.com/zeit/serve)
+* [WEBSITE](https://zeit.co/blog/serve-7)
 
 ### :rocket: SINON JS
 
