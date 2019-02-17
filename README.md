@@ -810,6 +810,13 @@ Leaflet is the leading open-source JavaScript library for mobile-friendly intera
 * [DOCS 1.1](https://devdocs.io/leaflet~1.1/)
 * [DOCS 1.0](https://devdocs.io/leaflet~1.0/)
 
+### :rocket: LEON
+
+Leon is your open-source personal assistant.
+
+* [GITHUB](https://github.com/leon-ai/leon)
+* [WEBSITE](https://getleon.ai/)
+
 ### :rocket: LERNA
 
 A tool for managing JavaScript projects with multiple packages.

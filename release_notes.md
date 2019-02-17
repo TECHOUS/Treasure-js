@@ -2,6 +2,7 @@
 
 * Added serve
 * Added bqplot
+* Added leon
 
 ## UPDATES 2.2.0
 
