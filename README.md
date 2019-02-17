@@ -307,6 +307,12 @@ Neural networks in JavaScript
 * [GITHUB](https://github.com/BrainJS/brain.js)
 * [WEBSITE](https://brain.js.org/)
 
+### :rocket: BQPLOT
+
+Plotting library for IPython/Jupyter Notebooks
+
+* [GITHUB](https://github.com/bloomberg/bqplot)
+
 ### :rocket: CAMAN JS
 
 CamanJS is (ca)nvas (man)ipulation in Javascript. It's a combination of a simple-to-use interface with advanced and efficient image/canvas editing techniques.

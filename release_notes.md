@@ -1,5 +1,8 @@
 # VERSION 2
 
+* Added serve
+* Added bqplot
+
 ## UPDATES 2.2.0
 
 * Added guess js
