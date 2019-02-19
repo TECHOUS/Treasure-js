@@ -3,6 +3,7 @@
 * Added serve
 * Added bqplot
 * Added leon
+* Added dotenv-safe
 
 ## UPDATES 2.2.0
 

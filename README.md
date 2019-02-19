@@ -1097,6 +1097,13 @@ The official JavaScript client for Cosmic JS. Use it to power content server-sid
 * [GITHUB](https://github.com/cosmicjs/cosmicjs-node)
 * [WEBSITE](https://www.npmjs.com/package/cosmicjs)
 
+#### DOTENV-SAFE
+
+Load environment variables from .env and ensure they are all present
+
+* [GITHUB](https://github.com/rolodato/dotenv-safe)
+* [WEBSITE](https://www.npmjs.com/package/dotenv-safe)
+
 #### ORA
 
 Elegant terminal spinner
