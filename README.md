@@ -683,6 +683,13 @@ Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with
 
 * [GITHUB](https://github.com/jorgebucaran/hyperapp)
 
+### :rocket: HYPER
+
+A terminal built on web technologies
+
+* [GITHUB](https://github.com/zeit/hyper)
+* [WEBSITE](https://hyper.is/)
+
 ### :rocket: IMAGEMIN
 
 Tense, nervous, minifying images
@@ -1370,6 +1377,7 @@ A JavaScript library for building user interfaces
 * [Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the ground with React!](https://github.com/tyroprogrammer/learn-react-app)
 * [React components that implement Google's Material Design.](https://github.com/mui-org/material-ui)
 * [a cheatsheet for react users using typescript with react for the first (or nth!) time](https://github.com/sw-yx/react-typescript-cheatsheet)
+* [Pure react-based typeahead and typeahead-tokenizer](https://github.com/fmoo/react-typeahead)
 
 #### CONSTATE
 
