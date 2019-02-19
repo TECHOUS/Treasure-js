@@ -1,12 +1,14 @@
 # VERSION 2
 
+## UPDATES 2.3.0
+
 * Added serve
 * Added bqplot
 * Added leon
 * Added dotenv-safe
 * Added hyper
 
-## UPDATES 2.2.0
+### UPDATES 2.2.0
 
 * Added guess js
 * Added snap svg
