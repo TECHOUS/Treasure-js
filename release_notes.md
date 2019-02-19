@@ -1,5 +1,7 @@
 # VERSION 2
 
+* Added graphpack
+
 ## UPDATES 2.3.0
 
 * Added serve

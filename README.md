@@ -581,6 +581,13 @@ GreenSock's GSAP JavaScript animation library (including Draggable)
 * [WEBSITE](https://greensock.com/)
 * [DOCS](https://greensock.com/docs)
 
+### :rocket: GRAPHPACK
+
+A minimalistic zero-config GraphQL server.
+
+* [GITHUB](https://github.com/glennreyes/graphpack)
+* [WEBSITE](https://codesandbox.io/s/k3qrkl8qlv)
+
 ### :rocket: GRAY MATTER
   
 Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers.
