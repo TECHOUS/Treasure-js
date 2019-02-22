@@ -59,6 +59,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 * [Webbased old-school Amiga music tracker in plain old javascript - Plays and edits Amiga Mod files and FastTracker XM files](https://github.com/steffest/BassoonTracker)
 * [Programming Web JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 * [How to control the behavior of JavaScript imports](https://github.com/WICG/import-maps)
+* [Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
 
 ### :rocket: VIDEOS
 
@@ -478,6 +479,13 @@ Emotion is a performant and flexible CSS-in-JS library
 * [GITHUB](https://github.com/emotion-js/emotion)
 * [WEBSITE](https://emotion.sh/)
 * [DOCS](https://emotion.sh/docs/introduction)
+
+### :rocket: EOS JS
+
+Javascript API for integration with EOSIO-based blockchains using EOSIO RPC API.
+
+* [GITHUB](https://github.com/EOSIO/eosjs)
+* [WEBSITE/DOCS](https://eosio.github.io/eosjs/)
 
 ### :rocket: EXPRESS JS
 
@@ -1816,6 +1824,7 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 * [A super-simple-small promise-based keyval store implemented with IndexedDB](https://github.com/jakearchibald/idb-keyval)
 * [Very fast and lightweight, standards-compliant, self-hosted javascript parser with high focus on both performance and stability](https://github.com/cherow/cherow)
 * [Serverless back-end framework in TypeScript for AWS Lambda. Declarative dependency injection and event binding.](https://github.com/alitelabs/tyx)
+* [An implementation of WHATWG AbortController interface.](https://github.com/mysticatea/abort-controller)
 
 ### :rocket: μ
 
