@@ -1,6 +1,7 @@
 # VERSION 2
 
 * Added graphpack
+* Added React Sizes component library
 
 ## UPDATES 2.3.0
 

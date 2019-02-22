@@ -1331,6 +1331,8 @@ A JavaScript library for building user interfaces
 * [Declarative routing for React](https://github.com/ReactTraining/react-router)
 * [A React Component to create interactive 3d graphs](https://github.com/Auquan/react-graph3d-vis)
 * [OFFICE UI FABRIC REACT](https://github.com/OfficeDev/office-ui-fabric-react)
+* [React UI animation made easy](https://github.com/bluebill1049/react-simple-animate)
+* [InfiniteLoader component inspired by react-virtualized but for use with react-window](https://github.com/bvaughn/react-window-infinite-loader)
 * [A DIY guide to build your own React](https://github.com/pomber/didact)
 * [REACT-SNAP](https://github.com/stereobooster/react-snap)
 * [Build forms in React, without the tears](https://github.com/jaredpalmer/formik)
@@ -1459,6 +1461,13 @@ A spring physics based React animation library
 * [WEBSITE](http://react-spring.surge.sh/)
 * [DOCS](http://react-spring.surge.sh/spring)
 
+#### REACT SIZES
+
+React Sizes is a high-order component with a high performance that transform window sizes (width and height) into props.
+You can check inside your component, for example, if user's window is less than 480 pixels of width, and add a custom content.It can be very powerful for when you need to display different content for mobile and desktop. But it's not limited to this case. Just use that at your needs.
+
+* [GITHUB](https://github.com/renatorib/react-sizes)
+
 #### REACT STATIC
 
 React-Static is a fast, lightweight, and powerful framework for building static-progressive React applications and websites. It's been carefully designed to meet the highest standards of static-site performance, and user/developer experience.
@@ -1494,6 +1503,7 @@ A framework for building native apps with React
 * [React Native Chart Kit: Line Chart, Bezier Line Chart, Progress Ring, Bar chart, Pie chart, Contribution graph (heatmap)](https://github.com/indiespirit/react-native-chart-kit)
 * [Javascript animated polyline for react native maps](https://github.com/shameemz/react-native-maps-animated-polyline)
 * [React Native APIs turned into React Hooks for use in functional React components](https://github.com/react-native-community/react-native-hooks)
+* [Essential cross-platform UI components for React Native](https://github.com/GeekyAnts/NativeBase)
 
 #### :rocket: REDUX
 
@@ -1905,6 +1915,7 @@ A progressive, incrementally-adoptable JavaScript framework for building UI on t
 * [A blog theme for VuePress by Ktquez](https://github.com/ktquez/vuepress-theme-ktquez)
 * [An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
 * [Certificate Transparency Log aggregation, parsing, and streaming service written in Elixir](https://github.com/CaliDog/certstream-server)
+* [dev.to Repo Weekly Recap](https://github.com/aligoren/dev-recap)
 
 ### :rocket: WARRIOR JS
 
