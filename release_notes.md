@@ -1,5 +1,7 @@
 # VERSION 2
 
+* Added tc core library js
+
 ## UPDATES 2.4.0
 
 * Added graphpack

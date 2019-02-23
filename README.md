@@ -1743,6 +1743,12 @@ Super-agent driven library for testing node.js HTTP servers using a fluent API
 
 * [GITHUB](https://github.com/visionmedia/supertest)
 
+### :rocket: TC CORE LIBARY JS
+
+Library that contains utils, middlewares etc that can be used by all Topocder Services.
+
+* [GITHUB](https://github.com/appirio-tech/tc-core-library-js)
+
 ### :rocket: TENSORFLOW JS
 
 A JavaScript library for training and deploying ML models in the browser and on Node.js
