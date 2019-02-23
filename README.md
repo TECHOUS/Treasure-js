@@ -447,6 +447,14 @@ Draft.js is a framework for building rich text editors in React, powered by an i
 * [WEBSITE](https://draftjs.org/)
 * [DOCS](https://draftjs.org/docs/getting-started)
 
+### :rocket: EDGE JS
+
+Node.js templating engine with fresh air
+
+* [GITHUB](https://github.com/edge-js/edge)
+* [WEBSITE](https://edge.adonisjs.com/)
+* [DOCS](https://edge.adonisjs.com/docs/getting-started)
+
 ### :rocket: ELECTRON JS
 
 Build cross platform desktop apps with JavaScript, HTML, and CSS
@@ -1330,6 +1338,7 @@ A JavaScript library for building user interfaces
 * [ROADMAP](https://github.com/adam-golab/react-developer-roadmap)
 * [DOCS](https://github.com/reactjs/reactjs.org)
 * [DEVDOCS](https://devdocs.io/react/)
+* [A Youtube clone built in React, Redux, Redux-saga](https://github.com/productioncoder/youtube-react)
 * [React JS](https://www.edx.org/course/introduction-to-reactjs-1)
 * [React JS - GFG](https://www.geeksforgeeks.org/react-js-introduction-working/)
 * [Advanced REACT](https://github.com/wesbos/Advanced-React)

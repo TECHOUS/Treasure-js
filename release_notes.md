@@ -3,6 +3,7 @@
 * Added graphpack
 * Added React Sizes component library
 * Added eos js
+* Added edge js
 
 ## UPDATES 2.3.0
 
