@@ -764,6 +764,12 @@ Yet another JS code coverage tool that computes statement, line, function and br
 * [WEBSITE](https://istanbul.js.org/)
 * [TUTORIAL](https://istanbul.js.org/docs/tutorials/)
 
+### :rocket: JAPA
+
+Embedable test runner for Node.js
+
+* [GITHUB](https://github.com/thetutlage/japa)
+
 ### :rocket: JASMINE
 
 Behavior-Driven JavaScript

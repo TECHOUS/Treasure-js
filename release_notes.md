@@ -4,6 +4,7 @@
 * Added React Sizes component library
 * Added eos js
 * Added edge js
+* Added japa
 
 ## UPDATES 2.3.0
 
