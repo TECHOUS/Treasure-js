@@ -30,6 +30,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 * [Javascript Tutorial](https://www.javatpoint.com/javascript-tutorial)
 * [30 SECONDS OF CODE](https://github.com/30-seconds/30-seconds-of-code)
 * [33 JS CONCEPTS](https://github.com/leonardomso/33-js-concepts)
+* [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [INTRODUCTION TO JAVASCRIPT](https://in.udacity.com/course/intro-to-javascript--ud803-india)
 * [OBJECT ORIENTED JAVASCRIPT](https://in.udacity.com/course/object-oriented-javascript--ud015)
 * [JAVASCRIPT PROMISES](https://in.udacity.com/course/javascript-promises--ud898)
@@ -84,6 +85,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 * [Containerize your Apps with Docker and Kubernetes, published by Packt](https://github.com/PacktPublishing/Containerize-your-Apps-with-Docker-and-Kubernetes)
 * [Workbox: JavaScript libraries for Progressive Web Apps](https://github.com/GoogleChrome/workbox)
 * [Your next Preact PWA starts in 30 seconds.](https://github.com/developit/preact-cli)
+* ["The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more medal_sports](https://realworld.io/)
 
 ### :rocket: OTHER EXAMPLES
 
@@ -1475,6 +1477,12 @@ Data Visualization Components
 
 * [MyReads Project](https://github.com/Decoys-out/MyReads-UDACITY-React)
 * [react-weather-app](https://github.com/ReactExpert/react-weather-app)
+
+#### REACT TOOL TIP
+
+A powerful and flexible React tooltip and menu library.
+
+* [GITHUB](https://github.com/justinrhodes1/react-power-tooltip)
 
 #### REACT SPRING
 

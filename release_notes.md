@@ -1,6 +1,7 @@
 # VERSION 2
 
 * Added tc core library js
+* Added react tooltip library
 
 ## UPDATES 2.4.0
 
