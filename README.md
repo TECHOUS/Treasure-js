@@ -1581,6 +1581,13 @@ Redefined chart library built with React and D3
 * [WEBSITE](http://recharts.org/)
 * [GUIDE/DOCS](http://recharts.org/en-US/guide)
 
+### :rocket: REGEXGEN
+
+Generates regular expressions that match a set of strings.
+
+* [GITHUB](https://github.com/devongovett/regexgen)
+* [WEBSITE](https://npm.runkit.com/regexgen)
+
 ### :rocket: RELAY JS
 
 Relay is a JavaScript framework for building data-driven React applications
