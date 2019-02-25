@@ -1,5 +1,7 @@
 # VERSION 2
 
+* Added grommet
+
 ## UPDATES 2.5.0
 
 * Added tc core library js
