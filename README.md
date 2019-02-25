@@ -1513,6 +1513,12 @@ React-Static is a fast, lightweight, and powerful framework for building static-
 
 * [GITHUB](https://github.com/nozzle/react-static)
 
+#### REACT MOBX BOILERPLATE
+
+TodoMVC reference implementation on top of react-mobx-boilerplate
+
+* [GITHUB](https://github.com/mobxjs/mobx-react-todomvc)
+
 #### REACT MOVABLE
 
 Drag and drop for your React lists and tables. Accessible. Tiny

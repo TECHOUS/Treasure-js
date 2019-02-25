@@ -4,6 +4,7 @@
 * Added react tooltip library
 * Added regexgen
 * Added react Loadable components
+* Added react mobx-boilerplate
 
 ## UPDATES 2.4.0
 
