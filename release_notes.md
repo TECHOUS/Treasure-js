@@ -1,8 +1,17 @@
-# VERSION 2
+# VERSION 3
+
+Version Released
+
+## UPDATES 3.0.0
 
 * Added grommet
+* Break the alphabet libraries
+* Added etc folder for other treasure
+* Reduce the size the of main readme
 
-## UPDATES 2.5.0
+## VERSION 2
+
+### UPDATES 2.5.0
 
 * Added tc core library js
 * Added react tooltip library
