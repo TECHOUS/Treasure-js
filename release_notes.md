@@ -3,6 +3,7 @@
 * Added tc core library js
 * Added react tooltip library
 * Added regexgen
+* Added react Loadable components
 
 ## UPDATES 2.4.0
 

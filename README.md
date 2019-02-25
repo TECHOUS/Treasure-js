@@ -1428,6 +1428,14 @@ Evergreen React UI Framework by Segment
 * [WEBSITE](https://evergreen.segment.com/)
 * [DOCS](https://evergreen.segment.com/components/)
 
+#### LOADABLE COMPONENTS
+
+React code splitting made easy
+
+* [GITHUB](https://github.com/smooth-code/loadable-components)
+* [WEBSITE](https://www.smooth-code.com/open-source/loadable-components/)
+* [DOCS](https://www.smooth-code.com/open-source/loadable-components/docs/getting-started/)
+
 #### POLARIS REACT
 
 Shopify’s product component library
