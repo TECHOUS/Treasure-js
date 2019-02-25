@@ -1,12 +1,14 @@
 # VERSION 2
 
+## UPDATES 2.5.0
+
 * Added tc core library js
 * Added react tooltip library
 * Added regexgen
 * Added react Loadable components
 * Added react mobx-boilerplate
 
-## UPDATES 2.4.0
+### UPDATES 2.4.0
 
 * Added graphpack
 * Added React Sizes component library
