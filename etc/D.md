@@ -41,6 +41,7 @@ A powerful JavaScript library for interacting with the Discord API
 * [GITHUB](https://github.com/discordjs/discord.js)
 * [WEBSITE](https://discord.js.org/#/)
 * [DOCS](https://discord.js.org/#/docs/main/stable/general/welcome)
+* [The open source Discord bot that solves all of your problems](https://github.com/SwitchbladeBot/switchblade)
 
 ## :rocket: DOKIELI
 

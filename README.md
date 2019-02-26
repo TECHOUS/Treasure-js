@@ -238,14 +238,16 @@ git clone https://github.com/TechOUs/Treasure-js.git
 
 ## CONTRIBUTION
 
-CONTRIBUTE AS MUCH YOU CAN !!!
+Follow our [contributing guidelines](CONTRIBUTING.md)
 
-## CONTRIBUTORS
+### CONTRIBUTORS
 
-See [CONTRIBUTORS](CONTRIBUTORS.md)
+See [CONTRIBUTORS](CONTRIBUTORS.md) for more details.
 
-## AUTHOR
+## LICENSE
 
-:copyright:Gaurav Walia
-:copyright:TechOus
+[MIT License](LICENSE)
+
+:copyright: 2018 TechOus
+
 We don't own any of these repositories.
