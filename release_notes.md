@@ -2,6 +2,8 @@
 
 Version Released
 
+* Added casual
+
 ## UPDATES 3.0.0
 
 * Added grommet

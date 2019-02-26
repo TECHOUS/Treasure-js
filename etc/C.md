@@ -17,6 +17,12 @@ Responsive HTML5 Charting Library with a Simple API and 10x Performance – make
 * [DOCS](https://canvasjs.com/docs/charts/basics-of-creating-html5-chart/)
 * [GITHUB](https://github.com/tsur/canvasjs)
 
+## :rocket: CASUAL
+
+Fake data generator for javascript
+
+* [GITHUB/DOCS](https://github.com/boo1ean/casual)
+
 ## :rocket: CHART JS
 
 Simple HTML5 Charts using the canvas tag
