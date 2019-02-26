@@ -69,3 +69,9 @@ Lightweight fuzzy-search
 
 * [GITHUB](https://github.com/krisk/Fuse)
 * [WEBSITE](http://fusejs.io/)
+
+## :rocket: FX
+
+Command-line tool and terminal JSON viewer :fire:
+
+* [GITHUB](https://github.com/antonmedv/fx)
