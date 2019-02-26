@@ -42,6 +42,14 @@ A powerful JavaScript library for interacting with the Discord API
 * [WEBSITE](https://discord.js.org/#/)
 * [DOCS](https://discord.js.org/#/docs/main/stable/general/welcome)
 
+## :rocket: DOKIELI
+
+dokieli is a clientside editor for decentralised article publishing, annotations and social interactions
+
+* [GITHUB](https://github.com/linkeddata/dokieli)
+* [WEBSITE](https://dokie.li/)
+* [DOCS](https://dokie.li/docs)
+
 ## :rocket: DOMPURIFY
 
 DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks.

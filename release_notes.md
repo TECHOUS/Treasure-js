@@ -3,6 +3,7 @@
 Version Released
 
 * Added casual
+* Added dokieli editor
 
 ## UPDATES 3.0.0
 
