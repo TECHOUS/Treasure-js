@@ -56,3 +56,4 @@ A progressive, incrementally-adoptable JavaScript framework for building UI on t
 * [An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
 * [Certificate Transparency Log aggregation, parsing, and streaming service written in Elixir](https://github.com/CaliDog/certstream-server)
 * [dev.to Repo Weekly Recap](https://github.com/aligoren/dev-recap)
+* [Vue.js and Property Decorator](https://github.com/kaorun343/vue-property-decorator)

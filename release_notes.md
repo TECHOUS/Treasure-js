@@ -4,6 +4,7 @@ Version Released
 
 * Added casual
 * Added dokieli editor
+* Added fx.
 
 ## UPDATES 3.0.0
 

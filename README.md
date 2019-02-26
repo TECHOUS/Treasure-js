@@ -104,6 +104,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 * [renovate](https://github.com/renovatebot/renovate)
 * [Sanity checking containers, vms, and servers](https://github.com/ottomatica/opunit)
 * [GITCOIN](https://github.com/gitcoinco/web)
+* [HUSKY](https://github.com/typicode/husky)
 * [A web based mission control framework](https://github.com/nasa/openmct)
 * [A collection of small corpuses of interesting data for the creation of bots and similar stuff](https://github.com/dariusk/corpora)
 * [Create the next immutable state by mutating the current one](https://github.com/mweststrate/immer)
