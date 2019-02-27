@@ -78,6 +78,14 @@ JavaScript Style Guide, with linter & automatic code fixer
 * [WEBSITE](https://standardjs.com/)
 * [USAGE/DOCS](https://standardjs.com/#usage)
 
+## :rocket: STATUSFY
+
+A Marvelous Open Source Status Page System
+
+* [GITHUB](https://github.com/bazzite/statusfy)
+* [WEBSITE](https://statusfy.co/)
+* [DOCS](https://docs.statusfy.co/)
+
 ## :rocket: STDLIB JS
 
 Standard library for JavaScript and Node.js.

@@ -59,6 +59,7 @@ JavaScript 3D library.
 * [GITHUB](https://github.com/mrdoob/three.js/)
 * [WEBSITE](https://threejs.org/)
 * [DOCS](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
+* [React-fiber renderer for THREE.js](https://github.com/drcmda/react-three-fiber)
 
 ## :rocket: TRANSFORM
 

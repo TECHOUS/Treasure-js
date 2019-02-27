@@ -2,6 +2,10 @@
 
 Version Released
 
+* Added status fy
+
+## UPDATES 3.0.1
+
 * Added casual
 * Added dokieli editor
 * Added fx.
