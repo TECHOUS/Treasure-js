@@ -6,6 +6,7 @@ Version Released
 * Added dokieli editor
 * Added fx.
 * Added gridsome
+* Added plop js
 
 ## UPDATES 3.0.0
 
