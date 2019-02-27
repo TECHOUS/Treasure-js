@@ -4,7 +4,7 @@ Version Released
 
 * Added status fy
 
-## UPDATES 3.0.1
+## UPDATES 3.1.0
 
 * Added casual
 * Added dokieli editor
