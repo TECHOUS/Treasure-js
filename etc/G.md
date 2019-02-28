@@ -10,6 +10,14 @@ Gatsby lets you build blazing fast sites with your data, whatever the source. Li
 * [Gatsby+MDX • Transformers, CMS UI Extensions, and Ecosystem Components for ambitious projects](https://github.com/ChristopherBiscardi/gatsby-mdx)
 * [Gatsby + Netlify CMS Starter](https://github.com/ahmadawais/gatsby-starter-netlify-cms-test)
 
+## :rocket: GPU JS
+
+GPU.js is a JavaScript Acceleration library for GPGPU (General purpose computing on GPUs) in JavaScript. GPU.js will automatically compile simple JavaScript functions into shader language and run them on the GPU. In case a GPU is not available, the functions will still run in regular JavaScript.
+
+* [GITHUB](https://github.com/gpujs/gpu.js)
+* [WEBSITE](https://gpu.rocks/)
+* [DOCS](https://github.com/gpujs/gpu.js#table-of-contents)
+
 ## :rocket: GREENSOCK JS
 
 GreenSock's GSAP JavaScript animation library (including Draggable)

@@ -151,6 +151,13 @@ WAI-ARIA compliant React autosuggest component
 * [WEBSITE](http://react-autosuggest.js.org/)
 * [USAGE](https://github.com/moroshko/react-autosuggest#installation)
 
+### REACT RESIZE DETECTOR
+
+A Cross-Browser, Event-based, Element Resize Detection for React
+
+* [GITHUB](https://github.com/maslianok/react-resize-detector)
+* [WEBSITE](http://maslianok.github.io/react-resize-detector/)
+
 ### REACT SELECT
 
 The Select Component for React.js
