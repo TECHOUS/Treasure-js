@@ -2,12 +2,15 @@
 
 Version Released
 
+## UPDATES 3.2.0
+
 * Added status fy
 * Added react resize detector
 * Added gpu js
 * Added polished js
+* Added linaria
 
-## UPDATES 3.1.0
+### UPDATES 3.1.0
 
 * Added casual
 * Added dokieli editor

@@ -26,6 +26,14 @@ A tool for managing JavaScript projects with multiple packages.
 * [GITHUB](https://github.com/lerna/lerna)
 * [WEBSITE/DOCS](https://lernajs.io/)
 
+## :rocket: LINARIA
+
+Write CSS in JS and get real CSS files during build. Use dynamic prop based styles with the React bindings and have them transpiled to CSS variables automatically. Great productivity with source maps and linting support.
+
+* [GITHUB](https://github.com/callstack/linaria)
+* [WEBSITE](https://linaria.now.sh/)
+* [DOCS](https://github.com/callstack/linaria/tree/master/docs)
+
 ## :rocket: LODASH
 
 A modern JavaScript utility library delivering modularity, performance & extras.
