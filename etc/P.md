@@ -48,6 +48,14 @@ Fast, disk space efficient package manager
 * [WEBSITE](https://pnpm.js.org/)
 * [DOCS](https://pnpm.js.org/docs/en/motivation.html)
 
+## :rocket: POLISHED JS
+
+A lightweight toolset for writing styles in JavaScript
+
+* [GITHUB](https://github.com/styled-components/polished)
+* [WEBSITE](https://polished.js.org/)
+* [DOCS](https://polished.js.org/docs/)
+
 ## :rocket: PUG JS
 
 Pug – robust, elegant, feature rich template engine for Node.js

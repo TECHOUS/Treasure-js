@@ -5,6 +5,7 @@ Version Released
 * Added status fy
 * Added react resize detector
 * Added gpu js
+* Added polished js
 
 ## UPDATES 3.1.0
 

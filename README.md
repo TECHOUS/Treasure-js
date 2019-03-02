@@ -70,6 +70,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 
 * [ky](https://github.com/sindresorhus/ky)
 * [Get a full fake REST API with zero coding in less than 30 seconds](https://github.com/typicode/json-server)
+* [This is a simple API for a music service that i developed for my tutorial on DRF](https://github.com/kasulani/drf_tutorial)
 
 ### :rocket: PLUGINS
 
@@ -99,6 +100,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 * [COMMITZEN CLI](https://github.com/commitizen/cz-cli)
 * [TEXME](https://github.com/susam/texme)
 * [CARBON](https://github.com/dawnlabs/carbon)
+* [Apps Script samples for G Suite products](https://github.com/gsuitedevs/apps-script-samples)
 * [MetaMask browser extension](https://github.com/MetaMask/metamask-extension)
 * [SOLANA API](https://github.com/solana-labs/example-tictactoe)
 * [renovate](https://github.com/renovatebot/renovate)
@@ -226,6 +228,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 * [StaticGen.com, A leaderboard of top open-source static site generators](https://github.com/netlify/staticgen)
 * [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
 * [CASH](https://github.com/kenwheeler/cash)
+* [You don't (may not) need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
 
 ### :rocket: DEPRECATED
 
