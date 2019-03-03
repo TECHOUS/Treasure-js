@@ -168,57 +168,21 @@ git clone https://github.com/TechOUs/Treasure-js.git
 * [The OpenAPI Specification Repository](https://github.com/OAI/OpenAPI-Specification)
 * [Curated list of framework component libraries for UI styles/toolkit](https://github.com/anubhavsrivastava/awesome-ui-component-library)
 
-### :rocket: [**A**](etc/A.md)
-
-### :rocket: [**B**](etc/B.md)
-
-### :rocket: [**C**](etc/C.md)
-
-### :rocket: [**D**](etc/D.md)
-
-### :rocket: [**E**](etc/E.md)
-
-### :rocket: [**F**](etc/F.md)
-
-### :rocket: [**G**](etc/G.md)
-
-### :rocket: [**H**](etc/H.md)
-
-### :rocket: [**I**](etc/I.md)
-
-### :rocket: [**J**](etc/J.md)
-
-### :rocket: [**K**](etc/K.md)
-
-### :rocket: [**L**](etc/L.md)
-
-### :rocket: [**M**](etc/M.md)
-
-### :rocket: [**N**](etc/N.md)
-
-### :rocket: [**O**](etc/O.md)
-
-### :rocket: [**P**](etc/P.md)
-
-### :rocket: [**Q**](etc/Q.md)
-
-### :rocket: [**R**](etc/R.md)
-
-### :rocket: [**S**](etc/S.md)
-
-### :rocket: [**T**](etc/T.md)
-
-### :rocket: [**U**](etc/U.md)
-
-### :rocket: [**V**](etc/V.md)
-
-### :rocket: [**W**](etc/W.md)
-
-### :rocket: [**X**](etc/X.md)
-
-### :rocket: [**Y**](etc/Y.md)
-
-### :rocket: [**Z**](etc/Z.md)
+A - M Alphabets             | N - Z Alphabets
+--------------------------- | --------------------------
+ :rocket: [**A**](etc/A.md) | :rocket: [**N**](etc/N.md)
+ :rocket: [**B**](etc/B.md) | :rocket: [**O**](etc/O.md)
+ :rocket: [**C**](etc/C.md) | :rocket: [**P**](etc/P.md)
+ :rocket: [**D**](etc/D.md) | :rocket: [**Q**](etc/Q.md)
+ :rocket: [**E**](etc/E.md) | :rocket: [**R**](etc/R.md)
+ :rocket: [**F**](etc/F.md) | :rocket: [**S**](etc/S.md)
+ :rocket: [**G**](etc/G.md) | :rocket: [**T**](etc/T.md)
+ :rocket: [**H**](etc/H.md) | :rocket: [**U**](etc/U.md)
+ :rocket: [**I**](etc/I.md) | :rocket: [**V**](etc/V.md)
+ :rocket: [**J**](etc/J.md) | :rocket: [**W**](etc/W.md)
+ :rocket: [**K**](etc/K.md) | :rocket: [**X**](etc/X.md)
+ :rocket: [**L**](etc/L.md) | :rocket: [**Y**](etc/Y.md)
+ :rocket: [**M**](etc/M.md) | :rocket: [**Z**](etc/Z.md)
 
 ### :rocket: MISC
 

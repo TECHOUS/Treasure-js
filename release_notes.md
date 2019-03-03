@@ -4,7 +4,11 @@ Version Released
 
 * Added GOT
 
-## PATCH 3.2.1
+## PATCH 3.2.2
+
+* Fixed readme length
+
+### PATCH 3.2.1
 
 * Fixed ky
 
