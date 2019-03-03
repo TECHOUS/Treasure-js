@@ -2,6 +2,10 @@
 
 Version Released
 
+## PATCH 3.2.1
+
+* Fixed ky
+
 ## UPDATES 3.2.0
 
 * Added status fy

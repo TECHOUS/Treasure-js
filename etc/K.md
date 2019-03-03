@@ -26,3 +26,10 @@ Koa is a new web framework designed by the team behind Express, which aims to be
 * [CRASH COURSE](https://www.youtube.com/watch?v=z84uTk5zmak)
 * [DEVDOCS](https://devdocs.io/koa/)
 * [Tutorials](https://www.tutorialspoint.com/koajs/)
+
+## :rocket: KY
+
+Tiny & elegant HTTP client based on window.fetch
+
+* [GITHUB](https://github.com/sindresorhus/ky)
+* [Use Ky in both Node.js and browsers](https://github.com/sindresorhus/ky-universal)

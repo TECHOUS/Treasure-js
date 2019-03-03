@@ -68,7 +68,6 @@ git clone https://github.com/TechOUs/Treasure-js.git
 
 ### :rocket: APIs
 
-* [ky](https://github.com/sindresorhus/ky)
 * [Get a full fake REST API with zero coding in less than 30 seconds](https://github.com/typicode/json-server)
 * [This is a simple API for a music service that i developed for my tutorial on DRF](https://github.com/kasulani/drf_tutorial)
 
