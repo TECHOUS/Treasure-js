@@ -2,11 +2,13 @@
 
 Version Released
 
+* Added GOT
+
 ## PATCH 3.2.1
 
 * Fixed ky
 
-## UPDATES 3.2.0
+### UPDATES 3.2.0
 
 * Added status fy
 * Added react resize detector
