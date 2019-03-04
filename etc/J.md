@@ -35,6 +35,14 @@ jQuery is a fast, small, and feature-rich JavaScript library. It makes things li
 * [Jquery UI](https://www.javatpoint.com/jquery-ui-tutorial)
 * [INTRODUCTION TO JQUERY](https://in.udacity.com/course/intro-to-jquery--ud245)
 
+## :rocket: JSONFORM
+
+The JSON Form library is a JavaScript client-side library that takes a structured data model defined using JSON Schema as input and returns a Bootstrap 3-friendly HTML form that matches the schema.
+The generated HTML form includes client-side validation logic that provides direct inline feedback to the user upon form submission (provided a JSON Schema validator is available). If values are valid, the JSON Form library uses submitted values to create the JavaScript data structure that matches the data model.
+
+* [GITHUB](https://github.com/jsonform/jsonform)
+* [WEBSITE](https://jsonform.github.io/jsonform/playground/index.html)
+
 ## :rocket: JSZIP
 
 Create, read and edit .zip files with Javascript

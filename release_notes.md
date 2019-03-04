@@ -5,6 +5,7 @@ Version Released
 * Added GOT
 * Added ROBOT JS
 * Added X2 JS
+* Added JSON FORM
 
 ## PATCH 3.2.2
 
