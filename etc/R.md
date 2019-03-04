@@ -340,6 +340,14 @@ Simple and elegant component-based UI library
 * [WEBSITE](https://riot.js.org/)
 * [GUIDE/DOCS](https://riot.js.org/guide/)
 
+## :rocket: ROBOT JS
+
+The only Node.js first Desktop Automation Library
+
+* [GITHUB](https://github.com/octalmage/robotjs)
+* [WEBSITE](http://robotjs.io/)
+* [DOCS](http://robotjs.io/docs/)
+
 ## :rocket: ROLLUP JS
 
 Next-generation ES module bundler

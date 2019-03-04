@@ -3,6 +3,7 @@
 Version Released
 
 * Added GOT
+* Added ROBOT JS
 
 ## PATCH 3.2.2
 
