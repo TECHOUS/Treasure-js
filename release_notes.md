@@ -2,12 +2,15 @@
 
 Version Released
 
+## UPDATES 3.3.0
+
 * Added GOT
 * Added ROBOT JS
 * Added X2 JS
 * Added JSON FORM
+* Added react selectable fast component
 
-## PATCH 3.2.2
+### PATCH 3.2.2
 
 * Fixed readme length
 

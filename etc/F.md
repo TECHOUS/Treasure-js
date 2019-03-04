@@ -26,6 +26,7 @@ The fastest JS validator library for NodeJS
 Fake HTTP injection library
 
 * [GITHUB](https://github.com/fastify/light-my-request)
+* [session plugin for fastify](https://github.com/SerayaEryn/fastify-session)
 
 ## :rocket: FBT
 

@@ -166,6 +166,13 @@ The Select Component for React.js
 * [WEBSITE](https://react-select.com/)
 * [DOCS](https://react-select.com/components)
 
+### REACT SELECTABLE FAST
+
+Enable a React component (or group of components) to be selectable via mouse/touch.
+
+* [GITHUB](https://github.com/valerybugakov/react-selectable-fast)
+* [WEBSITE/DOCS](http://valerybugakov.github.io/react-selectable-fast/)
+
 ### REACT HOOKS HELPER
 
 A custom React Hooks library that gives you custom hooks for your code.
