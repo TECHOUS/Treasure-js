@@ -2,6 +2,10 @@
 
 Version Released
 
+## PATCH 3.3.1
+
+* Fixed free courses links
+
 ## UPDATES 3.3.0
 
 * Added GOT
