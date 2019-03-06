@@ -3,6 +3,7 @@
 Version Released
 
 * Added ink
+* Added pino js
 
 ## PATCH 3.3.1
 
