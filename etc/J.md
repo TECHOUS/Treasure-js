@@ -34,6 +34,7 @@ jQuery is a fast, small, and feature-rich JavaScript library. It makes things li
 * [Jquery Tutorial](https://www.javatpoint.com/jquery-tutorial)
 * [Jquery UI](https://www.javatpoint.com/jquery-ui-tutorial)
 * [INTRODUCTION TO JQUERY](https://in.udacity.com/course/intro-to-jquery--ud245)
+* [nicescroll plugin for jquery - scrollbars like iphone/ipad](https://github.com/inuyaksa/jquery.nicescroll)
 
 ## :rocket: JSONFORM
 
