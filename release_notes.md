@@ -2,11 +2,13 @@
 
 Version Released
 
+* Added ink
+
 ## PATCH 3.3.1
 
 * Fixed free courses links
 
-## UPDATES 3.3.0
+### UPDATES 3.3.0
 
 * Added GOT
 * Added ROBOT JS

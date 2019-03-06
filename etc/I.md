@@ -28,6 +28,13 @@ Inferno is an insanely fast, React-like library for building high-performance us
 * [WEBSITE](https://infernojs.org/)
 * [DOCS](https://infernojs.org/docs/guides/getting-started)
 
+## :rocket: INK
+
+React for interactive command-line apps
+
+* [GITHUB](https://github.com/vadimdemedes/ink)
+* [Utilities for testing Ink apps](https://github.com/vadimdemedes/ink-testing-library)
+
 ## :rocket: INQUIRER JS
 
 A collection of common interactive command line user interfaces.

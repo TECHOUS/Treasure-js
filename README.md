@@ -187,6 +187,9 @@ Soon you will get in correct order keep supporting till then follow bold ones
 * [The perfect Front-End Checklist for modern websites and meticulous developers](https://github.com/thedaviddias/Front-End-Checklist)
 * [The OpenAPI Specification Repository](https://github.com/OAI/OpenAPI-Specification)
 * [Curated list of framework component libraries for UI styles/toolkit](https://github.com/anubhavsrivastava/awesome-ui-component-library)
+* Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
+  * [GITHUB](https://github.com/Microsoft/frontend-bootcamp)
+  * [WEBSITE](https://microsoft.github.io/frontend-bootcamp/)
 
 A - M Alphabets             | N - Z Alphabets
 --------------------------- | --------------------------
