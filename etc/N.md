@@ -70,6 +70,7 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 * [A boilerplate for Node.js web applications](https://github.com/sahat/hackathon-starter)
 * [glob functionality for node.js](https://github.com/isaacs/node-glob)
 * [Instagram NODE.JS private API](https://github.com/dilame/instagram-private-api)
+* [Node.js on ChakraCore](https://github.com/nodejs/node-chakracore)
 
 ### AUTOCANNON
 

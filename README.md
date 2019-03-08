@@ -62,7 +62,9 @@ Soon you will get in correct order keep supporting till then follow bold ones
 * [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [A book series on JavaScript](https://github.com/getify/You-Dont-Know-JS)
 * [Lighthouse in CI using Docker](https://github.com/ebidel/lighthouse-ci)
+* [A Map subclass with support for multiple keys for one entry.](https://github.com/bfred-it/many-keys-map)
 * [Mostly adequate guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide)
+* [Lightweight event delegation](https://github.com/bfred-it/delegate-it)
 * [Isomorphic arrayify function](https://github.com/75lb/array-back)
 * [Starter files, final projects and FAQ for my Complete JavaScript course](https://github.com/jonasschmedtmann/complete-javascript-course)
 * [HTML5 drag & drop for humans](https://github.com/feross/drag-drop)
@@ -90,10 +92,12 @@ Soon you will get in correct order keep supporting till then follow bold ones
 
 * [Get a full fake REST API with zero coding in less than 30 seconds](https://github.com/typicode/json-server)
 * [This is a simple API for a music service that i developed for my tutorial on DRF](https://github.com/kasulani/drf_tutorial)
+* [JWT User Authentication API - NodeJS](https://github.com/gabriel-hahn/user-auth-jwt)
 
 ### :rocket: PLUGINS
 
 * [axios plugin converting requests to cURL commands, saving and logging them.](https://github.com/delirius325/axios-curlirize)
+* [A javascript scrollbar plugin which hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.](https://github.com/KingSora/OverlayScrollbars)
 
 ### :rocket: PWA - Progressive Web Apps
 

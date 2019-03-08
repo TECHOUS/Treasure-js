@@ -125,6 +125,7 @@ MobX is proudly sponsored by Mendix, Coinbase, Canva, Facebook Open Source, Algo
 * [GITHUB](https://github.com/mobxjs/mobx)
 * [WEBSITE](https://mobx.js.org/)
 * [DOCS](https://mobx.js.org/refguide/api.html)
+* [Vue bindings for MobX](https://github.com/mobxjs/mobx-vue)
 
 ## :rocket: MOCHA JS
 
