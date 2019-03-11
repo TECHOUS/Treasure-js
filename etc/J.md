@@ -22,6 +22,14 @@ Delightful JavaScript Testing
 * [GITHUB](https://github.com/facebook/jest)
 * [DOCS](https://jestjs.io/docs/en/getting-started)
 
+## :rocket: JMESPATH JS
+
+Javascript implementation of JMESPath, a query language for JSON
+
+* [GITHUB](https://github.com/jmespath/jmespath.js)
+* [WEBSITE](http://jmespath.org/)
+* [DOCS](http://jmespath.org/specification.html)
+
 ## :rocket: JQUERY
 
 jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.

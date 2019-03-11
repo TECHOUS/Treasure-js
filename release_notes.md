@@ -4,6 +4,7 @@ Version Released
 
 * Added ink
 * Added pino js
+* Added jmespath js
 
 ## PATCH 3.3.1
 

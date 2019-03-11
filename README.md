@@ -64,6 +64,7 @@ Soon you will get in correct order keep supporting till then follow bold ones
 * [Lighthouse in CI using Docker](https://github.com/ebidel/lighthouse-ci)
 * [A Map subclass with support for multiple keys for one entry.](https://github.com/bfred-it/many-keys-map)
 * [Mostly adequate guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide)
+* [A simple cache system for a single user request, built on the same concepts of data loader.](https://github.com/mcollina/single-user-cache)
 * [Lightweight event delegation](https://github.com/bfred-it/delegate-it)
 * [Isomorphic arrayify function](https://github.com/75lb/array-back)
 * [Starter files, final projects and FAQ for my Complete JavaScript course](https://github.com/jonasschmedtmann/complete-javascript-course)
@@ -98,6 +99,7 @@ Soon you will get in correct order keep supporting till then follow bold ones
 
 * [axios plugin converting requests to cURL commands, saving and logging them.](https://github.com/delirius325/axios-curlirize)
 * [A javascript scrollbar plugin which hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.](https://github.com/KingSora/OverlayScrollbars)
+* [ESLint rules to ensure proper arrow function definitions](https://github.com/getify/eslint-plugin-proper-arrows)
 
 ### :rocket: PWA - Progressive Web Apps
 
@@ -117,6 +119,7 @@ Soon you will get in correct order keep supporting till then follow bold ones
 * [QUERY STRING](https://github.com/sindresorhus/query-string)
 * [WALT](https://github.com/callstack/react-native-testing-library)
 * [AVRO](https://github.com/mtth/avsc)
+* [Hand-crafted Frida examples](https://github.com/iddoeldor/frida-snippets)
 * [RPTERM - GRAPHICAL TYPE WRITER](https://github.com/rwos/rpterm)
 * [PLUGIN FOR PATH FINDING](https://github.com/mikewesthad/navmesh)
 * [screen recorder built with web technology](https://github.com/wulkano/kap)
