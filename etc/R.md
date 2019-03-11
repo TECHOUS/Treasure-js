@@ -99,6 +99,7 @@ A JavaScript library for building user interfaces
 * [a cheatsheet for react users using typescript with react for the first (or nth!) time](https://github.com/sw-yx/react-typescript-cheatsheet)
 * [Pure react-based typeahead and typeahead-tokenizer](https://github.com/fmoo/react-typeahead)
 * [A production grade app with React, Node, Mongo, Material-UI to Create, Edit, Delete and render tabular data.](https://github.com/rohan-paul/material-ui-table-with-node-mongodb)
+* [Enable a React component (or group of components) to be selectable via mouse/touch.](https://github.com/valerybugakov/react-selectable-fast)
 
 ### CONSTATE
 

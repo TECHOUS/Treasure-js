@@ -37,6 +37,13 @@ A simple javascript utility for conditionally joining classNames together
 
 * [GITHUB](https://github.com/JedWatson/classnames)
 
+## :rocket: CLEAVE JS
+
+Format your input content when you are typing
+
+* [GITHUB](https://github.com/nosir/cleave.js)
+* [WEBSITE](https://nosir.github.io/cleave.js/)
+
 ## :rocket: CLINIC JS
 
 Diagnose performance issues in your Node.js applications
