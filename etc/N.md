@@ -71,12 +71,19 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 * [glob functionality for node.js](https://github.com/isaacs/node-glob)
 * [Instagram NODE.JS private API](https://github.com/dilame/instagram-private-api)
 * [Node.js on ChakraCore](https://github.com/nodejs/node-chakracore)
+* [Squidwarc is a high fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head](https://github.com/N0taN3rd/Squidwarc)
 
 ### AUTOCANNON
 
 fast HTTP/1.1 benchmarking tool written in Node.js
 
 * [GITHUB](https://github.com/mcollina/autocannon)
+
+### BCRYPT
+
+A library to help you hash passwords.
+
+* [GITHUB/DOCS](https://github.com/kelektiv/node.bcrypt.js)
 
 ### BROWSERIFY
 

@@ -6,6 +6,7 @@ Version Released
 * Added pino js
 * Added jmespath js
 * Added cleave js
+* Added bcrypt
 
 ## PATCH 3.3.1
 
