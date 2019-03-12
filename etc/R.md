@@ -157,6 +157,12 @@ WAI-ARIA compliant React autosuggest component
 * [WEBSITE](http://react-autosuggest.js.org/)
 * [USAGE](https://github.com/moroshko/react-autosuggest#installation)
 
+### REACT FACEBOOK LOGIN
+
+A Component React for Facebook Login
+
+* [GITHUB/DOCS](https://github.com/keppelen/react-facebook-login)
+
 ### REACT RESIZE DETECTOR
 
 A Cross-Browser, Event-based, Element Resize Detection for React

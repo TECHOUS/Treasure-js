@@ -2,13 +2,17 @@
 
 Version Released
 
+* Added react facebook login component
+
+## UPDATES 3.4.0
+
 * Added ink
 * Added pino js
 * Added jmespath js
 * Added cleave js
 * Added bcrypt
 
-## PATCH 3.3.1
+### PATCH 3.3.1
 
 * Fixed free courses links
 
