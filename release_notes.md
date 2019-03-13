@@ -4,6 +4,7 @@ Version Released
 
 * Added react facebook login component
 * Added immer
+* Added react three fiber
 
 ## UPDATES 3.4.0
 

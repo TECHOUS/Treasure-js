@@ -185,6 +185,12 @@ Enable a React component (or group of components) to be selectable via mouse/tou
 * [GITHUB](https://github.com/valerybugakov/react-selectable-fast)
 * [WEBSITE/DOCS](http://valerybugakov.github.io/react-selectable-fast/)
 
+### REACT THREE FIBER
+
+A React-renderer for Three.js
+
+* [GITHUB/DOCS](https://github.com/drcmda/react-three-fiber)
+
 ### REACT HOOKS HELPER
 
 A custom React Hooks library that gives you custom hooks for your code.
