@@ -3,6 +3,7 @@
 Version Released
 
 * Added react facebook login component
+* Added immer
 
 ## UPDATES 3.4.0
 
