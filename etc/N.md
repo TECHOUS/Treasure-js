@@ -108,7 +108,7 @@ Load environment variables from .env and ensure they are all present
 
 ### INDENT TEXTAREA
 
-Add editor-like tab-to-indent functionality to <textarea>, in a few bytes
+Add editor-like tab-to-indent functionality to textarea, in a few bytes
 
 * [GITHUB](https://github.com/bfred-it/indent-textarea)
 * [WEBSITE](https://www.npmjs.com/package/indent-textarea)

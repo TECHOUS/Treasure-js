@@ -2,6 +2,8 @@
 
 Version Released
 
+* Added tinymce
+
 ## UPDATES 3.5.0
 
 * Added react facebook login component

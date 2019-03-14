@@ -57,6 +57,7 @@ Soon you will get in correct order keep supporting till then follow bold ones
 
 ### :rocket: LEARNING REPOS
 
+* [Algorithms resolution in Javascript. Leetcode - Geeksforgeeks - Careercup](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript)
 * [30 SECONDS OF CODE](https://github.com/30-seconds/30-seconds-of-code)
 * [33 JS CONCEPTS](https://github.com/leonardomso/33-js-concepts)
 * [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)

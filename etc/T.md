@@ -37,6 +37,14 @@ Tether is a small, focused JavaScript library for defining and managing the posi
 * [GITHUB](https://github.com/HubSpot/tether)
 * [WEBSITE](http://tether.io/docs/welcome/)
 
+## :rocket: TINYMCE
+
+The world's most popular JavaScript library for rich text editing. Available for React, Vue and Angular
+
+* [GITHUB](https://github.com/tinymce/tinymce)
+* [WEBSITE](https://www.tiny.cloud/)
+* [DOCS](https://www.tiny.cloud/docs/)
+
 ## :rocket: THEIA
 
 Theia is an extensible platform to develop full-fledged multi-language Cloud & Desktop IDE-like products with state-of-the-art web technologies.
