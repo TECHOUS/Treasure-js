@@ -3,6 +3,7 @@
 Version Released
 
 * Added tinymce
+* Added tailor
 
 ## UPDATES 3.5.0
 

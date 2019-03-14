@@ -1,5 +1,12 @@
 # T
 
+## :rocket: TAILOR
+
+A streaming layout service for front-end microservices
+
+* [GITHUB](https://github.com/zalando/tailor)
+* [WEBSITE](https://www.mosaic9.org/)
+
 ## :rocket: TC CORE LIBARY JS
 
 Library that contains utils, middlewares etc that can be used by all Topocder Services.
