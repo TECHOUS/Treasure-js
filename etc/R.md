@@ -163,6 +163,13 @@ A Component React for Facebook Login
 
 * [GITHUB/DOCS](https://github.com/keppelen/react-facebook-login)
 
+### REACT MORPH
+
+Morphing Ui transitions made simple
+
+* [GITHUB](https://github.com/brunnolou/react-morph)
+* [WEBSITE](https://brunnolou.github.io/react-morph/?down=0)
+
 ### REACT RESIZE DETECTOR
 
 A Cross-Browser, Event-based, Element Resize Detection for React
