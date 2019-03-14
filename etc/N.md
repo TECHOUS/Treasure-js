@@ -106,6 +106,13 @@ Load environment variables from .env and ensure they are all present
 * [GITHUB](https://github.com/rolodato/dotenv-safe)
 * [WEBSITE](https://www.npmjs.com/package/dotenv-safe)
 
+### INDENT TEXTAREA
+
+Add editor-like tab-to-indent functionality to <textarea>, in a few bytes
+
+* [GITHUB](https://github.com/bfred-it/indent-textarea)
+* [WEBSITE](https://www.npmjs.com/package/indent-textarea)
+
 ### ORA
 
 Elegant terminal spinner

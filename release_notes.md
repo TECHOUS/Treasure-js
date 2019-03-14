@@ -2,12 +2,15 @@
 
 Version Released
 
+## UPDATES 3.5.0
+
 * Added react facebook login component
 * Added immer
 * Added react three fiber
 * Added react morph
+* Added indent text area in nodejs
 
-## UPDATES 3.4.0
+### UPDATES 3.4.0
 
 * Added ink
 * Added pino js
