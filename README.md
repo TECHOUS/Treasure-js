@@ -116,6 +116,7 @@ Soon you will get in correct order keep supporting till then follow bold ones
 
 ### :rocket: OTHER EXAMPLES
 
+* [Beautiful static documentation for your API](https://github.com/lord/slate)
 * [ZEN AUDIO PLAYER](https://github.com/zen-audio-player/zen-audio-player.github.io)
 * [QUERY STRING](https://github.com/sindresorhus/query-string)
 * [WALT](https://github.com/callstack/react-native-testing-library)

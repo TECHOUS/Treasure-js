@@ -279,6 +279,7 @@ A framework for building native apps with React
 * [Javascript animated polyline for react native maps](https://github.com/shameemz/react-native-maps-animated-polyline)
 * [React Native APIs turned into React Hooks for use in functional React components](https://github.com/react-native-community/react-native-hooks)
 * [Essential cross-platform UI components for React Native](https://github.com/GeekyAnts/NativeBase)
+* [Render SVG images in React Native from an URL or static file](https://github.com/vault-development/react-native-svg-uri)
 
 ### :rocket: REDUX
 

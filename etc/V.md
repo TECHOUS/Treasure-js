@@ -57,3 +57,4 @@ A progressive, incrementally-adoptable JavaScript framework for building UI on t
 * [Certificate Transparency Log aggregation, parsing, and streaming service written in Elixir](https://github.com/CaliDog/certstream-server)
 * [dev.to Repo Weekly Recap](https://github.com/aligoren/dev-recap)
 * [Vue.js and Property Decorator](https://github.com/kaorun343/vue-property-decorator)
+* [Hot reload API for Vue components](https://github.com/vuejs/vue-hot-reload-api)
