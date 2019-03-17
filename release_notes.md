@@ -9,6 +9,7 @@ Version Released
 * Added async retry
 * Added actions toolkit
 * Added tweet md
+* Added tween js
 
 ## UPDATES 3.5.0
 

@@ -83,6 +83,12 @@ Transform JS objects to get something useful
 * [GITHUB](https://github.com/transform-it/transform-www)
 * [WEBSITE](https://transform.now.sh/)
 
+## :rocket: TWEEN JS
+
+Javascript tweening engine
+
+* [GITHUB](https://github.com/tweenjs/tween.js)
+
 ## :rocket: TWEET MD
 
 Render tweet into beautiful markdown
