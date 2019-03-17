@@ -5,6 +5,8 @@ Version Released
 * Added tinymce
 * Added tailor
 * Added natural
+* Added compromise
+* Added async retry
 
 ## UPDATES 3.5.0
 

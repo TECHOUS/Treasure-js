@@ -74,6 +74,13 @@ Commander is a light-weight, expressive, and powerful command-line framework
 * [GITHUB](https://github.com/tj/commander.js)
 * [DOCS](http://tj.github.io/commander.js/)
 
+## :rocket: COMPROMISE
+
+modest natural-language processing in javascript
+
+* [GITHUB](https://github.com/spencermountain/compromise)
+* [WEBSITE](http://compromise.cool/)
+
 ## :rocket: COSMIC JS
 
 The leading content management solution for modern digital teams

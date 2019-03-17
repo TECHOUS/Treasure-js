@@ -79,6 +79,13 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 * [Node.js on ChakraCore](https://github.com/nodejs/node-chakracore)
 * [Squidwarc is a high fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head](https://github.com/N0taN3rd/Squidwarc)
 
+### ASYNC RETRY
+
+Retrying made simple, easy, and async.
+
+* [GITHUB](https://github.com/zeit/async-retry)
+* [WEBSITE](https://www.npmjs.com/package/async-retry)
+
 ### AUTOCANNON
 
 fast HTTP/1.1 benchmarking tool written in Node.js
