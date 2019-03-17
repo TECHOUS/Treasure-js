@@ -7,6 +7,7 @@ Version Released
 * Added natural
 * Added compromise
 * Added async retry
+* Added actions toolkit
 
 ## UPDATES 3.5.0
 
