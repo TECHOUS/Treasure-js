@@ -198,6 +198,14 @@ Enable a React component (or group of components) to be selectable via mouse/tou
 * [GITHUB](https://github.com/valerybugakov/react-selectable-fast)
 * [WEBSITE/DOCS](http://valerybugakov.github.io/react-selectable-fast/)
 
+### REACT SEMANTIC UI
+
+The official Semantic-UI-React integration
+
+* [GITHUB](https://github.com/Semantic-Org/Semantic-UI-React)
+* [WEBSITE](https://react.semantic-ui.com/)
+* [USAGE](https://react.semantic-ui.com/usage)
+
 ### REACT THREE FIBER
 
 A React-renderer for Three.js

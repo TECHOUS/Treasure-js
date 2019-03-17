@@ -2,6 +2,8 @@
 
 Version Released
 
+* Added react semantic ui
+
 ## UPDATES 3.6.0
 
 * Added tinymce
