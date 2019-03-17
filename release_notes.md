@@ -4,6 +4,7 @@ Version Released
 
 * Added tinymce
 * Added tailor
+* Added natural
 
 ## UPDATES 3.5.0
 

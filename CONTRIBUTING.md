@@ -45,5 +45,5 @@ Make [ISSUE](https://github.com/TechOUs/Treasure-js/issues) for it we will reply
 MAJOR . MINOR . PATCH
 
 * MAJOR -> Updated structured of readme
-* MINOR -> Added 5 libraries
+* MINOR -> Added 10 libraries
 * PATCH -> Update the bugs
