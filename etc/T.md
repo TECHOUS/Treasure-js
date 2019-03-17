@@ -99,6 +99,7 @@ Render tweet into beautiful markdown
 
 TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 
+* [The TypeScript Handbook is a comprehensive guide to the TypeScript language](https://github.com/Microsoft/TypeScript-Handbook)
 * [GITHUB](https://github.com/Microsoft/TypeScript)
 * [WEBSITE](http://www.typescriptlang.org)
 * [OFFICIAL DOCS](http://www.typescriptlang.org/docs/index.html)

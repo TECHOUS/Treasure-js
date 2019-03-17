@@ -126,6 +126,12 @@ Add editor-like tab-to-indent functionality to textarea, in a few bytes
 * [GITHUB](https://github.com/bfred-it/indent-textarea)
 * [WEBSITE](https://www.npmjs.com/package/indent-textarea)
 
+### NODE CRON
+
+A simple cron-like job scheduler for Node.js
+
+* [GITHUB](https://github.com/node-cron/node-cron)
+
 ### ORA
 
 Elegant terminal spinner

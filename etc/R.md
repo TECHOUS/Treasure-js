@@ -220,6 +220,13 @@ A React-renderer for Three.js
 
 * [GITHUB/DOCS](https://github.com/drcmda/react-three-fiber)
 
+### REACT TOASTIFY
+
+React notification made easy :rocket: !
+
+* [GITHUB](https://github.com/fkhadra/react-toastify)
+* [WEBSITE](https://fkhadra.github.io/react-toastify/)
+
 ### REACT HOOKS HELPER
 
 A custom React Hooks library that gives you custom hooks for your code.

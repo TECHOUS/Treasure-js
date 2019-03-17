@@ -4,6 +4,7 @@ Version Released
 
 * Added react semantic ui
 * Added react map gl
+* Added react toastify
 
 ## UPDATES 3.6.0
 
