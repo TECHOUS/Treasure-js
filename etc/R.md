@@ -169,6 +169,14 @@ A Component React for Facebook Login
 
 * [GITHUB/DOCS](https://github.com/keppelen/react-facebook-login)
 
+### REACT MAP GL
+
+React friendly API wrapper around MapboxGL JS
+
+* [GITHUB](https://github.com/uber/react-map-gl)
+* [WEBSITE](https://uber.github.io/react-map-gl/)
+* [DOCS](https://uber.github.io/react-map-gl/#/Documentation/getting-started/get-started?section=example)
+
 ### REACT MORPH
 
 Morphing Ui transitions made simple

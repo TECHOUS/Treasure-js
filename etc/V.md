@@ -58,3 +58,4 @@ A progressive, incrementally-adoptable JavaScript framework for building UI on t
 * [dev.to Repo Weekly Recap](https://github.com/aligoren/dev-recap)
 * [Vue.js and Property Decorator](https://github.com/kaorun343/vue-property-decorator)
 * [Hot reload API for Vue components](https://github.com/vuejs/vue-hot-reload-api)
+* [Blazing fast scrolling for any amount of data](https://github.com/Akryum/vue-virtual-scroller)
