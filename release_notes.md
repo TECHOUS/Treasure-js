@@ -8,6 +8,7 @@ Version Released
 * Added compromise
 * Added async retry
 * Added actions toolkit
+* Added tweet md
 
 ## UPDATES 3.5.0
 
