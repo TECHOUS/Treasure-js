@@ -157,6 +157,12 @@ WAI-ARIA compliant React autosuggest component
 * [WEBSITE](http://react-autosuggest.js.org/)
 * [USAGE](https://github.com/moroshko/react-autosuggest#installation)
 
+### REACT FLIP TOOLKIT
+
+A utility library for highly configurable layout transitions
+
+* [GITHUB](https://github.com/aholachek/react-flip-toolkit)
+
 ### REACT FACEBOOK LOGIN
 
 A Component React for Facebook Login

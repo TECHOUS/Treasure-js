@@ -2,6 +2,8 @@
 
 Version Released
 
+## UPDATES 3.6.0
+
 * Added tinymce
 * Added tailor
 * Added natural
@@ -10,8 +12,10 @@ Version Released
 * Added actions toolkit
 * Added tweet md
 * Added tween js
+* Added react flip toolkit
+* Added flip js
 
-## UPDATES 3.5.0
+### UPDATES 3.5.0
 
 * Added react facebook login component
 * Added immer

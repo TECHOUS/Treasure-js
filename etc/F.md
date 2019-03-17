@@ -56,6 +56,14 @@ A library to overcomplicate 5
 * [GITHUB](https://github.com/jackdclark/five)
 * [WEBSITE](https://five.js.org/)
 
+## :rocket: FLIP JS
+
+A helper library for doing FLIP animations.
+
+* [GITHUB](https://github.com/googlearchive/flipjs)
+* [WEBSITE](https://aerotwist.com/blog/flip-your-animations/)
+* [DOCS](https://aerotwist.com/tutorials/)
+
 ## :rocket: FRINT JS
 
 Modular JavaScript framework for building scalable and reactive applications
