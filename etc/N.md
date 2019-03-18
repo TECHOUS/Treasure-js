@@ -202,3 +202,4 @@ Nuxt.js is a framework for creating Vue.js applications, you can choose between 
 * [Minify the html for each request served by nuxt server](https://github.com/nuxt-community/html-minifier-module)
 * [Supercharge Nuxt with a heavily tested, updated and stable PWA solution](https://github.com/nuxt-community/pwa-module)
 * [Nobody likes extra @import statements!](https://github.com/nuxt-community/style-resources-module)
+* [Exploring secure authentication using Python/Flask and Nuxt.](https://github.com/danjac/nuxt-python-secure-example)

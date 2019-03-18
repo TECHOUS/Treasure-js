@@ -59,3 +59,5 @@ A progressive, incrementally-adoptable JavaScript framework for building UI on t
 * [Vue.js and Property Decorator](https://github.com/kaorun343/vue-property-decorator)
 * [Hot reload API for Vue components](https://github.com/vuejs/vue-hot-reload-api)
 * [Blazing fast scrolling for any amount of data](https://github.com/Akryum/vue-virtual-scroller)
+* [Vue.js Component Style Guide](https://github.com/pablohpsilva/vuejs-component-style-guide)
+* [Created from react styleguidist for Vue Components with a living style guide](https://github.com/vue-styleguidist/vue-styleguidist)

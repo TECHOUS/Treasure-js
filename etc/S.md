@@ -45,6 +45,8 @@ A completely customizable framework for building rich text editors.
 A fast and lightweight drag&drop, sortable library for with many configuration options covering many d&d scenarios. There is no external dependencies. It uses css transitions for animations so it's hardware accelerated whenever possible.
 
 * [GITHUB](https://github.com/kutlugsahin/smooth-dnd)
+* [react wrapper components for smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd)
+* [Vue wrappers components for smooth-dnd](https://github.com/kutlugsahin/vue-smooth-dnd)
 
 ## :rocket: SNAP SVG
 

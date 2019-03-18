@@ -101,6 +101,7 @@ Soon you will get in correct order keep supporting till then follow bold ones
 * [axios plugin converting requests to cURL commands, saving and logging them.](https://github.com/delirius325/axios-curlirize)
 * [A javascript scrollbar plugin which hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.](https://github.com/KingSora/OverlayScrollbars)
 * [ESLint rules to ensure proper arrow function definitions](https://github.com/getify/eslint-plugin-proper-arrows)
+* [Simple & light weight (2kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!](https://github.com/alexfoxy/laxxx)
 
 ### :rocket: PWA - Progressive Web Apps
 
