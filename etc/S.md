@@ -40,6 +40,12 @@ A completely customizable framework for building rich text editors.
 * [GITHUB](https://github.com/ianstormtaylor/slate)
 * [DOCS](https://docs.slatejs.org/)
 
+## :rocket: SMOOTH DND
+
+A fast and lightweight drag&drop, sortable library for with many configuration options covering many d&d scenarios. There is no external dependencies. It uses css transitions for animations so it's hardware accelerated whenever possible.
+
+* [GITHUB](https://github.com/kutlugsahin/smooth-dnd)
+
 ## :rocket: SNAP SVG
 
 SVG is an excellent way to create interactive, resolution-independent vector graphics that will look great on any size screen. And the Snap.svg JavaScript library makes working with your SVG assets as easy as jQuery makes working with the DOM.

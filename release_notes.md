@@ -5,6 +5,8 @@ Version Released
 * Added react semantic ui
 * Added react map gl
 * Added react toastify
+* Added node cron
+* Added smooth dnd
 
 ## UPDATES 3.6.0
 
