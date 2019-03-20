@@ -65,3 +65,10 @@ Create, read and edit .zip files with Javascript
 * [GITHUB](https://github.com/Stuk/jszip)
 * [WEBSITE](http://stuk.github.io/jszip/)
 * [DOCS](http://stuk.github.io/jszip/documentation/api_jszip.html)
+
+## :rocket: JUPYPTERLAB
+
+JupyterLab computational environment.
+
+* [GITHUB](https://github.com/jupyterlab/jupyterlab)
+* [WEBSITE/DOCS](https://jupyterlab.readthedocs.io/en/stable/)

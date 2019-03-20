@@ -16,6 +16,7 @@ Version Released
 * Added algrabaic effects
 * Added mighty input
 * Added react chart js
+* Added jupyterlab
 
 ## UPDATES 3.6.0
 
