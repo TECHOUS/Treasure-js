@@ -12,6 +12,7 @@ Version Released
 * Added wiki js
 * Added web
 * Added jsvideo parser
+* Added webiny js
 
 ## UPDATES 3.6.0
 

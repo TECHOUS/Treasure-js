@@ -102,6 +102,7 @@ Soon you will get in correct order keep supporting till then follow bold ones
 * [A javascript scrollbar plugin which hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.](https://github.com/KingSora/OverlayScrollbars)
 * [ESLint rules to ensure proper arrow function definitions](https://github.com/getify/eslint-plugin-proper-arrows)
 * [Simple & light weight (2kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!](https://github.com/alexfoxy/laxxx)
+* [A zooming and panning plugin inspired by google photos for your web images.](https://github.com/s-yadav/iv-viewer)
 
 ### :rocket: PWA - Progressive Web Apps
 

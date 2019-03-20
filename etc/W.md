@@ -26,6 +26,14 @@ Run npm dependencies directly in the browser. No Browserify, Webpack or import m
 
 * [GITHUB](https://github.com/pikapkg/web)
 
+## :rocket: WEBINY JS
+
+Serverless CMS (GraphQL + React)
+
+* [GITHUB](https://github.com/Webiny/webiny-js)
+* [WEBSITE](https://www.webiny.com/)
+* [DOCS](https://docs.webiny.com/docs/get-started)
+
 ## :rocket: WEBPACK JS
 
 A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
