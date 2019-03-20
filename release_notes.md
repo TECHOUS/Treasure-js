@@ -8,6 +8,7 @@ Version Released
 * Added node cron
 * Added smooth dnd
 * Added email prompt
+* Added react trend
 
 ## UPDATES 3.6.0
 

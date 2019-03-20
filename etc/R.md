@@ -220,6 +220,13 @@ A React-renderer for Three.js
 
 * [GITHUB/DOCS](https://github.com/drcmda/react-three-fiber)
 
+### REACT TREND
+
+Simple, elegant spark lines
+
+* [GITHUB](https://github.com/unsplash/react-trend)
+* [WEBSITE](https://unsplash.github.io/react-trend/)
+
 ### REACT TOASTIFY
 
 React notification made easy :rocket: !
