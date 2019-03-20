@@ -20,6 +20,12 @@ Simple, lightweight, persistent two-way databinding
 * [GITHUB](https://github.com/gwendall/way.js)
 * [DEMO/WEBSITE](http://gwendall.github.io/way/)
 
+## :rocket: WEB
+
+Run npm dependencies directly in the browser. No Browserify, Webpack or import maps required.
+
+* [GITHUB](https://github.com/pikapkg/web)
+
 ## :rocket: WEBPACK JS
 
 A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.

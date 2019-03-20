@@ -10,6 +10,7 @@ Version Released
 * Added email prompt
 * Added react trend
 * Added wiki js
+* Added web
 
 ## UPDATES 3.6.0
 
