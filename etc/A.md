@@ -22,6 +22,13 @@ AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both tradit
 * [WEBSITE](http://alasql.org/)
 * [DOCS](https://github.com/agershun/alasql/wiki)
 
+## :rocket: ALGREBRAIC EFFECTS
+
+Manage side-effects in your javascript application cleanly with algebraic effects
+
+* [GITHUB](https://github.com/phenax/algebraic-effects)
+* [WEBSITE/DOCS](https://phenax.github.io/algebraic-effects/)
+
 ## :rocket: AMP
 
 The AMP Project is an open-source initiative aiming to make the web better for all. The project enables the creation of websites and ads that are consistently fast, beautiful and high-performing across devices and distribution platforms.

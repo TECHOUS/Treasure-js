@@ -13,6 +13,7 @@ Version Released
 * Added web
 * Added jsvideo parser
 * Added webiny js
+* Added algrabaic effects
 
 ## UPDATES 3.6.0
 
