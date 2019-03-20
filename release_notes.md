@@ -9,6 +9,7 @@ Version Released
 * Added smooth dnd
 * Added email prompt
 * Added react trend
+* Added wiki js
 
 ## UPDATES 3.6.0
 

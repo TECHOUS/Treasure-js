@@ -36,6 +36,14 @@ Animated wheel navigation JavaScript library based on Raphaël.js (SVG/VML). It 
 * [WEBSITE](https://wheelnavjs.softwaretailoring.net/)
 * [DOCS](https://wheelnavjs.softwaretailoring.net/documentation.html)
 
+## :rocket: WIKI JS
+
+Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
+
+* [GITHUB](https://github.com/Requarks/wiki)
+* [WEBSITE](https://wiki.js.org/)
+* [DOCS](https://docs.requarks.io/wiki)
+
 ## :rocket: WINSTON JS
 
 winston is designed to be a simple and universal logging library with support for multiple transports. A transport is essentially a storage device for your logs. Each winston logger can have multiple transports (see: Transports) configured at different levels (see: Logging levels). For example, one may want error logs to be stored in a persistent remote location (like a database), but all logs output to the console or a local file.
