@@ -119,6 +119,13 @@ Load environment variables from .env and ensure they are all present
 * [GITHUB](https://github.com/rolodato/dotenv-safe)
 * [WEBSITE](https://www.npmjs.com/package/dotenv-safe)
 
+### EMAIL PROMPT
+
+CLI email prompt with autocompletion and built-in validation
+
+* [GITHUB](https://github.com/zeit/email-prompt)
+* [WEBSITE](https://www.npmjs.com/package/email-prompt)
+
 ### INDENT TEXTAREA
 
 Add editor-like tab-to-indent functionality to textarea, in a few bytes

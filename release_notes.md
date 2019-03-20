@@ -7,6 +7,7 @@ Version Released
 * Added react toastify
 * Added node cron
 * Added smooth dnd
+* Added email prompt
 
 ## UPDATES 3.6.0
 
