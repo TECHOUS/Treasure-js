@@ -11,6 +11,7 @@ Version Released
 * Added react trend
 * Added wiki js
 * Added web
+* Added jsvideo parser
 
 ## UPDATES 3.6.0
 

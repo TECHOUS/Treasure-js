@@ -52,6 +52,12 @@ The generated HTML form includes client-side validation logic that provides dire
 * [GITHUB](https://github.com/jsonform/jsonform)
 * [WEBSITE](https://jsonform.github.io/jsonform/playground/index.html)
 
+## :rocket: JSVIDEO URL PARSER
+
+A javascript parser to extract informations like provider, channel, id, start time from YouTube, Vimeo, Dailymotion, Twitch,... urls
+
+* [GITHUB](https://github.com/Zod-/jsVideoUrlParser)
+
 ## :rocket: JSZIP
 
 Create, read and edit .zip files with Javascript

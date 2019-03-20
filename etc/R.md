@@ -101,6 +101,7 @@ A JavaScript library for building user interfaces
 * [A production grade app with React, Node, Mongo, Material-UI to Create, Edit, Delete and render tabular data.](https://github.com/rohan-paul/material-ui-table-with-node-mongodb)
 * [Enable a React component (or group of components) to be selectable via mouse/touch.](https://github.com/valerybugakov/react-selectable-fast)
 * [ReactJS project that 'compare' GitHub repositories :octocat:](https://github.com/gabriel-hahn/git-compare)
+* [React specific linting rules for ESLint](https://github.com/yannickcr/eslint-plugin-react)
 
 ### CONSTATE
 

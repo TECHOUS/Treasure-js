@@ -61,3 +61,4 @@ A progressive, incrementally-adoptable JavaScript framework for building UI on t
 * [Blazing fast scrolling for any amount of data](https://github.com/Akryum/vue-virtual-scroller)
 * [Vue.js Component Style Guide](https://github.com/pablohpsilva/vuejs-component-style-guide)
 * [Created from react styleguidist for Vue Components with a living style guide](https://github.com/vue-styleguidist/vue-styleguidist)
+* [A simple way with Vue to announce any useful information for screen readers.](https://github.com/vue-a11y/vue-announcer)
