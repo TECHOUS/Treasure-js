@@ -76,7 +76,6 @@ A JavaScript library for building user interfaces
 * [React Hook for accessing state and dispatch from a Redux store](https://github.com/facebookincubator/redux-react-hook)
 * [Cute React UI Components](https://github.com/miukimiu/react-kawaii)
 * ["Shrine" Progressive Web App sample built with React](https://github.com/GoogleChromeLabs/react-shrine)
-* [React wrapper for Chart.js](https://github.com/jerairrest/react-chartjs-2)
 * [Simple React Bootstrap 4 components](https://github.com/reactstrap/reactstrap)
 * [Accessible modal dialog component for React](https://github.com/reactjs/react-modal)
 * [Multi step form built with React and Material UI](https://github.com/bradtraversy/react_step_form)
@@ -157,6 +156,13 @@ WAI-ARIA compliant React autosuggest component
 * [GITHUB](https://github.com/moroshko/react-autosuggest)
 * [WEBSITE](http://react-autosuggest.js.org/)
 * [USAGE](https://github.com/moroshko/react-autosuggest#installation)
+
+### REACT CHART JS
+
+React wrapper for Chart.js
+
+* [GITHUB](https://github.com/jerairrest/react-chartjs-2)
+* [WEBSITE](http://jerairrest.github.io/react-chartjs-2/)
 
 ### REACT FLIP TOOLKIT
 

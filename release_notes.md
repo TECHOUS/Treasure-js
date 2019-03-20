@@ -15,6 +15,7 @@ Version Released
 * Added webiny js
 * Added algrabaic effects
 * Added mighty input
+* Added react chart js
 
 ## UPDATES 3.6.0
 
