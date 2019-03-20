@@ -95,6 +95,13 @@ Integrates Google Maps with an MGRS overlay and NATO military map symbols
 * [GITHUB](https://github.com/pistell/MGRS-Mapper)
 * [WEBSITE](https://mgrs-mapper.com/)
 
+## :rocket: MIGHTY INPUT
+
+Text input for modern web
+
+* [GITHUB](https://github.com/rumkin/mighty-input)
+* [WEBSITE/DOCS](https://mighty-input.now.sh/)
+
 ## :rocket: MILSYMBOL JS
 
 Milsymbol is a small library in pure javascript that creates military unit symbols according to MIL-STD-2525 and STANAG APP-6.

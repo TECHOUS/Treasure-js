@@ -14,6 +14,7 @@ Version Released
 * Added jsvideo parser
 * Added webiny js
 * Added algrabaic effects
+* Added mighty input
 
 ## UPDATES 3.6.0
 
