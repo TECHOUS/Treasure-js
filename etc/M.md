@@ -117,6 +117,13 @@ A Javascript Framework for Building Brilliant Applications
 * [GITHUB](https://github.com/MithrilJS/mithril.js)
 * [WEBSITE/DOCS](https://mithril.js.org/)
 
+## :rocket: MK JS
+
+Canvas implementation of basic fighting game which allows multiplayer game over the network.
+
+* [GITHUB](https://github.com/mgechev/mk.js)
+* [WEBSITE](https://mk.mgechev.com)
+
 ## :rocket: ML5 JS
 
 Friendly machine learning for the web!

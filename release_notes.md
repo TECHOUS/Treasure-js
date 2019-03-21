@@ -2,6 +2,8 @@
 
 Version Released
 
+* Added mk js
+
 ## UPDATES 3.7.0
 
 * Added react semantic ui
