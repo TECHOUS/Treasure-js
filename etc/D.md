@@ -27,6 +27,12 @@ Danger runs during your CI process, and gives teams the chance to automate commo
 * [WEBSITE](https://danger.systems/js/)
 * [DOCS](https://danger.systems/js/usage.html)
 
+## :rocket: DATALOADER
+
+DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.
+
+* [GITHUB](https://github.com/facebook/dataloader)
+
 ## :rocket: DATE FNS
 
 Modern JavaScript date utility library: date-fns provides the most comprehensive, yet simple and consistent toolset for manipulating JavaScript dates in a browser & Node.js.

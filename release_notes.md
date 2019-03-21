@@ -3,6 +3,7 @@
 Version Released
 
 * Added mk js
+* Added dataloader utility
 
 ## UPDATES 3.7.0
 
