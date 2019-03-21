@@ -76,6 +76,12 @@ JavaScript Animation Engine
 * [DOCS](http://animejs.com/documentation/)
 * [INTRO TUTORIAL](https://www.youtube.com/watch?v=g7WnZ9hxUak)
 
+## :rocket: ASTROTURF
+
+astroturf lets you write CSS in your JavaScript files without adding any runtime layer, and with your existing CSS processing pipeline.
+
+* [GITHUB](https://github.com/4Catalyzer/astroturf)
+
 ## :rocket: AURELIA JS
 
 The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building platform.
