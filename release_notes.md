@@ -5,6 +5,7 @@ Version Released
 * Added mk js
 * Added dataloader utility
 * Added astroturf
+* Added xo js
 
 ## UPDATES 3.7.0
 
