@@ -6,6 +6,7 @@ Version Released
 * Added dataloader utility
 * Added astroturf
 * Added xo js
+* Added reaviz
 
 ## UPDATES 3.7.0
 

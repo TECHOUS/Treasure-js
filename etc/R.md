@@ -323,6 +323,7 @@ A framework for building native apps with React
 * [React Native APIs turned into React Hooks for use in functional React components](https://github.com/react-native-community/react-native-hooks)
 * [Essential cross-platform UI components for React Native](https://github.com/GeekyAnts/NativeBase)
 * [Render SVG images in React Native from an URL or static file](https://github.com/vault-development/react-native-svg-uri)
+* [Transform Dribbble designs to React-Native code & YouTube video tutorials](https://github.com/react-ui-kit/dribbble2react)
 
 ### :rocket: REDUX
 
@@ -400,6 +401,13 @@ An advanced Node.js driver for RebirthDB with a connection pool, support for str
 * [API](https://rethinkdb.com/api/javascript/)
 * [WEBSITE](https://rethinkdb.com/)
 * [DOCS](https://devdocs.io/rethinkdb~javascript/)
+
+## :rocket: REAVIZ
+
+REAVIZ is a modular chart component library that leverages React natively for rendering the components while using D3js under the hood for calculations. The library provides an easy way to get started creating charts without sacrificing customization ability.
+
+* [GITHUB](https://github.com/jask-oss/reaviz)
+* [WEBSITE/DOCS](https://jask-oss.github.io/reaviz/?path=/story/charts-area-single-series--simple)
 
 ## :rocket: REVEAL JS
 

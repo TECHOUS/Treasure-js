@@ -62,3 +62,4 @@ A progressive, incrementally-adoptable JavaScript framework for building UI on t
 * [Vue.js Component Style Guide](https://github.com/pablohpsilva/vuejs-component-style-guide)
 * [Created from react styleguidist for Vue Components with a living style guide](https://github.com/vue-styleguidist/vue-styleguidist)
 * [A simple way with Vue to announce any useful information for screen readers.](https://github.com/vue-a11y/vue-announcer)
+* [Use dynamic styles in Vue single-file components.](https://github.com/egoist/styled-vue)
