@@ -7,6 +7,7 @@ Version Released
 * Added astroturf
 * Added xo js
 * Added reaviz
+* Added flipper
 
 ## UPDATES 3.7.0
 

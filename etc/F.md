@@ -64,6 +64,14 @@ A helper library for doing FLIP animations.
 * [WEBSITE](https://aerotwist.com/blog/flip-your-animations/)
 * [DOCS](https://aerotwist.com/tutorials/)
 
+## :rocket: FLIPPER
+
+A desktop debugging platform for mobile developers.
+
+* [GITHUB](https://github.com/facebook/flipper)
+* [WEBSITE](https://fbflipper.com/)
+* [DOCS](https://fbflipper.com/docs/understand.html)
+
 ## :rocket: FRINT JS
 
 Modular JavaScript framework for building scalable and reactive applications
