@@ -8,6 +8,7 @@ Version Released
 * Added xo js
 * Added reaviz
 * Added flipper
+* Added taskbook
 
 ## UPDATES 3.7.0
 
