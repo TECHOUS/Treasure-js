@@ -9,6 +9,7 @@ Version Released
 * Added reaviz
 * Added flipper
 * Added taskbook
+* Added v4f js
 
 ## UPDATES 3.7.0
 
