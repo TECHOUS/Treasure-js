@@ -1,12 +1,44 @@
-<center><img src="logo/third.ico" alt="treasure logo"/>
+<p align="center">
+    <img src="logo/third.ico" alt="treasure logo"/>
+    <h1 align="center">TREASURE JS</h1>
+</p>
 
-# TREASURE JS
+**"OBESSED WITH JS LIBRARY NAMES"** keep calm here you get the treasure of links and findings of javascript and its extensions(Frameworks,Libraries,usage,etc.).
 
-</center>
+It also contains JavaScript Tutorials courses links which are absolutely free for everyone.
 
-**"OBESSED WITH JS LIBRARY NAMES"** keep calm here you get the treasure of links and findings of javascript and its extensions(Frameworks,Libraries,usage,etc.). It also contains JavaScript Tutorials courses links which are absolutely free for everyone.
+# Contents Table
 
-## HOW TO STAY UPDATED WITH NEWER TECH IN JS
+* [Release Types](#release-types)
+  * [How to stay updated with new names in JS](#How-to-Stay-Updated-with-Newer-Names-in-JavaScript)
+* [Best Free Courses / Docs / Tutorials](#Best-Free-Courses-/-Docs-/-Tutorials)
+  * [Learning Repos](#rocket-learning-repos)
+  * [Videos](#rocket-videos)
+  * [Blogs](#rocket-blogs)
+  * [APIs](#rocket-APIs)
+  * [Plugins](#rocket-plugins)
+  * [PWA - Progressive Web Apps](#rocket-PWA---progressive-web-apps)
+  * [Other Examples](#rocket-other-examples)
+* [JSON (JavaScript Object Notation)](#JSON-(JavaScript-Object-Notation))
+* [AJAX (Asynchronous JavaScript AND XML)](#AJAX-(Asynchronous-JavaScript-AND-XML))
+* [Javascript Frameworks ,Libraries, Tools AND Preprocessors (A - Z)](#JavaScript-Frameworks-,Libraries,-Tools-and-Preprocessors-(A---Z))
+  * [Misc treasures](#rocket-MISC)
+  * [Deprecated treasures](#rocket-deprecated)
+* [Contributing to Treasure JS](#CONTRIBUTION)
+  * [Contributors](#contributors)
+* [LICENSE](#license)
+
+## Release Types
+
+Currently we are have three types of version updates
+
+* **MAJOR**: This type of release is done when the new structure of readme is formed and new designs are produced to represent good treasures.
+* **MINOR**: In minor release versioning is maintained according to completed milestones of 15 treasures.
+* **PATCH**: A successful patch is released if old link is corrected or some problems are found in readme.
+
+Current releases follow [Semantic Versioning](https://semver.org/)
+
+### How to Stay Updated with Newer Names in JavaScript
 
 * Please **star** or **watch** our repository and **SUPPORT US**. Here you will get newer resource links and samples.
 
@@ -18,9 +50,7 @@
 git clone https://github.com/TechOUs/Treasure-js.git
 ```
 
-## JAVASCRIPT PATHS
-
-### :rocket: BEST FREE COURSES/DOCS/TUTORIALS
+## Best Free Courses / Docs / Tutorials
 
 Soon you will get in correct order keep supporting till then follow bold ones
 
@@ -59,7 +89,7 @@ Soon you will get in correct order keep supporting till then follow bold ones
 * [UDEMY -- ES6 / EcmaScript Fast Crash Course](https://www.udemy.com/es6-ecmascript-6-for-beginners/)
 * [**W3 SCHOOLS -- JavaScript**](https://www.w3schools.com/js/default.asp)
 
-### :rocket: LEARNING REPOS
+### :rocket: Learning Repos
 
 * [Algorithms resolution in Javascript. Leetcode - Geeksforgeeks - Careercup](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript)
 * [30 SECONDS OF CODE](https://github.com/30-seconds/30-seconds-of-code)
@@ -90,9 +120,9 @@ Soon you will get in correct order keep supporting till then follow bold ones
 * [How to control the behavior of JavaScript imports](https://github.com/WICG/import-maps)
 * [Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
 
-### :rocket: VIDEOS
+### :rocket: Videos
 
-### :rocket: BLOGS
+### :rocket: Blogs
 
 ### :rocket: APIs
 
@@ -100,7 +130,7 @@ Soon you will get in correct order keep supporting till then follow bold ones
 * [This is a simple API for a music service that i developed for my tutorial on DRF](https://github.com/kasulani/drf_tutorial)
 * [JWT User Authentication API - NodeJS](https://github.com/gabriel-hahn/user-auth-jwt)
 
-### :rocket: PLUGINS
+### :rocket: Plugins
 
 * [axios plugin converting requests to cURL commands, saving and logging them.](https://github.com/delirius325/axios-curlirize)
 * [A javascript scrollbar plugin which hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.](https://github.com/KingSora/OverlayScrollbars)
@@ -120,7 +150,7 @@ Soon you will get in correct order keep supporting till then follow bold ones
 * [Your next Preact PWA starts in 30 seconds.](https://github.com/developit/preact-cli)
 * ["The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more medal_sports](https://realworld.io/)
 
-### :rocket: OTHER EXAMPLES
+### :rocket: Other Examples
 
 * [Beautiful static documentation for your API](https://github.com/lord/slate)
 * [ZEN AUDIO PLAYER](https://github.com/zen-audio-player/zen-audio-player.github.io)
@@ -196,7 +226,7 @@ Soon you will get in correct order keep supporting till then follow bold ones
 6. [INTRODUCTION TO AJAX](https://in.udacity.com/course/intro-to-ajax--ud110)
 7. [SUPERAGENT](https://github.com/visionmedia/superagent)
 
-## JAVASCRIPT FRAMEWORKS ,LIBRARIES, TOOLS AND PREPROCESSORS (A - Z)
+## JavaScript Frameworks ,Libraries, Tools and Preprocessors (A - Z)
 
 * [2018 edition of our front-end development handbook](https://github.com/FrontendMasters/front-end-handbook-2018)
 * [Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
@@ -232,7 +262,7 @@ A - M Alphabets             | N - Z Alphabets
 * [CASH](https://github.com/kenwheeler/cash)
 * [You don't (may not) need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
 
-### :rocket: DEPRECATED
+### :rocket: Deprecated
 
 #### [KEYFRAMES](Deprecated.md#keyframes)
 
