@@ -12,6 +12,7 @@ Version Released
 * Added v4f js
 * Added react dom box 2d
 * added react prop types
+* Added redux observable js
 
 ## UPDATES 3.7.0
 

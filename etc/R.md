@@ -354,6 +354,13 @@ Predictable state container for JavaScript apps
 * [Enables simple, yet robust handling of async action creators in Redux](https://github.com/pburtchaell/redux-promise-middleware)
 * [Thunk middleware for Redux](https://github.com/reduxjs/redux-thunk)
 
+### REDUX OBSERVABLE JS
+
+RxJS middleware for action side effects in Redux using "Epics"
+
+* [GITHUB](https://github.com/redux-observable/redux-observable)
+* [WEBSITE](https://redux-observable.js.org/)
+
 ## :rocket: READABILITY JS
 
 A standalone version of the readability lib
