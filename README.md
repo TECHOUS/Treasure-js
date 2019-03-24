@@ -1,4 +1,8 @@
+<center><img src="logo/third.ico" alt="treasure logo"/>
+
 # TREASURE JS
+
+</center>
 
 **"OBESSED WITH JS LIBRARY NAMES"** keep calm here you get the treasure of links and findings of javascript and its extensions(Frameworks,Libraries,usage,etc.). It also contains JavaScript Tutorials courses links which are absolutely free for everyone.
 

@@ -1,4 +1,4 @@
-# VERSION 3
+# VERSION 4
 
 Version Released
 
@@ -14,7 +14,9 @@ Version Released
 * added react prop types
 * Added redux observable js
 
-## UPDATES 3.7.0
+## VERSION 3
+
+### UPDATES 3.7.0
 
 * Added react semantic ui
 * Added react map gl
@@ -32,7 +34,7 @@ Version Released
 * Added react chart js
 * Added jupyterlab
 
-## UPDATES 3.6.0
+### UPDATES 3.6.0
 
 * Added tinymce
 * Added tailor
