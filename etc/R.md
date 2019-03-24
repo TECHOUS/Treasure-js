@@ -164,6 +164,12 @@ React wrapper for Chart.js
 * [GITHUB](https://github.com/jerairrest/react-chartjs-2)
 * [WEBSITE](http://jerairrest.github.io/react-chartjs-2/)
 
+### REACT DOM BOX 2D
+
+Wrap react dom elements with Box2d physics engine
+
+* [GITHUB](https://github.com/oneto018/react-dom-box2d)
+
 ### REACT FLIP TOOLKIT
 
 A utility library for highly configurable layout transitions
@@ -190,6 +196,12 @@ Morphing Ui transitions made simple
 
 * [GITHUB](https://github.com/brunnolou/react-morph)
 * [WEBSITE](https://brunnolou.github.io/react-morph/?down=0)
+
+### REACT PROP TYPES
+
+Parses React prop-types into a readable object
+
+* [GITHUB](https://github.com/diegohaz/parse-prop-types)
 
 ### REACT RESIZE DETECTOR
 

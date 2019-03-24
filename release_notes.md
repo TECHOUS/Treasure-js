@@ -10,6 +10,8 @@ Version Released
 * Added flipper
 * Added taskbook
 * Added v4f js
+* Added react dom box 2d
+* added react prop types
 
 ## UPDATES 3.7.0
 
