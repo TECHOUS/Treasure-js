@@ -2,6 +2,8 @@
 
 Version Released
 
+* Added REACT NATIVE REALLY AWESOME BUTTON
+
 ## PATCH 4.0.1
 
 * Updated readme structure
