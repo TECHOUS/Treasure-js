@@ -5,6 +5,10 @@ Version Released
 * Added REACT NATIVE REALLY AWESOME BUTTON
 * Added nest js
 
+## PATCH 4.0.2
+
+* Fixed readme contents table links
+
 ## PATCH 4.0.1
 
 * Updated readme structure
