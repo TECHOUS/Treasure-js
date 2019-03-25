@@ -13,6 +13,14 @@ A web-based tool for visualizing neural network topologies
 * [GITHUB](https://github.com/ethereon/netscope)
 * [WEBSITE](http://ethereon.github.io/netscope/quickstart.html)
 
+## :rocket: NEST JS
+
+A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8)
+
+* [GITHUB](https://github.com/nestjs/nest)
+* [WEBSITE](https://nestjs.com/)
+* [DOCS](https://docs.nestjs.com/)
+
 ## :rocket: NEXT JS
 
 The React Framework

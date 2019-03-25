@@ -3,6 +3,7 @@
 Version Released
 
 * Added REACT NATIVE REALLY AWESOME BUTTON
+* Added nest js
 
 ## PATCH 4.0.1
 
