@@ -87,6 +87,13 @@ Lightweight fuzzy-search
 * [GITHUB](https://github.com/krisk/Fuse)
 * [WEBSITE](http://fusejs.io/)
 
+## :rocket: FUZZY SORT
+
+Fast SublimeText-like fuzzy search for JavaScript.
+
+* [GITHUB](https://github.com/farzher/fuzzysort)
+* [WEBSITE](https://rawgit.com/farzher/fuzzysort/master/test.html)
+
 ## :rocket: FX
 
 Command-line tool and terminal JSON viewer :fire:
