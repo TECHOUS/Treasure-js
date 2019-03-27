@@ -8,6 +8,7 @@ Version Released
 * Added fuzzy sort
 * Added hawk
 * Added react native htmlview
+* Added react tree beard
 
 ## PATCH 4.0.2
 
