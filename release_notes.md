@@ -4,6 +4,7 @@ Version Released
 
 * Added REACT NATIVE REALLY AWESOME BUTTON
 * Added nest js
+* Added papaparse
 
 ## PATCH 4.0.2
 

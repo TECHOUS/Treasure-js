@@ -14,6 +14,14 @@ p5.js is a client-side JS platform that empowers artists, designers, students, a
 * [WEBSITE](https://p5js.org/)
 * [DOCS](https://p5js.org/reference/)
 
+## :rocket: PAPAPARSE
+
+Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
+
+* [GITHUB](https://github.com/mholt/PapaParse)
+* [WEBSITE](https://www.papaparse.com/)
+* [DOCS](https://www.papaparse.com/docs)
+
 ## :rocket: PARTICLES JS
 
 A lightweight JavaScript library for creating particles
