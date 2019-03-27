@@ -345,6 +345,12 @@ React Native button component. Awesome Button is a 3D at 60fps, progress enabled
 * [WEBSITE](https://expo.io/@rcaferati/react-native-really-awesome-button)
 * [DOCS](https://docs.expo.io/versions/latest/)
 
+### REACT NATIVE HTMLVIEW
+
+A React Native component which renders HTML content as native views
+
+* [GITHUB](https://github.com/jsdf/react-native-htmlview)
+
 ### :rocket: REDUX
 
 Predictable state container for JavaScript apps

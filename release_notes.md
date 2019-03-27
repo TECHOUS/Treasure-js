@@ -7,6 +7,7 @@ Version Released
 * Added papaparse
 * Added fuzzy sort
 * Added hawk
+* Added react native htmlview
 
 ## PATCH 4.0.2
 
