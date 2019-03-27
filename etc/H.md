@@ -25,6 +25,12 @@ Hasura GraphQL Engine is a blazing-fast GraphQL server that gives you instant, r
 * [GITHUB](https://github.com/hasura/graphql-engine)
 * [WEBSITE](https://hasura.io)
 
+## :rocket: HAWK
+
+Hawk is an HTTP authentication scheme using a message authentication code (MAC) algorithm to provide partial HTTP request cryptographic verification. For more complex use cases such as access delegation, see Oz.
+
+* [GITHUB](https://github.com/hueniverse/hawk)
+
 ## :rocket: HELMET JS
 
 Helmet helps you secure your Express apps by setting various HTTP headers

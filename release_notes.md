@@ -6,6 +6,7 @@ Version Released
 * Added nest js
 * Added papaparse
 * Added fuzzy sort
+* Added hawk
 
 ## PATCH 4.0.2
 
