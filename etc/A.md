@@ -82,6 +82,14 @@ astroturf lets you write CSS in your JavaScript files without adding any runtime
 
 * [GITHUB](https://github.com/4Catalyzer/astroturf)
 
+## :rocket: ASYNC
+
+Official React bindings for Redux
+
+* [GITHUB](https://github.com/caolan/async)
+* [WEBSITE](http://caolan.github.io/async/)
+* [DOCS](http://caolan.github.io/async/docs.html)
+
 ## :rocket: AURELIA JS
 
 The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building platform.

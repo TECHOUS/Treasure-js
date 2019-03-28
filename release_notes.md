@@ -9,6 +9,7 @@ Version Released
 * Added hawk
 * Added react native htmlview
 * Added react tree beard
+* Added async
 
 ## PATCH 4.0.2
 
