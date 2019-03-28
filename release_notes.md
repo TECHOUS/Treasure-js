@@ -10,6 +10,7 @@ Version Released
 * Added react native htmlview
 * Added react tree beard
 * Added async
+* Added formal in react
 
 ## PATCH 4.0.2
 

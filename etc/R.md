@@ -117,6 +117,13 @@ Evergreen React UI Framework by Segment
 * [WEBSITE](https://evergreen.segment.com/)
 * [DOCS](https://evergreen.segment.com/components/)
 
+### FORMAL
+
+Elegant form management primitives for the react hooks era.
+
+* [GITHUB](https://github.com/kevinwolfcr/formal)
+* [WEBSITE](https://react-formal.netlify.com/?path=/story/examples--basic)
+
 ### GROMMET
 
 a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
