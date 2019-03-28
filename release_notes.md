@@ -11,6 +11,7 @@ Version Released
 * Added react tree beard
 * Added async
 * Added formal in react
+* Added sortable js
 
 ## PATCH 4.0.2
 

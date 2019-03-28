@@ -71,6 +71,13 @@ SonarJS: JavaScript Analyzer for SonarQube
 * [GITHUB](https://github.com/SonarSource/SonarJS)
 * [WEBSITE](https://www.sonarsource.com/products/codeanalyzers/sonarjs.html)
 
+## :rocket: SORTABLE JS
+
+Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Knockout and any CSS library, e.g. Bootstrap.
+
+* [GITHUB](https://github.com/SortableJS/Sortable)
+* [WEBSITE](https://sortablejs.github.io/Sortable/)
+
 ## :rocket: SQL JS
 
 SQLite compiled to JavaScript through Emscripten

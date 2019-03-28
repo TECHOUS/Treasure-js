@@ -382,6 +382,7 @@ Predictable state container for JavaScript apps
 * [React Router and Redux](https://www.edx.org/course/react-router-and-redux-1)
 * [Enables simple, yet robust handling of async action creators in Redux](https://github.com/pburtchaell/redux-promise-middleware)
 * [Thunk middleware for Redux](https://github.com/reduxjs/redux-thunk)
+* [Predictable state container for JavaScript apps](https://github.com/reduxjs/redux)
 
 ### REDUX OBSERVABLE JS
 
