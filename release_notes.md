@@ -15,6 +15,7 @@ Version Released
 * Added react admin
 * Added react devtools
 * Added wtf js
+* Added strapi
 
 ## PATCH 4.0.2
 
