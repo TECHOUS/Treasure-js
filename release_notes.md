@@ -13,6 +13,7 @@ Version Released
 * Added formal in react
 * Added sortable js
 * Added react admin
+* Added react devtools
 
 ## PATCH 4.0.2
 

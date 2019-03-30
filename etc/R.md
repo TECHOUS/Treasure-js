@@ -178,6 +178,12 @@ React wrapper for Chart.js
 * [GITHUB](https://github.com/jerairrest/react-chartjs-2)
 * [WEBSITE](http://jerairrest.github.io/react-chartjs-2/)
 
+### REACT DEV TOOLS
+
+React Developer Tools lets you inspect the React component hierarchy, including component props and state.
+
+* [GITHUB](https://github.com/facebook/react-devtools)
+
 ### REACT DOM BOX 2D
 
 Wrap react dom elements with Box2d physics engine
