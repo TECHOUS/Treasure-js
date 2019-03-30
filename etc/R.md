@@ -156,6 +156,13 @@ Toolkit for building really interactive UIs with React
 * [WEBSITE](https://reakit.io/)
 * [DOCS](https://reakit.io/guide/get-started)
 
+### REACT ADMIN
+
+A frontend Framework for building admin applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+
+* [GITHUB](https://github.com/marmelab/react-admin)
+* [WEBSITE](https://marmelab.com/react-admin/)
+
 ### REACT AUTOSUGGEST
 
 WAI-ARIA compliant React autosuggest component

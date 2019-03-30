@@ -12,6 +12,7 @@ Version Released
 * Added async
 * Added formal in react
 * Added sortable js
+* Added react admin
 
 ## PATCH 4.0.2
 
