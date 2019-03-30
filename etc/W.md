@@ -72,3 +72,9 @@ wolkenkit is a CQRS and event-sourcing framework for JavaScript and Node.js whic
 * [GITHUB](https://github.com/thenativeweb/wolkenkit)
 * [WEBSITE](https://www.wolkenkit.io/)
 * [DOCS](https://docs.wolkenkit.io/3.1.0/)
+
+## :rocket: WTF JS
+
+A list of funny and tricky JavaScript examples
+
+* [GITHUB](https://github.com/denysdovhan/wtfjs)

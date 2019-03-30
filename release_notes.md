@@ -14,6 +14,7 @@ Version Released
 * Added sortable js
 * Added react admin
 * Added react devtools
+* Added wtf js
 
 ## PATCH 4.0.2
 
