@@ -2,6 +2,8 @@
 
 Version Released
 
+## UPDATE 4.1.0
+
 * Added REACT NATIVE REALLY AWESOME BUTTON
 * Added nest js
 * Added papaparse
@@ -16,12 +18,13 @@ Version Released
 * Added react devtools
 * Added wtf js
 * Added strapi
+* Added pack
 
-## PATCH 4.0.2
+### PATCH 4.0.2
 
 * Fixed readme contents table links
 
-## PATCH 4.0.1
+### PATCH 4.0.1
 
 * Updated readme structure
 

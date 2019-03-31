@@ -153,6 +153,13 @@ Elegant terminal spinner
 
 * [GITHUB](https://github.com/sindresorhus/ora)
 
+### PACK
+
+npm package building, reimagined.
+
+* [GITHUB](https://github.com/pikapkg/pack)
+* [WEBSITE](https://www.pikapkg.com/blog/introducing-pika-pack/)
+
 ### PM2
 
 Node.js Production Process Manager with a built-in Load Balancer.
