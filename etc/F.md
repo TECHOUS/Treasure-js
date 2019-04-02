@@ -56,6 +56,13 @@ A library to overcomplicate 5
 * [GITHUB](https://github.com/jackdclark/five)
 * [WEBSITE](https://five.js.org/)
 
+## :rocket: FLATPICKR JS
+
+lightweight, powerful javascript datetimepicker with no dependencies
+
+* [GITHUB](https://github.com/flatpickr/flatpickr)
+* [WEBSITE/DOCS](https://flatpickr.js.org/)
+
 ## :rocket: FLIP JS
 
 A helper library for doing FLIP animations.
