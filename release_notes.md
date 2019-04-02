@@ -2,6 +2,8 @@
 
 Version Released
 
+* Added react loops
+
 ## UPDATE 4.1.0
 
 * Added REACT NATIVE REALLY AWESOME BUTTON

@@ -202,6 +202,12 @@ A Component React for Facebook Login
 
 * [GITHUB/DOCS](https://github.com/keppelen/react-facebook-login)
 
+### REACT LOOPS
+
+React Loops works with React Hooks as part of the React Velcro Architecture
+
+* [GITHUB](https://github.com/leebyron/react-loops)
+
 ### REACT MAP GL
 
 React friendly API wrapper around MapboxGL JS
