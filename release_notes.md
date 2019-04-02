@@ -3,6 +3,7 @@
 Version Released
 
 * Added react loops
+* Added web3 js
 
 ## UPDATE 4.1.0
 

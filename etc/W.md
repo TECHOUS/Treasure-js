@@ -26,6 +26,13 @@ Run npm dependencies directly in the browser. No Browserify, Webpack or import m
 
 * [GITHUB](https://github.com/pikapkg/web)
 
+## :rocket: WEB3 JS
+
+Ethereum JavaScript API
+
+* [GITHUB](https://github.com/ethereum/web3.js)
+* [DOCS](https://web3js.readthedocs.io/en/1.0/)
+
 ## :rocket: WEBINY JS
 
 Serverless CMS (GraphQL + React)
