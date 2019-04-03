@@ -7,6 +7,7 @@ Version Released
 * Added flatpickr js
 * Added perflink
 * Added kepler gl
+* Added execa
 
 ## UPDATE 4.1.0
 

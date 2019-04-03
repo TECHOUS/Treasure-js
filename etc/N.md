@@ -134,6 +134,12 @@ CLI email prompt with autocompletion and built-in validation
 * [GITHUB](https://github.com/zeit/email-prompt)
 * [WEBSITE](https://www.npmjs.com/package/email-prompt)
 
+### EXECA
+
+A better child_process
+
+* [GITHUB](https://github.com/sindresorhus/execa)
+
 ### INDENT TEXTAREA
 
 Add editor-like tab-to-indent functionality to textarea, in a few bytes
