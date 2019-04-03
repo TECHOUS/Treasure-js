@@ -9,6 +9,7 @@ Version Released
 * Added kepler gl
 * Added execa
 * Added shave
+* Added zhui
 
 ## UPDATE 4.1.0
 
