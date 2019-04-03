@@ -8,6 +8,7 @@ Version Released
 * Added perflink
 * Added kepler gl
 * Added execa
+* Added shave
 
 ## UPDATE 4.1.0
 

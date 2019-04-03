@@ -23,6 +23,13 @@ Static file serving and directory listing
 * [GITHUB](https://github.com/zeit/serve)
 * [WEBSITE](https://zeit.co/blog/serve-7)
 
+## :rocket: SHAVE
+
+Shave is a 0 dep JS plugin that truncates text to fit within an element based on a set max-height
+
+* [GITHUB](https://github.com/dollarshaveclub/shave)
+* [WEBSITE](https://dollarshaveclub.github.io/shave/)
+
 ## :rocket: SINON JS
 
 Test spies, stubs and mocks for JavaScript.
