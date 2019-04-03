@@ -6,6 +6,7 @@ Version Released
 * Added web3 js
 * Added flatpickr js
 * Added perflink
+* Added kepler gl
 
 ## UPDATE 4.1.0
 
