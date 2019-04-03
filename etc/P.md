@@ -38,6 +38,13 @@ Passport is authentication middleware for Node.js. Extremely flexible and modula
 * [WEBSITE](http://www.passportjs.org/)
 * [DOCS](http://www.passportjs.org/docs/downloads/html/)
 
+## :rocket: PERFLINK
+
+Low friction JavaScript benchmarks that you can share via URL
+
+* [GITHUB](https://github.com/lukejacksonn/perflink)
+* [WEBSITE](https://perf.link/)
+
 ## :rcoket: PINO JS
 
 :evergreen_tree: super fast, all natural json logger :evergreen_tree:

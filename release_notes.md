@@ -5,6 +5,7 @@ Version Released
 * Added react loops
 * Added web3 js
 * Added flatpickr js
+* Added perflink
 
 ## UPDATE 4.1.0
 
