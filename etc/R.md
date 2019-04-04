@@ -197,17 +197,23 @@ Wrap react dom elements with Box2d physics engine
 
 * [GITHUB](https://github.com/oneto018/react-dom-box2d)
 
+### REACT FACEBOOK LOGIN
+
+A Component React for Facebook Login
+
+* [GITHUB/DOCS](https://github.com/keppelen/react-facebook-login)
+
 ### REACT FLIP TOOLKIT
 
 A utility library for highly configurable layout transitions
 
 * [GITHUB](https://github.com/aholachek/react-flip-toolkit)
 
-### REACT FACEBOOK LOGIN
+### REACT FRONT LOAD
 
-A Component React for Facebook Login
+Load data asynchronously into your React components. Works on both client and server render.
 
-* [GITHUB/DOCS](https://github.com/keppelen/react-facebook-login)
+* [GITHUB](https://github.com/davnicwil/react-frontload)
 
 ### REACT LOOPS
 

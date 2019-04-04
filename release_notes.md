@@ -13,6 +13,7 @@ Version Released
 * Added react navigation
 * Added google map react
 * Added sentencer js
+* Added react front load
 
 ## UPDATE 4.1.0
 
