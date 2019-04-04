@@ -10,6 +10,7 @@ Version Released
 * Added execa
 * Added shave
 * Added zhui
+* Added react navigation
 
 ## UPDATE 4.1.0
 
