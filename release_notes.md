@@ -11,6 +11,7 @@ Version Released
 * Added shave
 * Added zhui
 * Added react navigation
+* Added google map react
 
 ## UPDATE 4.1.0
 

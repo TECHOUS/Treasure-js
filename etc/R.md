@@ -124,6 +124,13 @@ Elegant form management primitives for the react hooks era.
 * [GITHUB](https://github.com/kevinwolfcr/formal)
 * [WEBSITE](https://react-formal.netlify.com/?path=/story/examples--basic)
 
+### GOOGLE MAP REACT
+
+Google map library for react that allows rendering components as markers
+
+* [GITHUB](https://github.com/google-map-react/google-map-react)
+* [WEBSITE](http://google-map-react.github.io/google-map-react/map/main/)
+
 ### GROMMET
 
 a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
