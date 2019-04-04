@@ -12,6 +12,7 @@ Version Released
 * Added zhui
 * Added react navigation
 * Added google map react
+* Added sentencer js
 
 ## UPDATE 4.1.0
 

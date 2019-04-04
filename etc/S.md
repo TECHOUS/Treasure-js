@@ -8,6 +8,13 @@ UI component framework based around useful principles from natural language
 * [WEBSITE](https://semantic-ui.com/)
 * [DOCS](https://semantic-ui.com/introduction/getting-started.html)
 
+## :rocket: SENTENCER JS
+
+madlibs-style sentence templating in Javascript
+
+* [GITHUB](https://github.com/kylestetz/Sentencer)
+* [WEBSITE](http://kylestetz.github.io/Sentencer/)
+
 ## :rocket: SEQUELIZE JS
 
 An easy-to-use multi SQL dialect ORM
