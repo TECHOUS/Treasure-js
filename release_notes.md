@@ -15,6 +15,7 @@ Version Released
 * Added sentencer js
 * Added react front load
 * Added file saver js
+* Added get port
 
 ## UPDATE 4.1.0
 
