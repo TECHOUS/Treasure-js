@@ -49,6 +49,13 @@ A JavaScript library for common financial calculations
 
 * [GITHUB](https://github.com/ebradyjobory/finance.js)
 
+## :rocket: FILE SAVER JS
+
+An HTML5 saveAs() FileSaver implementation
+
+* [GITHUB](https://github.com/eligrey/FileSaver.js)
+* [WEBSITE](https://eligrey.com/blog/saving-generated-files-on-the-client-side/)
+
 ## :rocket: FIVE JS
 
 A library to overcomplicate 5

@@ -14,6 +14,7 @@ Version Released
 * Added google map react
 * Added sentencer js
 * Added react front load
+* Added file saver js
 
 ## UPDATE 4.1.0
 
