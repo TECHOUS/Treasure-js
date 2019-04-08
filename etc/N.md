@@ -120,6 +120,12 @@ The official JavaScript client for Cosmic JS. Use it to power content server-sid
 * [GITHUB](https://github.com/cosmicjs/cosmicjs-node)
 * [WEBSITE](https://www.npmjs.com/package/cosmicjs)
 
+### CUSTOMIZE CRA
+
+Override webpack configurations for create-react-app 2.0
+
+* [GITHUB](https://github.com/arackaf/customize-cra)
+
 ### DOTENV-SAFE
 
 Load environment variables from .env and ensure they are all present

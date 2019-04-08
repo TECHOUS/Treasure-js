@@ -3,6 +3,7 @@
 Version Released
 
 * Added sister
+* Added customize cra
 
 ## UPDATE 4.2.0
 
