@@ -5,6 +5,10 @@ Version Released
 * Added sister
 * Added customize cra
 
+## PATCH 4.2.1
+
+* Readme content update
+
 ## UPDATE 4.2.0
 
 * Added react loops
