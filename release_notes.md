@@ -16,6 +16,7 @@ Version Released
 * Added react front load
 * Added file saver js
 * Added get port
+* Added swing
 
 ## UPDATE 4.1.0
 

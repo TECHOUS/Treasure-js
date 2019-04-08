@@ -159,3 +159,9 @@ Open source Node.js Headless CMS to easily build customisable APIs
 Super-agent driven library for testing node.js HTTP servers using a fluent API
 
 * [GITHUB](https://github.com/visionmedia/supertest)
+
+## :rocket: SWING
+
+A swipeable cards interface. The swipe-left/swipe-right for yes/no input. As seen in apps like Jelly and Tinder.
+
+* [GITHUB](https://github.com/gajus/swing)
