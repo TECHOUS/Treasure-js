@@ -2,6 +2,10 @@
 
 Version Released
 
+* Added sister
+
+## UPDATE 4.2.0
+
 * Added react loops
 * Added web3 js
 * Added flatpickr js
@@ -18,7 +22,7 @@ Version Released
 * Added get port
 * Added swing
 
-## UPDATE 4.1.0
+### UPDATE 4.1.0
 
 * Added REACT NATIVE REALLY AWESOME BUTTON
 * Added nest js

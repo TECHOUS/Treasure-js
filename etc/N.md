@@ -174,6 +174,12 @@ Node.js Production Process Manager with a built-in Load Balancer.
 * [WEBSITE](https://pm2.io/)
 * [DOCS](https://pm2.io/doc/)
 
+### SISTER
+
+Foundation for your emitter implementation. 202 reasons to not write your own implementation of event emitter.
+
+* [GITHUB](https://github.com/gajus/sister)
+
 ### STATSD
 
 Daemon for easy but powerful stats aggregation
