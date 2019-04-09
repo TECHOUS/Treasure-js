@@ -5,6 +5,7 @@ Version Released
 * Added sister
 * Added customize cra
 * Added showdown js
+* Added materialize
 
 ## PATCH 4.2.1
 

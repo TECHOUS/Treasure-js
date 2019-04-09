@@ -32,6 +32,14 @@ Marionette simplifies your Backbone application code with robust views and archi
 * [DOCS 3](https://devdocs.io/marionette~3/)
 * [DOCS 2](https://devdocs.io/marionette~2/)
 
+## :rocket: MATERIALIZE
+
+Materialize, a CSS Framework based on Material Design
+
+* [GITHUB](https://github.com/Dogfalo/materialize)
+* [WEBSITE](https://materializecss.com/)
+* [DOCS](https://materializecss.com/getting-started.html)
+
 ## :rocket: MATTER JS
 
 Matter.js is a 2D physics engine for the web
