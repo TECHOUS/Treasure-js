@@ -4,6 +4,7 @@ Version Released
 
 * Added sister
 * Added customize cra
+* Added showdown js
 
 ## PATCH 4.2.1
 

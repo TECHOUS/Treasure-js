@@ -74,3 +74,5 @@ A progressive, incrementally-adoptable JavaScript framework for building UI on t
 * [Created from react styleguidist for Vue Components with a living style guide](https://github.com/vue-styleguidist/vue-styleguidist)
 * [A simple way with Vue to announce any useful information for screen readers.](https://github.com/vue-a11y/vue-announcer)
 * [Use dynamic styles in Vue single-file components.](https://github.com/egoist/styled-vue)
+* [vue-clipboard clipboard directly for Vue.js](https://github.com/xiaokaike/vue-clipboard)
+* [A qrcode component for use with Vue.](https://github.com/xiaokaike/vue-qrcode)

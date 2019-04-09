@@ -37,6 +37,14 @@ Shave is a 0 dep JS plugin that truncates text to fit within an element based on
 * [GITHUB](https://github.com/dollarshaveclub/shave)
 * [WEBSITE](https://dollarshaveclub.github.io/shave/)
 
+## :rocket: SHOWDOWN JS
+
+A bidirectional Markdown to HTML to Markdown converter written in Javascript
+
+* [GITHUB](https://github.com/showdownjs/showdown)
+* [WEBSITE](http://showdownjs.com/)
+* [DOCS](http://showdownjs.com/#!/documentation)
+
 ## :rocket: SINON JS
 
 Test spies, stubs and mocks for JavaScript.
