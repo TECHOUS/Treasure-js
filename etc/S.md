@@ -1,5 +1,11 @@
 # S
 
+## :rocket: SCALE
+
+Color scale generator
+
+* [GITHUB](https://github.com/hihayk/scale)
+
 ## :rocket: SEMANTIC UI
 
 UI component framework based around useful principles from natural language

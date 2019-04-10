@@ -7,6 +7,7 @@ Version Released
 * Added showdown js
 * Added materialize
 * Added mathbox
+* Added scale
 
 ## PATCH 4.2.1
 
