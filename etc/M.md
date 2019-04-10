@@ -40,6 +40,12 @@ Materialize, a CSS Framework based on Material Design
 * [WEBSITE](https://materializecss.com/)
 * [DOCS](https://materializecss.com/getting-started.html)
 
+## :rocket: MATHBOX
+
+MathBox is a library for rendering presentation-quality math diagrams in a browser using WebGL. Built on top of Three.js and ShaderGraph, it provides a clean API to visualize mathematical relationships and animate them declaratively.
+
+* [GITHUB](https://github.com/unconed/mathbox)
+
 ## :rocket: MATTER JS
 
 Matter.js is a 2D physics engine for the web

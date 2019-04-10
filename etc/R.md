@@ -101,6 +101,7 @@ A JavaScript library for building user interfaces
 * [Enable a React component (or group of components) to be selectable via mouse/touch.](https://github.com/valerybugakov/react-selectable-fast)
 * [ReactJS project that 'compare' GitHub repositories :octocat:](https://github.com/gabriel-hahn/git-compare)
 * [React specific linting rules for ESLint](https://github.com/yannickcr/eslint-plugin-react)
+* [React and Express file uploader](https://github.com/bradtraversy/react_file_uploader)
 
 ### CONSTATE
 

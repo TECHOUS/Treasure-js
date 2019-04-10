@@ -6,12 +6,13 @@ Version Released
 * Added customize cra
 * Added showdown js
 * Added materialize
+* Added mathbox
 
 ## PATCH 4.2.1
 
 * Readme content update
 
-## UPDATE 4.2.0
+### UPDATE 4.2.0
 
 * Added react loops
 * Added web3 js
