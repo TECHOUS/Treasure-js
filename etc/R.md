@@ -301,6 +301,13 @@ React notification made easy :rocket: !
 * [GITHUB](https://github.com/fkhadra/react-toastify)
 * [WEBSITE](https://fkhadra.github.io/react-toastify/)
 
+### REACT USE
+
+Hook factory, receives a function to be memoized, returns a memoized React hook, which receives the same arguments and returns the same result as the original function.
+
+* [GITHUB](https://github.com/streamich/react-use)
+* [WEBSITE](https://streamich.github.io/react-use/?path=/story/state-creatememo--docs)
+
 ### REACT HOOKS HELPER
 
 A custom React Hooks library that gives you custom hooks for your code.

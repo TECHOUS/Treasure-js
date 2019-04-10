@@ -9,6 +9,7 @@ Version Released
 * Added mathbox
 * Added scale
 * Added react native drawer layout
+* Added react use
 
 ## PATCH 4.2.1
 
