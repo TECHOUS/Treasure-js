@@ -14,6 +14,12 @@ p5.js is a client-side JS platform that empowers artists, designers, students, a
 * [WEBSITE](https://p5js.org/)
 * [DOCS](https://p5js.org/reference/)
 
+## :rocket: PACKAGEBIND
+
+Connect packages to your application with HMR and babel config
+
+* [GITHUB](https://github.com/interviewstreet/packagebind)
+
 ## :rocket: PAPAPARSE
 
 Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input

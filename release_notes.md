@@ -10,6 +10,7 @@ Version Released
 * Added scale
 * Added react native drawer layout
 * Added react use
+* Added packagebind
 
 ## PATCH 4.2.1
 
