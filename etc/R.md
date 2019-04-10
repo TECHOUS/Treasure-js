@@ -393,6 +393,12 @@ A framework for building native apps with React
 * [Transform Dribbble designs to React-Native code & YouTube video tutorials](https://github.com/react-ui-kit/dribbble2react)
 * [A react native mobile starter kit with over 40 screens and theme hot reload support](https://github.com/akveo/kittenTricks)
 
+### REACT NATIVE DRAWER LAYOUT
+
+A platform-agnostic drawer layout. It uses a pure JavaScript implementation on every platform to ensure consistency. We try to keep it up to date with the implementation of DrawerLayoutAndroid and add features we consider necessary as well.
+
+* [GITHUB](https://github.com/react-native-community/react-native-drawer-layout)
+
 ### REACT NATIVE REALLY AWESOME BUTTON
 
 React Native button component. Awesome Button is a 3D at 60fps, progress enabled, social ready, extendable, production ready component that renders an awesome animated set of UI buttons.

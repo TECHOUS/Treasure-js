@@ -8,6 +8,7 @@ Version Released
 * Added materialize
 * Added mathbox
 * Added scale
+* Added react native drawer layout
 
 ## PATCH 4.2.1
 
