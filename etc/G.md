@@ -12,6 +12,7 @@ Gatsby lets you build blazing fast sites with your data, whatever the source. Li
 * [Plug Tailwind CSS to your Gatsby website](https://github.com/muhajirdev/gatsby-plugin-tailwindcss)
 * [Pretty basic starter for Gatsby that covers all of the essentials. All you have to do is start typing!](https://github.com/panr/gatsby-starter-hello-friend)
 * [Playful & Colorful One-Page website with Parallax effect](https://github.com/LekoArts/gatsby-starter-portfolio-cara)
+* [Gatsby Demo Deployment](https://github.com/wesbos/gatsby-demo)
 
 ## :rocket: GET-PORT
 

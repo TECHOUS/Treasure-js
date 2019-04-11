@@ -130,6 +130,9 @@ Soon you will get in correct order keep supporting till then follow bold ones
 * [Get a full fake REST API with zero coding in less than 30 seconds](https://github.com/typicode/json-server)
 * [This is a simple API for a music service that i developed for my tutorial on DRF](https://github.com/kasulani/drf_tutorial)
 * [JWT User Authentication API - NodeJS](https://github.com/gabriel-hahn/user-auth-jwt)
+* [Awesome](https://github.com/sindresorhus/awesome#readme)
+* [Awesome stacks](https://github.com/stackshareio/awesome-stacks)
+* [Example Firefox add-ons created using the WebExtensions API](https://github.com/mdn/webextensions-examples)
 
 ### :rocket: Plugins
 
