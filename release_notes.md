@@ -15,6 +15,7 @@ Version Released
 * Added react useragent
 * Added plyr
 * Added react leaflet js
+* Added react virtualized
 
 ## PATCH 4.2.1
 

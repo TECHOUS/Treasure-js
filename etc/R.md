@@ -435,7 +435,14 @@ A React Native component which renders HTML content as native views
 
 * [GITHUB](https://github.com/jsdf/react-native-htmlview)
 
-### :rocket: REDUX
+### REACT VIRTUALIZED
+
+React components for efficiently rendering large lists and tabular data
+
+* [GITHUB](https://github.com/bvaughn/react-virtualized)
+* [WEBSITE](https://bvaughn.github.io/react-virtualized/#/components/List)
+
+## :rocket: REDUX
 
 Predictable state container for JavaScript apps
 
