@@ -13,6 +13,7 @@ Version Released
 * Added packagebind
 * Added daily hack
 * Added react useragent
+* Added plyr
 
 ## PATCH 4.2.1
 

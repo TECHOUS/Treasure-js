@@ -75,6 +75,13 @@ Open-source JavaScript charting library behind plot.ly and Dash
 * [WEBSITE](https://plot.ly/javascript/)
 * [DOCS](https://plot.ly/javascript/reference/)
 
+## :rocket: PLYR
+
+A simple HTML5, YouTube and Vimeo player
+
+* [GITHUB](https://github.com/sampotts/plyr)
+* [WEBSITE](https://plyr.io/)
+
 ## :rocket: PNPM
 
 Fast, disk space efficient package manager
