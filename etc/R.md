@@ -216,6 +216,14 @@ Load data asynchronously into your React components. Works on both client and se
 
 * [GITHUB](https://github.com/davnicwil/react-frontload)
 
+### REACT LEAFLET JS
+
+React components for leaves Leaflet maps
+
+* [GITHUB](https://github.com/PaulLeCam/react-leaflet)
+* [WEBSITE](https://react-leaflet.js.org/)
+* [DOCS](https://react-leaflet.js.org/docs/en/components.html)
+
 ### REACT LOOPS
 
 React Loops works with React Hooks as part of the React Velcro Architecture

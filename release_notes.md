@@ -14,6 +14,7 @@ Version Released
 * Added daily hack
 * Added react useragent
 * Added plyr
+* Added react leaflet js
 
 ## PATCH 4.2.1
 
