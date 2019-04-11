@@ -13,6 +13,13 @@ D3.js is a JavaScript library for manipulating documents based on data. D3 helps
 * [DATA VISUALIZATION](https://in.udacity.com/course/data-visualization-and-d3js--ud507)
 * [Interactive and colorful art graph theory tutorials made using d3.js zap](https://github.com/mrpandey/d3graphTheory)
 
+## :rocket: DAILY HACK
+
+Tiny Tiny Hacks we use in our daily life
+
+* [GITHUB](https://github.com/mddanishyusuf/dailyhack)
+* [WEBSITE](https://dailyhack.xyz/)
+
 ## :rocket: DAY JS
 
 Day.js 2KB immutable date library alternative to Moment.js with the same modern API

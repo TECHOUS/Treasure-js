@@ -11,6 +11,7 @@ Version Released
 * Added react native drawer layout
 * Added react use
 * Added packagebind
+* Added daily hack
 
 ## PATCH 4.2.1
 
