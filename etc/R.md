@@ -308,6 +308,13 @@ Hook factory, receives a function to be memoized, returns a memoized React hook,
 * [GITHUB](https://github.com/streamich/react-use)
 * [WEBSITE](https://streamich.github.io/react-use/?path=/story/state-creatememo--docs)
 
+### REACT USER AGENT
+
+Integrate user-agent detection in an idiomatic React way
+
+* [GITHUB](https://github.com/quentin-sommer/react-useragent)
+* [WEBSITE](https://quentin-sommer.github.io/react-useragent/)
+
 ### REACT HOOKS HELPER
 
 A custom React Hooks library that gives you custom hooks for your code.

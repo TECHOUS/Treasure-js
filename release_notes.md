@@ -12,6 +12,7 @@ Version Released
 * Added react use
 * Added packagebind
 * Added daily hack
+* Added react useragent
 
 ## PATCH 4.2.1
 
