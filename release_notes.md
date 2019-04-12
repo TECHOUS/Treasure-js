@@ -2,6 +2,10 @@
 
 Version Released
 
+* Added mikro orm
+
+## VERSION 4.3.0
+
 * Added sister
 * Added customize cra
 * Added showdown js
@@ -18,7 +22,7 @@ Version Released
 * Added react virtualized
 * Added object detection react
 
-## PATCH 4.2.1
+### PATCH 4.2.1
 
 * Readme content update
 

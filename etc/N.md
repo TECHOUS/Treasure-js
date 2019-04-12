@@ -153,6 +153,14 @@ Add editor-like tab-to-indent functionality to textarea, in a few bytes
 * [GITHUB](https://github.com/bfred-it/indent-textarea)
 * [WEBSITE](https://www.npmjs.com/package/indent-textarea)
 
+### MIKRO ORM
+
+Simple typescript ORM for node.js based on data-mapper, unit-of-work and identity-map patterns. Supports MongoDB, MySQL, PostgreSQL and SQLite databases.
+
+* [GITHUB](https://github.com/B4nan/mikro-orm)
+* [WEBSITE](https://b4nan.github.io/mikro-orm/)
+* [DOCS](https://b4nan.github.io/mikro-orm/installation/)
+
 ### NODE CRON
 
 A simple cron-like job scheduler for Node.js
