@@ -2,15 +2,16 @@
     <img src="logo/third.ico" alt="treasure logo"/>
     <h1 align="center">TREASURE JS</h1>
     <h4 align="center"><cite>A <u>JavaScript WikiPedia</u> for GitHub</cite></h4>
-    <h4 align="right"><a href="https://github.com/TechOUs/Treasurejs-logo">LOGO</a> | <a href="https://github.com/TechOUs/treasurejs.github.io">WEBSITE</a> | <a href="https://github.com/TechOUs/Treasure-js/releases">VERSION 4.3.1</a></h4>
-</p>
-<p align="center">
-    <img src="logo/idiots.gif" align="center"/>
+    <h4 align="right"><a href="https://github.com/TechOUs/Treasurejs-logo">LOGO</a> | <a href="https://github.com/TechOUs/treasurejs.github.io">WEBSITE</a> | <a href="https://github.com/TechOUs/Treasure-js/releases">VERSION 4.3.3</a></h4>
 </p>
 
 A **Wikipedia for JavaScript** Here you will get the treasure of links and findings of JavaScript and its extensions(Frameworks,Libraries,usage,etc.).
 
 It also contains JavaScript Tutorials courses links which are absolutely free for everyone. Keep Supporting!
+
+<p align="center">
+    <img src="logo/idiots.gif" align="center"/>
+</p>
 
 # Contents Table
 

@@ -5,6 +5,10 @@ Version Released
 * Added mikro orm
 * Added redis dump
 
+## PATCH 4.3.3
+
+* Updated structure
+
 ## PATCH 4.3.2
 
 * Added memes
