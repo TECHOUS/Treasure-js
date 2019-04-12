@@ -5,7 +5,12 @@ Version Released
 * Added mikro orm
 * Added redis dump
 
-## VERSION 4.3.0
+## VERSION 4.3.1
+
+* Updated readme
+* Added a meme
+
+### VERSION 4.3.0
 
 * Added sister
 * Added customize cra
