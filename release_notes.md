@@ -16,6 +16,7 @@ Version Released
 * Added plyr
 * Added react leaflet js
 * Added react virtualized
+* Added object detection react
 
 ## PATCH 4.2.1
 

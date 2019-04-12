@@ -148,6 +148,12 @@ React code splitting made easy
 * [WEBSITE](https://www.smooth-code.com/open-source/loadable-components/)
 * [DOCS](https://www.smooth-code.com/open-source/loadable-components/docs/getting-started/)
 
+### OBJECT DETECTION REACT
+
+Real-Time Custom Object Detection with TensorFlow.js
+
+* [GITHUB](https://github.com/cloud-annotations/object-detection-react)
+
 ### POLARIS REACT
 
 Shopify’s product component library
