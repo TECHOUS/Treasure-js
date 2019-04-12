@@ -188,6 +188,12 @@ Node.js Production Process Manager with a built-in Load Balancer.
 * [WEBSITE](https://pm2.io/)
 * [DOCS](https://pm2.io/doc/)
 
+### REDIS DUMP
+
+Dump redis database into redis commands or json with command line or node.js
+
+* [GITHUB](https://github.com/jeremyfa/node-redis-dump)
+
 ### SISTER
 
 Foundation for your emitter implementation. 202 reasons to not write your own implementation of event emitter.

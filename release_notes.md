@@ -3,6 +3,7 @@
 Version Released
 
 * Added mikro orm
+* Added redis dump
 
 ## VERSION 4.3.0
 
