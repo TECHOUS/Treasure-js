@@ -2,12 +2,11 @@
     <img src="logo/third.ico" alt="treasure logo"/>
     <h1 align="center">TREASURE JS</h1>
     <h4 align="center"><cite>A <u>JavaScript WikiPedia</u> for GitHub</cite></h4>
-    <h4 align="right"><a href="https://github.com/TechOUs/Treasurejs-logo">LOGO</a> | <a href="https://github.com/TechOUs/treasurejs.github.io">WEBSITE</a> | <a href="https://github.com/TechOUs/Treasure-js/releases">VERSION 4.2.1</a></h4>
+    <h4 align="right"><a href="https://github.com/TechOUs/Treasurejs-logo">LOGO</a> | <a href="https://github.com/TechOUs/treasurejs.github.io">WEBSITE</a> | <a href="https://github.com/TechOUs/Treasure-js/releases">VERSION 4.3.1</a></h4>
 </p>
 <p align="center">
     <img src="logo/idiots.gif" align="center"/>
 </p>
-
 
 A **Wikipedia for JavaScript** Here you will get the treasure of links and findings of JavaScript and its extensions(Frameworks,Libraries,usage,etc.).
 
@@ -60,16 +59,7 @@ git clone https://github.com/TechOUs/Treasure-js.git
 
 Soon you will get in correct order keep supporting till then follow bold ones
 
-* [CODEACADEMY -- Introduction To JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
-* [DEVDOCS -- DOM](https://devdocs.io/dom/)
-* [DEVDOCS -- DOM EVENTS](https://devdocs.io/dom_events/)
-* [DEVDOCS -- Javascript - docs](https://devdocs.io/javascript/)
-* [EDX -- Javascript Introduction](https://www.edx.org/course/javascript-introduction)
-* [EDX -- Building Interactive Prototypes using JavaScript](https://www.edx.org/course/building-interactive-prototypes-using-javascript-1)
-* [EDX -- Programming Web JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 * [**FREECODECAMP -- JAVASCRIPT**](https://learn.freecodecamp.org/)
-* [GFG -- JavaScript](https://www.geeksforgeeks.org/how-to-be-a-javascript-developer-without-knowing-javascript/)
-* [JAVATPOINT -- Javascript Tutorial](https://www.javatpoint.com/javascript-tutorial)
 * [**MDN -- JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [**SOLOLEARN -- JavaScript**](https://www.sololearn.com/Course/JavaScript/)
 * [**UDACITY -- INTRODUCTION TO JAVASCRIPT**](https://in.udacity.com/course/intro-to-javascript--ud803-india)
@@ -80,6 +70,16 @@ Soon you will get in correct order keep supporting till then follow bold ones
 * [**UDACITY -- JAVASCRIPT TESTING**](https://in.udacity.com/course/javascript-testing--ud549)
 * [**UDACITY -- OBJECT ORIENTED JS**](https://in.udacity.com/course/object-oriented-javascript--ud711)
 * [**UDACITY -- JAVASCRIPT AND THE DOM**](https://in.udacity.com/course/javascript-and-the-dom--ud117)
+* [**W3 SCHOOLS -- JavaScript**](https://www.w3schools.com/js/default.asp)
+* [CODEACADEMY -- Introduction To JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+* [DEVDOCS -- DOM](https://devdocs.io/dom/)
+* [DEVDOCS -- DOM EVENTS](https://devdocs.io/dom_events/)
+* [DEVDOCS -- Javascript - docs](https://devdocs.io/javascript/)
+* [EDX -- Javascript Introduction](https://www.edx.org/course/javascript-introduction)
+* [EDX -- Building Interactive Prototypes using JavaScript](https://www.edx.org/course/building-interactive-prototypes-using-javascript-1)
+* [EDX -- Programming Web JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
+* [GFG -- JavaScript](https://www.geeksforgeeks.org/how-to-be-a-javascript-developer-without-knowing-javascript/)
+* [JAVATPOINT -- Javascript Tutorial](https://www.javatpoint.com/javascript-tutorial)
 * [UDEMY -- Javascript Essentials](https://www.udemy.com/javascript-essentials/)
 * [UDEMY -- Learn to Program in Javascript: Beginner to Pro](https://www.udemy.com/programming-in-javascript/)
 * [UDEMY -- JavaScript Fundamentals](https://www.udemy.com/javascriptfundamentals/)
@@ -93,7 +93,6 @@ Soon you will get in correct order keep supporting till then follow bold ones
 * [UDEMY -- Ultimate JavaScript Strings](https://www.udemy.com/js-strings/)
 * [UDEMY -- ES6 JavaScript Reloaded](https://www.udemy.com/es6-javascript-reloaded/)
 * [UDEMY -- ES6 / EcmaScript Fast Crash Course](https://www.udemy.com/es6-ecmascript-6-for-beginners/)
-* [**W3 SCHOOLS -- JavaScript**](https://www.w3schools.com/js/default.asp)
 
 ### :rocket: Learning Repos
 
@@ -222,10 +221,14 @@ Soon you will get in correct order keep supporting till then follow bold ones
 
 ## JSON (JavaScript Object Notation)
 
+![json](logo/json.jpg)
+
 1. [JSON - W3 SCHOOLS](https://www.w3schools.com/js/js_json_intro.asp)
 2. [Json Tutorial](https://www.javatpoint.com/json-tutorial)
 
 ## AJAX (Asynchronous JavaScript AND XML)
+
+![ajax](logo/ajax.jpeg)
 
 1. [AJAX - W3 SCHOOLS](https://www.w3schools.com/js/js_ajax_intro.asp)
 2. [Asynchronous Programming JavaScript](https://www.edx.org/course/asynchronous-programming-javascript-1)
@@ -245,6 +248,8 @@ Soon you will get in correct order keep supporting till then follow bold ones
 * Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
   * [GITHUB](https://github.com/Microsoft/frontend-bootcamp)
   * [WEBSITE](https://microsoft.github.io/frontend-bootcamp/)
+
+![new framework is coming](logo/new.png)
 
 A - M Alphabets             | N - Z Alphabets
 --------------------------- | --------------------------

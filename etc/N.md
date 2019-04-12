@@ -228,6 +228,8 @@ Terminal task list
 
 npm is the package manager for JavaScript and the world’s largest software registry. Discover packages of reusable code — and assemble them in powerful new ways.
 
+![](/logo/npm.jpg)
+
 * [WEBSITE](https://www.npmjs.com/)
 * [DOCS](https://devdocs.io/npm/)
 * [Short id generator. Url-friendly. Non-predictable. Cluster-compatible](https://github.com/dylang/shortid)
