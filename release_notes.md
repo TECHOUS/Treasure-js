@@ -8,6 +8,7 @@ Version Released
 * Added react window
 * Added hygen
 * Added emuto
+* Added base ui in react
 
 ## PATCH 4.3.3
 

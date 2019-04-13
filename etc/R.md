@@ -103,6 +103,13 @@ A JavaScript library for building user interfaces
 * [React specific linting rules for ESLint](https://github.com/yannickcr/eslint-plugin-react)
 * [React and Express file uploader](https://github.com/bradtraversy/react_file_uploader)
 
+### BASE UI
+
+A React Component library implementing the Base design language
+
+* [GITHUB](https://github.com/uber-web/baseui)
+* [WEBSITE](https://baseweb.design/)
+
 ### CONSTATE
 
 Scalable state manager using React Hooks & Context
@@ -334,8 +341,6 @@ Integrate user-agent detection in an idiomatic React way
 
 * [GITHUB](https://github.com/quentin-sommer/react-useragent)
 * [WEBSITE](https://quentin-sommer.github.io/react-useragent/)
-
-
 
 ### REACT VIS
 
