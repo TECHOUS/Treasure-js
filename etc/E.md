@@ -33,6 +33,14 @@ Ember is a JavaScript front-end framework designed to help you build websites wi
 * [EMBER DECORATORS](https://github.com/ember-decorators/ember-decorators)
 * [EMBER AUTO IMPORT](https://github.com/ef4/ember-auto-import)
 
+## :rocket: EMUTO
+
+manipulate JSON files
+
+* [GITHUB](https://github.com/kantord/emuto)
+* [WEBSITE](https://kantord.github.io/emuto/)
+* [DOCS](https://kantord.github.io/emuto/docs/basic-filters)
+
 ## :rocket: EMOTION JS
 
 Emotion is a performant and flexible CSS-in-JS library

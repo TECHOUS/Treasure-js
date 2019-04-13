@@ -7,6 +7,7 @@ Version Released
 * Added etcher
 * Added react window
 * Added hygen
+* Added emuto
 
 ## PATCH 4.3.3
 
