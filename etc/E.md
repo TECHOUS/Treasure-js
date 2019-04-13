@@ -48,6 +48,13 @@ Javascript API for integration with EOSIO-based blockchains using EOSIO RPC API.
 * [GITHUB](https://github.com/EOSIO/eosjs)
 * [WEBSITE/DOCS](https://eosio.github.io/eosjs/)
 
+## :rocket: ETCHER
+
+Flash OS images to SD cards & USB drives, safely and easily.
+
+* [GITHUB](https://github.com/balena-io/etcher)
+* [WEBSITE](https://www.balena.io/etcher/)
+
 ## :rocket: EXPRESS JS
 
 Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.

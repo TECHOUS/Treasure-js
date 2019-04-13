@@ -4,6 +4,7 @@ Version Released
 
 * Added mikro orm
 * Added redis dump
+* Added etcher
 
 ## PATCH 4.3.3
 
