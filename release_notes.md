@@ -5,6 +5,7 @@ Version Released
 * Added mikro orm
 * Added redis dump
 * Added etcher
+* Added react window
 
 ## PATCH 4.3.3
 

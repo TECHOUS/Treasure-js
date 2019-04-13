@@ -222,6 +222,12 @@ Load data asynchronously into your React components. Works on both client and se
 
 * [GITHUB](https://github.com/davnicwil/react-frontload)
 
+### REACT HOOKS HELPER
+
+A custom React Hooks library that gives you custom hooks for your code.
+
+* [GITHUB](https://github.com/revelcw/react-hooks-helper)
+
 ### REACT LEAFLET JS
 
 React components for leaves Leaflet maps
@@ -329,11 +335,7 @@ Integrate user-agent detection in an idiomatic React way
 * [GITHUB](https://github.com/quentin-sommer/react-useragent)
 * [WEBSITE](https://quentin-sommer.github.io/react-useragent/)
 
-### REACT HOOKS HELPER
 
-A custom React Hooks library that gives you custom hooks for your code.
-
-* [GITHUB](https://github.com/revelcw/react-hooks-helper)
 
 ### REACT VIS
 
@@ -447,6 +449,13 @@ React components for efficiently rendering large lists and tabular data
 
 * [GITHUB](https://github.com/bvaughn/react-virtualized)
 * [WEBSITE](https://bvaughn.github.io/react-virtualized/#/components/List)
+
+### REACT WINDOW
+
+React components for efficiently rendering large lists and tabular data
+
+* [GITHUB](https://github.com/bvaughn/react-window)
+* [WEBSITE/DOCS](https://react-window.now.sh)
 
 ## :rocket: REDUX
 
