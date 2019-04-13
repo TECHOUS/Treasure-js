@@ -6,6 +6,7 @@ Version Released
 * Added redis dump
 * Added etcher
 * Added react window
+* Added hygen
 
 ## PATCH 4.3.3
 

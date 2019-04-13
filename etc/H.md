@@ -75,6 +75,14 @@ Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with
 
 * [GITHUB](https://github.com/developit/htm)
 
+## :rocket: HYGEN
+
+The simple, fast, and scalable code generator that lives in your project.
+
+* [GITHUB](https://github.com/jondot/hygen)
+* [WEBSITE](http://www.hygen.io/)
+* [DOCS](http://www.hygen.io/quick-start)
+
 ## :rocket: HYPERAPP
 
 1 kB JavaScript micro-framework for building declarative web applications
