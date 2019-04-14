@@ -211,6 +211,13 @@ Wrap react dom elements with Box2d physics engine
 
 * [GITHUB](https://github.com/oneto018/react-dom-box2d)
 
+### REACT DROPZONE JS
+
+Simple HTML5 drag-drop zone with React.js
+
+* [GITHUB](https://github.com/react-dropzone/react-dropzone)
+* [WEBSITE](https://react-dropzone.js.org/)
+
 ### REACT FACEBOOK LOGIN
 
 A Component React for Facebook Login
