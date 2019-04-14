@@ -10,6 +10,7 @@ Version Released
 * Added emuto
 * Added base ui in react
 * Added tough cookie
+* Added react image
 
 ## PATCH 4.3.3
 

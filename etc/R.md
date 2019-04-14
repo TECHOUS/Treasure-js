@@ -235,6 +235,12 @@ A custom React Hooks library that gives you custom hooks for your code.
 
 * [GITHUB](https://github.com/revelcw/react-hooks-helper)
 
+### REACT IMAGE
+
+React.js img tag rendering with multiple fallback & loader support
+
+* [GITHUB](https://github.com/mbrevda/react-image)
+
 ### REACT LEAFLET JS
 
 React components for leaves Leaflet maps
