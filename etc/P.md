@@ -20,6 +20,14 @@ Connect packages to your application with HMR and babel config
 
 * [GITHUB](https://github.com/interviewstreet/packagebind)
 
+## :rocket: PACKEM
+
+A precompiled JavaScript module bundler
+
+* [GITHUB](https://github.com/packem/packem)
+* [WEBSITE](https://packem.github.io/)
+* [DOCS](https://packem.github.io/docs/getting-started.html)
+
 ## :rocket: PAPAPARSE
 
 Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input

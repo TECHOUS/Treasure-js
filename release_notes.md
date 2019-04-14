@@ -12,6 +12,7 @@ Version Released
 * Added tough cookie
 * Added react image
 * Added react drop zone js
+* Added packem
 
 ## PATCH 4.3.3
 
