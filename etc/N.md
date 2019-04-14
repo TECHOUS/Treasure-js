@@ -212,6 +212,12 @@ tap-producing test harness for node and browsers
 
 * [GITHUB](https://github.com/substack/tape)
 
+### TOUGH COOKIE
+
+RFC6265 Cookies and CookieJar for Node.js
+
+* [GITHUB](https://github.com/salesforce/tough-cookie)
+
 ### JEX
 
 Jex is a Node.js module for building dynamic and static websites. It draws inspiration from Jekyll, a Ruby tool for creating static websites. Jekyll meets Express!

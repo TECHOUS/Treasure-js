@@ -30,6 +30,7 @@ A JavaScript library for training and deploying ML models in the browser and on 
 * [Tensorflow.js Explained](https://github.com/llSourcell/tensorflow.js_explained)
 * [Tensorflow in 7 minutes](https://medium.freecodecamp.org/get-to-know-tensorflow-js-in-7-minutes-afcd0dfd3d2f)
 * [TensorFlow.js Cheetsheet](https://towardsdatascience.com/50-tensorflow-js-api-explained-in-5-minutes-tensorflow-js-cheetsheet-4f8c7f9cc8b2)
+* [Pretrained models for TensorFlow.js](https://github.com/tensorflow/tfjs-models)
 
 ## :rocket: TERMYNAL
 

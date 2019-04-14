@@ -9,6 +9,7 @@ Version Released
 * Added hygen
 * Added emuto
 * Added base ui in react
+* Added tough cookie
 
 ## PATCH 4.3.3
 
