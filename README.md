@@ -241,6 +241,8 @@ Soon you will get in correct order keep supporting till then follow bold ones
 
 ## JavaScript Frameworks ,Libraries, Tools and Preprocessors (A - Z)
 
+* [Repository for the "Machine Learning for the Web" class at ITP, NYU](https://github.com/yining1023/machine-learning-for-the-web)
+* [2019 edition of our front-end development handbook](https://github.com/FrontendMasters/front-end-handbook-2019)
 * [2018 edition of our front-end development handbook](https://github.com/FrontendMasters/front-end-handbook-2018)
 * [Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
 * [The perfect Front-End Checklist for modern websites and meticulous developers](https://github.com/thedaviddias/Front-End-Checklist)

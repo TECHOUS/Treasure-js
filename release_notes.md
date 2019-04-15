@@ -2,6 +2,8 @@
 
 Version Released
 
+* Added playroom
+
 ## VERSION 4.4.0
 
 * Added mikro orm

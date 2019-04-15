@@ -67,6 +67,12 @@ Low friction JavaScript benchmarks that you can share via URL
 * [WEBSITE/DOCS](http://getpino.io/#/)
 * [A list of standard object serializers for the Pino logger](https://github.com/pinojs/pino-std-serializers)
 
+## :rocket: PLAYROOM
+
+Design with JSX, powered by your own component library.
+
+* [GITHUB](https://github.com/seek-oss/playroom)
+
 ## :rocket: PLOP JS
 
 Plop is what I like to call a "micro-generator framework." Now, I call it that because it is a small tool that gives you a simple way to generate code or any other type of flat text files in a consistent way. You see, we all create structures and patterns in our code (routes, controllers, components, helpers, etc). These patterns change and improve over time so when you need to create a NEW insert-name-of-pattern-here, it's not always easy to locate the files in your codebase that represent the current "best practice." That's where plop saves you. With plop, you have your "best practice" method of creating any given pattern in CODE. Code that can easily be run from the terminal by typing plop. Not only does this save you from hunting around in your codebase for the right files to copy, but it also turns "the right way" into "the easiest way" to make new files.
