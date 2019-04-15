@@ -14,6 +14,7 @@ Version Released
 * Added react drop zone js
 * Added packem
 * Added octotree
+* Added tv2
 
 ## PATCH 4.3.3
 

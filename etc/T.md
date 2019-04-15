@@ -90,6 +90,13 @@ Transform JS objects to get something useful
 * [GITHUB](https://github.com/transform-it/transform-www)
 * [WEBSITE](https://transform.now.sh/)
 
+## :rocket: TV2
+
+Use json-schema draft v4 to validate simple values and complex objects using a rich validation vocabulary (examples).
+
+* [GITHUB](https://github.com/geraintluff/tv4)
+* [WEBSITE](http://geraintluff.github.io/tv4/)
+
 ## :rocket: TWEEN JS
 
 Javascript tweening engine
