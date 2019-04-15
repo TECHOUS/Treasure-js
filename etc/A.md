@@ -14,6 +14,13 @@ a web framework for building virtual reality experiences
 * [WEBSITE](https://aframe.io/)
 * [DOCS](https://aframe.io/docs/0.8.0/introduction/)
 
+## :rocket: AJV JS
+
+The fastest JSON Schema Validator.
+
+* [GITHUB](https://github.com/epoberezkin/ajv)
+* [WEBSITE/DOCS](https://ajv.js.org/)
+
 ## :rocket: ALASQL JS
 
 AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel

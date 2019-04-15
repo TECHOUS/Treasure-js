@@ -15,6 +15,7 @@ Version Released
 * Added packem
 * Added octotree
 * Added tv2
+* Added ajv js
 
 ## PATCH 4.3.3
 
