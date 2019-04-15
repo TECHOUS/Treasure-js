@@ -167,6 +167,12 @@ A simple cron-like job scheduler for Node.js
 
 * [GITHUB](https://github.com/node-cron/node-cron)
 
+### NODE HTTPS PROXY AGENT
+
+An HTTP(s) proxy http.Agent implementation for HTTPS endpoints
+
+* [GITHUB](https://github.com/TooTallNate/node-https-proxy-agent)
+
 ### ORA
 
 Elegant terminal spinner

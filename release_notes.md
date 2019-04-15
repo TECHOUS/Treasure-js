@@ -2,6 +2,8 @@
 
 Version Released
 
+## VERSION 4.4.0
+
 * Added mikro orm
 * Added redis dump
 * Added etcher
@@ -16,6 +18,7 @@ Version Released
 * Added octotree
 * Added tv2
 * Added ajv js
+* Added https node proxy agent
 
 ## PATCH 4.3.3
 
