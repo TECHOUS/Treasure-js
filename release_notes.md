@@ -13,6 +13,7 @@ Version Released
 * Added react image
 * Added react drop zone js
 * Added packem
+* Added octotree
 
 ## PATCH 4.3.3
 
