@@ -106,6 +106,14 @@ Sortable — is a JavaScript library for reorderable drag-and-drop lists on mode
 * [GITHUB](https://github.com/SortableJS/Sortable)
 * [WEBSITE](https://sortablejs.github.io/Sortable/)
 
+## :rocket: SPECTACLE
+
+ReactJS based Presentation Library
+
+* [GITHUB](https://github.com/FormidableLabs/spectacle)
+* [WEBSITE](https://formidable.com/open-source/spectacle/)
+* [DOCS](https://formidable.com/open-source/spectacle/docs)
+
 ## :rocket: SQL JS
 
 SQLite compiled to JavaScript through Emscripten

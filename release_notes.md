@@ -6,6 +6,7 @@ Version Released
 * Added faker js
 * Added aos
 * Added node http mitm proxy
+* Added spectacle
 
 ## VERSION 4.4.0
 
