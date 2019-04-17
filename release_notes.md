@@ -3,6 +3,7 @@
 Version Released
 
 * Added playroom
+* Added faker js
 
 ## VERSION 4.4.0
 

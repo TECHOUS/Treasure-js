@@ -15,6 +15,12 @@ JavaScript API for face detection and face recognition in the browser and nodejs
 * [GITHUB](https://github.com/justadudewhohacks/face-api.js)
 * [DOCS](https://justadudewhohacks.github.io/face-api.js/docs/globals.html)
 
+## :rocket: FAKER JS
+
+generate massive amounts of realistic fake data in Node.js and the browser
+
+* [GITHUB](https://github.com/Marak/faker.js)
+
 ## :rocket: FASTEST-VALIDATOR
 
 The fastest JS validator library for NodeJS
