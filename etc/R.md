@@ -147,6 +147,12 @@ a react-based framework that provides accessibility, modularity, responsiveness,
 * [WEBSITE](https://v2.grommet.io/)
 * [DOCS](https://v2.grommet.io/components)
 
+### MOBX REACT LITE
+
+Lightweight React bindings for MobX based on React 16.8 and Hooks
+
+* [GITHUB](https://github.com/mobxjs/mobx-react-lite)
+
 ### LOADABLE COMPONENTS
 
 React code splitting made easy

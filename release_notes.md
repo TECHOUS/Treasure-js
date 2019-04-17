@@ -7,6 +7,7 @@ Version Released
 * Added aos
 * Added node http mitm proxy
 * Added spectacle
+* Added mobx react lite
 
 ## VERSION 4.4.0
 
