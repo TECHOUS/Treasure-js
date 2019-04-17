@@ -9,6 +9,7 @@ Version Released
 * Added spectacle
 * Added mobx react lite
 * Added just
+* Added content loader
 
 ## VERSION 4.4.0
 

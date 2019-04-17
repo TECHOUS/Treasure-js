@@ -206,6 +206,13 @@ React wrapper for Chart.js
 * [GITHUB](https://github.com/jerairrest/react-chartjs-2)
 * [WEBSITE](http://jerairrest.github.io/react-chartjs-2/)
 
+### REACT CONTENT LOADER
+
+SVG-Powered component to easily create placeholder loadings (like Facebook cards loading)
+
+* [GITHUB](https://github.com/danilowoz/react-content-loader)
+* [WEBSITE](http://danilowoz.com/create-content-loader/)
+
 ### REACT DEV TOOLS
 
 React Developer Tools lets you inspect the React component hierarchy, including component props and state.
