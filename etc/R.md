@@ -102,6 +102,7 @@ A JavaScript library for building user interfaces
 * [ReactJS project that 'compare' GitHub repositories :octocat:](https://github.com/gabriel-hahn/git-compare)
 * [React specific linting rules for ESLint](https://github.com/yannickcr/eslint-plugin-react)
 * [React and Express file uploader](https://github.com/bradtraversy/react_file_uploader)
+* [REACT 95](https://github.com/arturbien/React95)
 
 ### BASE UI
 
@@ -498,6 +499,7 @@ Predictable state container for JavaScript apps
 * [Enables simple, yet robust handling of async action creators in Redux](https://github.com/pburtchaell/redux-promise-middleware)
 * [Thunk middleware for Redux](https://github.com/reduxjs/redux-thunk)
 * [Predictable state container for JavaScript apps](https://github.com/reduxjs/redux)
+* [Logger for Redux](https://github.com/LogRocket/redux-logger)
 
 ### REDUX OBSERVABLE JS
 

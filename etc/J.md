@@ -72,3 +72,11 @@ JupyterLab computational environment.
 
 * [GITHUB](https://github.com/jupyterlab/jupyterlab)
 * [WEBSITE/DOCS](https://jupyterlab.readthedocs.io/en/stable/)
+
+## :rocket: JUST
+
+The task library that just works
+
+* [GITHUB](https://github.com/Microsoft/just)
+* [WEBSITE](https://microsoft.github.io/just/)
+* [DOCS](https://microsoft.github.io/just/docs/doc-start)

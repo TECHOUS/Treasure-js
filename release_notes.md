@@ -8,6 +8,7 @@ Version Released
 * Added node http mitm proxy
 * Added spectacle
 * Added mobx react lite
+* Added just
 
 ## VERSION 4.4.0
 
