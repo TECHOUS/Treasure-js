@@ -4,6 +4,7 @@ Version Released
 
 * Added playroom
 * Added faker js
+* Added aos
 
 ## VERSION 4.4.0
 

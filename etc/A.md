@@ -83,6 +83,13 @@ JavaScript Animation Engine
 * [DOCS](http://animejs.com/documentation/)
 * [INTRO TUTORIAL](https://www.youtube.com/watch?v=g7WnZ9hxUak)
 
+## :rocket: AOS
+
+Animate on scroll library
+
+* [GITHUB](https://github.com/michalsnik/aos)
+* [WEBSITE](http://michalsnik.github.io/aos/)
+
 ## :rocket: ASTROTURF
 
 astroturf lets you write CSS in your JavaScript files without adding any runtime layer, and with your existing CSS processing pipeline.
