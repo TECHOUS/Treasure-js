@@ -5,6 +5,7 @@ Version Released
 * Added playroom
 * Added faker js
 * Added aos
+* Added node http mitm proxy
 
 ## VERSION 4.4.0
 

@@ -167,6 +167,12 @@ A simple cron-like job scheduler for Node.js
 
 * [GITHUB](https://github.com/node-cron/node-cron)
 
+### NODE HTTP MITM PROXY
+
+HTTP Man In The Middle (MITM) Proxy
+
+* [GITHUB](https://github.com/joeferner/node-http-mitm-proxy)
+
 ### NODE HTTPS PROXY AGENT
 
 An HTTP(s) proxy http.Agent implementation for HTTPS endpoints
