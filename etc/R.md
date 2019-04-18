@@ -475,6 +475,13 @@ A React Native component which renders HTML content as native views
 
 * [GITHUB](https://github.com/jsdf/react-native-htmlview)
 
+### REACT NAVIGATION NATIVE
+
+React Native support for React Navigation
+
+* [GITHUB](https://github.com/react-navigation/react-navigation-native)
+* [DOCS](https://reactnavigation.org/docs/en/getting-started.html)
+
 ### REACT VIRTUALIZED
 
 React components for efficiently rendering large lists and tabular data

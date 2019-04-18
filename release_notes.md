@@ -12,6 +12,7 @@ Version Released
 * Added content loader
 * Added node json web token
 * Added onnx js
+* Added react navigation native
 
 ## VERSION 4.4.0
 
