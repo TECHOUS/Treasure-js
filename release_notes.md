@@ -11,6 +11,7 @@ Version Released
 * Added just
 * Added content loader
 * Added node json web token
+* Added onnx js
 
 ## VERSION 4.4.0
 

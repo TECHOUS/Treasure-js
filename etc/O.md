@@ -7,6 +7,13 @@ GitHub code tree on steroids
 * [GITHUB](https://github.com/ovity/octotree)
 * [WEBSITE](https://www.octotree.io/)
 
+## :rocket: ONNX JS
+
+ONNX.js: run ONNX models using JavaScript
+
+* [GITHUB](https://github.com/Microsoft/onnxjs)
+* [demos to show the capabilities of ONNX.js](https://github.com/Microsoft/onnxjs-demo)
+
 ## :rocket: OpenZeppelin
 
 OpenZeppelin is a library for secure smart contract development
