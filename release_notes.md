@@ -10,6 +10,7 @@ Version Released
 * Added mobx react lite
 * Added just
 * Added content loader
+* Added node json web token
 
 ## VERSION 4.4.0
 

@@ -179,6 +179,13 @@ An HTTP(s) proxy http.Agent implementation for HTTPS endpoints
 
 * [GITHUB](https://github.com/TooTallNate/node-https-proxy-agent)
 
+### NODE JSON WEB TOKEN
+
+JsonWebToken implementation for node.js
+
+* [GITHUB](https://github.com/auth0/node-jsonwebtoken)
+* [WEBSITE/DOCS](http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html)
+
 ### ORA
 
 Elegant terminal spinner
