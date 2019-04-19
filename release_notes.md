@@ -15,6 +15,7 @@ Version Released
 * Added react navigation native
 * Added lago
 * Added glicky
+* Added chai js
 
 ## VERSION 4.4.0
 

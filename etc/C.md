@@ -23,6 +23,14 @@ Fake data generator for javascript
 
 * [GITHUB/DOCS](https://github.com/boo1ean/casual)
 
+## :rocket: CHAI JS
+
+BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework
+
+* [GITHUB](https://github.com/chaijs/chai)
+* [WEBSITE](https://www.chaijs.com/)
+* [DOCS](https://www.chaijs.com/guide/)
+
 ## :rocket: CHART JS
 
 Simple HTML5 Charts using the canvas tag
