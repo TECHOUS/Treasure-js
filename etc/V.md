@@ -76,3 +76,4 @@ A progressive, incrementally-adoptable JavaScript framework for building UI on t
 * [Use dynamic styles in Vue single-file components.](https://github.com/egoist/styled-vue)
 * [vue-clipboard clipboard directly for Vue.js](https://github.com/xiaokaike/vue-clipboard)
 * [A qrcode component for use with Vue.](https://github.com/xiaokaike/vue-qrcode)
+* [Build fast rocket and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.](https://github.com/salomonelli/best-resume-ever)

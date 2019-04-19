@@ -13,6 +13,7 @@ Version Released
 * Added node json web token
 * Added onnx js
 * Added react navigation native
+* Added lago
 
 ## VERSION 4.4.0
 
