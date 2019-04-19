@@ -14,6 +14,7 @@ Version Released
 * Added onnx js
 * Added react navigation native
 * Added lago
+* Added glicky
 
 ## VERSION 4.4.0
 

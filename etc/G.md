@@ -21,6 +21,12 @@ Get an available port
 
 * [GITHUB](https://github.com/sindresorhus/get-port)
 
+## :rocket: GLICKY
+
+An in-browser task runner for modern web development
+
+* [GITHUB](https://github.com/alex-saunders/glicky)
+
 ## :rocket: GOT
 
 Got is a human-friendly and powerful HTTP request library.

@@ -97,6 +97,8 @@ Soon you will get in correct order keep supporting till then follow bold ones
 
 ### :rocket: Learning Repos
 
+* [collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book](https://github.com/loiane/javascript-datastructures-algorithms)
+* [JavaScript implementation of different computer science algorithms.](https://github.com/mgechev/javascript-algorithms)
 * [Algorithms resolution in Javascript. Leetcode - Geeksforgeeks - Careercup](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript)
 * [30 SECONDS OF CODE](https://github.com/30-seconds/30-seconds-of-code)
 * [33 JS CONCEPTS](https://github.com/leonardomso/33-js-concepts)
