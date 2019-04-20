@@ -2,6 +2,8 @@
 
 Version Released
 
+* Added react onclick outside
+
 ## VERSION 4.5.0
 
 * Added playroom
@@ -38,11 +40,11 @@ Version Released
 * Added ajv js
 * Added https node proxy agent
 
-## PATCH 4.3.3
+### PATCH 4.3.3
 
 * Updated structure
 
-## PATCH 4.3.2
+### PATCH 4.3.2
 
 * Added memes
 

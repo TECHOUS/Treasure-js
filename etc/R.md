@@ -299,6 +299,12 @@ React Navigation is born from the React Native community's need for an extensibl
 * [WEBSITE](https://reactnavigation.org/docs/en/getting-started.html)
 * [DOCS](https://reactnavigation.org/docs/en/getting-started.html)
 
+### REACT ONCLICK OUTSIDE
+
+An onClickOutside wrapper for React components
+
+* [GITHUB](https://github.com/Pomax/react-onclickoutside)
+
 ### REACT PROP TYPES
 
 Parses React prop-types into a readable object
