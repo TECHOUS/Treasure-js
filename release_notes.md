@@ -2,6 +2,8 @@
 
 Version Released
 
+## VERSION 4.5.0
+
 * Added playroom
 * Added faker js
 * Added aos
@@ -16,8 +18,9 @@ Version Released
 * Added lago
 * Added glicky
 * Added chai js
+* Added await to js
 
-## VERSION 4.4.0
+### VERSION 4.4.0
 
 * Added mikro orm
 * Added redis dump

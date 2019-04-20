@@ -2,7 +2,7 @@
     <img src="logo/third.ico" alt="treasure logo"/>
     <h1 align="center">TREASURE JS</h1>
     <h4 align="center"><cite>A <u>JavaScript WikiPedia</u> for GitHub</cite></h4>
-    <h4 align="right"><a href="https://github.com/TechOUs/Treasurejs-logo">LOGO</a> | <a href="https://github.com/TechOUs/treasurejs.github.io">WEBSITE</a> | <a href="https://github.com/TechOUs/Treasure-js/releases">VERSION 4.4.0</a></h4>
+    <h4 align="right"><a href="https://github.com/TechOUs/Treasurejs-logo">LOGO</a> | <a href="https://github.com/TechOUs/treasurejs.github.io">WEBSITE</a> | <a href="https://github.com/TechOUs/Treasure-js/releases">VERSION 4.5.0</a></h4>
 </p>
 
 A **Wikipedia for JavaScript** Here you will get the treasure of links and findings of JavaScript and its extensions(Frameworks,Libraries,usage,etc.).
@@ -148,6 +148,7 @@ Soon you will get in correct order keep supporting till then follow bold ones
 * [ESLint rules to ensure proper arrow function definitions](https://github.com/getify/eslint-plugin-proper-arrows)
 * [Simple & light weight (2kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!](https://github.com/alexfoxy/laxxx)
 * [A zooming and panning plugin inspired by google photos for your web images.](https://github.com/s-yadav/iv-viewer)
+* [Simplifies creation of HTML files to serve your webpack bundles](https://github.com/jantimon/html-webpack-plugin)
 
 ### :rocket: PWA - Progressive Web Apps
 

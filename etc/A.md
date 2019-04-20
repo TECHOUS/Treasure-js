@@ -111,3 +111,10 @@ The aurelia framework brings together all the required core aurelia libraries in
 * [GITHUB](https://github.com/aurelia/framework)
 * [WEBSITE](https://aurelia.io/)
 * [DOCS](https://aurelia.io/docs)
+
+## :rocket: AWAIT-TO-JS
+
+Async await wrapper for easy error handling without try-catch
+
+* [GITHUB](https://github.com/scopsy/await-to-js)
+* [BLOG](https://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
