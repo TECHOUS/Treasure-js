@@ -6,6 +6,7 @@ Version Released
 * Added light my request
 * Added fastify
 * Added taro js
+* Added nerv js
 
 ## VERSION 4.5.0
 

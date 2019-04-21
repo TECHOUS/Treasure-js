@@ -6,12 +6,13 @@ general natural language facilities for node
 
 * [GITHUB/DOCS](https://github.com/NaturalNode/natural)
 
-## :rocket: NETSCOPE
+## :rocket: NERV JS
 
-A web-based tool for visualizing neural network topologies
+A blazing fast React alternative, compatible with IE8 and React 16
 
-* [GITHUB](https://github.com/ethereon/netscope)
-* [WEBSITE](http://ethereon.github.io/netscope/quickstart.html)
+* [GITHUB](https://github.com/NervJS/nerv)
+* [WEBSITE](https://nerv.aotu.io/)
+* [INFO](https://github.com/NervJS/nerv/wiki/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E8%BF%98%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AA-React-like-%E6%A1%86%E6%9E%B6%EF%BC%9F)
 
 ## :rocket: NEST JS
 
@@ -20,6 +21,13 @@ A progressive Node.js framework for building efficient, scalable, and enterprise
 * [GITHUB](https://github.com/nestjs/nest)
 * [WEBSITE](https://nestjs.com/)
 * [DOCS](https://docs.nestjs.com/)
+
+## :rocket: NETSCOPE
+
+A web-based tool for visualizing neural network topologies
+
+* [GITHUB](https://github.com/ethereon/netscope)
+* [WEBSITE](http://ethereon.github.io/netscope/quickstart.html)
 
 ## :rocket: NEXT JS
 
