@@ -7,6 +7,14 @@ A streaming layout service for front-end microservices
 * [GITHUB](https://github.com/zalando/tailor)
 * [WEBSITE](https://www.mosaic9.org/)
 
+## :rocket: TARO JS
+
+A multi-end unified development framework that supports writing code once in React's development method, and generates applications that can run on WeChat/Baidu/Alibaba/Byte Beat applet, H5, React Native, etc.
+
+* [GITHUB](https://github.com/NervJS/taro)
+* [WEBSITE](https://taro.js.org/)
+* [DOCS](https://nervjs.github.io/taro/docs/README.html)
+
 ## :rocket: TASKBOOK
 
 Tasks, boards & notes for the command-line habitat

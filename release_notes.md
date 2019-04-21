@@ -5,6 +5,7 @@ Version Released
 * Added react onclick outside
 * Added light my request
 * Added fastify
+* Added taro js
 
 ## VERSION 4.5.0
 
