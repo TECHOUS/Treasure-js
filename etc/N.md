@@ -1,5 +1,13 @@
 # N
 
+## :rocket: NATIVE SCRIPT
+
+NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
+
+* [GITHUB](https://github.com/NativeScript/NativeScript)
+* [WEBSITE](https://www.nativescript.org/)
+* [DOCS](https://docs.nativescript.org/)
+
 ## :rocket: NATURAL
 
 general natural language facilities for node

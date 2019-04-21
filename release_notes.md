@@ -7,6 +7,7 @@ Version Released
 * Added fastify
 * Added taro js
 * Added nerv js
+* Added nativescript
 
 ## VERSION 4.5.0
 
