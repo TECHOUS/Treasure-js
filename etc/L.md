@@ -32,6 +32,13 @@ A tool for managing JavaScript projects with multiple packages.
 * [GITHUB](https://github.com/lerna/lerna)
 * [WEBSITE/DOCS](https://lernajs.io/)
 
+## :rocket: LIGHT MY REQUEST
+
+Fake HTTP injection library
+
+* [GITHUB](https://github.com/fastify/light-my-request)
+* [session plugin for fastify](https://github.com/SerayaEryn/fastify-session)
+
 ## :rocket: LINARIA
 
 Write CSS in JS and get real CSS files during build. Use dynamic prop based styles with the React bindings and have them transpiled to CSS variables automatically. Great productivity with source maps and linting support.

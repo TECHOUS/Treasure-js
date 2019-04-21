@@ -3,6 +3,8 @@
 Version Released
 
 * Added react onclick outside
+* Added light my request
+* Added fastify
 
 ## VERSION 4.5.0
 
