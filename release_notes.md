@@ -9,6 +9,7 @@ Version Released
 * Added nerv js
 * Added nativescript
 * Added react fiber
+* Added tool
 
 ## VERSION 4.5.0
 
