@@ -8,6 +8,7 @@ Version Released
 * Added taro js
 * Added nerv js
 * Added nativescript
+* Added react fiber
 
 ## VERSION 4.5.0
 

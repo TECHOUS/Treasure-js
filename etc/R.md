@@ -238,6 +238,12 @@ A Component React for Facebook Login
 
 * [GITHUB/DOCS](https://github.com/keppelen/react-facebook-login)
 
+### REACT FIBER
+
+A description of React's new core algorithm, React Fiber
+
+* [GITHUB](https://github.com/acdlite/react-fiber-architecture)
+
 ### REACT FLIP TOOLKIT
 
 A utility library for highly configurable layout transitions
