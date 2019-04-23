@@ -10,6 +10,7 @@ Version Released
 * Added nativescript
 * Added react fiber
 * Added tool
+* Added react window
 
 ## VERSION 4.5.0
 

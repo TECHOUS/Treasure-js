@@ -388,6 +388,13 @@ Data Visualization Components
 * [GITHUB](https://github.com/uber/react-vis)
 * [WEBSITE](https://uber.github.io/react-vis/)
 
+### REACT WINDOW
+
+React components for efficiently rendering large lists and tabular data
+
+* [GITHUB](https://github.com/bvaughn/react-window)
+* [WEBSITE](https://react-window.now.sh/)
+
 ### REACT JS SAMPLES
 
 * [MyReads Project](https://github.com/Decoys-out/MyReads-UDACITY-React)
