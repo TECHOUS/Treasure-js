@@ -97,6 +97,7 @@ Soon you will get in correct order keep supporting till then follow bold ones
 
 ### :rocket: Learning Repos
 
+* [Data Structures and Algorithms explained and implemented in JavaScript](https://github.com/amejiarosario/dsa.js)
 * [collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book](https://github.com/loiane/javascript-datastructures-algorithms)
 * [JavaScript implementation of different computer science algorithms.](https://github.com/mgechev/javascript-algorithms)
 * [Algorithms resolution in Javascript. Leetcode - Geeksforgeeks - Careercup](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript)

@@ -35,6 +35,13 @@ Fast and low overhead web framework, for Node.js
 * [WEBSITE](https://www.fastify.io/)
 * [DOCS](https://www.fastify.io/docs/latest/)
 
+## :rocket: FAYE
+
+Simple pub/sub messaging for the web
+
+* [GITHUB](https://github.com/faye/faye)
+* [WEBSITE](https://faye.jcoglan.com/)
+
 ## :rocket: FBT
 
 FBT is a framework for internationalizing user interfaces. It is designed to be not only powerful and flexible, but also simple and intuitive. Getting grammatically correct translated texts in dynamic applications is hard.

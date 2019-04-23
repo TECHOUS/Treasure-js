@@ -11,6 +11,7 @@ Version Released
 * Added react fiber
 * Added tool
 * Added react window
+* Added faye
 
 ## VERSION 4.5.0
 
