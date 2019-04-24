@@ -12,6 +12,7 @@ Version Released
 * Added tool
 * Added react window
 * Added faye
+* Added svelte js
 
 ## VERSION 4.5.0
 
