@@ -77,3 +77,11 @@ A progressive, incrementally-adoptable JavaScript framework for building UI on t
 * [vue-clipboard clipboard directly for Vue.js](https://github.com/xiaokaike/vue-clipboard)
 * [A qrcode component for use with Vue.](https://github.com/xiaokaike/vue-qrcode)
 * [Build fast rocket and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.](https://github.com/salomonelli/best-resume-ever)
+
+## :rocket: VUETIFY JS
+
+Material Component Framework for Vue.js 2
+
+* [GITHUB]( Material Component Framework for Vue.js 2)
+* [WEBSITE](https://vuetifyjs.com/en/)
+* [DOCS](https://vuetifyjs.com/en/getting-started/quick-start)

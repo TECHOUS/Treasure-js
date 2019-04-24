@@ -13,6 +13,7 @@ Version Released
 * Added react window
 * Added faye
 * Added svelte js
+* Added vuetify js
 
 ## VERSION 4.5.0
 
