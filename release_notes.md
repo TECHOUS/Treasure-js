@@ -15,6 +15,7 @@ Version Released
 * Added svelte js
 * Added vuetify js
 * Added autosize
+* Added react lifecycle visualizer
 
 ## VERSION 4.5.0
 

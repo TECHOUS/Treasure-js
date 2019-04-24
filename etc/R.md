@@ -276,6 +276,13 @@ React components for leaves Leaflet maps
 * [WEBSITE](https://react-leaflet.js.org/)
 * [DOCS](https://react-leaflet.js.org/docs/en/components.html)
 
+### REACT LIFECYCLE VISUALIZER
+
+Real-time visualizer for React lifecycle methods
+
+* [GITHUB](https://github.com/Oblosys/react-lifecycle-visualizer)
+* [WEBSITE](https://stackblitz.com/github/Oblosys/react-lifecycle-visualizer/tree/master/examples/parent-child-demo?file=src/samples/New.js)
+
 ### REACT LOOPS
 
 React Loops works with React Hooks as part of the React Velcro Architecture
