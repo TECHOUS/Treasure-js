@@ -112,6 +112,13 @@ The aurelia framework brings together all the required core aurelia libraries in
 * [WEBSITE](https://aurelia.io/)
 * [DOCS](https://aurelia.io/docs)
 
+## :rocket: AUTOSIZE
+
+Autosize is a small, stand-alone script to automatically adjust textarea height to fit text.
+
+* [GITHUB](https://github.com/jackmoore/autosize)
+* [WEBSITE](http://www.jacklmoore.com/autosize/)
+
 ## :rocket: AWAIT-TO-JS
 
 Async await wrapper for easy error handling without try-catch

@@ -14,6 +14,7 @@ Version Released
 * Added faye
 * Added svelte js
 * Added vuetify js
+* Added autosize
 
 ## VERSION 4.5.0
 
