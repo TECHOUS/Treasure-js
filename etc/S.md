@@ -176,6 +176,11 @@ Open source Node.js Headless CMS to easily build customisable APIs
 * [WEBSITE](https://strapi.io/)
 * [DOCS](https://strapi.io/documentation/3.x.x/getting-started/introduction.html)
 
+## :rocket: STYLED SPINKIT
+
+* [GITHUB](https://github.com/akameco/styled-spinkit)
+* [WEBSITE](https://akameco.github.io/styled-spinkit/)
+
 ## :rocket: SUPERTEST
 
 Super-agent driven library for testing node.js HTTP servers using a fluent API

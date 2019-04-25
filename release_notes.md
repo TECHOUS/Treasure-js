@@ -2,6 +2,10 @@
 
 Version Released
 
+* Added styled SPINKIT
+
+## VERSION 4.6.0
+
 * Added react onclick outside
 * Added light my request
 * Added fastify
@@ -18,7 +22,7 @@ Version Released
 * Added react lifecycle visualizer
 * Added flowpoints ml
 
-## VERSION 4.5.0
+### VERSION 4.5.0
 
 * Added playroom
 * Added faker js
