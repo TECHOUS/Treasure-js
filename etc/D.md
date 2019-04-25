@@ -48,6 +48,13 @@ Modern JavaScript date utility library: date-fns provides the most comprehensive
 * [WEBSITE](https://date-fns.org/)
 * [DOCS](https://date-fns.org/docs/Getting-Started)
 
+## :rocket: DENO
+
+A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio
+
+* [GITHUB](https://github.com/denoland/deno)
+* [WEBSITE](https://deno.land/)
+
 ## :rocket: DISCORD JS
 
 A powerful JavaScript library for interacting with the Discord API

@@ -8,6 +8,7 @@ Version Released
 * Added deskgap in node js
 * Added quicklink
 * Added esm
+* Added deno
 
 ## VERSION 4.6.0
 
