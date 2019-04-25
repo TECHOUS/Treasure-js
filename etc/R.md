@@ -434,6 +434,13 @@ React-Static is a fast, lightweight, and powerful framework for building static-
 
 * [GITHUB](https://github.com/nozzle/react-static)
 
+#### REACT STAR RATING COMPONENT
+
+Basic React component for star (or any other icon based) rating elements
+
+* [GITHUB](https://github.com/voronianski/react-star-rating-component)
+* [WEBSITE](http://voronianski.github.io/react-star-rating-component/example/)
+
 #### REACT TREEBEARD
 
 React Tree View Component. Data-Driven, Fast, Efficient and Customisable.

@@ -3,6 +3,7 @@
 Version Released
 
 * Added styled SPINKIT
+* Added react star rating component
 
 ## VERSION 4.6.0
 
