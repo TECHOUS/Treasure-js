@@ -16,6 +16,7 @@ Version Released
 * Added vuetify js
 * Added autosize
 * Added react lifecycle visualizer
+* Added flowpoints ml
 
 ## VERSION 4.5.0
 

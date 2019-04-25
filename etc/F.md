@@ -100,6 +100,11 @@ A desktop debugging platform for mobile developers.
 * [WEBSITE](https://fbflipper.com/)
 * [DOCS](https://fbflipper.com/docs/understand.html)
 
+## :rocket: FLOWPOINTS ML
+
+* [GITHUB](https://github.com/mariusbrataas/flowpoints_ml)
+* [WEBSITE](https://mariusbrataas.github.io/flowpoints_ml/)
+
 ## :rocket: FRINT JS
 
 Modular JavaScript framework for building scalable and reactive applications
