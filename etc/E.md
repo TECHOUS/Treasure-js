@@ -56,6 +56,12 @@ Javascript API for integration with EOSIO-based blockchains using EOSIO RPC API.
 * [GITHUB](https://github.com/EOSIO/eosjs)
 * [WEBSITE/DOCS](https://eosio.github.io/eosjs/)
 
+## :rocket: ESM
+
+The brilliantly simple, babel-less, bundle-less ECMAScript module loader.
+
+* [GITHUB](https://github.com/standard-things/esm)
+
 ## :rocket: ETCHER
 
 Flash OS images to SD cards & USB drives, safely and easily.

@@ -7,6 +7,7 @@ Version Released
 * Added neutralino js
 * Added deskgap in node js
 * Added quicklink
+* Added esm
 
 ## VERSION 4.6.0
 
