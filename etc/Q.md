@@ -15,3 +15,9 @@ Build responsive Single Page Apps, SSR Apps, PWAs, Hybrid Mobile Apps and Electr
 * [GITHUB](https://github.com/quasarframework/quasar)
 * [WEBSITE](https://quasar-framework.org/)
 * [DOCS](https://quasar-framework.org/guide/)
+
+## :rocket: QUICKLINK
+
+Faster subsequent page-loads by prefetching in-viewport links during idle time
+
+* [GITHUB](https://github.com/GoogleChromeLabs/quicklink)

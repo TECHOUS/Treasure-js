@@ -6,6 +6,7 @@ Version Released
 * Added react star rating component
 * Added neutralino js
 * Added deskgap in node js
+* Added quicklink
 
 ## VERSION 4.6.0
 
