@@ -4,6 +4,7 @@ Version Released
 
 * Added styled SPINKIT
 * Added react star rating component
+* Added neutralino js
 
 ## VERSION 4.6.0
 

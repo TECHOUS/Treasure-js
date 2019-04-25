@@ -30,6 +30,14 @@ A progressive Node.js framework for building efficient, scalable, and enterprise
 * [WEBSITE](https://nestjs.com/)
 * [DOCS](https://docs.nestjs.com/)
 
+## :rocket: NEUTRALINO JS
+
+Portable and lightweight cross platform application development framework
+
+* [GITHUB](https://github.com/neutralinojs/neutralinojs)
+* [WEBSITE](https://neutralino.js.org/)
+* [DOCS](https://neutralino.js.org/docs/#/)
+
 ## :rocket: NETSCOPE
 
 A web-based tool for visualizing neural network topologies
