@@ -150,6 +150,14 @@ Override webpack configurations for create-react-app 2.0
 
 * [GITHUB](https://github.com/arackaf/customize-cra)
 
+### DESKGAP
+
+A cross-platform desktop app framework based on Node.js and the system webview
+
+* [GITHUB](https://github.com/patr0nus/DeskGap)
+* [WEBSITE](https://deskgap.com/)
+* [DOCS](https://deskgap.com/#documentation)
+
 ### DOTENV-SAFE
 
 Load environment variables from .env and ensure they are all present

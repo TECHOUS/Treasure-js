@@ -5,6 +5,7 @@ Version Released
 * Added styled SPINKIT
 * Added react star rating component
 * Added neutralino js
+* Added deskgap in node js
 
 ## VERSION 4.6.0
 
