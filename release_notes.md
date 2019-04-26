@@ -9,6 +9,7 @@ Version Released
 * Added quicklink
 * Added esm
 * Added deno
+* Added xstate js
 
 ## VERSION 4.6.0
 

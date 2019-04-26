@@ -19,6 +19,13 @@ XRegExp provides augmented (and extensible) JavaScript regular expressions. You 
 * [GITHUB](https://github.com/slevithan/xregexp)
 * [WEBSITE/DOCS](http://xregexp.com/)
 
+## :rocket: XSTATE JS
+
+State machines and statecharts for the modern web.
+
+* [GITHUB](https://github.com/davidkpiano/xstate)
+* [WEBSITE/DOCS](https://xstate.js.org/docs/)
+
 ## :rocket: XTERM JS
 
 Xterm.js is a front-end component written in TypeScript that lets applications bring fully-featured terminals to their users in the browser.
