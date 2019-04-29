@@ -13,6 +13,7 @@ Version Released
 * Added ice
 * Added flickity
 * Added react sortable js
+* Added bento starter
 
 ## FIXES 4.6.1
 

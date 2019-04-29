@@ -27,6 +27,14 @@ Backbone.js gives structure to web applications by providing models with key-val
 * [LEARN BACKBONE JS](https://in.udacity.com/course/learn-backbonejs--ud990)
 * [DOCS](https://devdocs.io/backbone/)
 
+## :rocket: BENTO STARTER
+
+Full-Stack solution to quickly build PWA applications
+
+* [GITHUB](https://github.com/kefranabg/bento-starter)
+* [WEBSITE](https://bento-starter.firebaseapp.com/home)
+* [DOCS](https://bento-starter.netlify.com/)
+
 ## :rocket: BLISSFUL JS
 
 Want to use Vanilla JS but find native APIs a bit unwieldy? Bliss is for you
