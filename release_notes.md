@@ -10,6 +10,7 @@ Version Released
 * Added esm
 * Added deno
 * Added xstate js
+* Added ice
 
 ## VERSION 4.6.0
 
