@@ -11,6 +11,7 @@ Version Released
 * Added deno
 * Added xstate js
 * Added ice
+* Added flickity
 
 ## VERSION 4.6.0
 

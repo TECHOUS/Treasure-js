@@ -84,6 +84,14 @@ lightweight, powerful javascript datetimepicker with no dependencies
 * [GITHUB](https://github.com/flatpickr/flatpickr)
 * [WEBSITE/DOCS](https://flatpickr.js.org/)
 
+## :rocket: FLICKITY
+
+Touch, responsive, flickable carousels
+
+* [GITHUB](Touch, responsive, flickable carousels)
+* [WEBSITE](https://flickity.metafizzy.co/)
+* [DOCS](https://flickity.metafizzy.co/api.html)
+
 ## :rocket: FLIP JS
 
 A helper library for doing FLIP animations.
