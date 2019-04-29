@@ -14,7 +14,11 @@ Version Released
 * Added flickity
 * Added react sortable js
 
-## VERSION 4.6.0
+## FIXES 4.6.1
+
+* Fixed duplicate react window heading
+
+### VERSION 4.6.0
 
 * Added react onclick outside
 * Added light my request
