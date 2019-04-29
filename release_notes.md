@@ -12,6 +12,7 @@ Version Released
 * Added xstate js
 * Added ice
 * Added flickity
+* Added react sortable js
 
 ## VERSION 4.6.0
 

@@ -428,6 +428,13 @@ You can check inside your component, for example, if user's window is less than 
 
 * [GITHUB](https://github.com/renatorib/react-sizes)
 
+### REACT SORTABLE JS
+
+A React component built on top of Sortable
+
+* [GITHUB](https://github.com/SortableJS/react-sortablejs)
+* [WEBSITE](http://sortablejs.github.io/react-sortablejs/)
+
 ### REACT STATIC
 
 React-Static is a fast, lightweight, and powerful framework for building static-progressive React applications and websites. It's been carefully designed to meet the highest standards of static-site performance, and user/developer experience.
