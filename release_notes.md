@@ -15,6 +15,7 @@ Version Released
 * Added react sortable js
 * Added bento starter
 * Added tesseract js
+* Added reach ui
 
 ## FIXES 4.6.1
 
