@@ -52,6 +52,14 @@ JavaScript parser, mangler, optimizer and beautifier toolkit for ES6+
 
 * [GITHUB/DOCS](https://github.com/terser-js/terser)
 
+## :rocket: TESSERACT JS
+
+Pure Javascript OCR for 62 Languages
+
+* [GITHUB](https://github.com/naptha/tesseract.js)
+* [WEBSITE](http://tesseract.projectnaptha.com/)
+* [DOCS](https://github.com/naptha/tesseract.js#tesseractjs)
+
 ## :rocket: TETHER
 
 Tether is a small, focused JavaScript library for defining and managing the position of user interface (UI) elements in relation to one another on a web page. It is a tool for web developers building features that require certain UI elements to be precisely positioned based on the location of another UI element.

@@ -14,6 +14,7 @@ Version Released
 * Added flickity
 * Added react sortable js
 * Added bento starter
+* Added tesseract js
 
 ## FIXES 4.6.1
 
