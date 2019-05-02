@@ -74,6 +74,14 @@ Build responsive, mobile-first projects on the web with the world's most popular
 * [Bootstrap Tutorial](https://www.javatpoint.com/bootstrap-tutorial)
 * [BootstrapVue provides one of the most comprehensive implementations of Bootstrap 4 components and grid system for Vue.js and with extensive and automated WAI-ARIA accessibility markup.](https://github.com/bootstrap-vue/bootstrap-vue)
 
+## :rocket: BOOTSTRAP VUE JS
+
+BootstrapVue, with over 40 plugins and more than 75 components, provides one of the most comprehensive implementations of Bootstrap 4 components and grid system for Vue.js and with extensive and automated WAI-ARIA accessibility markup
+
+* [GITHUB](https://github.com/bootstrap-vue/bootstrap-vue)
+* [WEBSITE](https://bootstrap-vue.js.org/)
+* [DOCS](https://bootstrap-vue.js.org/docs)
+
 ## :rocket: BRAIN JS
 
 Neural networks in JavaScript

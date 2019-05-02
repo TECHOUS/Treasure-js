@@ -2,7 +2,7 @@
     <img src="logo/third.ico" alt="treasure logo"/>
     <h1 align="center">TREASURE JS</h1>
     <h4 align="center"><cite>A <u>JavaScript WikiPedia</u> for GitHub</cite></h4>
-    <h4 align="right"><a href="https://github.com/TechOUs/Treasurejs-logo">LOGO</a> | <a href="https://github.com/TechOUs/treasurejs.github.io">WEBSITE</a> | <a href="https://github.com/TechOUs/Treasure-js/releases">VERSION 4.6.1</a></h4>
+    <h4 align="right"><a href="https://github.com/TechOUs/Treasurejs-logo">LOGO</a> | <a href="https://github.com/TechOUs/treasurejs.github.io">WEBSITE</a> | <a href="https://github.com/TechOUs/Treasure-js/releases">VERSION 4.7.0</a></h4>
 </p>
 
 A **Wikipedia for JavaScript** Here you will get the treasure of links and findings of JavaScript and its extensions(Frameworks,Libraries,usage,etc.).
@@ -97,6 +97,7 @@ Soon you will get in correct order keep supporting till then follow bold ones
 
 ### :rocket: Learning Repos
 
+* [Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore](https://github.com/yangshun/front-end-interview-handbook)
 * [Data Structures and Algorithms explained and implemented in JavaScript](https://github.com/amejiarosario/dsa.js)
 * [collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book](https://github.com/loiane/javascript-datastructures-algorithms)
 * [JavaScript implementation of different computer science algorithms.](https://github.com/mgechev/javascript-algorithms)

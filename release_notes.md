@@ -2,6 +2,8 @@
 
 Version Released
 
+## VERSION 4.7.0
+
 * Added styled SPINKIT
 * Added react star rating component
 * Added neutralino js
@@ -16,8 +18,9 @@ Version Released
 * Added bento starter
 * Added tesseract js
 * Added reach ui
+* Added bootstrap vue js
 
-## FIXES 4.6.1
+### FIXES 4.6.1
 
 * Fixed duplicate react window heading
 
