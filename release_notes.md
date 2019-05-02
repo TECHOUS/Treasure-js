@@ -2,6 +2,8 @@
 
 Version Released
 
+* Added flow
+
 ## VERSION 4.7.0
 
 * Added styled SPINKIT

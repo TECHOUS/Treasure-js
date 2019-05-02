@@ -108,6 +108,14 @@ A desktop debugging platform for mobile developers.
 * [WEBSITE](https://fbflipper.com/)
 * [DOCS](https://fbflipper.com/docs/understand.html)
 
+## :rocket: FLOW
+
+Adds static typing to JavaScript to improve developer productivity and code quality.
+
+* [GITHUB](https://github.com/facebook/flow)
+* [WEBSITE](https://flow.org/)
+* [DOCS](https://flow.org/en/docs/)
+
 ## :rocket: FLOWPOINTS ML
 
 * [GITHUB](https://github.com/mariusbrataas/flowpoints_ml)
