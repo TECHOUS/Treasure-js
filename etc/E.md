@@ -1,5 +1,11 @@
 # E
 
+## :rocket: EDEX UI
+
+A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+
+* [GITHUB](https://github.com/GitSquared/edex-ui)
+
 ## :rocket: EDGE JS
 
 Node.js templating engine with fresh air

@@ -3,6 +3,7 @@
 Version Released
 
 * Added flow
+* Added edex ui
 
 ## VERSION 4.7.0
 
