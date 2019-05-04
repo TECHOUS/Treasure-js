@@ -629,6 +629,13 @@ REAVIZ is a modular chart component library that leverages React natively for re
 * [GITHUB](https://github.com/jask-oss/reaviz)
 * [WEBSITE/DOCS](https://jask-oss.github.io/reaviz/?path=/story/charts-area-single-series--simple)
 
+## :rocket: REST JS
+
+GitHub REST API client for JavaScript
+
+* [GITHUB](GitHub REST API client for JavaScript)
+* [WEBSITE/DOCS](https://octokit.github.io/rest.js/)
+
 ## :rocket: REVEAL JS
 
 The HTML Presentation Framework

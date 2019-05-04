@@ -4,6 +4,7 @@ Version Released
 
 * Added flow
 * Added edex ui
+* Added rest js
 
 ## VERSION 4.7.0
 
