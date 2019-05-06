@@ -368,6 +368,12 @@ React hook for Portals
 
 * [GITHUB](https://github.com/alex-cory/react-useportal)
 
+## REACT USE GESTURE
+
+Bread n butter utility for component-tied mouse/touch gestures in React
+
+* [GITHUB](https://github.com/react-spring/react-use-gesture)
+
 ## REACT USER AGENT
 
 Integrate user-agent detection in an idiomatic React way

@@ -1,6 +1,7 @@
 # VERSION 5
 
 * Added [react useportal](etc/reactJS.md#react-useportal)
+* Added [react use gesture](etc/reactJS.md#react-use-gesture)
 
 ## VERSION 5.0.0
 
