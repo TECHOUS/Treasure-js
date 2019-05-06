@@ -362,6 +362,12 @@ Hook factory, receives a function to be memoized, returns a memoized React hook,
 * [GITHUB](https://github.com/streamich/react-use)
 * [WEBSITE](https://streamich.github.io/react-use/?path=/story/state-creatememo--docs)
 
+## REACT USEPORTAL
+
+React hook for Portals
+
+* [GITHUB](https://github.com/alex-cory/react-useportal)
+
 ## REACT USER AGENT
 
 Integrate user-agent detection in an idiomatic React way

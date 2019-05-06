@@ -1,8 +1,11 @@
 # VERSION 5
 
+* Added [react useportal](etc/reactJS.md#react-useportal)
+
 ## VERSION 5.0.0
 
-Updated the structure and divide the components
+* Updated the structure and divide the components
+* Now you can view release notes in a better way
 
 ## VERSION 4
 
