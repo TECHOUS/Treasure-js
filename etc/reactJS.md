@@ -165,6 +165,14 @@ Toolkit for building really interactive UIs with React
 * [WEBSITE](https://reakit.io/)
 * [DOCS](https://reakit.io/guide/get-started)
 
+## REACT 360
+
+Create amazing 360 and VR content using React
+
+* [GITHUB](https://github.com/facebook/react-360)
+* [WEBSITE](https://facebook.github.io/react-360/)
+* [DOCS](https://facebook.github.io/react-360/docs/setup.html)
+
 ## REACT ADMIN
 
 A frontend Framework for building admin applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design

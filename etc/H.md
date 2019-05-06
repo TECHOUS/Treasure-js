@@ -94,4 +94,4 @@ The simple, fast, and scalable code generator that lives in your project.
 A terminal built on web technologies
 
 * [GITHUB](https://github.com/zeit/hyper)
-* [WEBSITE](https://hyper.is/)
+* [WEBSITE/DOCS](https://hyper.is/)
