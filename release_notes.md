@@ -2,6 +2,7 @@
 
 * Added [react useportal](etc/reactJS.md#react-useportal)
 * Added [react use gesture](etc/reactJS.md#react-use-gesture)
+* Added [bottender js](etc/B.md#rocket-bottender-js)
 
 ## VERSION 5.0.0
 
