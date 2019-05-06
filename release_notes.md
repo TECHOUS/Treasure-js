@@ -1,4 +1,10 @@
-# VERSION 4
+# VERSION 5
+
+## VERSION 5.0.0
+
+Updated the structure and divide the components
+
+## VERSION 4
 
 Version Released
 
@@ -7,7 +13,7 @@ Version Released
 * Added rest js
 * Added response
 
-## VERSION 4.7.0
+### VERSION 4.7.0
 
 * Added styled SPINKIT
 * Added react star rating component
