@@ -44,46 +44,46 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 * [Node.js on ChakraCore](https://github.com/nodejs/node-chakracore)
 * [Squidwarc is a high fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head](https://github.com/N0taN3rd/Squidwarc)
 
-## ASYNC RETRY
+## :rocket: ASYNC RETRY
 
 Retrying made simple, easy, and async.
 
 * [GITHUB](https://github.com/zeit/async-retry)
 * [WEBSITE](https://www.npmjs.com/package/async-retry)
 
-## AUTOCANNON
+## :rocket: AUTOCANNON
 
 fast HTTP/1.1 benchmarking tool written in Node.js
 
 * [GITHUB](https://github.com/mcollina/autocannon)
 
-## BCRYPT
+## :rocket: BCRYPT
 
 A library to help you hash passwords.
 
 * [GITHUB/DOCS](https://github.com/kelektiv/node.bcrypt.js)
 
-## BROWSERIFY
+## :rocket: BROWSERIFY
 
 browser-side require() the node.js way
 
 * [GITHUB](https://github.com/browserify/browserify)
 * [WEBSITE](http://browserify.org/)
 
-## COSMIC NODE
+## :rocket: COSMIC NODE
 
 The official JavaScript client for Cosmic JS. Use it to power content server-side, in the browser and in native apps
 
 * [GITHUB](https://github.com/cosmicjs/cosmicjs-node)
 * [WEBSITE](https://www.npmjs.com/package/cosmicjs)
 
-## CUSTOMIZE CRA
+## :rocket: CUSTOMIZE CRA
 
 Override webpack configurations for create-react-app 2.0
 
 * [GITHUB](https://github.com/arackaf/customize-cra)
 
-## DESKGAP
+## :rocket: DESKGAP
 
 A cross-platform desktop app framework based on Node.js and the system webview
 
@@ -91,34 +91,34 @@ A cross-platform desktop app framework based on Node.js and the system webview
 * [WEBSITE](https://deskgap.com/)
 * [DOCS](https://deskgap.com/#documentation)
 
-## DOTENV-SAFE
+## :rocket: DOTENV-SAFE
 
 Load environment variables from .env and ensure they are all present
 
 * [GITHUB](https://github.com/rolodato/dotenv-safe)
 * [WEBSITE](https://www.npmjs.com/package/dotenv-safe)
 
-## EMAIL PROMPT
+## :rocket: EMAIL PROMPT
 
 CLI email prompt with autocompletion and built-in validation
 
 * [GITHUB](https://github.com/zeit/email-prompt)
 * [WEBSITE](https://www.npmjs.com/package/email-prompt)
 
-## EXECA
+## :rocket: EXECA
 
 A better child_process
 
 * [GITHUB](https://github.com/sindresorhus/execa)
 
-## INDENT TEXTAREA
+## :rocket: INDENT TEXTAREA
 
 Add editor-like tab-to-indent functionality to textarea, in a few bytes
 
 * [GITHUB](https://github.com/bfred-it/indent-textarea)
 * [WEBSITE](https://www.npmjs.com/package/indent-textarea)
 
-## MIKRO ORM
+## :rocket: MIKRO ORM
 
 Simple typescript ORM for node.js based on data-mapper, unit-of-work and identity-map patterns. Supports MongoDB, MySQL, PostgreSQL and SQLite databases.
 
@@ -126,45 +126,45 @@ Simple typescript ORM for node.js based on data-mapper, unit-of-work and identit
 * [WEBSITE](https://b4nan.github.io/mikro-orm/)
 * [DOCS](https://b4nan.github.io/mikro-orm/installation/)
 
-## NODE CRON
+## :rocket: NODE CRON
 
 A simple cron-like job scheduler for Node.js
 
 * [GITHUB](https://github.com/node-cron/node-cron)
 
-## NODE HTTP MITM PROXY
+## :rocket: NODE HTTP MITM PROXY
 
 HTTP Man In The Middle (MITM) Proxy
 
 * [GITHUB](https://github.com/joeferner/node-http-mitm-proxy)
 
-## NODE HTTPS PROXY AGENT
+## :rocket: NODE HTTPS PROXY AGENT
 
 An HTTP(s) proxy http.Agent implementation for HTTPS endpoints
 
 * [GITHUB](https://github.com/TooTallNate/node-https-proxy-agent)
 
-## NODE JSON WEB TOKEN
+## :rocket: NODE JSON WEB TOKEN
 
 JsonWebToken implementation for node.js
 
 * [GITHUB](https://github.com/auth0/node-jsonwebtoken)
 * [WEBSITE/DOCS](http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html)
 
-## ORA
+## :rocket: ORA
 
 Elegant terminal spinner
 
 * [GITHUB](https://github.com/sindresorhus/ora)
 
-## PACK
+## :rocket: PACK
 
 npm package building, reimagined.
 
 * [GITHUB](https://github.com/pikapkg/pack)
 * [WEBSITE](https://www.pikapkg.com/blog/introducing-pika-pack/)
 
-## PM2
+## :rocket: PM2
 
 Node.js Production Process Manager with a built-in Load Balancer.
 
@@ -172,43 +172,43 @@ Node.js Production Process Manager with a built-in Load Balancer.
 * [WEBSITE](https://pm2.io/)
 * [DOCS](https://pm2.io/doc/)
 
-## REDIS DUMP
+## :rocket: REDIS DUMP
 
 Dump redis database into redis commands or json with command line or node.js
 
 * [GITHUB](https://github.com/jeremyfa/node-redis-dump)
 
-## SISTER
+## :rocket: SISTER
 
 Foundation for your emitter implementation. 202 reasons to not write your own implementation of event emitter.
 
 * [GITHUB](https://github.com/gajus/sister)
 
-## STATSD
+## :rocket: STATSD
 
 Daemon for easy but powerful stats aggregation
 
 * [GITHUB](https://github.com/etsy/statsd)
 
-## TAPE
+## :rocket: TAPE
 
 tap-producing test harness for node and browsers
 
 * [GITHUB](https://github.com/substack/tape)
 
-## TOUGH COOKIE
+## :rocket: TOUGH COOKIE
 
 RFC6265 Cookies and CookieJar for Node.js
 
 * [GITHUB](https://github.com/salesforce/tough-cookie)
 
-## JEX
+## :rocket: JEX
 
 Jex is a Node.js module for building dynamic and static websites. It draws inspiration from Jekyll, a Ruby tool for creating static websites. Jekyll meets Express!
 
 * [GITHUB](https://github.com/jex/jex)
 
-## LISTR
+## :rocket: LISTR
 
 Terminal task list
 

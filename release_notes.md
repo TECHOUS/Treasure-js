@@ -1,11 +1,24 @@
 # VERSION 5
 
-* Added [react useportal](etc/reactJS.md#react-useportal)
-* Added [react use gesture](etc/reactJS.md#react-use-gesture)
-* Added [bottender js](etc/B.md#rocket-bottender-js)
-* Added [react 360](etc/reactJS.md#react-360)
+## [FIXES 5.0.1](https://github.com/TechOUs/Treasure-js/releases/tag/5.0.1)
 
-## VERSION 5.0.0
+**Updated style of release notes,contributions and other viewing options.**
+
+### SUB ADDITIONS
+
+* [react useportal](etc/reactJS.md#rocket-react-useportal)
+* [react use gesture](etc/reactJS.md#rocket-react-use-gesture)
+* [react 360](etc/reactJS.md#rocket-react-360)
+
+*recently added:*
+
+1. [flow](etc/F.md#rocket-flow)
+2. [edex ui](etc/E.md#rocket-edex-ui)
+3. [rest js](etc/R.md#rocket-rest-js)
+4. [response](etc/R.md#rocket-response)
+5. [bottender js](etc/B.md#rocket-bottender-js)
+
+### [VERSION 5.0.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.0.0)
 
 * Updated the structure and divide the components
 * Now you can view release notes in a better way
@@ -14,101 +27,104 @@
 
 Version Released
 
-* Added flow
-* Added edex ui
-* Added rest js
-* Added response
+### [VERSION 4.7.0](https://github.com/TechOUs/Treasure-js/releases/tag/4.7.0)
 
-### VERSION 4.7.0
+*15 treasure added are:*
 
-* Added styled SPINKIT
-* Added react star rating component
-* Added neutralino js
-* Added deskgap in node js
-* Added quicklink
-* Added esm
-* Added deno
-* Added xstate js
-* Added ice
-* Added flickity
-* Added react sortable js
-* Added bento starter
-* Added tesseract js
-* Added reach ui
-* Added bootstrap vue js
+1. [styled SPINKIT](etc/S.md#rocket-styled-spinkit)
+2. [react star rating component](etc/reactJS.md#rocket-react-star-rating-component)
+3. [neutralino js](etc/N.md#rocket-neutralino-js)
+4. [deskgap in node js](etc/node.md#rocket-deskgap)
+5. [quicklink](etc/Q.md#rocket-quicklink)
+6. [esm](etc/E.md#rocket-esm)
+7. [deno](etc/D.md#rocket-deno)
+8. [xstate js](etc/X.md#rocket-xstate-js)
+9. [ice](etc/I.md#rocket-ice)
+10. [flickity](etc/F.md#rocket-flickity)
+11. [react sortable js](etc/reactJS.md#rocket-react-sortable-js)
+12. [bento starter](etc/B.md#rocket-bento-starter)
+13. [tesseract js](etc/T.md#rocket-tesseract-js)
+14. [reach ui](etc/R.md#rocket-reach-ui)
+15. [bootstrap vue js](etc/B.md#rocket-bootstrap-vue-js)
 
-### FIXES 4.6.1
+### [FIXES 4.6.1](https://github.com/TechOUs/Treasure-js/releases/tag/4.6.1)
 
-* Fixed duplicate react window heading
+Fixed duplicate react window heading
 
-### VERSION 4.6.0
+### [VERSION 4.6.0](https://github.com/TechOUs/Treasure-js/releases/tag/4.6.0)
 
-* Added react onclick outside
-* Added light my request
-* Added fastify
-* Added taro js
-* Added nerv js
-* Added nativescript
-* Added react fiber
-* Added tool
-* Added react window
-* Added faye
-* Added svelte js
-* Added vuetify js
-* Added autosize
-* Added react lifecycle visualizer
-* Added flowpoints ml
+*15 treasure added are:*
 
-### VERSION 4.5.0
+1. [react onclick outside](etc/reactJS.md#rocket-react-onclick-outside)
+2. [light my request](etc/L.md#rocket-light-my-request)
+3. [fastify](etc/F.md#rocket-fastify)
+4. [taro js](etc/T.md#rocket-taro-js)
+5. [nerv js](etc/N.md#rocket-nerv-js)
+6. [nativescript](etc/N.md#rocket-nativescript)
+7. [react fiber](etc/reactJS.md#rocket-react-fiber)
+8. [tool](etc/T.md#rocket-tool)
+9. [react window](etc/reactJS.md#rocket-react-window)
+10. [faye](etc/F.md#rocket-faye)
+11. [svelte js](etc/S.md#rocket-svelte-js)
+12. [vuetify js](etc/V.md#rocket-vuetify-js)
+13. [autosize](etc/A.md#rocket-autosize)
+14. [react lifecycle visualizer](etc/reactJS.md#rocket-react-lifestyle-visualizer)
+15. [flowpoints ml](etc/F.md#rocket-flowpoints-ml)
 
-* Added playroom
-* Added faker js
-* Added aos
-* Added node http mitm proxy
-* Added spectacle
-* Added mobx react lite
-* Added just
-* Added content loader
-* Added node json web token
-* Added onnx js
-* Added react navigation native
-* Added lago
-* Added glicky
-* Added chai js
-* Added await to js
+### [VERSION 4.5.0](https://github.com/TechOUs/Treasure-js/releases/tag/4.5.0)
 
-### VERSION 4.4.0
+*15 treasure added are:*
 
-* Added mikro orm
-* Added redis dump
-* Added etcher
-* Added react window
-* Added hygen
-* Added emuto
-* Added base ui in react
-* Added tough cookie
-* Added react image
-* Added react drop zone js
-* Added packem
-* Added octotree
-* Added tv2
-* Added ajv js
-* Added https node proxy agent
+1. Added playroom
+2. Added faker js
+3. Added aos
+4. Added node http mitm proxy
+5. Added spectacle
+6. Added mobx react lite
+7. Added just
+8. Added content loader
+9. Added node json web token
+10. Added onnx js
+11. Added react navigation native
+12. Added lago
+13. Added glicky
+14. Added chai js
+15. Added await to js
 
-### PATCH 4.3.3
+### [VERSION 4.4.0](https://github.com/TechOUs/Treasure-js/releases/tag/4.4.0)
 
-* Updated structure
+*15 treasure added are:*
 
-### PATCH 4.3.2
+1. Added mikro orm
+2. Added redis dump
+3. Added etcher
+4. Added react window
+5. Added hygen
+6. Added emuto
+7. Added base ui in react
+8. Added tough cookie
+9. Added react image
+10. Added react drop zone js
+11. Added packem
+12. Added octotree
+13. Added tv2
+14. Added ajv js
+15. Added https node proxy agent
 
-* Added memes
+### [PATCH 4.3.3](https://github.com/TechOUs/Treasure-js/releases/tag/4.3.3)
 
-### PATCH 4.3.1
+Updated structure
+
+### [PATCH 4.3.2](https://github.com/TechOUs/Treasure-js/releases/tag/4.3.2)
+
+Added memes
+
+### [PATCH 4.3.1](https://github.com/TechOUs/Treasure-js/releases/tag/4.3.1)
 
 * Updated readme
 * Added a meme
 
-### VERSION 4.3.0
+### [VERSION 4.3.0](https://github.com/TechOUs/Treasure-js/releases/tag/4.3.0)
 
 * Added sister
 * Added customize cra
@@ -126,11 +142,11 @@ Version Released
 * Added react virtualized
 * Added object detection react
 
-### PATCH 4.2.1
+### [PATCH 4.2.1](https://github.com/TechOUs/Treasure-js/releases/tag/4.2.1)
 
-* Readme content update
+Readme content update
 
-### UPDATE 4.2.0
+### [UPDATE 4.2.0](https://github.com/TechOUs/Treasure-js/releases/tag/4.2.0)
 
 * Added react loops
 * Added web3 js
@@ -148,7 +164,7 @@ Version Released
 * Added get port
 * Added swing
 
-### UPDATE 4.1.0
+### [UPDATE 4.1.0](https://github.com/TechOUs/Treasure-js/releases/tag/4.1.0)
 
 * Added REACT NATIVE REALLY AWESOME BUTTON
 * Added nest js
@@ -166,15 +182,15 @@ Version Released
 * Added strapi
 * Added pack
 
-### PATCH 4.0.2
+### [PATCH 4.0.2](https://github.com/TechOUs/Treasure-js/releases/tag/4.0.2)
 
-* Fixed readme contents table links
+Fixed readme contents table links
 
-### PATCH 4.0.1
+### [PATCH 4.0.1](https://github.com/TechOUs/Treasure-js/releases/tag/4.0.1)
 
-* Updated readme structure
+Updated readme structure
 
-### UPDATES 4.0.0
+### [UPDATES 4.0.0](https://github.com/TechOUs/Treasure-js/releases/tag/4.0.0)
 
 * Added mk js
 * Added dataloader utility

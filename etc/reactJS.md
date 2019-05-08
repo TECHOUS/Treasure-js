@@ -85,21 +85,21 @@ A JavaScript library for building user interfaces
 * [React and Express file uploader](https://github.com/bradtraversy/react_file_uploader)
 * [REACT 95](https://github.com/arturbien/React95)
 
-## BASE UI
+## :rocket: BASE UI
 
 A React Component library implementing the Base design language
 
 * [GITHUB](https://github.com/uber-web/baseui)
 * [WEBSITE](https://baseweb.design/)
 
-## CONSTATE
+## :rocket: CONSTATE
 
 Scalable state manager using React Hooks & Context
 
 * [GITHUB](https://github.com/diegohaz/constate)
 * [WEBSITE](https://codesandbox.io/s/github/diegohaz/constate/tree/master/examples/counter)
 
-## EVERGREEN
+## :rocket: EVERGREEN
 
 Evergreen React UI Framework by Segment
 
@@ -107,21 +107,21 @@ Evergreen React UI Framework by Segment
 * [WEBSITE](https://evergreen.segment.com/)
 * [DOCS](https://evergreen.segment.com/components/)
 
-## FORMAL
+## :rocket: FORMAL
 
 Elegant form management primitives for the react hooks era.
 
 * [GITHUB](https://github.com/kevinwolfcr/formal)
 * [WEBSITE](https://react-formal.netlify.com/?path=/story/examples--basic)
 
-## GOOGLE MAP REACT
+## :rocket: GOOGLE MAP REACT
 
 Google map library for react that allows rendering components as markers
 
 * [GITHUB](https://github.com/google-map-react/google-map-react)
 * [WEBSITE](http://google-map-react.github.io/google-map-react/map/main/)
 
-## GROMMET
+## :rocket: GROMMET
 
 a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 
@@ -129,13 +129,13 @@ a react-based framework that provides accessibility, modularity, responsiveness,
 * [WEBSITE](https://v2.grommet.io/)
 * [DOCS](https://v2.grommet.io/components)
 
-## MOBX REACT LITE
+## :rocket: MOBX REACT LITE
 
 Lightweight React bindings for MobX based on React 16.8 and Hooks
 
 * [GITHUB](https://github.com/mobxjs/mobx-react-lite)
 
-## LOADABLE COMPONENTS
+## :rocket: LOADABLE COMPONENTS
 
 React code splitting made easy
 
@@ -143,13 +143,13 @@ React code splitting made easy
 * [WEBSITE](https://www.smooth-code.com/open-source/loadable-components/)
 * [DOCS](https://www.smooth-code.com/open-source/loadable-components/docs/getting-started/)
 
-## OBJECT DETECTION REACT
+## :rocket: OBJECT DETECTION REACT
 
 Real-Time Custom Object Detection with TensorFlow.js
 
 * [GITHUB](https://github.com/cloud-annotations/object-detection-react)
 
-## POLARIS REACT
+## :rocket: POLARIS REACT
 
 Shopify’s product component library
 
@@ -157,7 +157,7 @@ Shopify’s product component library
 * [WEBSITE](https://polaris.shopify.com/)
 * [DOCS](https://polaris.shopify.com/components/get-started)
 
-## REAKIT
+## :rocket: REAKIT
 
 Toolkit for building really interactive UIs with React
 
@@ -165,7 +165,7 @@ Toolkit for building really interactive UIs with React
 * [WEBSITE](https://reakit.io/)
 * [DOCS](https://reakit.io/guide/get-started)
 
-## REACT 360
+## :rocket: REACT 360
 
 Create amazing 360 and VR content using React
 
@@ -173,14 +173,14 @@ Create amazing 360 and VR content using React
 * [WEBSITE](https://facebook.github.io/react-360/)
 * [DOCS](https://facebook.github.io/react-360/docs/setup.html)
 
-## REACT ADMIN
+## :rocket: REACT ADMIN
 
 A frontend Framework for building admin applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 
 * [GITHUB](https://github.com/marmelab/react-admin)
 * [WEBSITE](https://marmelab.com/react-admin/)
 
-## REACT AUTOSUGGEST
+## :rocket: REACT AUTOSUGGEST
 
 WAI-ARIA compliant React autosuggest component
 
@@ -188,76 +188,76 @@ WAI-ARIA compliant React autosuggest component
 * [WEBSITE](http://react-autosuggest.js.org/)
 * [USAGE](https://github.com/moroshko/react-autosuggest#installation)
 
-## REACT CHART JS
+## :rocket: REACT CHART JS
 
 React wrapper for Chart.js
 
 * [GITHUB](https://github.com/jerairrest/react-chartjs-2)
 * [WEBSITE](http://jerairrest.github.io/react-chartjs-2/)
 
-## REACT CONTENT LOADER
+## :rocket: REACT CONTENT LOADER
 
 SVG-Powered component to easily create placeholder loadings (like Facebook cards loading)
 
 * [GITHUB](https://github.com/danilowoz/react-content-loader)
 * [WEBSITE](http://danilowoz.com/create-content-loader/)
 
-## REACT DEV TOOLS
+## :rocket: REACT DEV TOOLS
 
 React Developer Tools lets you inspect the React component hierarchy, including component props and state.
 
 * [GITHUB](https://github.com/facebook/react-devtools)
 
-## REACT DOM BOX 2D
+## :rocket: REACT DOM BOX 2D
 
 Wrap react dom elements with Box2d physics engine
 
 * [GITHUB](https://github.com/oneto018/react-dom-box2d)
 
-## REACT DROPZONE JS
+## :rocket: REACT DROPZONE JS
 
 Simple HTML5 drag-drop zone with React.js
 
 * [GITHUB](https://github.com/react-dropzone/react-dropzone)
 * [WEBSITE](https://react-dropzone.js.org/)
 
-## REACT FACEBOOK LOGIN
+## :rocket: REACT FACEBOOK LOGIN
 
 A Component React for Facebook Login
 
 * [GITHUB/DOCS](https://github.com/keppelen/react-facebook-login)
 
-## REACT FIBER
+## :rocket: REACT FIBER
 
 A description of React's new core algorithm, React Fiber
 
 * [GITHUB](https://github.com/acdlite/react-fiber-architecture)
 
-## REACT FLIP TOOLKIT
+## :rocket: REACT FLIP TOOLKIT
 
 A utility library for highly configurable layout transitions
 
 * [GITHUB](https://github.com/aholachek/react-flip-toolkit)
 
-## REACT FRONT LOAD
+## :rocket: REACT FRONT LOAD
 
 Load data asynchronously into your React components. Works on both client and server render.
 
 * [GITHUB](https://github.com/davnicwil/react-frontload)
 
-## REACT HOOKS HELPER
+## :rocket: REACT HOOKS HELPER
 
 A custom React Hooks library that gives you custom hooks for your code.
 
 * [GITHUB](https://github.com/revelcw/react-hooks-helper)
 
-## REACT IMAGE
+## :rocket: REACT IMAGE
 
 React.js img tag rendering with multiple fallback & loader support
 
 * [GITHUB](https://github.com/mbrevda/react-image)
 
-## REACT LEAFLET JS
+## :rocket: REACT LEAFLET JS
 
 React components for leaves Leaflet maps
 
@@ -265,20 +265,20 @@ React components for leaves Leaflet maps
 * [WEBSITE](https://react-leaflet.js.org/)
 * [DOCS](https://react-leaflet.js.org/docs/en/components.html)
 
-## REACT LIFECYCLE VISUALIZER
+## :rocket: REACT LIFECYCLE VISUALIZER
 
 Real-time visualizer for React lifecycle methods
 
 * [GITHUB](https://github.com/Oblosys/react-lifecycle-visualizer)
 * [WEBSITE](https://stackblitz.com/github/Oblosys/react-lifecycle-visualizer/tree/master/examples/parent-child-demo?file=src/samples/New.js)
 
-## REACT LOOPS
+## :rocket: REACT LOOPS
 
 React Loops works with React Hooks as part of the React Velcro Architecture
 
 * [GITHUB](https://github.com/leebyron/react-loops)
 
-## REACT MAP GL
+## :rocket: REACT MAP GL
 
 React friendly API wrapper around MapboxGL JS
 
@@ -286,14 +286,14 @@ React friendly API wrapper around MapboxGL JS
 * [WEBSITE](https://uber.github.io/react-map-gl/)
 * [DOCS](https://uber.github.io/react-map-gl/#/Documentation/getting-started/get-started?section=example)
 
-## REACT MORPH
+## :rocket: REACT MORPH
 
 Morphing Ui transitions made simple
 
 * [GITHUB](https://github.com/brunnolou/react-morph)
 * [WEBSITE](https://brunnolou.github.io/react-morph/?down=0)
 
-## REACT NAVIGATION
+## :rocket: REACT NAVIGATION
 
 React Navigation is born from the React Native community's need for an extensible yet easy-to-use navigation solution written entirely in JavaScript (so you can read and understand all of the source), on top of powerful native primitives.
 
@@ -301,26 +301,26 @@ React Navigation is born from the React Native community's need for an extensibl
 * [WEBSITE](https://reactnavigation.org/docs/en/getting-started.html)
 * [DOCS](https://reactnavigation.org/docs/en/getting-started.html)
 
-## REACT ONCLICK OUTSIDE
+## :rocket: REACT ONCLICK OUTSIDE
 
 An onClickOutside wrapper for React components
 
 * [GITHUB](https://github.com/Pomax/react-onclickoutside)
 
-## REACT PROP TYPES
+## :rocket: REACT PROP TYPES
 
 Parses React prop-types into a readable object
 
 * [GITHUB](https://github.com/diegohaz/parse-prop-types)
 
-## REACT RESIZE DETECTOR
+## :rocket: REACT RESIZE DETECTOR
 
 A Cross-Browser, Event-based, Element Resize Detection for React
 
 * [GITHUB](https://github.com/maslianok/react-resize-detector)
 * [WEBSITE](http://maslianok.github.io/react-resize-detector/)
 
-## REACT SELECT
+## :rocket: REACT SELECT
 
 The Select Component for React.js
 
@@ -328,14 +328,14 @@ The Select Component for React.js
 * [WEBSITE](https://react-select.com/)
 * [DOCS](https://react-select.com/components)
 
-## REACT SELECTABLE FAST
+## :rocket: REACT SELECTABLE FAST
 
 Enable a React component (or group of components) to be selectable via mouse/touch.
 
 * [GITHUB](https://github.com/valerybugakov/react-selectable-fast)
 * [WEBSITE/DOCS](http://valerybugakov.github.io/react-selectable-fast/)
 
-## REACT SEMANTIC UI
+## :rocket: REACT SEMANTIC UI
 
 The official Semantic-UI-React integration
 
@@ -343,78 +343,78 @@ The official Semantic-UI-React integration
 * [WEBSITE](https://react.semantic-ui.com/)
 * [USAGE](https://react.semantic-ui.com/usage)
 
-## REACT THREE FIBER
+## :rocket: REACT THREE FIBER
 
 A React-renderer for Three.js
 
 * [GITHUB/DOCS](https://github.com/drcmda/react-three-fiber)
 
-## REACT TREND
+## :rocket: REACT TREND
 
 Simple, elegant spark lines
 
 * [GITHUB](https://github.com/unsplash/react-trend)
 * [WEBSITE](https://unsplash.github.io/react-trend/)
 
-## REACT TOASTIFY
+## :rocket: REACT TOASTIFY
 
 React notification made easy :rocket: !
 
 * [GITHUB](https://github.com/fkhadra/react-toastify)
 * [WEBSITE](https://fkhadra.github.io/react-toastify/)
 
-## REACT USE
+## :rocket: REACT USE
 
 Hook factory, receives a function to be memoized, returns a memoized React hook, which receives the same arguments and returns the same result as the original function.
 
 * [GITHUB](https://github.com/streamich/react-use)
 * [WEBSITE](https://streamich.github.io/react-use/?path=/story/state-creatememo--docs)
 
-## REACT USEPORTAL
+## :rocket: REACT USEPORTAL
 
 React hook for Portals
 
 * [GITHUB](https://github.com/alex-cory/react-useportal)
 
-## REACT USE GESTURE
+## :rocket: REACT USE GESTURE
 
 Bread n butter utility for component-tied mouse/touch gestures in React
 
 * [GITHUB](https://github.com/react-spring/react-use-gesture)
 
-## REACT USER AGENT
+## :rocket: REACT USER AGENT
 
 Integrate user-agent detection in an idiomatic React way
 
 * [GITHUB](https://github.com/quentin-sommer/react-useragent)
 * [WEBSITE](https://quentin-sommer.github.io/react-useragent/)
 
-## REACT VIS
+## :rocket: REACT VIS
 
 Data Visualization Components
 
 * [GITHUB](https://github.com/uber/react-vis)
 * [WEBSITE](https://uber.github.io/react-vis/)
 
-## REACT WINDOW
+## :rocket: REACT WINDOW
 
 React components for efficiently rendering large lists and tabular data
 
 * [GITHUB](https://github.com/bvaughn/react-window)
 * [WEBSITE](https://react-window.now.sh/)
 
-## REACT JS SAMPLES
+## :rocket: REACT JS SAMPLES
 
 * [MyReads Project](https://github.com/Decoys-out/MyReads-UDACITY-React)
 * [react-weather-app](https://github.com/ReactExpert/react-weather-app)
 
-## REACT TOOL TIP
+## :rocket: REACT TOOL TIP
 
 A powerful and flexible React tooltip and menu library.
 
 * [GITHUB](https://github.com/justinrhodes1/react-power-tooltip)
 
-## REACT SPRING
+## :rocket: REACT SPRING
 
 A spring physics based React animation library
 
@@ -422,47 +422,47 @@ A spring physics based React animation library
 * [WEBSITE](http://react-spring.surge.sh/)
 * [DOCS](http://react-spring.surge.sh/spring)
 
-## REACT SIZES
+## :rocket: REACT SIZES
 
 React Sizes is a high-order component with a high performance that transform window sizes (width and height) into props.
 You can check inside your component, for example, if user's window is less than 480 pixels of width, and add a custom content.It can be very powerful for when you need to display different content for mobile and desktop. But it's not limited to this case. Just use that at your needs.
 
 * [GITHUB](https://github.com/renatorib/react-sizes)
 
-## REACT SORTABLE JS
+## :rocket: REACT SORTABLE JS
 
 A React component built on top of Sortable
 
 * [GITHUB](https://github.com/SortableJS/react-sortablejs)
 * [WEBSITE](http://sortablejs.github.io/react-sortablejs/)
 
-## REACT STATIC
+## :rocket: REACT STATIC
 
 React-Static is a fast, lightweight, and powerful framework for building static-progressive React applications and websites. It's been carefully designed to meet the highest standards of static-site performance, and user/developer experience.
 
 * [GITHUB](https://github.com/nozzle/react-static)
 
-### REACT STAR RATING COMPONENT
+## :rocket: REACT STAR RATING COMPONENT
 
 Basic React component for star (or any other icon based) rating elements
 
 * [GITHUB](https://github.com/voronianski/react-star-rating-component)
 * [WEBSITE](http://voronianski.github.io/react-star-rating-component/example/)
 
-### REACT TREEBEARD
+## :rocket: REACT TREEBEARD
 
 React Tree View Component. Data-Driven, Fast, Efficient and Customisable.
 
 * [GITHUB](https://github.com/storybooks/react-treebeard)
 * [WEBSITE](http://storybooks.github.io/react-treebeard/)
 
-## REACT MOBX BOILERPLATE
+## :rocket: REACT MOBX BOILERPLATE
 
 TodoMVC reference implementation on top of react-mobx-boilerplate
 
 * [GITHUB](https://github.com/mobxjs/mobx-react-todomvc)
 
-## REACT MOVABLE
+## :rocket: REACT MOVABLE
 
 Drag and drop for your React lists and tables. Accessible. Tiny
 

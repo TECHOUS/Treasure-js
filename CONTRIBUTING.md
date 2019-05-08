@@ -6,7 +6,7 @@ Check what type of contribution you like !!!
 
 * **Fork** and make a **branch** on the repo and **star** our repo also.
 * Don't update [CONTRIBUTORS](CONTRIBUTORS.md) it will be updated as your pull request is accepted.
-* Added new links should be relavant otherwise pr should not be accepted i.e the link should be working and related to js only.
+* Added new links should be relavant otherwise **pull request** will not be accepted i.e the link should be working and related to js only.
 
 ### :rocket: WANT TO ADD NEW EXTENSION (library,frameworks)
 
@@ -42,8 +42,8 @@ Make [ISSUE](https://github.com/TechOUs/Treasure-js/issues) for it we will reply
 
 ## VERSIONING
 
-MAJOR . MINOR . PATCH
+MAJOR . MINOR . PATCH/SUB-ADDITION
 
-* MAJOR -> Updated structured of readme
-* MINOR -> Added 15 libraries
-* PATCH -> Update the bugs
+* MAJOR                     -> Updated structured of readme
+* MINOR                     -> Added 15 libraries
+* PATCH / SUB-ADDITIONS     -> Update the link bugs / 5 components of react,vue,node,etc to be added

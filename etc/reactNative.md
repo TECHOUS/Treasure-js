@@ -25,13 +25,13 @@ A framework for building native apps with React
 * [Transform Dribbble designs to React-Native code & YouTube video tutorials](https://github.com/react-ui-kit/dribbble2react)
 * [A react native mobile starter kit with over 40 screens and theme hot reload support](https://github.com/akveo/kittenTricks)
 
-## REACT NATIVE DRAWER LAYOUT
+## :rocket: REACT NATIVE DRAWER LAYOUT
 
 A platform-agnostic drawer layout. It uses a pure JavaScript implementation on every platform to ensure consistency. We try to keep it up to date with the implementation of DrawerLayoutAndroid and add features we consider necessary as well.
 
 * [GITHUB](https://github.com/react-native-community/react-native-drawer-layout)
 
-## REACT NATIVE REALLY AWESOME BUTTON
+## :rocket: REACT NATIVE REALLY AWESOME BUTTON
 
 React Native button component. Awesome Button is a 3D at 60fps, progress enabled, social ready, extendable, production ready component that renders an awesome animated set of UI buttons.
 
@@ -39,20 +39,20 @@ React Native button component. Awesome Button is a 3D at 60fps, progress enabled
 * [WEBSITE](https://expo.io/@rcaferati/react-native-really-awesome-button)
 * [DOCS](https://docs.expo.io/versions/latest/)
 
-## REACT NATIVE HTMLVIEW
+## :rocket: REACT NATIVE HTMLVIEW
 
 A React Native component which renders HTML content as native views
 
 * [GITHUB](https://github.com/jsdf/react-native-htmlview)
 
-## REACT NAVIGATION NATIVE
+## :rocket: REACT NAVIGATION NATIVE
 
 React Native support for React Navigation
 
 * [GITHUB](https://github.com/react-navigation/react-navigation-native)
 * [DOCS](https://reactnavigation.org/docs/en/getting-started.html)
 
-## REACT VIRTUALIZED
+## :rocket: REACT VIRTUALIZED
 
 React components for efficiently rendering large lists and tabular data
 
