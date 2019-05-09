@@ -12,6 +12,7 @@
 4. [Angular Components](etc/angularJS.md#rocket-components)
 5. [Node Redis JS](etc/node.md#rocket-node-redis-js)
 6. [NWB](etc/reactJS.md#rocket-nwb)
+7. [ELEMENT REACT](etc/reactJS.md#rocket-element-react)
 
 *recently added:*
 
