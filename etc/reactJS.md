@@ -270,6 +270,12 @@ React.js img tag rendering with multiple fallback & loader support
 
 * [GITHUB](https://github.com/mbrevda/react-image)
 
+## :rocket: REACT LARAVEL
+
+Package for using ReactJS with Laravel
+
+* [GITHUB](https://github.com/talyssonoc/react-laravel)
+
 ## :rocket: REACT LEAFLET JS
 
 React components for leaves Leaflet maps
