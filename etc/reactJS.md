@@ -135,6 +135,12 @@ Lightweight React bindings for MobX based on React 16.8 and Hooks
 
 * [GITHUB](https://github.com/mobxjs/mobx-react-lite)
 
+## :rocket: NWB
+
+A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it)
+
+* [GITHUB](https://github.com/insin/nwb)
+
 ## :rocket: LOADABLE COMPONENTS
 
 React code splitting made easy

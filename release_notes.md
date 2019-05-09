@@ -11,6 +11,7 @@
 3. [react 360](etc/reactJS.md#rocket-react-360)
 4. [Angular Components](etc/angularJS.md#rocket-components)
 5. [Node Redis JS](etc/node.md#rocket-node-redis-js)
+6. [NWB](etc/reactJS.md#rocket-nwb)
 
 *recently added:*
 
