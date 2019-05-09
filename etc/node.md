@@ -151,6 +151,13 @@ JsonWebToken implementation for node.js
 * [GITHUB](https://github.com/auth0/node-jsonwebtoken)
 * [WEBSITE/DOCS](http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html)
 
+## :rocket: NODE REDIS JS
+
+redis client for node
+
+* [GITHUB](https://github.com/NodeRedis/node_redis)
+* [WEBSITE](http://redis.js.org/)
+
 ## :rocket: ORA
 
 Elegant terminal spinner

@@ -46,4 +46,4 @@ MAJOR . MINOR . PATCH/SUB-ADDITION
 
 * MAJOR                     -> Updated structured of readme
 * MINOR                     -> Added 15 libraries
-* PATCH / SUB-ADDITIONS     -> Update the link bugs / 5 components of react,vue,node,etc to be added
+* PATCH / SUB-ADDITIONS     -> Update the link bugs / 15 components of react,vue,node,etc to be added
