@@ -9,6 +9,7 @@
 * [react useportal](etc/reactJS.md#rocket-react-useportal)
 * [react use gesture](etc/reactJS.md#rocket-react-use-gesture)
 * [react 360](etc/reactJS.md#rocket-react-360)
+* [Angular Components](etc/angularJS.md#rocket-components)
 
 *recently added:*
 
