@@ -97,3 +97,10 @@ The leading content management solution for modern digital teams
   * [GITHUB](https://github.com/cosmicjs/gatsby-source-cosmicjs)
   * [WEBSITE](https://cosmicjs.com/)
 * [The official JavaScript client for Cosmic JS](#cosmic-node)
+
+## :rocket: CXXT
+
+A JavaScript / Python / PHP cryptocurrency trading API with support for more than 130 bitcoin/altcoin exchanges
+
+* [GITHUB](https://github.com/ccxt/ccxt)
+* [WEBSITE](https://github.com/ccxt/ccxt/wiki)

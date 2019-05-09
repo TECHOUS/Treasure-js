@@ -18,6 +18,7 @@
 3. [rest js](etc/R.md#rocket-rest-js)
 4. [response](etc/R.md#rocket-response)
 5. [bottender js](etc/B.md#rocket-bottender-js)
+6. [cxxt](etc/C.md#rocket-cxxt)
 
 ### [VERSION 5.0.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.0.0)
 
