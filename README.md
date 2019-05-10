@@ -63,7 +63,7 @@ Soon you will get in correct order keep supporting till then follow bold ones
 * [**FREECODECAMP -- JAVASCRIPT**](https://learn.freecodecamp.org/)
 * [**MDN -- JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [**SOLOLEARN -- JavaScript**](https://www.sololearn.com/Course/JavaScript/)
-* [**UDACITY -- INTRODUCTION TO JAVASCRIPT**](https://in.udacity.com/course/intro-to-javascript--ud803-india)
+* [**UDACITY -- INTRODUCTION TO JAVASCRIPT**](https://www.udacity.com/course/intro-to-javascript--ud803)
 * [**UDACITY -- OBJECT ORIENTED JAVASCRIPT**](https://in.udacity.com/course/object-oriented-javascript--ud015)
 * [**UDACITY -- JAVASCRIPT PROMISES**](https://in.udacity.com/course/javascript-promises--ud898)
 * [**UDACITY -- ES6-JAVASCRIPT IMPROVED**](https://in.udacity.com/course/es6-javascript-improved--ud356)
@@ -97,6 +97,13 @@ Soon you will get in correct order keep supporting till then follow bold ones
 
 ### :rocket: Learning Repos
 
+* [UDACITY -- Building High Conversion Web Forms](https://www.udacity.com/course/building-high-conversion-web-forms--ud890)
+* [UDACITY -- Google Maps APIs](https://www.udacity.com/course/google-maps-apis--ud864)
+* [UDACITY -- Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
+* [UDACITY -- Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
+* [UDACITY -- Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
+* [UDACITY -- Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
+* [UDACITY -- Front End Frameworks](https://www.udacity.com/course/front-end-frameworks--ud894)
 * [Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore](https://github.com/yangshun/front-end-interview-handbook)
 * [Data Structures and Algorithms explained and implemented in JavaScript](https://github.com/amejiarosario/dsa.js)
 * [collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book](https://github.com/loiane/javascript-datastructures-algorithms)
@@ -154,6 +161,7 @@ Soon you will get in correct order keep supporting till then follow bold ones
 
 ### :rocket: PWA - Progressive Web Apps
 
+* [UDACITY -- Intro to Progressive Web Apps](https://www.udacity.com/course/intro-to-progressive-web-apps--ud811)
 * [sample 1](https://github.com/aviaryan/todo-pwa-workshop)
 * [Auditing, performance metrics, and best practices for Progressive Web Apps](https://github.com/GoogleChrome/lighthouse)
 * [BrightID mobile app to access the BrightID identity network](https://github.com/BrightID/BrightID)
@@ -236,12 +244,12 @@ Soon you will get in correct order keep supporting till then follow bold ones
 
 ![ajax](logo/ajax.jpeg)
 
-1. [AJAX - W3 SCHOOLS](https://www.w3schools.com/js/js_ajax_intro.asp)
-2. [Asynchronous Programming JavaScript](https://www.edx.org/course/asynchronous-programming-javascript-1)
-3. [Ajax Tutorial](https://www.javatpoint.com/ajax-tutorial)
-4. [CRASH COURSE TUTORIAL](https://www.youtube.com/watch?v=82hnvUYY6QA)
-5. [ASYNCHRONOUS JAVASCRIPT REQUESTS](https://in.udacity.com/course/asynchronous-javascript-requests--ud109)
-6. [INTRODUCTION TO AJAX](https://in.udacity.com/course/intro-to-ajax--ud110)
+1. [UDACITY -- Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
+2. [UDACITY -- Asynchronous JavaScript Requests](https://www.udacity.com/course/asynchronous-javascript-requests--ud109)
+3. [AJAX - W3 SCHOOLS](https://www.w3schools.com/js/js_ajax_intro.asp)
+4. [Asynchronous Programming JavaScript](https://www.edx.org/course/asynchronous-programming-javascript-1)
+5. [Ajax Tutorial](https://www.javatpoint.com/ajax-tutorial)
+6. [CRASH COURSE TUTORIAL](https://www.youtube.com/watch?v=82hnvUYY6QA)
 7. [SUPERAGENT](https://github.com/visionmedia/superagent)
 
 ## JavaScript Frameworks ,Libraries, Tools and Preprocessors (A - Z)
