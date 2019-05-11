@@ -14,6 +14,7 @@
 6. [NWB](etc/reactJS.md#rocket-nwb)
 7. [ELEMENT REACT](etc/reactJS.md#rocket-element-react)
 8. [React Laravel](etc/reactJS.md#rocket-react-laravel)
+9. [Node libpq](etc/node.md#rocket-node-libpq)
 
 *recently added:*
 

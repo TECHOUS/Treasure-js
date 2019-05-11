@@ -151,6 +151,12 @@ JsonWebToken implementation for node.js
 * [GITHUB](https://github.com/auth0/node-jsonwebtoken)
 * [WEBSITE/DOCS](http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html)
 
+## :rocket: NODE LIBPQ
+
+Simple, low level native bindings to PostgreSQL's libpq from node.js
+
+* [GITHUB](https://github.com/brianc/node-libpq)
+
 ## :rocket: NODE REDIS JS
 
 redis client for node
