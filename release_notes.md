@@ -24,6 +24,7 @@
 4. [response](etc/R.md#rocket-response)
 5. [bottender js](etc/B.md#rocket-bottender-js)
 6. [cxxt](etc/C.md#rocket-cxxt)
+7. [Added docsify js](etc/D.md#rocket-docsify-js)
 
 ### [VERSION 5.0.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.0.0)
 

@@ -64,6 +64,14 @@ A powerful JavaScript library for interacting with the Discord API
 * [DOCS](https://discord.js.org/#/docs/main/stable/general/welcome)
 * [The open source Discord bot that solves all of your problems](https://github.com/SwitchbladeBot/switchblade)
 
+## :rocket: DOCSIFY JS
+
+A magical documentation site generator.
+
+* [GITHUB](https://github.com/docsifyjs/docsify)
+* [WEBSITE](https://docsify.js.org/#/)
+* [DOCS](https://docsify.js.org/#/?id=docsify)
+
 ## :rocket: DOKIELI
 
 dokieli is a clientside editor for decentralised article publishing, annotations and social interactions
