@@ -17,6 +17,13 @@ Responsive HTML5 Charting Library with a Simple API and 10x Performance – make
 * [DOCS](https://canvasjs.com/docs/charts/basics-of-creating-html5-chart/)
 * [GITHUB](https://github.com/tsur/canvasjs)
 
+## :rocket: CARBON
+
+Create and share beautiful images of your source code
+
+* [GITHUB](https://github.com/dawnlabs/carbon)
+* [WEBSITE](https://carbon.now.sh/)
+
 ## :rocket: CASUAL
 
 Fake data generator for javascript
