@@ -83,7 +83,7 @@ A JavaScript library for building user interfaces
 * [ReactJS project that 'compare' GitHub repositories :octocat:](https://github.com/gabriel-hahn/git-compare)
 * [React specific linting rules for ESLint](https://github.com/yannickcr/eslint-plugin-react)
 * [React and Express file uploader](https://github.com/bradtraversy/react_file_uploader)
-* [REACT 95](https://github.com/arturbien/React95)
+* [AWESOME REACT HOOKS](https://github.com/glauberfc/awesome-react-hooks)
 
 ## :rocket: BASE UI
 
@@ -185,6 +185,13 @@ Create amazing 360 and VR content using React
 * [GITHUB](https://github.com/facebook/react-360)
 * [WEBSITE](https://facebook.github.io/react-360/)
 * [DOCS](https://facebook.github.io/react-360/docs/setup.html)
+
+## :rocket: REACT 95
+
+Refreshed Windows 95 style UI components for your React app
+
+* [GITHUB](https://github.com/arturbien/React95)
+* [WEBSITE](https://react95.io/)
 
 ## :rocket: REACT ADMIN
 
