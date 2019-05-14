@@ -31,6 +31,12 @@ A platform-agnostic drawer layout. It uses a pure JavaScript implementation on e
 
 * [GITHUB](https://github.com/react-native-community/react-native-drawer-layout)
 
+## :rocket: REACT NATIVE GIFTED CHAT
+
+The most complete chat UI for React Native
+
+* [GITHUB](https://github.com/FaridSafi/react-native-gifted-chat)
+
 ## :rocket: REACT NATIVE REALLY AWESOME BUTTON
 
 React Native button component. Awesome Button is a 3D at 60fps, progress enabled, social ready, extendable, production ready component that renders an awesome animated set of UI buttons.

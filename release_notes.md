@@ -17,6 +17,9 @@
 9. [Node libpq](etc/node.md#rocket-node-libpq)
 10. [React 95](etc/reactJS.md#rocket-react-95)
 11. [React Async](etc/reactJS.md#rocket-react-async)
+12. [React Chat Elements](etc/reactJS.md#rocket-react-chat-elements)
+13. [React Chat UI](etc/reactJS.md#rocket-react-chat-ui)
+14. [React Native Gifted Chat](etc/reactNative.md#rocket-react-native-gifted-chat)
 
 *recently added:*
 

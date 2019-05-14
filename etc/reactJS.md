@@ -216,6 +216,19 @@ React wrapper for Chart.js
 * [GITHUB](https://github.com/jerairrest/react-chartjs-2)
 * [WEBSITE](http://jerairrest.github.io/react-chartjs-2/)
 
+## :rocket: REACT CHAT ELEMENTS
+
+Reactjs chat elements chat UI, react chat components
+
+* [GITHUB](https://github.com/Detaysoft/react-chat-elements)
+
+## :rocket: REACT CHAT UI
+
+A library of React components for building chat UI's.
+
+* [GITHUB](https://github.com/brandonmowat/react-chat-ui)
+* [WEBSITE](https://brandonmowat.github.io/react-chat-ui/demo/)
+
 ## :rocket: REACT CONTENT LOADER
 
 SVG-Powered component to easily create placeholder loadings (like Facebook cards loading)
