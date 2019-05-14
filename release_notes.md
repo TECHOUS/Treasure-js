@@ -16,6 +16,7 @@
 8. [React Laravel](etc/reactJS.md#rocket-react-laravel)
 9. [Node libpq](etc/node.md#rocket-node-libpq)
 10. [React 95](etc/reactJS.md#rocket-react-95)
+11. [React Async](etc/reactJS.md#rocket-react-async)
 
 *recently added:*
 

@@ -84,6 +84,7 @@ A JavaScript library for building user interfaces
 * [React specific linting rules for ESLint](https://github.com/yannickcr/eslint-plugin-react)
 * [React and Express file uploader](https://github.com/bradtraversy/react_file_uploader)
 * [AWESOME REACT HOOKS](https://github.com/glauberfc/awesome-react-hooks)
+* [Use React, Redux, Immutable to code Tetris](https://github.com/chvin/react-tetris)
 
 ## :rocket: BASE UI
 
@@ -240,6 +241,12 @@ Simple HTML5 drag-drop zone with React.js
 
 * [GITHUB](https://github.com/react-dropzone/react-dropzone)
 * [WEBSITE](https://react-dropzone.js.org/)
+
+## :rocket: REACT ASYNC
+
+Flexible promise-based React data loader
+
+* [GITHUB](https://github.com/ghengeveld/react-async)
 
 ## :rocket: REACT FACEBOOK LOGIN
 
