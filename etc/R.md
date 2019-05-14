@@ -168,6 +168,13 @@ Next-generation ES module bundler
 * [GITHUB](https://github.com/rollup/rollup)
 * [WEBSITE/DOCS](https://rollupjs.org/guide/en)
 
+## :rocket: RUNPKG
+
+Runpkg turns a static file into an interactive and informative browsing experience. It lets you navigate any JavaScript package on npm thanks to unpkg.com a very popular and reliable CDN mirror of the npm registry. You can use the tool to learn more about the inner workings of your project's dependencies; find out how modules work, what they depend on, the size of specific imports as other useful metadata.
+
+* [GITHUB](https://github.com/FormidableLabs/runpkg)
+* [WEBSITE](https://runpkg.com/)
+
 ## :rocket: RX JS
 
 RxJS is a library for reactive programming using Observables, to make it easier to compose asynchronous or callback-based code.

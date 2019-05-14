@@ -28,6 +28,7 @@
 7. [Added docsify js](etc/D.md#rocket-docsify-js)
 8. [Added carbon](etc/C.md#rocket-carbon)
 9. [Spoke](etc/S.md#rocket-spoke)
+10. [Runpkg](etc/R.md#rocket-runpkg)
 
 ### [VERSION 5.0.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.0.0)
 
