@@ -8,6 +8,12 @@ Make front-end development simple and friendly Make Front-end development simple
 * [WEBSITE](https://ice.work/)
 * [DOCS](https://ice.work/docs/about)
 
+## :rocket: IJAVASCRIPT
+
+IJavascript is a javascript kernel for the Jupyter notebook
+
+* [GITHUB](https://github.com/n-riesco/ijavascript)
+
 ## :rocket: IMAGEMIN
 
 Tense, nervous, minifying images
