@@ -33,6 +33,7 @@
 8. [Added carbon](etc/C.md#rocket-carbon)
 9. [Spoke](etc/S.md#rocket-spoke)
 10. [Runpkg](etc/R.md#rocket-runpkg)
+11. [Bundle phobia](etc/B.md#rocket-bundlephobia)
 
 ### [VERSION 5.0.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.0.0)
 

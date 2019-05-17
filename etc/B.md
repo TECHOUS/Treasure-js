@@ -102,3 +102,10 @@ Neural networks in JavaScript
 Plotting library for IPython/Jupyter Notebooks
 
 * [GITHUB](https://github.com/bloomberg/bqplot)
+
+## :rocket: BUNDLEPHOBIA
+
+Find out the cost of adding a new frontend dependency to your project
+
+* [GITHUB](Find out the cost of adding a new frontend dependency to your project )
+* [WEBSITE](https://bundlephobia.com/)
