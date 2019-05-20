@@ -23,6 +23,7 @@ Added below small components
 ### SUB ADDITIONS
 
 1. [Reach](etc/reactJS.md#rocket-reach)
+2. [React Native for Web](etc/reactNative.md#rocket-react-native-for-web)
 
 *recently added:*
 

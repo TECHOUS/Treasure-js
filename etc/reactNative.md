@@ -31,6 +31,13 @@ A platform-agnostic drawer layout. It uses a pure JavaScript implementation on e
 
 * [GITHUB](https://github.com/react-native-community/react-native-drawer-layout)
 
+## :rocket: REACT NATIVE FOR WEB
+
+"React Native for Web" makes it possible to run React Native components and APIs on the web using React DOM. Check out the live demo of the React Native examples running on the web.
+
+* [GITHUB](https://github.com/necolas/react-native-web)
+* [WEBSITE](http://necolas.github.io/react-native-web/examples/)
+
 ## :rocket: REACT NATIVE GIFTED CHAT
 
 The most complete chat UI for React Native
