@@ -1,10 +1,8 @@
 # VERSION 5
 
-## [FIXES 5.0.1](https://github.com/TechOUs/Treasure-js/releases/tag/5.0.1)
+## [UPDATES 5.0.2](https://github.com/TechOUs/Treasure-js/releases/tag/5.0.2)
 
-**Updated style of release notes,contributions and other viewing options.**
-
-### SUB ADDITIONS
+Added below small components
 
 1. [react useportal](etc/reactJS.md#rocket-react-useportal)
 2. [react use gesture](etc/reactJS.md#rocket-react-use-gesture)
@@ -20,6 +18,9 @@
 12. [React Chat Elements](etc/reactJS.md#rocket-react-chat-elements)
 13. [React Chat UI](etc/reactJS.md#rocket-react-chat-ui)
 14. [React Native Gifted Chat](etc/reactNative.md#rocket-react-native-gifted-chat)
+15. [Unform](etc/reactJS.md#rocket-unform)
+
+### SUB ADDITIONS
 
 *recently added:*
 
@@ -35,6 +36,10 @@
 10. [Runpkg](etc/R.md#rocket-runpkg)
 11. [Bundle phobia](etc/B.md#rocket-bundlephobia)
 12. [IJavascript](etc/I.md#rocket-ijavascript)
+
+### [FIXES 5.0.1](https://github.com/TechOUs/Treasure-js/releases/tag/5.0.1)
+
+**Updated style of release notes,contributions and other viewing options.**
 
 ### [VERSION 5.0.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.0.0)
 
