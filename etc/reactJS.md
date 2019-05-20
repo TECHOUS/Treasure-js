@@ -179,6 +179,13 @@ Toolkit for building really interactive UIs with React
 * [WEBSITE](https://reakit.io/)
 * [DOCS](https://reakit.io/guide/get-started)
 
+## :rocket: REACH
+
+Next Generation Routing for React
+
+* [GITHUB](https://github.com/reach/router)
+* [WEBSITE/DOCS](https://reach.tech/router)
+
 ## :rocket: REACT 360
 
 Create amazing 360 and VR content using React

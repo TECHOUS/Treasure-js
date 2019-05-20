@@ -22,6 +22,8 @@ Added below small components
 
 ### SUB ADDITIONS
 
+1. [Reach](etc/reactJS.md#rocket-reach)
+
 *recently added:*
 
 1. [flow](etc/F.md#rocket-flow)
