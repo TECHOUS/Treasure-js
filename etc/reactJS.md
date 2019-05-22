@@ -368,6 +368,13 @@ An onClickOutside wrapper for React components
 
 * [GITHUB](https://github.com/Pomax/react-onclickoutside)
 
+## :rocket: REACT PDF
+
+Create PDF files using React
+
+* [GITHUB](https://github.com/diegomura/react-pdf)
+* [WEBSITE](https://react-pdf.org/)
+
 ## :rocket: REACT PROP TYPES
 
 Parses React prop-types into a readable object

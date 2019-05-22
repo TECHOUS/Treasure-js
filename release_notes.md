@@ -25,6 +25,7 @@ Added below small components
 1. [Reach](etc/reactJS.md#rocket-reach)
 2. [React Native for Web](etc/reactNative.md#rocket-react-native-for-web)
 3. [React Music](etc/reactJS.md#rocket-react-music)
+4. [React Pdf](etc/reactJS.md#rocket-react-pdf)
 
 *recently added:*
 
