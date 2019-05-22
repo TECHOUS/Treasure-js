@@ -85,6 +85,7 @@ A JavaScript library for building user interfaces
 * [React and Express file uploader](https://github.com/bradtraversy/react_file_uploader)
 * [AWESOME REACT HOOKS](https://github.com/glauberfc/awesome-react-hooks)
 * [Use React, Redux, Immutable to code Tetris](https://github.com/chvin/react-tetris)
+* [Beginner's Guide To React Router Starter Project](https://github.com/dabit3/beginners-guide-to-react-router)
 
 ## :rocket: BASE UI
 
@@ -338,6 +339,13 @@ React friendly API wrapper around MapboxGL JS
 * [GITHUB](https://github.com/uber/react-map-gl)
 * [WEBSITE](https://uber.github.io/react-map-gl/)
 * [DOCS](https://uber.github.io/react-map-gl/#/Documentation/getting-started/get-started?section=example)
+
+## :rocket: REACT MUSIC
+
+Make beats with React!
+
+* [GITHUB](https://github.com/FormidableLabs/react-music)
+* [WEBSITE](http://reactmusic.surge.sh/)
 
 ## :rocket: REACT MORPH
 
