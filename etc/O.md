@@ -14,6 +14,12 @@ ONNX.js: run ONNX models using JavaScript
 * [GITHUB](https://github.com/Microsoft/onnxjs)
 * [demos to show the capabilities of ONNX.js](https://github.com/Microsoft/onnxjs-demo)
 
+## :rocket: OLA
+
+Smooth animation library for interpolating numbers
+
+* [GITHUB](https://github.com/franciscop/ola)
+
 ## :rocket: OpenZeppelin
 
 OpenZeppelin is a library for secure smart contract development

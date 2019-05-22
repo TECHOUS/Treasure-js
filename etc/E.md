@@ -26,6 +26,7 @@ Build cross platform desktop apps with JavaScript, HTML, and CSS
 * [Collection of Apps build on electron](https://github.com/electron/apps)
 * [DOCS](https://devdocs.io/electron/)
 * [Windows 95 in Electron. Runs on macOS, Linux, and Windows.](https://github.com/felixrieseberg/windows95)
+* [Implementation of Chrome extension APIs for Electron](https://github.com/wexond/electron-extensions)
 
 ## :rocket: EMBER JS
 
