@@ -40,6 +40,7 @@ Added below small components
 11. [Bundle phobia](etc/B.md#rocket-bundlephobia)
 12. [IJavascript](etc/I.md#rocket-ijavascript)
 13. [Ola](etc/O.md#rocket-ola)
+14. [Deck Gl](etc/D.md#rocket-deck-gl)
 
 ### [FIXES 5.0.1](https://github.com/TechOUs/Treasure-js/releases/tag/5.0.1)
 

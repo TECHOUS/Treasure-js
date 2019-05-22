@@ -48,6 +48,14 @@ Modern JavaScript date utility library: date-fns provides the most comprehensive
 * [WEBSITE](https://date-fns.org/)
 * [DOCS](https://date-fns.org/docs/Getting-Started)
 
+## :rocket: DECK GL
+
+WebGL2 powered geospatial visualization layers
+
+* [GITHUB](https://github.com/uber/deck.gl)
+* [WEBSITE](https://deck.gl/#/)
+* [DOCS](https://deck.gl/#/documentation/overview/introduction)
+
 ## :rocket: DENO
 
 A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio
