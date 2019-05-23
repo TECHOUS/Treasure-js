@@ -30,6 +30,8 @@
 
 *recently added:*
 
+1. [Search UI](etc/S.md#rocket-search-ui)
+
 ### [UPDATES 5.0.2](https://github.com/TechOUs/Treasure-js/releases/tag/5.0.2)
 
 Added below small components

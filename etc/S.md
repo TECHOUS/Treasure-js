@@ -6,6 +6,14 @@ Color scale generator
 
 * [GITHUB](https://github.com/hihayk/scale)
 
+## :rocket: SEARCH UI
+
+Libraries for the fast development of modern, engaging search experiences.
+
+* [GITHUB](https://github.com/elastic/search-ui)
+* [WEBSITE](https://swiftype.com/search-ui)
+* [DOCS](https://swiftype.com/documentation/enterprise-search/getting-started)
+
 ## :rocket: SEMANTIC UI
 
 UI component framework based around useful principles from natural language
