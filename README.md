@@ -1,13 +1,36 @@
 <p align="center">
     <img src="logo/third.ico" alt="treasure logo"/>
     <h1 align="center">TREASURE JS</h1>
+    <h4 align="center">
+        <a href="https://github.com/TechOUs/Treasure-js/releases">VERSION 5.1.0</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+        <a href="release_notes.md">HISTORY</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+        <a href="CONTRIBUTING.md">CONTRIBUTE</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+        <a href="https://github.com/TechOUs/treasurejs.github.io">WEBSITE</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+        <a href="https://github.com/TechOUs/Treasurejs-logo">LOGO</a>
+    </h4>
+    <h4 align="center">
+        <img alt="GitHub tag (latest SemVer)" src="https://img.shields.io/github/tag/TechOUs/Treasure-js.svg">&nbsp;&nbsp;
+        <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/TechOUs/Treasure-js.svg">&nbsp;&nbsp;
+        <img alt="GitHub" src="https://img.shields.io/github/license/TechOUs/Treasure-js.svg">&nbsp;&nbsp;
+        <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/TechOUs/Treasure-js.svg">&nbsp;&nbsp;
+        <img alt="GitHub commits since latest release" src="https://img.shields.io/github/commits-since/TechOUs/Treasure-js/5.0.0.svg">&nbsp;&nbsp;
+        <img alt="GitHub stars" src="https://img.shields.io/github/stars/TechOUs/Treasure-js.svg?style=social">
+    </h4>
     <h4 align="center"><cite>A <u>JavaScript WikiPedia</u> for GitHub</cite></h4>
-    <h4 align="right"><a href="https://github.com/TechOUs/Treasurejs-logo">LOGO</a> | <a href="https://github.com/TechOUs/treasurejs.github.io">WEBSITE</a> | <a href="https://github.com/TechOUs/Treasure-js/releases">VERSION 5.0.2</a> | <a href="release_notes.md">HISTORY</a></h4>
 </p>
 
-A **Wikipedia for JavaScript** Here you will get the treasure of links and findings of JavaScript and its extensions(Frameworks,Libraries,usage,etc.).
+A **Wikipedia for JavaScript** where to can get JavaScript:
 
-It also contains JavaScript Tutorials courses links which are absolutely free for everyone. Keep Supporting!
+* **Free Courses links which are absolutely free for everyone.**
+* **Frameworks list**
+* **Libraries list**
+* **Tools list**
+* **Extensions**
+* **Other Popular GitHub repos info**
+
+We need some support so please do *star, watch* and [**contribute**](CONTRIBUTING.md) to our repo
+
+Keep Supporting!
 
 <p align="center">
     <img src="logo/idiots.gif" align="center"/>

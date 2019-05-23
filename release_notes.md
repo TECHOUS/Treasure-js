@@ -1,24 +1,24 @@
 # VERSION 5
 
-## [UPDATES 5.0.2](https://github.com/TechOUs/Treasure-js/releases/tag/5.0.2)
+## [UPDATES 5.1.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.1.0)
 
-Added below small components
+**Added these libraries:**
 
-1. [react useportal](etc/reactJS.md#rocket-react-useportal)
-2. [react use gesture](etc/reactJS.md#rocket-react-use-gesture)
-3. [react 360](etc/reactJS.md#rocket-react-360)
-4. [Angular Components](etc/angularJS.md#rocket-components)
-5. [Node Redis JS](etc/node.md#rocket-node-redis-js)
-6. [NWB](etc/reactJS.md#rocket-nwb)
-7. [ELEMENT REACT](etc/reactJS.md#rocket-element-react)
-8. [React Laravel](etc/reactJS.md#rocket-react-laravel)
-9. [Node libpq](etc/node.md#rocket-node-libpq)
-10. [React 95](etc/reactJS.md#rocket-react-95)
-11. [React Async](etc/reactJS.md#rocket-react-async)
-12. [React Chat Elements](etc/reactJS.md#rocket-react-chat-elements)
-13. [React Chat UI](etc/reactJS.md#rocket-react-chat-ui)
-14. [React Native Gifted Chat](etc/reactNative.md#rocket-react-native-gifted-chat)
-15. [Unform](etc/reactJS.md#rocket-unform)
+* [flow](etc/F.md#rocket-flow)
+* [edex ui](etc/E.md#rocket-edex-ui)
+* [rest js](etc/R.md#rocket-rest-js)
+* [response](etc/R.md#rocket-response)
+* [bottender js](etc/B.md#rocket-bottender-js)
+* [cxxt](etc/C.md#rocket-cxxt)
+* [Added docsify js](etc/D.md#rocket-docsify-js)
+* [Added carbon](etc/C.md#rocket-carbon)
+* [Spoke](etc/S.md#rocket-spoke)
+* [Runpkg](etc/R.md#rocket-runpkg)
+* [Bundle phobia](etc/B.md#rocket-bundlephobia)
+* [IJavascript](etc/I.md#rocket-ijavascript)
+* [Ola](etc/O.md#rocket-ola)
+* [Deck Gl](etc/D.md#rocket-deck-gl)
+* [Lib](etc/L.md#rocket-lib)
 
 ### SUB ADDITIONS
 
@@ -29,24 +29,29 @@ Added below small components
 
 *recently added:*
 
-1. [flow](etc/F.md#rocket-flow)
-2. [edex ui](etc/E.md#rocket-edex-ui)
-3. [rest js](etc/R.md#rocket-rest-js)
-4. [response](etc/R.md#rocket-response)
-5. [bottender js](etc/B.md#rocket-bottender-js)
-6. [cxxt](etc/C.md#rocket-cxxt)
-7. [Added docsify js](etc/D.md#rocket-docsify-js)
-8. [Added carbon](etc/C.md#rocket-carbon)
-9. [Spoke](etc/S.md#rocket-spoke)
-10. [Runpkg](etc/R.md#rocket-runpkg)
-11. [Bundle phobia](etc/B.md#rocket-bundlephobia)
-12. [IJavascript](etc/I.md#rocket-ijavascript)
-13. [Ola](etc/O.md#rocket-ola)
-14. [Deck Gl](etc/D.md#rocket-deck-gl)
+### [UPDATES 5.0.2](https://github.com/TechOUs/Treasure-js/releases/tag/5.0.2)
+
+Added below small components
+
+* [react useportal](etc/reactJS.md#rocket-react-useportal)
+* [react use gesture](etc/reactJS.md#rocket-react-use-gesture)
+* [react 360](etc/reactJS.md#rocket-react-360)
+* [Angular Components](etc/angularJS.md#rocket-components)
+* [Node Redis JS](etc/node.md#rocket-node-redis-js)
+* [NWB](etc/reactJS.md#rocket-nwb)
+* [ELEMENT REACT](etc/reactJS.md#rocket-element-react)
+* [React Laravel](etc/reactJS.md#rocket-react-laravel)
+* [Node libpq](etc/node.md#rocket-node-libpq)
+* [React 95](etc/reactJS.md#rocket-react-95)
+* [React Async](etc/reactJS.md#rocket-react-async)
+* [React Chat Elements](etc/reactJS.md#rocket-react-chat-elements)
+* [React Chat UI](etc/reactJS.md#rocket-react-chat-ui)
+* [React Native Gifted Chat](etc/reactNative.md#rocket-react-native-gifted-chat)
+* [Unform](etc/reactJS.md#rocket-unform)
 
 ### [FIXES 5.0.1](https://github.com/TechOUs/Treasure-js/releases/tag/5.0.1)
 
-**Updated style of release notes,contributions and other viewing options.**
+Updated style of release notes,contributions and other viewing options.
 
 ### [VERSION 5.0.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.0.0)
 
@@ -61,21 +66,21 @@ Version Released
 
 *15 treasure added are:*
 
-1. [styled SPINKIT](etc/S.md#rocket-styled-spinkit)
-2. [react star rating component](etc/reactJS.md#rocket-react-star-rating-component)
-3. [neutralino js](etc/N.md#rocket-neutralino-js)
-4. [deskgap in node js](etc/node.md#rocket-deskgap)
-5. [quicklink](etc/Q.md#rocket-quicklink)
-6. [esm](etc/E.md#rocket-esm)
-7. [deno](etc/D.md#rocket-deno)
-8. [xstate js](etc/X.md#rocket-xstate-js)
-9. [ice](etc/I.md#rocket-ice)
-10. [flickity](etc/F.md#rocket-flickity)
-11. [react sortable js](etc/reactJS.md#rocket-react-sortable-js)
-12. [bento starter](etc/B.md#rocket-bento-starter)
-13. [tesseract js](etc/T.md#rocket-tesseract-js)
-14. [reach ui](etc/R.md#rocket-reach-ui)
-15. [bootstrap vue js](etc/B.md#rocket-bootstrap-vue-js)
+* [styled SPINKIT](etc/S.md#rocket-styled-spinkit)
+* [react star rating component](etc/reactJS.md#rocket-react-star-rating-component)
+* [neutralino js](etc/N.md#rocket-neutralino-js)
+* [deskgap in node js](etc/node.md#rocket-deskgap)
+* [quicklink](etc/Q.md#rocket-quicklink)
+* [esm](etc/E.md#rocket-esm)
+* [deno](etc/D.md#rocket-deno)
+* [xstate js](etc/X.md#rocket-xstate-js)
+* [ice](etc/I.md#rocket-ice)
+* [flickity](etc/F.md#rocket-flickity)
+* [react sortable js](etc/reactJS.md#rocket-react-sortable-js)
+* [bento starter](etc/B.md#rocket-bento-starter)
+* [tesseract js](etc/T.md#rocket-tesseract-js)
+* [reach ui](etc/R.md#rocket-reach-ui)
+* [bootstrap vue js](etc/B.md#rocket-bootstrap-vue-js)
 
 ### [FIXES 4.6.1](https://github.com/TechOUs/Treasure-js/releases/tag/4.6.1)
 
@@ -85,61 +90,61 @@ Fixed duplicate react window heading
 
 *15 treasure added are:*
 
-1. [react onclick outside](etc/reactJS.md#rocket-react-onclick-outside)
-2. [light my request](etc/L.md#rocket-light-my-request)
-3. [fastify](etc/F.md#rocket-fastify)
-4. [taro js](etc/T.md#rocket-taro-js)
-5. [nerv js](etc/N.md#rocket-nerv-js)
-6. [nativescript](etc/N.md#rocket-nativescript)
-7. [react fiber](etc/reactJS.md#rocket-react-fiber)
-8. [tool](etc/T.md#rocket-tool)
-9. [react window](etc/reactJS.md#rocket-react-window)
-10. [faye](etc/F.md#rocket-faye)
-11. [svelte js](etc/S.md#rocket-svelte-js)
-12. [vuetify js](etc/V.md#rocket-vuetify-js)
-13. [autosize](etc/A.md#rocket-autosize)
-14. [react lifecycle visualizer](etc/reactJS.md#rocket-react-lifestyle-visualizer)
-15. [flowpoints ml](etc/F.md#rocket-flowpoints-ml)
+* [react onclick outside](etc/reactJS.md#rocket-react-onclick-outside)
+* [light my request](etc/L.md#rocket-light-my-request)
+* [fastify](etc/F.md#rocket-fastify)
+* [taro js](etc/T.md#rocket-taro-js)
+* [nerv js](etc/N.md#rocket-nerv-js)
+* [nativescript](etc/N.md#rocket-nativescript)
+* [react fiber](etc/reactJS.md#rocket-react-fiber)
+* [tool](etc/T.md#rocket-tool)
+* [react window](etc/reactJS.md#rocket-react-window)
+* [faye](etc/F.md#rocket-faye)
+* [svelte js](etc/S.md#rocket-svelte-js)
+* [vuetify js](etc/V.md#rocket-vuetify-js)
+* [autosize](etc/A.md#rocket-autosize)
+* [react lifecycle visualizer](etc/reactJS.md#rocket-react-lifestyle-visualizer)
+* [flowpoints ml](etc/F.md#rocket-flowpoints-ml)
 
 ### [VERSION 4.5.0](https://github.com/TechOUs/Treasure-js/releases/tag/4.5.0)
 
 *15 treasure added are:*
 
-1. Added playroom
-2. Added faker js
-3. Added aos
-4. Added node http mitm proxy
-5. Added spectacle
-6. Added mobx react lite
-7. Added just
-8. Added content loader
-9. Added node json web token
-10. Added onnx js
-11. Added react navigation native
-12. Added lago
-13. Added glicky
-14. Added chai js
-15. Added await to js
+* Added playroom
+* Added faker js
+* Added aos
+* Added node http mitm proxy
+* Added spectacle
+* Added mobx react lite
+* Added just
+* Added content loader
+* Added node json web token
+* Added onnx js
+* Added react navigation native
+* Added lago
+* Added glicky
+* Added chai js
+* Added await to js
 
 ### [VERSION 4.4.0](https://github.com/TechOUs/Treasure-js/releases/tag/4.4.0)
 
 *15 treasure added are:*
 
-1. Added mikro orm
-2. Added redis dump
-3. Added etcher
-4. Added react window
-5. Added hygen
-6. Added emuto
-7. Added base ui in react
-8. Added tough cookie
-9. Added react image
-10. Added react drop zone js
-11. Added packem
-12. Added octotree
-13. Added tv2
-14. Added ajv js
-15. Added https node proxy agent
+* Added mikro orm
+* Added redis dump
+* Added etcher
+* Added react window
+* Added hygen
+* Added emuto
+* Added base ui in react
+* Added tough cookie
+* Added react image
+* Added react drop zone js
+* Added packem
+* Added octotree
+* Added tv2
+* Added ajv js
+* Added https node proxy agent
 
 ### [PATCH 4.3.3](https://github.com/TechOUs/Treasure-js/releases/tag/4.3.3)
 

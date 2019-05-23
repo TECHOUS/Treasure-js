@@ -32,6 +32,14 @@ A tool for managing JavaScript projects with multiple packages.
 * [GITHUB](https://github.com/lerna/lerna)
 * [WEBSITE/DOCS](https://lernajs.io/)
 
+## :rocket: LIB
+
+Standard Library API Development, Deployment, and Management Tools
+
+* [GITHUB](https://github.com/stdlib/lib)
+* [WEBSITE](https://stdlib.com/)
+* [DOCS](https://docs.stdlib.com/#introduction)
+
 ## :rocket: LIGHT MY REQUEST
 
 Fake HTTP injection library
