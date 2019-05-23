@@ -26,6 +26,7 @@
 2. [React Native for Web](etc/reactNative.md#rocket-react-native-for-web)
 3. [React Music](etc/reactJS.md#rocket-react-music)
 4. [React Pdf](etc/reactJS.md#rocket-react-pdf)
+5. [Node tap](etc/node.md#rocket-node-tap)
 
 *recently added:*
 

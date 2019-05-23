@@ -164,6 +164,13 @@ redis client for node
 * [GITHUB](https://github.com/NodeRedis/node_redis)
 * [WEBSITE](http://redis.js.org/)
 
+## :rocket: NODE TAP
+
+A TAP test framework for Node.js.
+
+* [GITHUB](https://github.com/tapjs/node-tap)
+* [WEBSITE](https://www.node-tap.org/)
+
 ## :rocket: ORA
 
 Elegant terminal spinner
