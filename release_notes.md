@@ -33,6 +33,7 @@
 *recently added:*
 
 1. [Search UI](etc/S.md#rocket-search-ui)
+2. [Platform JS](etc/P.md#rocket-platform-js)
 
 ### [UPDATES 5.0.2](https://github.com/TechOUs/Treasure-js/releases/tag/5.0.2)
 

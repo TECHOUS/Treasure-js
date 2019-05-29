@@ -67,6 +67,12 @@ Low friction JavaScript benchmarks that you can share via URL
 * [WEBSITE/DOCS](http://getpino.io/#/)
 * [A list of standard object serializers for the Pino logger](https://github.com/pinojs/pino-std-serializers)
 
+## :rocket: PLATFORM JS
+
+A platform detection library.
+
+* [GITHUB](https://github.com/bestiejs/platform.js)
+
 ## :rocket: PLAYROOM
 
 Design with JSX, powered by your own component library.
