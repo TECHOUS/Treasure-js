@@ -44,6 +44,12 @@ The most complete chat UI for React Native
 
 * [GITHUB](https://github.com/FaridSafi/react-native-gifted-chat)
 
+## :rocket: REACT NATIVE HTMLVIEW
+
+A React Native component which renders HTML content as native views
+
+* [GITHUB](https://github.com/jsdf/react-native-htmlview)
+
 ## :rocket: REACT NATIVE REALLY AWESOME BUTTON
 
 React Native button component. Awesome Button is a 3D at 60fps, progress enabled, social ready, extendable, production ready component that renders an awesome animated set of UI buttons.
@@ -52,11 +58,11 @@ React Native button component. Awesome Button is a 3D at 60fps, progress enabled
 * [WEBSITE](https://expo.io/@rcaferati/react-native-really-awesome-button)
 * [DOCS](https://docs.expo.io/versions/latest/)
 
-## :rocket: REACT NATIVE HTMLVIEW
+## :rocket: REACT NATIVE TEMPLATE ROCKETSEAT ADVANCED
 
-A React Native component which renders HTML content as native views
+Advanced template for React Native applications with the structure used in Rocketseat
 
-* [GITHUB](https://github.com/jsdf/react-native-htmlview)
+* [GITHUB](https://github.com/Rocketseat/react-native-template-rocketseat-advanced)
 
 ## :rocket: REACT NAVIGATION NATIVE
 

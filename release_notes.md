@@ -28,6 +28,7 @@
 4. [React Pdf](etc/reactJS.md#rocket-react-pdf)
 5. [Node tap](etc/node.md#rocket-node-tap)
 6. [Tosin](etc/node.md#rocket-tosin)
+7. [React Native Rocketseat](etc/reactNative.md#rocket-react-native-template-rocketseat-advanced)
 
 *recently added:*
 
