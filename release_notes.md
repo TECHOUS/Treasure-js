@@ -27,6 +27,7 @@
 3. [React Music](etc/reactJS.md#rocket-react-music)
 4. [React Pdf](etc/reactJS.md#rocket-react-pdf)
 5. [Node tap](etc/node.md#rocket-node-tap)
+6. [Tosin](etc/node.md#rocket-tosin)
 
 *recently added:*
 

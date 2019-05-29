@@ -1,11 +1,12 @@
 <p align="center">
     <img src="logo/third.ico" alt="treasure logo"/>
     <h1 align="center">TREASURE JS</h1>
+    <h4 align="center"><cite>A <u>JavaScript WikiPedia</u> for GitHub</cite></h4>
     <h4 align="center">
-        <a href="https://github.com/TechOUs/Treasure-js/releases">VERSION 5.1.0</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+        <a href="https://github.com/TechOUs/treasurejs.github.io">WEBSITE</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+        <a href="">CLI</a> &nbsp;&nbsp; | &nbsp;&nbsp;
         <a href="release_notes.md">HISTORY</a> &nbsp;&nbsp; | &nbsp;&nbsp;
         <a href="CONTRIBUTING.md">CONTRIBUTE</a> &nbsp;&nbsp; | &nbsp;&nbsp;
-        <a href="https://github.com/TechOUs/treasurejs.github.io">WEBSITE</a> &nbsp;&nbsp; | &nbsp;&nbsp;
         <a href="https://github.com/TechOUs/Treasurejs-logo">LOGO</a>
     </h4>
     <h4 align="center">
@@ -16,7 +17,6 @@
         <img alt="GitHub commits since latest release" src="https://img.shields.io/github/commits-since/TechOUs/Treasure-js/5.0.0.svg">&nbsp;&nbsp;
         <img alt="GitHub stars" src="https://img.shields.io/github/stars/TechOUs/Treasure-js.svg?style=social">
     </h4>
-    <h4 align="center"><cite>A <u>JavaScript WikiPedia</u> for GitHub</cite></h4>
 </p>
 
 A **Wikipedia for JavaScript** where to can get JavaScript:

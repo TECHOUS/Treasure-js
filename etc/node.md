@@ -216,6 +216,14 @@ tap-producing test harness for node and browsers
 
 * [GITHUB](https://github.com/substack/tape)
 
+## :rocket: TOSIN
+
+Initialize a npm package with everything included, from CI to documentation website
+
+* [GITHUB](https://github.com/FullHuman/tosin)
+* [WEBSITE](https://fullhuman.github.io/tosin/)
+* [DOCS](https://fullhuman.github.io/tosin/Guide.html)
+
 ## :rocket: TOUGH COOKIE
 
 RFC6265 Cookies and CookieJar for Node.js
