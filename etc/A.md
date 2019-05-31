@@ -14,6 +14,12 @@ a web framework for building virtual reality experiences
 * [WEBSITE](https://aframe.io/)
 * [DOCS](https://aframe.io/docs/0.8.0/introduction/)
 
+## :rocket: AGENDA
+
+Lightweight job scheduling for Node.js
+
+* [GITHUB](https://github.com/agenda/agenda)
+
 ## :rocket: AJV JS
 
 The fastest JSON Schema Validator.

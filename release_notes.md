@@ -37,6 +37,7 @@
 1. [Search UI](etc/S.md#rocket-search-ui)
 2. [Platform JS](etc/P.md#rocket-platform-js)
 3. [Odoo](etc/O.md#rocket-odoo)
+4. [Agenda](etc/A.md#rocket-agenda)
 
 ### [UPDATES 5.0.2](https://github.com/TechOUs/Treasure-js/releases/tag/5.0.2)
 
