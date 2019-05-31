@@ -30,6 +30,7 @@
 6. [Tosin](etc/node.md#rocket-tosin)
 7. [React Native Rocketseat](etc/reactNative.md#rocket-react-native-template-rocketseat-advanced)
 8. [Use css for react](etc/reactJS.md#rocket-use-css)
+9. [Added Luma gl](etc/L.md#rocket-luma-gl)
 
 *recently added:*
 
