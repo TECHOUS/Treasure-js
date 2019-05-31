@@ -29,6 +29,7 @@
 5. [Node tap](etc/node.md#rocket-node-tap)
 6. [Tosin](etc/node.md#rocket-tosin)
 7. [React Native Rocketseat](etc/reactNative.md#rocket-react-native-template-rocketseat-advanced)
+8. [Use css for react](etc/reactJS.md#rocket-use-css)
 
 *recently added:*
 
