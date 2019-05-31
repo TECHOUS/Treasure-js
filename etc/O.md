@@ -7,6 +7,14 @@ GitHub code tree on steroids
 * [GITHUB](https://github.com/ovity/octotree)
 * [WEBSITE](https://www.octotree.io/)
 
+## :rocket: ODOO
+
+Odoo. Open Source Apps To Grow Your Business.
+
+* [GITHUB](https://github.com/odoo/odoo)
+* [WEBSITE](https://www.odoo.com/)
+* [DOCS](https://www.odoo.com/page/docs)
+
 ## :rocket: ONNX JS
 
 ONNX.js: run ONNX models using JavaScript
