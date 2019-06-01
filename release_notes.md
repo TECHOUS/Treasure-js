@@ -32,6 +32,7 @@
 8. [Use css for react](etc/reactJS.md#rocket-use-css)
 9. [Added Luma gl](etc/L.md#rocket-luma-gl)
 10. [Svgo](etc/node.md#rocket-svgo)
+11. [GRPC Node](etc/node.md#rocket-grpc-node)
 
 *recently added:*
 

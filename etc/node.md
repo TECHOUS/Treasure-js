@@ -111,6 +111,14 @@ A better child_process
 
 * [GITHUB](https://github.com/sindresorhus/execa)
 
+## :rocket: GRPC NODE
+
+A high performance, open-source universal RPC framework
+
+* [GITHUB](https://github.com/grpc/grpc-node)
+* [WEBSITE](https://grpc.io/)
+* [DOCS](https://grpc.io/docs/)
+
 ## :rocket: INDENT TEXTAREA
 
 Add editor-like tab-to-indent functionality to textarea, in a few bytes
