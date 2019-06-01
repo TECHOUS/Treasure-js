@@ -210,6 +210,12 @@ Daemon for easy but powerful stats aggregation
 
 * [GITHUB](https://github.com/etsy/statsd)
 
+## :rocket: SVGO
+
+Node.js tool for optimizing SVG files
+
+* [GITHUB](https://github.com/svg/svgo)
+
 ## :rocket: TAPE
 
 tap-producing test harness for node and browsers
