@@ -21,6 +21,13 @@ Mapbox GL JS is a JavaScript library that uses WebGL to render interactive maps 
 * [WEBSITE](https://www.mapbox.com/)
 * [DOCS](https://www.mapbox.com/mapbox-gl-js/api/)
 
+## :rocket: MAPS API FOR JAVASCRIPT EXAMPLES
+
+Self-contained examples for Maps API for JavaScript v3.
+
+* [GITHUB](https://github.com/heremaps/maps-api-for-javascript-examples)
+* [WEBSITE/DOCS](https://developer.here.com/documentation/maps/topics/overview.html)
+
 ## :rocket: MARIONETTE JS
 
 Marionette simplifies your Backbone application code with robust views and architecture solutions.

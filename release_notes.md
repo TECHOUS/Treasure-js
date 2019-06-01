@@ -38,6 +38,7 @@
 2. [Platform JS](etc/P.md#rocket-platform-js)
 3. [Odoo](etc/O.md#rocket-odoo)
 4. [Agenda](etc/A.md#rocket-agenda)
+5. [Map api for javascript](etc/M.md#rocket-map-api-for-javascript-examples)
 
 ### [UPDATES 5.0.2](https://github.com/TechOUs/Treasure-js/releases/tag/5.0.2)
 
