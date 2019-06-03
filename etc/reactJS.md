@@ -548,3 +548,9 @@ ReactJS form library to create uncontrolled form structures with nested fields, 
 Silly React hook for CSS
 
 * [GITHUB](https://github.com/siddharthkp/use-css)
+
+## :rocket: USE PERSISTED STATE
+
+A custom React Hook that provides a multi-instance, multi-tab/browser shared and persistent state.
+
+* [GITHUB](https://github.com/donavon/use-persisted-state)

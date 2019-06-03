@@ -33,6 +33,7 @@
 9. [Added Luma gl](etc/L.md#rocket-luma-gl)
 10. [Svgo](etc/node.md#rocket-svgo)
 11. [GRPC Node](etc/node.md#rocket-grpc-node)
+12. [Use Persisted State](etc/reactJS.md#rocket-use-persisted-state)
 
 *recently added:*
 
