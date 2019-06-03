@@ -158,6 +158,12 @@ React code splitting made easy
 * [WEBSITE](https://www.smooth-code.com/open-source/loadable-components/)
 * [DOCS](https://www.smooth-code.com/open-source/loadable-components/docs/getting-started/)
 
+## :rocket: LOCAL STORAGE
+
+React hook which syncs localStorage key with the comp.
+
+* [GITHUB](https://github.com/rehooks/local-storage)
+
 ## :rocket: OBJECT DETECTION REACT
 
 Real-Time Custom Object Detection with TensorFlow.js
@@ -208,6 +214,12 @@ A frontend Framework for building admin applications running in the browser on t
 
 * [GITHUB](https://github.com/marmelab/react-admin)
 * [WEBSITE](https://marmelab.com/react-admin/)
+
+## :rocket: REACT ASYNC
+
+Flexible promise-based React data loader
+
+* [GITHUB](https://github.com/ghengeveld/react-async)
 
 ## :rocket: REACT AUTOSUGGEST
 
@@ -262,12 +274,6 @@ Simple HTML5 drag-drop zone with React.js
 
 * [GITHUB](https://github.com/react-dropzone/react-dropzone)
 * [WEBSITE](https://react-dropzone.js.org/)
-
-## :rocket: REACT ASYNC
-
-Flexible promise-based React data loader
-
-* [GITHUB](https://github.com/ghengeveld/react-async)
 
 ## :rocket: REACT FACEBOOK LOGIN
 
