@@ -96,6 +96,12 @@ modest natural-language processing in javascript
 * [GITHUB](https://github.com/spencermountain/compromise)
 * [WEBSITE](http://compromise.cool/)
 
+## :rocket: CORE JS
+
+Modular standard library for JavaScript. Includes polyfills for ECMAScript up to 2019: promises, symbols, collections, iterators, typed arrays, many other features, ECMAScript proposals, some cross-platform WHATWG / W3C features and proposals like URL. You can load only required features or use it without global namespace pollution.
+
+* [GITHUB](https://github.com/zloirock/core-js)
+
 ## :rocket: COSMIC JS
 
 The leading content management solution for modern digital teams
