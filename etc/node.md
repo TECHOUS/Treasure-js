@@ -206,6 +206,12 @@ Dump redis database into redis commands or json with command line or node.js
 
 * [GITHUB](https://github.com/jeremyfa/node-redis-dump)
 
+## :rocket: SADE
+
+Sade is a small but powerful tool for building command-line interface (CLI) applications for Node.js that are fast, responsive, and helpful!
+
+* [GITHUB](https://github.com/lukeed/sade)
+
 ## :rocket: SISTER
 
 Foundation for your emitter implementation. 202 reasons to not write your own implementation of event emitter.

@@ -35,6 +35,7 @@
 11. [GRPC Node](etc/node.md#rocket-grpc-node)
 12. [Use Persisted State](etc/reactJS.md#rocket-use-persisted-state)
 13. [Local Storage](etc/reactJS.md#rocket-local-storage)
+14. [Sade](etc/node.md#rocket-sade)
 
 *recently added:*
 
