@@ -45,6 +45,7 @@
 5. [Map api for javascript](etc/M.md#rocket-map-api-for-javascript-examples)
 6. [Protobuf js](etc/P.md#rocket-protobuf-js)
 7. [Core JS](etc/C.md#rocket-core-js)
+8. [MicroBundle](etc/M.md#rocket-microbundle)
 
 ### [UPDATES 5.0.2](https://github.com/TechOUs/Treasure-js/releases/tag/5.0.2)
 

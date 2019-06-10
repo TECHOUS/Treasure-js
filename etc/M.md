@@ -116,6 +116,12 @@ Integrates Google Maps with an MGRS overlay and NATO military map symbols
 * [GITHUB](https://github.com/pistell/MGRS-Mapper)
 * [WEBSITE](https://mgrs-mapper.com/)
 
+## :rocket: MICROBUNDLE
+
+Zero-configuration bundler for tiny modules.
+
+* [GITHUB](https://github.com/developit/microbundle)
+
 ## :rocket: MIGHTY INPUT
 
 Text input for modern web
