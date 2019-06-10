@@ -1,8 +1,41 @@
 # VERSION 5
 
-## [UPDATES 5.1.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.1.0)
+## [UPDATES 5.1.1](https://github.com/TechOUs/Treasure-js/releases/tag/5.1.1)
 
-**Added these libraries:**
+**Added these libraries in nodejs and reactjs:**
+
+* [Reach](etc/reactJS.md#rocket-reach)
+* [React Native for Web](etc/reactNative.md#rocket-react-native-for-web)
+* [React Music](etc/reactJS.md#rocket-react-music)
+* [React Pdf](etc/reactJS.md#rocket-react-pdf)
+* [Node tap](etc/node.md#rocket-node-tap)
+* [Tosin](etc/node.md#rocket-tosin)
+* [React Native Rocketseat](etc/reactNative.md#rocket-react-native-template-rocketseat-advanced)
+* [Use css for react](etc/reactJS.md#rocket-use-css)
+* [Added Luma gl](etc/L.md#rocket-luma-gl)
+* [Svgo](etc/node.md#rocket-svgo)
+* [GRPC Node](etc/node.md#rocket-grpc-node)
+* [Use Persisted State](etc/reactJS.md#rocket-use-persisted-state)
+* [Local Storage](etc/reactJS.md#rocket-local-storage)
+* [Sade](etc/node.md#rocket-sade)
+* [Pretty Quick](etc/node.md#rocket-pretty-quick)
+
+### SUB ADDITIONS
+
+*recently added:*
+
+1. [Search UI](etc/S.md#rocket-search-ui)
+2. [Platform JS](etc/P.md#rocket-platform-js)
+3. [Odoo](etc/O.md#rocket-odoo)
+4. [Agenda](etc/A.md#rocket-agenda)
+5. [Map api for javascript](etc/M.md#rocket-map-api-for-javascript-examples)
+6. [Protobuf js](etc/P.md#rocket-protobuf-js)
+7. [Core JS](etc/C.md#rocket-core-js)
+8. [MicroBundle](etc/M.md#rocket-microbundle)
+
+### [UPDATES 5.1.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.1.0)
+
+Added these libraries:
 
 * [flow](etc/F.md#rocket-flow)
 * [edex ui](etc/E.md#rocket-edex-ui)
@@ -19,34 +52,6 @@
 * [Ola](etc/O.md#rocket-ola)
 * [Deck Gl](etc/D.md#rocket-deck-gl)
 * [Lib](etc/L.md#rocket-lib)
-
-### SUB ADDITIONS
-
-1. [Reach](etc/reactJS.md#rocket-reach)
-2. [React Native for Web](etc/reactNative.md#rocket-react-native-for-web)
-3. [React Music](etc/reactJS.md#rocket-react-music)
-4. [React Pdf](etc/reactJS.md#rocket-react-pdf)
-5. [Node tap](etc/node.md#rocket-node-tap)
-6. [Tosin](etc/node.md#rocket-tosin)
-7. [React Native Rocketseat](etc/reactNative.md#rocket-react-native-template-rocketseat-advanced)
-8. [Use css for react](etc/reactJS.md#rocket-use-css)
-9. [Added Luma gl](etc/L.md#rocket-luma-gl)
-10. [Svgo](etc/node.md#rocket-svgo)
-11. [GRPC Node](etc/node.md#rocket-grpc-node)
-12. [Use Persisted State](etc/reactJS.md#rocket-use-persisted-state)
-13. [Local Storage](etc/reactJS.md#rocket-local-storage)
-14. [Sade](etc/node.md#rocket-sade)
-
-*recently added:*
-
-1. [Search UI](etc/S.md#rocket-search-ui)
-2. [Platform JS](etc/P.md#rocket-platform-js)
-3. [Odoo](etc/O.md#rocket-odoo)
-4. [Agenda](etc/A.md#rocket-agenda)
-5. [Map api for javascript](etc/M.md#rocket-map-api-for-javascript-examples)
-6. [Protobuf js](etc/P.md#rocket-protobuf-js)
-7. [Core JS](etc/C.md#rocket-core-js)
-8. [MicroBundle](etc/M.md#rocket-microbundle)
 
 ### [UPDATES 5.0.2](https://github.com/TechOUs/Treasure-js/releases/tag/5.0.2)
 

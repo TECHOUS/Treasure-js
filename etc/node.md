@@ -200,6 +200,12 @@ Node.js Production Process Manager with a built-in Load Balancer.
 * [WEBSITE](https://pm2.io/)
 * [DOCS](https://pm2.io/doc/)
 
+## :rocket: PRETTY QUICK
+
+Get Pretty Quick
+
+* [GITHUB](https://github.com/azz/pretty-quick)
+
 ## :rocket: REDIS DUMP
 
 Dump redis database into redis commands or json with command line or node.js
