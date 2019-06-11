@@ -1,5 +1,12 @@
 # M
 
+## :rocket: MARGARITA
+
+Mobile and Web application implementing Kiwi.com Tequila API
+
+* [GITHUB](https://github.com/kiwicom/margarita)
+* [WEBSITE](https://margarita.kiwi.com/)
+
 ## :rocket: MAILGUN JS
 
 A simple Node.js helper module for Mailgun API.
