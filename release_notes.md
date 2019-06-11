@@ -32,6 +32,7 @@
 6. [Protobuf js](etc/P.md#rocket-protobuf-js)
 7. [Core JS](etc/C.md#rocket-core-js)
 8. [MicroBundle](etc/M.md#rocket-microbundle)
+9. [Enquirer](etc/E.md#rocket-enquirer)
 
 ### [UPDATES 5.1.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.1.0)
 

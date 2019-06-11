@@ -56,6 +56,12 @@ Emotion is a performant and flexible CSS-in-JS library
 * [WEBSITE](https://emotion.sh/)
 * [DOCS](https://emotion.sh/docs/introduction)
 
+## :rocket: ENQUIRER
+
+Stylish, intuitive and user-friendly prompts.
+
+* [GITHUB](https://github.com/enquirer/enquirer)
+
 ## :rocket: EOS JS
 
 Javascript API for integration with EOSIO-based blockchains using EOSIO RPC API.
