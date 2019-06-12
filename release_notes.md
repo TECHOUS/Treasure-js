@@ -22,6 +22,8 @@
 
 ### SUB ADDITIONS
 
+1. [React Teleporter](etc/reactJS.md#rocket-react-teleporter)
+
 *recently added:*
 
 1. [Search UI](etc/S.md#rocket-search-ui)

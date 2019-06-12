@@ -417,6 +417,12 @@ The official Semantic-UI-React integration
 * [WEBSITE](https://react.semantic-ui.com/)
 * [USAGE](https://react.semantic-ui.com/usage)
 
+## :rocket: REACT TELEPORTER
+
+Teleport React components in the same React tree.
+
+* [GITHUB](https://github.com/smooth-code/react-teleporter)
+
 ## :rocket: REACT THREE FIBER
 
 A React-renderer for Three.js
