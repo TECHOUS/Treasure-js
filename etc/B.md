@@ -27,6 +27,12 @@ Backbone.js gives structure to web applications by providing models with key-val
 * [LEARN BACKBONE JS](https://in.udacity.com/course/learn-backbonejs--ud990)
 * [DOCS](https://devdocs.io/backbone/)
 
+## :rocket: BACKSTOP JS
+
+Catch CSS curve balls.
+
+* [GITHUB](https://github.com/garris/BackstopJS)
+
 ## :rocket: BENTO STARTER
 
 Full-Stack solution to quickly build PWA applications

@@ -95,6 +95,7 @@ Soon you will get in correct order keep supporting till then follow bold ones
 * [**UDACITY -- OBJECT ORIENTED JS**](https://in.udacity.com/course/object-oriented-javascript--ud711)
 * [**UDACITY -- JAVASCRIPT AND THE DOM**](https://in.udacity.com/course/javascript-and-the-dom--ud117)
 * [**W3 SCHOOLS -- JavaScript**](https://www.w3schools.com/js/default.asp)
+* [ES6-for-humans](https://github.com/metagrover/ES6-for-humans)
 * [CODEACADEMY -- Introduction To JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 * [DEVDOCS -- DOM](https://devdocs.io/dom/)
 * [DEVDOCS -- DOM EVENTS](https://devdocs.io/dom_events/)
