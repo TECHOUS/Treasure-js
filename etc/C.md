@@ -46,6 +46,12 @@ Simple HTML5 Charts using the canvas tag
 * [WEBSITE](https://www.chartjs.org/)
 * [DOCS](https://www.chartjs.org/docs/latest/)
 
+## :rocket: CHRONO
+
+A natural language date parser in Javascript
+
+* [GITHUB](https://github.com/wanasit/chrono)
+
 ## :rocket: CLASSNAMES
 
 A simple javascript utility for conditionally joining classNames together

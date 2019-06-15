@@ -37,6 +37,7 @@
 9. [Enquirer](etc/E.md#rocket-enquirer)
 10. [Margarita](etc/M.md#rocket-margarita)
 11. [Backstop JS](etc/B.md#rocket-backstop-js)
+12. [Chrono](etc/C.md#rocket-chrono)
 
 ### [UPDATES 5.1.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.1.0)
 
