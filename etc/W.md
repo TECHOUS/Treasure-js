@@ -80,6 +80,12 @@ wolkenkit is a CQRS and event-sourcing framework for JavaScript and Node.js whic
 * [WEBSITE](https://www.wolkenkit.io/)
 * [DOCS](https://docs.wolkenkit.io/3.1.0/)
 
+## WORKER DOM
+
+The same DOM API and Frameworks you know, but in a Web Worker.
+
+* [GITHUB](https://github.com/ampproject/worker-dom)
+
 ## :rocket: WTF JS
 
 A list of funny and tricky JavaScript examples

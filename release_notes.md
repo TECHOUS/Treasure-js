@@ -39,6 +39,7 @@
 11. [Backstop JS](etc/B.md#rocket-backstop-js)
 12. [Chrono](etc/C.md#rocket-chrono)
 13. [Pako](etc/P.md#rocket-pako)
+14. [Worker DOM](etc/W.md#rocket-worker-dom)
 
 ### [UPDATES 5.1.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.1.0)
 
