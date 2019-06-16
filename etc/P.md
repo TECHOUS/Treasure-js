@@ -28,6 +28,13 @@ A precompiled JavaScript module bundler
 * [WEBSITE](https://packem.github.io/)
 * [DOCS](https://packem.github.io/docs/getting-started.html)
 
+## :rocket: PAKO
+
+high speed zlib port to javascript, works in browser & node.js
+
+* [GITHUB](https://github.com/nodeca/pako)
+* [WEBSITE](http://nodeca.github.io/pako/)
+
 ## :rocket: PAPAPARSE
 
 Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
