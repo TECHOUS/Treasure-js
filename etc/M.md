@@ -183,6 +183,13 @@ simple, flexible, fun javascript test framework for node.js & the browser
 * [GITHUB](https://github.com/mochajs/mocha)
 * [DOCS](https://devdocs.io/mocha/)
 
+## :rocket: MOCKY
+
+Generate custom HTTP responses, the simpler way to test your Web Services
+
+* [GITHUB](https://github.com/julien-lafont/Mocky)
+* [WEBSITE](https://www.mocky.io/)
+
 ## :rocket: MODERNIZR
 
 Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser
