@@ -288,6 +288,12 @@ A description of React's new core algorithm, React Fiber
 
 * [GITHUB](https://github.com/acdlite/react-fiber-architecture)
 
+## :rocket: REACT FIREBASE HOOKS
+
+React Hooks for Firebase.
+
+* [GITHUB](https://github.com/CSFrequency/react-firebase-hooks)
+
 ## :rocket: REACT FLIP TOOLKIT
 
 A utility library for highly configurable layout transitions

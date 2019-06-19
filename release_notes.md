@@ -23,6 +23,7 @@
 ### SUB ADDITIONS
 
 1. [React Teleporter](etc/reactJS.md#rocket-react-teleporter)
+2. [React Firebase Hooks](etc/reactJS.md#rocket-react-firebase-hooks)
 
 *recently added:*
 
