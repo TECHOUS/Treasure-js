@@ -63,6 +63,13 @@ Stylish, intuitive and user-friendly prompts.
 
 * [GITHUB](https://github.com/enquirer/enquirer)
 
+## :rocket: ENTROPIC
+
+a package registry for anything, but mostly javascript
+
+* [GITHUB](https://github.com/entropic-dev/entropic)
+* [WEBSITE](https://discourse.entropic.dev/)
+
 ## :rocket: EOS JS
 
 Javascript API for integration with EOSIO-based blockchains using EOSIO RPC API.

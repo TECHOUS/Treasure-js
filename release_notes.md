@@ -28,6 +28,7 @@
 *recently added:*
 
 1. [Handsontable](etc/H.md#rocket-handsontable)
+2. [Entropic](etc/E.md#rocket-entropic)
 
 ### [UPDATES 5.1.1](https://github.com/TechOUs/Treasure-js/releases/tag/5.1.1)
 
