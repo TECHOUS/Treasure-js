@@ -1,8 +1,34 @@
 # VERSION 5
 
-## [UPDATES 5.1.1](https://github.com/TechOUs/Treasure-js/releases/tag/5.1.1)
+## [UPDATES 5.2.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.2.0)
 
-**Added these libraries in nodejs and reactjs:**
+**Added these libraries:**
+
+* [Search UI](etc/S.md#rocket-search-ui)
+* [Platform JS](etc/P.md#rocket-platform-js)
+* [Odoo](etc/O.md#rocket-odoo)
+* [Agenda](etc/A.md#rocket-agenda)
+* [Map api for javascript](etc/M.md#rocket-map-api-for-javascript-examples)
+* [Protobuf js](etc/P.md#rocket-protobuf-js)
+* [Core JS](etc/C.md#rocket-core-js)
+* [MicroBundle](etc/M.md#rocket-microbundle)
+* [Enquirer](etc/E.md#rocket-enquirer)
+* [Margarita](etc/M.md#rocket-margarita)
+* [Backstop JS](etc/B.md#rocket-backstop-js)
+* [Chrono](etc/C.md#rocket-chrono)
+* [Pako](etc/P.md#rocket-pako)
+* [Worker DOM](etc/W.md#rocket-worker-dom)
+* [Typed JS](etc/T.md#rocket-typed-js)
+
+### SUB ADDITIONS
+
+1. [React Teleporter](etc/reactJS.md#rocket-react-teleporter)
+
+*recently added:*
+
+### [UPDATES 5.1.1](https://github.com/TechOUs/Treasure-js/releases/tag/5.1.1)
+
+Added these libraries in nodejs and reactjs:
 
 * [Reach](etc/reactJS.md#rocket-reach)
 * [React Native for Web](etc/reactNative.md#rocket-react-native-for-web)
@@ -19,27 +45,6 @@
 * [Local Storage](etc/reactJS.md#rocket-local-storage)
 * [Sade](etc/node.md#rocket-sade)
 * [Pretty Quick](etc/node.md#rocket-pretty-quick)
-
-### SUB ADDITIONS
-
-1. [React Teleporter](etc/reactJS.md#rocket-react-teleporter)
-
-*recently added:*
-
-1. [Search UI](etc/S.md#rocket-search-ui)
-2. [Platform JS](etc/P.md#rocket-platform-js)
-3. [Odoo](etc/O.md#rocket-odoo)
-4. [Agenda](etc/A.md#rocket-agenda)
-5. [Map api for javascript](etc/M.md#rocket-map-api-for-javascript-examples)
-6. [Protobuf js](etc/P.md#rocket-protobuf-js)
-7. [Core JS](etc/C.md#rocket-core-js)
-8. [MicroBundle](etc/M.md#rocket-microbundle)
-9. [Enquirer](etc/E.md#rocket-enquirer)
-10. [Margarita](etc/M.md#rocket-margarita)
-11. [Backstop JS](etc/B.md#rocket-backstop-js)
-12. [Chrono](etc/C.md#rocket-chrono)
-13. [Pako](etc/P.md#rocket-pako)
-14. [Worker DOM](etc/W.md#rocket-worker-dom)
 
 ### [UPDATES 5.1.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.1.0)
 

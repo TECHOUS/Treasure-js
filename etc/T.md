@@ -131,6 +131,13 @@ Render tweet into beautiful markdown
 
 * [GITHUB](https://github.com/silentroach/tweet.md)
 
+## :rocket: TYPED JS
+
+A JavaScript Typing Animation Library
+
+* [GITHUB](https://github.com/mattboldt/typed.js/)
+* [WEBSITE](https://mattboldt.com/demos/typed-js/)
+
 ## :rocket: TYPESCRIPT
 
 TypeScript is a superset of JavaScript that compiles to clean JavaScript output

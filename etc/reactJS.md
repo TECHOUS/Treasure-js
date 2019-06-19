@@ -86,6 +86,7 @@ A JavaScript library for building user interfaces
 * [AWESOME REACT HOOKS](https://github.com/glauberfc/awesome-react-hooks)
 * [Use React, Redux, Immutable to code Tetris](https://github.com/chvin/react-tetris)
 * [Beginner's Guide To React Router Starter Project](https://github.com/dabit3/beginners-guide-to-react-router)
+* [React Lifecycle Methods diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)
 
 ## :rocket: BASE UI
 
