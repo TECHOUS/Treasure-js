@@ -27,6 +27,8 @@
 
 *recently added:*
 
+1. [Handsontable](etc/H.md#rocket-handsontable)
+
 ### [UPDATES 5.1.1](https://github.com/TechOUs/Treasure-js/releases/tag/5.1.1)
 
 Added these libraries in nodejs and reactjs:

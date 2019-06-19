@@ -8,6 +8,14 @@ Handlebars provides the power necessary to let you build semantic templates effe
 * [WEBSITE](https://handlebarsjs.com/)
 * [DOCS](https://handlebarsjs.com/reference.html)
 
+## :rocket: HANDSONTABLE
+
+Handsontable - JavaScript/HTML5 Data Grid Component with Spreadsheet Look & Feel. Available for React, Vue and Angular.
+
+* [GITHUB](https://github.com/handsontable/handsontable)
+* [WEBSITE](https://handsontable.com/)
+* [DOCS](https://handsontable.com/docs/7.1.0/tutorial-introduction.html)
+
 ## :rocket: HAPI JS
 
 hapi is a simple to use configuration-centric framework with built-in support for input validation, caching, authentication, and other essential facilities for building web and services applications. hapi enables developers to focus on writing reusable application logic in a highly modular and prescriptive approach.
