@@ -153,6 +153,13 @@ Simple and elegant component-based UI library
 * [WEBSITE](https://riot.js.org/)
 * [GUIDE/DOCS](https://riot.js.org/guide/)
 
+## :rocket: RIVEN
+
+Riven is a bare minimum flow-based programming framework (eg: math & conditional). Nodes have 2 ways of communicating with each other, one is a send/receive pattern, the other, a request/answer pattern. Despite its minimal toolset, it can be expanded into a complete web framework.
+
+* [GITHUB](https://github.com/XXIIVV/Riven)
+* [WEBSITE](https://wiki.xxiivv.com/#riven)
+
 ## :rocket: ROBOT JS
 
 The only Node.js first Desktop Automation Library
