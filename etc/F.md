@@ -121,6 +121,13 @@ Adds static typing to JavaScript to improve developer productivity and code qual
 * [GITHUB](https://github.com/mariusbrataas/flowpoints_ml)
 * [WEBSITE](https://mariusbrataas.github.io/flowpoints_ml/)
 
+## :rocket: FORG JS
+
+ForgJs is a javascript lightweight object validator.
+
+* [GITHUB](https://github.com/oussamahamdaoui/forgJs)
+* [WEBSITE](https://oussamahamdaoui.github.io/forgjs-examples/)
+
 ## :rocket: FRINT JS
 
 Modular JavaScript framework for building scalable and reactive applications

@@ -31,6 +31,7 @@
 2. [Entropic](etc/E.md#rocket-entropic)
 3. [Mocky](etc/M.md#rocket-mocky)
 4. [Riven](etc/R.md#rocket-riven)
+5. [Forg JS](etc/F.md#rocket-forg-js)
 
 ### [UPDATES 5.1.1](https://github.com/TechOUs/Treasure-js/releases/tag/5.1.1)
 
