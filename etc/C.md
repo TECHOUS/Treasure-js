@@ -117,6 +117,12 @@ The leading content management solution for modern digital teams
   * [WEBSITE](https://cosmicjs.com/)
 * [The official JavaScript client for Cosmic JS](#cosmic-node)
 
+## :rocket: CSSCOMB JS
+
+CSS coding style formatter
+
+* [GITHUB](https://github.com/csscomb/csscomb.js)
+
 ## :rocket: CXXT
 
 A JavaScript / Python / PHP cryptocurrency trading API with support for more than 130 bitcoin/altcoin exchanges
