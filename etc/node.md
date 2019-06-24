@@ -111,6 +111,12 @@ A better child_process
 
 * [GITHUB](https://github.com/sindresorhus/execa)
 
+## :rocket: FLIGHTPLAN
+
+Run sequences of shell commands against local and remote hosts.
+
+* [GITHUB](https://github.com/pstadler/flightplan)
+
 ## :rocket: GRPC NODE
 
 A high performance, open-source universal RPC framework
