@@ -12,7 +12,7 @@ NativeScript is an open source framework for building truly native mobile apps w
 
 general natural language facilities for node
 
-* [GITHUB/DOCS](https://github.com/NaturalNode/natural)
+* [GITHUB](https://github.com/NaturalNode/natural)
 
 ## :rocket: NERV JS
 

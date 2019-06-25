@@ -25,7 +25,7 @@ Backbone.js gives structure to web applications by providing models with key-val
 * [DOCS](http://backbonejs.org/docs/backbone.html)
 * [Backbone JS](https://www.javatpoint.com/backbonejs-tutorial)
 * [LEARN BACKBONE JS](https://in.udacity.com/course/learn-backbonejs--ud990)
-* [DOCS](https://devdocs.io/backbone/)
+* [DEVDOCS](https://devdocs.io/backbone/)
 
 ## :rocket: BACKSTOP JS
 
@@ -70,8 +70,6 @@ Build responsive, mobile-first projects on the web with the world's most popular
 
 * [WEBSITE](https://getbootstrap.com/)
 * [GITHUB](https://github.com/twbs/bootstrap)
-* [DOCS 3](https://devdocs.io/bootstrap~3/)
-* [DOCS 4](https://devdocs.io/bootstrap~4/)
 * [DOCS 4.1](https://getbootstrap.com/docs/4.1/layout/overview/)
 * [VERSION3 - W3 SCHOOLS](https://www.w3schools.com/bootstrap/default.asp)
 * [VERSION4 - W3 SCHOOLS](https://www.w3schools.com/bootstrap4/default.asp)

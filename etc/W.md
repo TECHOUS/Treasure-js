@@ -18,7 +18,7 @@ Injects metering into webassembly binaries
 Simple, lightweight, persistent two-way databinding
 
 * [GITHUB](https://github.com/gwendall/way.js)
-* [DEMO/WEBSITE](http://gwendall.github.io/way/)
+* [WEBSITE](http://gwendall.github.io/way/)
 
 ## :rocket: WEB
 
@@ -70,7 +70,7 @@ Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
 winston is designed to be a simple and universal logging library with support for multiple transports. A transport is essentially a storage device for your logs. Each winston logger can have multiple transports (see: Transports) configured at different levels (see: Logging levels). For example, one may want error logs to be stored in a persistent remote location (like a database), but all logs output to the console or a local file.
 
 * [GITHUB](https://github.com/winstonjs/winston)
-* [USAGE](https://github.com/winstonjs/winston#usage)
+* [DOCS](https://github.com/winstonjs/winston#usage)
 
 ## :rocket: WOLKENKIT
 

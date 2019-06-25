@@ -25,7 +25,7 @@ generate massive amounts of realistic fake data in Node.js and the browser
 
 The fastest JS validator library for NodeJS
 
-* [GITHUB/DOCS](https://github.com/icebob/fastest-validator)
+* [GITHUB](https://github.com/icebob/fastest-validator)
 
 ## :rocket: FASTIFY
 
@@ -47,7 +47,7 @@ Simple pub/sub messaging for the web
 FBT is a framework for internationalizing user interfaces. It is designed to be not only powerful and flexible, but also simple and intuitive. Getting grammatically correct translated texts in dynamic applications is hard.
 
 * [GITHUB](https://github.com/facebookincubator/fbt)
-* [WEBSITE/DOCS](https://facebookincubator.github.io/fbt/)
+* [DOCS](https://facebookincubator.github.io/fbt/)
 
 ## :rocket: FEATHERS JS
 
@@ -82,7 +82,7 @@ A library to overcomplicate 5
 lightweight, powerful javascript datetimepicker with no dependencies
 
 * [GITHUB](https://github.com/flatpickr/flatpickr)
-* [WEBSITE/DOCS](https://flatpickr.js.org/)
+* [DOCS](https://flatpickr.js.org/)
 
 ## :rocket: FLICKITY
 

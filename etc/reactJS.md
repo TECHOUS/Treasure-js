@@ -280,7 +280,7 @@ Simple HTML5 drag-drop zone with React.js
 
 A Component React for Facebook Login
 
-* [GITHUB/DOCS](https://github.com/keppelen/react-facebook-login)
+* [GITHUB](https://github.com/keppelen/react-facebook-login)
 
 ## :rocket: REACT FIBER
 
@@ -434,7 +434,7 @@ Teleport React components in the same React tree.
 
 A React-renderer for Three.js
 
-* [GITHUB/DOCS](https://github.com/drcmda/react-three-fiber)
+* [GITHUB](https://github.com/drcmda/react-three-fiber)
 
 ## :rocket: REACT TREND
 
@@ -489,11 +489,6 @@ React components for efficiently rendering large lists and tabular data
 
 * [GITHUB](https://github.com/bvaughn/react-window)
 * [WEBSITE](https://react-window.now.sh/)
-
-## :rocket: REACT JS SAMPLES
-
-* [MyReads Project](https://github.com/Decoys-out/MyReads-UDACITY-React)
-* [react-weather-app](https://github.com/ReactExpert/react-weather-app)
 
 ## :rocket: REACT TOOL TIP
 

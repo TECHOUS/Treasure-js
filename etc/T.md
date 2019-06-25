@@ -44,13 +44,13 @@ A JavaScript library for training and deploying ML models in the browser and on 
 
 Lightweight and modern terminal animations using async/await
 
-* [GITHUB/DOCS](https://github.com/ines/termynal)
+* [GITHUB](https://github.com/ines/termynal)
 
 ## :rocket: TERSER JS
 
 JavaScript parser, mangler, optimizer and beautifier toolkit for ES6+
 
-* [GITHUB/DOCS](https://github.com/terser-js/terser)
+* [GITHUB](https://github.com/terser-js/terser)
 
 ## :rocket: TESSERACT JS
 

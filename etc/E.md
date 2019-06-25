@@ -25,7 +25,7 @@ Build cross platform desktop apps with JavaScript, HTML, and CSS
 * [SPECTRON](https://github.com/electron/spectron)
 * [Collection of Apps build on electron](https://github.com/electron/apps)
 * [DOCS](https://devdocs.io/electron/)
-* [Windows 95 in Electron. Runs on macOS, Linux, and Windows.](https://github.com/felixrieseberg/windows95)
+* [Wi* Official Gatsby source plugin for Cosmic JSndows 95 in Electron. Runs on macOS, Linux, and Windows.](https://github.com/felixrieseberg/windows95)
 * [Implementation of Chrome extension APIs for Electron](https://github.com/wexond/electron-extensions)
 * [Boilerplate to kickstart creating an app with Electron](https://github.com/sindresorhus/electron-boilerplate)
 
@@ -75,7 +75,7 @@ a package registry for anything, but mostly javascript
 Javascript API for integration with EOSIO-based blockchains using EOSIO RPC API.
 
 * [GITHUB](https://github.com/EOSIO/eosjs)
-* [WEBSITE/DOCS](https://eosio.github.io/eosjs/)
+* [DOCS](https://eosio.github.io/eosjs/)
 
 ## :rocket: ESM
 

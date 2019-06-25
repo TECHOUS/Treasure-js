@@ -30,7 +30,7 @@ Leon is your open-source personal assistant.
 A tool for managing JavaScript projects with multiple packages.
 
 * [GITHUB](https://github.com/lerna/lerna)
-* [WEBSITE/DOCS](https://lernajs.io/)
+* [DOCS](https://lernajs.io/)
 
 ## :rocket: LIB
 

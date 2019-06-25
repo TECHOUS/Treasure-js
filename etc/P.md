@@ -47,9 +47,9 @@ Fast and powerful CSV (delimited text) parser that gracefully handles large file
 
 A lightweight JavaScript library for creating particles
 
-* [GITHUB/DOCS](https://github.com/VincentGarreau/particles.js)
+* [GITHUB](https://github.com/VincentGarreau/particles.js)
 * [WEBSITE](https://vincentgarreau.com/particles.js/)
-* [TUTORIAL](https://www.youtube.com/watch?v=qK3cgD09Qf0)
+* [DOCS](https://www.youtube.com/watch?v=qK3cgD09Qf0)
 
 ## :rocket: PASSPORT JS
 
@@ -71,7 +71,7 @@ Low friction JavaScript benchmarks that you can share via URL
 :evergreen_tree: super fast, all natural json logger :evergreen_tree:
 
 * [GITHUB](https://github.com/pinojs/pino)
-* [WEBSITE/DOCS](http://getpino.io/#/)
+* [DOCS](http://getpino.io/#/)
 * [A list of standard object serializers for the Pino logger](https://github.com/pinojs/pino-std-serializers)
 
 ## :rocket: PLATFORM JS
@@ -129,7 +129,7 @@ A lightweight toolset for writing styles in JavaScript
 
 Pug – robust, elegant, feature rich template engine for Node.js
 
-* [WEBSITE/DOCS](https://pugjs.org/api/getting-started.html)
+* [DOCS](https://pugjs.org/api/getting-started.html)
 * [GITHUB](https://github.com/pugjs/pug)
 * [OVERVIEW](https://devdocs.io/pug/)
 
@@ -139,7 +139,7 @@ A zero-config bundler for JavaScript applications
 
 * [GITHUB](https://github.com/egoist/poi)
 * [WEBSITE](https://poi.js.org/)
-* [API/DOCS](https://poi.js.org/api.html)
+* [DOCS](https://poi.js.org/api.html)
 
 ## :rocket: POPPER JS
 
@@ -167,6 +167,6 @@ Protocol Buffers for JavaScript (& TypeScript).
 
 Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium.
 
-* [WEBSITE/DOCS](https://pptr.dev/)
+* [DOCS](https://pptr.dev/)
 * [GITHUB](https://github.com/GoogleChrome/puppeteer)
 * [DOCS](https://devdocs.io/puppeteer/)

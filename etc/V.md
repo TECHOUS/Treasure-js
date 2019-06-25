@@ -12,7 +12,7 @@ JavaScript validation library for Humans. declarative, efficient, and flexible
 
 Write JS code that runs in a different context. E.g. use the DOM in a Web Worker
 
-* [GITHUB/DOCS](https://github.com/AshleyScirra/via.js)
+* [GITHUB](https://github.com/AshleyScirra/via.js)
 
 ## :rocket: VIS JS
 
@@ -21,11 +21,11 @@ A dynamic, browser based visualization library. The library is designed to be ea
 * [GITHUB](https://github.com/almende/vis)
 * [WEBSITE](http://visjs.org/)
 * [MODULES](http://visjs.org/#modules)
-  * [NETWORK](http://visjs.org/docs/network/)
-  * [TIMELINE](http://visjs.org/docs/timeline/)
-  * [GRAPH 2D](http://visjs.org/docs/graph2d/)
-  * [GRAPH 3D](http://visjs.org/docs/graph3d/)
-  * [DATASET](http://visjs.org/docs/data/)
+* [NETWORK](http://visjs.org/docs/network/)
+* [TIMELINE](http://visjs.org/docs/timeline/)
+* [GRAPH 2D](http://visjs.org/docs/graph2d/)
+* [GRAPH 3D](http://visjs.org/docs/graph3d/)
+* [DATASET](http://visjs.org/docs/data/)
 
 ## :rocket: VIVID JS
 
@@ -40,7 +40,7 @@ A JavaScript library which is built to easily customize and use the SVG Icons wi
 The Voca library offers helpful functions to make string manipulations comfortable: change case, trim, pad, slugify, latinise, sprintf'y, truncate, escape and much more. The modular design allows to load the entire library, or individual functions to minimize the application builds.
 
 * [GITHUB](https://github.com/panzerdp/voca)
-* [WEBSITE/DOCS](https://vocajs.com/)
+* [WEBSITE](https://vocajs.com/)
 
 ## :rocket: VUE JS
 

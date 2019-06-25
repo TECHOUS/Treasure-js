@@ -25,7 +25,7 @@ Lightweight job scheduling for Node.js
 The fastest JSON Schema Validator.
 
 * [GITHUB](https://github.com/epoberezkin/ajv)
-* [WEBSITE/DOCS](https://ajv.js.org/)
+* [DOCS](https://ajv.js.org/)
 
 ## :rocket: ALASQL JS
 
@@ -40,7 +40,7 @@ AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both tradit
 Manage side-effects in your javascript application cleanly with algebraic effects
 
 * [GITHUB](https://github.com/phenax/algebraic-effects)
-* [WEBSITE/DOCS](https://phenax.github.io/algebraic-effects/)
+* [DOCS](https://phenax.github.io/algebraic-effects/)
 
 ## :rocket: AMP
 

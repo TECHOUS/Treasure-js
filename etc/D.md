@@ -24,7 +24,7 @@ Tiny Tiny Hacks we use in our daily life
 
 Day.js 2KB immutable date library alternative to Moment.js with the same modern API
 
-* [GITHUB/DOCS](https://github.com/iamkun/dayjs)
+* [GITHUB](https://github.com/iamkun/dayjs)
 
 ## :rocket: DANGER JS
 

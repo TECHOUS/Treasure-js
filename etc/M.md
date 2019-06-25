@@ -12,7 +12,7 @@ Mobile and Web application implementing Kiwi.com Tequila API
 A simple Node.js helper module for Mailgun API.
 
 * [GITHUB](https://github.com/bojand/mailgun-js)
-* [WEBSITE/DOCS](http://bojand.github.io/mailgun-js/#/)
+* [DOCS](http://bojand.github.io/mailgun-js/#/)
 
 ## :rocket: MAMMOTH JS
 
@@ -33,7 +33,7 @@ Mapbox GL JS is a JavaScript library that uses WebGL to render interactive maps 
 Self-contained examples for Maps API for JavaScript v3.
 
 * [GITHUB](https://github.com/heremaps/maps-api-for-javascript-examples)
-* [WEBSITE/DOCS](https://developer.here.com/documentation/maps/topics/overview.html)
+* [DOCS](https://developer.here.com/documentation/maps/topics/overview.html)
 
 ## :rocket: MARIONETTE JS
 
@@ -73,7 +73,7 @@ Matter.js is a 2D physics engine for the web
 MDX-based presentation decks
 
 * [GITHUB](https://github.com/jxnblk/mdx-deck)
-* [WEBSITE/DOCS](https://jxnblk.com/mdx-deck)
+* [DOCS](https://jxnblk.com/mdx-deck)
 
 ## :rocket: MDX JS
 
@@ -134,7 +134,7 @@ Zero-configuration bundler for tiny modules.
 Text input for modern web
 
 * [GITHUB](https://github.com/rumkin/mighty-input)
-* [WEBSITE/DOCS](https://mighty-input.now.sh/)
+* [DOCS](https://mighty-input.now.sh/)
 
 ## :rocket: MILSYMBOL JS
 
@@ -149,7 +149,7 @@ Milsymbol is a small library in pure javascript that creates military unit symbo
 A Javascript Framework for Building Brilliant Applications
 
 * [GITHUB](https://github.com/MithrilJS/mithril.js)
-* [WEBSITE/DOCS](https://mithril.js.org/)
+* [DOCS](https://mithril.js.org/)
 
 ## :rocket: MK JS
 

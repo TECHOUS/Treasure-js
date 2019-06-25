@@ -61,7 +61,7 @@ fast HTTP/1.1 benchmarking tool written in Node.js
 
 A library to help you hash passwords.
 
-* [GITHUB/DOCS](https://github.com/kelektiv/node.bcrypt.js)
+* [GITHUB](https://github.com/kelektiv/node.bcrypt.js)
 
 ## :rocket: BROWSERIFY
 
@@ -163,7 +163,7 @@ An HTTP(s) proxy http.Agent implementation for HTTPS endpoints
 JsonWebToken implementation for node.js
 
 * [GITHUB](https://github.com/auth0/node-jsonwebtoken)
-* [WEBSITE/DOCS](http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html)
+* [WEBSITE](http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html)
 
 ## :rocket: NODE LIBPQ
 

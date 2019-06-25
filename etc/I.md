@@ -30,7 +30,7 @@ Immer (German for: always) is a tiny package that allows you to work with immuta
 
 A relentless key-value store for the browser.
 
-* [GITHUB/DOCS](https://github.com/gruns/ImmortalDB)
+* [GITHUB](https://github.com/gruns/ImmortalDB)
 
 ## :rocket: IMMUTABLE JS
 
@@ -76,4 +76,4 @@ Yet another JS code coverage tool that computes statement, line, function and br
 
 * [GITHUB](https://github.com/istanbuljs/istanbuljs)
 * [WEBSITE](https://istanbul.js.org/)
-* [TUTORIAL](https://istanbul.js.org/docs/tutorials/)
+* [DOCS](https://istanbul.js.org/docs/tutorials/)

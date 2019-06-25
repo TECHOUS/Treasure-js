@@ -71,7 +71,7 @@ Create, read and edit .zip files with Javascript
 JupyterLab computational environment.
 
 * [GITHUB](https://github.com/jupyterlab/jupyterlab)
-* [WEBSITE/DOCS](https://jupyterlab.readthedocs.io/en/stable/)
+* [DOCS](https://jupyterlab.readthedocs.io/en/stable/)
 
 ## :rocket: JUST
 

@@ -5,7 +5,7 @@
 Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
 
 * [GITHUB](https://github.com/madrobby/zepto)
-* [WEBSITE/DOCS](https://zeptojs.com/)
+* [WEBSITE](https://zeptojs.com/)
 
 ## :rocket: ZHUI
 

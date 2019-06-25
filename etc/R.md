@@ -30,7 +30,7 @@ See [React Native](reactNative.md)
 The Accessible Foundation for React Apps and Design Systems.
 
 * [GITHUB](https://github.com/reach/reach-ui)
-* [WEBSITE/DOCS](https://ui.reach.tech/)
+* [DOCS](https://ui.reach.tech/)
 
 ## :rocket: REDUX
 
@@ -63,7 +63,7 @@ RxJS middleware for action side effects in Redux using "Epics"
 
 A standalone version of the readability lib
 
-* [GITHUB/DOCS](https://github.com/mozilla/readability)
+* [GITHUB](https://github.com/mozilla/readability)
 
 ## :rocket: REBASS JS
 
@@ -85,7 +85,7 @@ Redefined chart library built with React and D3
 
 * [GITHUB](https://github.com/recharts/recharts)
 * [WEBSITE](http://recharts.org/)
-* [GUIDE/DOCS](http://recharts.org/en-US/guide)
+* [DOCS](http://recharts.org/en-US/guide)
 
 ## :rocket: REGEXGEN
 
@@ -124,7 +124,7 @@ An advanced Node.js driver for RebirthDB with a connection pool, support for str
 REAVIZ is a modular chart component library that leverages React natively for rendering the components while using D3js under the hood for calculations. The library provides an easy way to get started creating charts without sacrificing customization ability.
 
 * [GITHUB](https://github.com/jask-oss/reaviz)
-* [WEBSITE/DOCS](https://jask-oss.github.io/reaviz/?path=/story/charts-area-single-series--simple)
+* [DOCS](https://jask-oss.github.io/reaviz/?path=/story/charts-area-single-series--simple)
 
 ## :rocket: RESPONSE
 
@@ -137,13 +137,13 @@ Monzo's real-time incident response and reporting tool
 GitHub REST API client for JavaScript
 
 * [GITHUB](GitHub REST API client for JavaScript)
-* [WEBSITE/DOCS](https://octokit.github.io/rest.js/)
+* [DOCS](https://octokit.github.io/rest.js/)
 
 ## :rocket: REVEAL JS
 
 The HTML Presentation Framework
 
-* [GITHUB/DOCS](https://github.com/hakimel/reveal.js)
+* [GITHUB](https://github.com/hakimel/reveal.js)
 * [WEBSITE](https://revealjs.com/)
 
 ## :rocket: RIOT JS
@@ -152,7 +152,7 @@ Simple and elegant component-based UI library
 
 * [GITHUB](https://github.com/riot/riot)
 * [WEBSITE](https://riot.js.org/)
-* [GUIDE/DOCS](https://riot.js.org/guide/)
+* [DOCS](https://riot.js.org/guide/)
 
 ## :rocket: RIVEN
 
@@ -174,7 +174,7 @@ The only Node.js first Desktop Automation Library
 Next-generation ES module bundler
 
 * [GITHUB](https://github.com/rollup/rollup)
-* [WEBSITE/DOCS](https://rollupjs.org/guide/en)
+* [DOCS](https://rollupjs.org/guide/en)
 
 ## :rocket: RUNPKG
 

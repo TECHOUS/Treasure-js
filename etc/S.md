@@ -35,7 +35,7 @@ An easy-to-use multi SQL dialect ORM
 
 * [GITHUB](https://github.com/sequelize/sequelize)
 * [WEBSITE](http://docs.sequelizejs.com/)
-* [DOCS/REFERENCE](http://docs.sequelizejs.com/identifiers.html)
+* [DOCS](http://docs.sequelizejs.com/identifiers.html)
 
 ## :rocket: SERVE
 
@@ -142,7 +142,7 @@ JavaScript Style Guide, with linter & automatic code fixer
 
 * [GITHUB](https://github.com/standard/standard)
 * [WEBSITE](https://standardjs.com/)
-* [USAGE/DOCS](https://standardjs.com/#usage)
+* [DOCS](https://standardjs.com/#usage)
 
 ## :rocket: STATUSFY
 
@@ -174,14 +174,14 @@ Stickybits is a lightweight alternative to position: sticky polyfills
 
 * [GITHUB](https://github.com/dollarshaveclub/stickybits)
 * [WEBSITE](https://dollarshaveclub.github.io/stickybits/)
-* [USAGE/DOCS](https://dollarshaveclub.github.io/stickybits/#usage)
+* [DOCS](https://dollarshaveclub.github.io/stickybits/#usage)
 
 ## :rocket: STORYBOOK JS
 
 Interactive UI component dev & test: React, React Native, Vue, Angular, Ember
 
 * [GITHUB](https://github.com/storybooks/storybook)
-* [WEBSITE/DOCS](https://storybook.js.org/)
+* [DOCS](https://storybook.js.org/)
 
 ## :rocket: STRAPI
 

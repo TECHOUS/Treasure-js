@@ -28,7 +28,7 @@ Create and share beautiful images of your source code
 
 Fake data generator for javascript
 
-* [GITHUB/DOCS](https://github.com/boo1ean/casual)
+* [GITHUB](https://github.com/boo1ean/casual)
 
 ## :rocket: CHAI JS
 
@@ -112,9 +112,8 @@ Modular standard library for JavaScript. Includes polyfills for ECMAScript up to
 
 The leading content management solution for modern digital teams
 
-* Official Gatsby source plugin for Cosmic JS
-  * [GITHUB](https://github.com/cosmicjs/gatsby-source-cosmicjs)
-  * [WEBSITE](https://cosmicjs.com/)
+* [GITHUB](https://github.com/cosmicjs/gatsby-source-cosmicjs)
+* [WEBSITE](https://cosmicjs.com/)
 * [The official JavaScript client for Cosmic JS](#cosmic-node)
 
 ## :rocket: CSSCOMB JS

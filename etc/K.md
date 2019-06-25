@@ -13,7 +13,7 @@ Kepler.gl is a powerful open source geospatial analysis tool for large-scale dat
 Run Keras models in the browser, with GPU support using WebGL
 
 * [GITHUB](https://github.com/transcranial/keras-js)
-* [WEBSITE/DOCS](https://transcranial.github.io/keras-js/#/)
+* [DOCS](https://transcranial.github.io/keras-js/#/)
 
 ## :rocket: KNOCKOUT JS
 
