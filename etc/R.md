@@ -50,6 +50,7 @@ Predictable state container for JavaScript apps
 * [Thunk middleware for Redux](https://github.com/reduxjs/redux-thunk)
 * [Predictable state container for JavaScript apps](https://github.com/reduxjs/redux)
 * [Logger for Redux](https://github.com/LogRocket/redux-logger)
+* [A Redux binding for React Router v4](https://github.com/supasate/connected-react-router)
 
 ### REDUX OBSERVABLE JS
 

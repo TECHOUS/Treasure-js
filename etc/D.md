@@ -34,6 +34,13 @@ Danger runs during your CI process, and gives teams the chance to automate commo
 * [WEBSITE](https://danger.systems/js/)
 * [DOCS](https://danger.systems/js/usage.html)
 
+## :rocket: DARKMODE JS
+
+Add a dark-mode / night-mode to your website in a few seconds
+
+* [GITHUB](https://github.com/sandoche/Darkmode.js)
+* [WEBSITE](https://darkmodejs.learn.uno/)
+
 ## :rocket: DATALOADER
 
 DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.
