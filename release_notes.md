@@ -25,6 +25,7 @@
 1. [React Teleporter](etc/reactJS.md#rocket-react-teleporter)
 2. [React Firebase Hooks](etc/reactJS.md#rocket-react-firebase-hooks)
 3. [Flightplan](etc/node.md#rocket-flightplan)
+4. [Pm](etc/node.md#rocket-pm)
 
 *recently added:*
 

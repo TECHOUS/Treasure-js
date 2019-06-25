@@ -198,6 +198,12 @@ npm package building, reimagined.
 * [GITHUB](https://github.com/pikapkg/pack)
 * [WEBSITE](https://www.pikapkg.com/blog/introducing-pika-pack/)
 
+## :rocket: PM
+
+A graceful node library to contribute a permanent "master-worker" server.
+
+* [GITHUB](https://github.com/aleafs/pm)
+
 ## :rocket: PM2
 
 Node.js Production Process Manager with a built-in Load Balancer.
