@@ -39,6 +39,7 @@
 7. [DarkMode js](etc/D.md#rocket-darkmode-js)
 8. [Synaptic](etc/S.md#rocket-synaptic)
 9. [Deb js](etc/D.md#rocket-deb-js)
+10. [Cloudboost](etc/C.md#rocket-cloudboost)
 
 ### [UPDATES 5.1.1](https://github.com/TechOUs/Treasure-js/releases/tag/5.1.1)
 
