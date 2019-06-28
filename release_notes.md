@@ -1,8 +1,38 @@
 # VERSION 5
 
-## [UPDATES 5.2.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.2.0)
+## [UPDATES 5.3.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.3.0)
 
 **Added these libraries:**
+
+* [Handsontable](etc/H.md#rocket-handsontable)
+* [Entropic](etc/E.md#rocket-entropic)
+* [Mocky](etc/M.md#rocket-mocky)
+* [Riven](etc/R.md#rocket-riven)
+* [Forg JS](etc/F.md#rocket-forg-js)
+* [CSSCOMB JS](etc/C.md#rocket-csscomb-js)
+* [DarkMode js](etc/D.md#rocket-darkmode-js)
+* [Synaptic](etc/S.md#rocket-synaptic)
+* [Deb js](etc/D.md#rocket-deb-js)
+* [Cloudboost](etc/C.md#rocket-cloudboost)
+* [Grunt Svgstore](etc/G.md#rocket-grunt-svgstore)
+* [Hjs Webpack](etc/H.md#rocket-hjs-webpack)
+* [Pretender](etc/P.md#rocket-pretender)
+* [Laconia JS](etc/L.md#rocket-laconia-js)
+* [Middy js](etc/M.md#rocket-middy-js)
+
+### SUB ADDITIONS
+
+1. [React Teleporter](etc/reactJS.md#rocket-react-teleporter)
+2. [React Firebase Hooks](etc/reactJS.md#rocket-react-firebase-hooks)
+3. [Flightplan](etc/node.md#rocket-flightplan)
+4. [Pm](etc/node.md#rocket-pm)
+5. [Angular loading bar](etc/angularJS.md#rocket-angular-loading-bar)
+
+*recently added:*
+
+### [UPDATES 5.2.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.2.0)
+
+Added these libraries:
 
 * [Search UI](etc/S.md#rocket-search-ui)
 * [Platform JS](etc/P.md#rocket-platform-js)
@@ -19,31 +49,6 @@
 * [Pako](etc/P.md#rocket-pako)
 * [Worker DOM](etc/W.md#rocket-worker-dom)
 * [Typed JS](etc/T.md#rocket-typed-js)
-
-### SUB ADDITIONS
-
-1. [React Teleporter](etc/reactJS.md#rocket-react-teleporter)
-2. [React Firebase Hooks](etc/reactJS.md#rocket-react-firebase-hooks)
-3. [Flightplan](etc/node.md#rocket-flightplan)
-4. [Pm](etc/node.md#rocket-pm)
-5. [Angular loading bar](etc/angularJS.md#rocket-angular-loading-bar)
-
-*recently added:*
-
-1. [Handsontable](etc/H.md#rocket-handsontable)
-2. [Entropic](etc/E.md#rocket-entropic)
-3. [Mocky](etc/M.md#rocket-mocky)
-4. [Riven](etc/R.md#rocket-riven)
-5. [Forg JS](etc/F.md#rocket-forg-js)
-6. [CSSCOMB JS](etc/C.md#rocket-csscomb-js)
-7. [DarkMode js](etc/D.md#rocket-darkmode-js)
-8. [Synaptic](etc/S.md#rocket-synaptic)
-9. [Deb js](etc/D.md#rocket-deb-js)
-10. [Cloudboost](etc/C.md#rocket-cloudboost)
-11. [Grunt Svgstore](etc/G.md#rocket-grunt-svgstore)
-12. [Hjs Webpack](etc/H.md#rocket-hjs-webpack)
-13. [Pretender](etc/P.md#rocket-pretender)
-14. [Laconia JS](etc/L.md#rocket-laconia-js)
 
 ### [UPDATES 5.1.1](https://github.com/TechOUs/Treasure-js/releases/tag/5.1.1)
 

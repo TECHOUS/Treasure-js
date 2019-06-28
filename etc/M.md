@@ -129,6 +129,13 @@ Zero-configuration bundler for tiny modules.
 
 * [GITHUB](https://github.com/developit/microbundle)
 
+## :rocket: MIDDY JS
+
+The stylish Node.js middleware engine for AWS Lambda
+
+* [GITHUB](https://github.com/middyjs/middy)
+* [WEBSITE](https://middy.js.org/)
+
 ## :rocket: MIGHTY INPUT
 
 Text input for modern web
