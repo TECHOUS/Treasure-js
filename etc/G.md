@@ -78,6 +78,12 @@ The JavaScript Task Runner
 * [GITHUB](https://github.com/gruntjs/grunt)
 * [DOCS](https://gruntjs.com/getting-started)
 
+## :rocket: GRUNT SVGSTORE
+
+Merge svgs from a folder
+
+* [GITHUB](https://github.com/FWeinb/grunt-svgstore)
+
 ## :rocket: GUESS JS
 
 Libraries & tools for enabling Machine Learning driven user-experiences on the web

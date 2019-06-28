@@ -40,6 +40,7 @@
 8. [Synaptic](etc/S.md#rocket-synaptic)
 9. [Deb js](etc/D.md#rocket-deb-js)
 10. [Cloudboost](etc/C.md#rocket-cloudboost)
+11. [Grunt Svgstore](etc/G.md#rocket-grunt-svgstore)
 
 ### [UPDATES 5.1.1](https://github.com/TechOUs/Treasure-js/releases/tag/5.1.1)
 
