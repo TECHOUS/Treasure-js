@@ -216,3 +216,10 @@ Cybernetically enhanced web apps
 A swipeable cards interface. The swipe-left/swipe-right for yes/no input. As seen in apps like Jelly and Tinder.
 
 * [GITHUB](https://github.com/gajus/swing)
+
+## :rocket: SYNAPTIC
+
+architecture-free neural network library for node.js and the browser
+
+* [GITHUB](https://github.com/cazala/synaptic)
+* [WEBSITE](http://caza.la/synaptic/)
