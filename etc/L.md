@@ -1,5 +1,13 @@
 # L
 
+## :rocket: LACONIA JS
+
+Create well-crafted serverless applications, effortlessly
+
+* [GITHUB](https://github.com/laconiajs/laconia)
+* [WEBSITE](https://laconiajs.io/)
+* [DOCS](https://laconiajs.io/docs/introduction/getting-started)
+
 ## :rocket: LAGO
 
 Data Structures and Algorithms library in JavaScript

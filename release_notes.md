@@ -43,6 +43,7 @@
 11. [Grunt Svgstore](etc/G.md#rocket-grunt-svgstore)
 12. [Hjs Webpack](etc/H.md#rocket-hjs-webpack)
 13. [Pretender](etc/P.md#rocket-pretender)
+14. [Laconia JS](etc/L.md#rocket-laconia-js)
 
 ### [UPDATES 5.1.1](https://github.com/TechOUs/Treasure-js/releases/tag/5.1.1)
 
