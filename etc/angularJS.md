@@ -20,6 +20,13 @@ One framework. Mobile & desktop.
 * [Angularjs-Advanced Framework Techniques](https://www.edx.org/course/angularjs-advanced-framework-techniques)
 * [Angular JS](https://www.javatpoint.com/angularjs-tutorial)
 
+## :rocket: ANGULAR LOADING BAR
+
+A fully automatic loading / progress bar for your angular apps.
+
+* [GITHUB](https://github.com/chieffancypants/angular-loading-bar)
+* [WEBSITE](https://chieffancypants.github.io/angular-loading-bar/)
+
 ## :rocket: COMPONENTS
 
 Component infrastructure and Material Design components for Angular
