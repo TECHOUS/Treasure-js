@@ -42,6 +42,7 @@
 10. [Cloudboost](etc/C.md#rocket-cloudboost)
 11. [Grunt Svgstore](etc/G.md#rocket-grunt-svgstore)
 12. [Hjs Webpack](etc/H.md#rocket-hjs-webpack)
+13. [Pretender](etc/P.md#rocket-pretender)
 
 ### [UPDATES 5.1.1](https://github.com/TechOUs/Treasure-js/releases/tag/5.1.1)
 
