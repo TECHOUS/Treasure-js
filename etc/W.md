@@ -48,6 +48,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 * [GITHUB](https://github.com/webpack/webpack)
 * [WEBSITE](https://webpack.js.org/)
 * [DOCS](https://webpack.js.org/concepts/)
+* [a collection of simple demos of Webpack](https://github.com/ruanyf/webpack-demos)
 
 ## :rocket: WHEELNAV JS
 

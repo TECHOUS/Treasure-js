@@ -55,6 +55,12 @@ Modern JavaScript date utility library: date-fns provides the most comprehensive
 * [WEBSITE](https://date-fns.org/)
 * [DOCS](https://date-fns.org/docs/Getting-Started)
 
+## :rocket: DEB JS
+
+Minimalistic JavaScript library for debugging in the browser
+
+* [GITHUB](https://github.com/krasimir/deb.js)
+
 ## :rocket: DECK GL
 
 WebGL2 powered geospatial visualization layers

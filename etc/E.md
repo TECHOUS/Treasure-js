@@ -28,6 +28,7 @@ Build cross platform desktop apps with JavaScript, HTML, and CSS
 * [Wi* Official Gatsby source plugin for Cosmic JSndows 95 in Electron. Runs on macOS, Linux, and Windows.](https://github.com/felixrieseberg/windows95)
 * [Implementation of Chrome extension APIs for Electron](https://github.com/wexond/electron-extensions)
 * [Boilerplate to kickstart creating an app with Electron](https://github.com/sindresorhus/electron-boilerplate)
+* [break time reminder app](https://github.com/hovancik/stretchly)
 
 ## :rocket: EMBER JS
 
