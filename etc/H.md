@@ -63,6 +63,12 @@ Javascript syntax highlighter
 * [WEBSITE](https://highlightjs.org/)
 * [USAGE](https://highlightjs.org/usage/)
 
+## :rocket: HJS WEBPACK
+
+Helpers/presets for setting up webpack with hotloading react and ES6(2015) using Babel.
+
+* [GITHUB](https://github.com/HenrikJoreteg/hjs-webpack)
+
 ## :rocket: HLS JS
 
 JavaScript HLS client using Media Source Extension

@@ -26,6 +26,7 @@ Backbone.js gives structure to web applications by providing models with key-val
 * [Backbone JS](https://www.javatpoint.com/backbonejs-tutorial)
 * [LEARN BACKBONE JS](https://in.udacity.com/course/learn-backbonejs--ud990)
 * [DEVDOCS](https://devdocs.io/backbone/)
+* [Simple, flexible and powerful Model-View binding for Backbone.](https://github.com/theironcook/Backbone.ModelBinder)
 
 ## :rocket: BACKSTOP JS
 
