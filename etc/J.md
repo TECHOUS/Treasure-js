@@ -44,6 +44,13 @@ jQuery is a fast, small, and feature-rich JavaScript library. It makes things li
 * [INTRODUCTION TO JQUERY](https://in.udacity.com/course/intro-to-jquery--ud245)
 * [nicescroll plugin for jquery - scrollbars like iphone/ipad](https://github.com/inuyaksa/jquery.nicescroll)
 
+## :rocket: JS-GIT
+
+A JavaScript implementation of Git
+
+* [GITHUB](https://github.com/creationix/js-git)
+* [WEBSITE](https://www.bountysource.com/fundraisers/325-js-git)
+
 ## :rocket: JSONFORM
 
 The JSON Form library is a JavaScript client-side library that takes a structured data model defined using JSON Schema as input and returns a Bootstrap 3-friendly HTML form that matches the schema.
