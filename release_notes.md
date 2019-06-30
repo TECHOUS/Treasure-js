@@ -30,6 +30,8 @@
 
 *recently added:*
 
+1. [EJS](etc/E.md#rocket-ejs)
+
 ### [UPDATES 5.2.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.2.0)
 
 Added these libraries:

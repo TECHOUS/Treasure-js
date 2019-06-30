@@ -14,6 +14,14 @@ Node.js templating engine with fresh air
 * [WEBSITE](https://edge.adonisjs.com/)
 * [DOCS](https://edge.adonisjs.com/docs/getting-started)
 
+## :rocket: EJS
+
+Embedded JavaScript templates
+
+* [GITHUB](https://github.com/mde/ejs)
+* [WEBSITE](https://ejs.co/)
+* [DOCS](https://ejs.co/#docs)
+
 ## :rocket: ELECTRON JS
 
 Build cross platform desktop apps with JavaScript, HTML, and CSS
