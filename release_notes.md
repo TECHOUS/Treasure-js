@@ -34,6 +34,7 @@
 2. [JS-GIT](etc/J.md#rocket-js-git)
 3. [Bleno](etc/B.md#rocket-bleno)
 4. [Exif-js](etc/E.md#rocket-exif-js)
+5. [Data Maps](etc/D.md#rocket-data-maps)
 
 ### [UPDATES 5.2.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.2.0)
 

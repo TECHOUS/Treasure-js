@@ -41,6 +41,14 @@ Add a dark-mode / night-mode to your website in a few seconds
 * [GITHUB](https://github.com/sandoche/Darkmode.js)
 * [WEBSITE](https://darkmodejs.learn.uno/)
 
+## :rocket: DATA MAPS
+
+Customizable SVG map visualizations for the web in a single Javascript file using D3.js
+
+* [GITHUB](https://github.com/markmarkoh/datamaps)
+* [WEBSITE](http://datamaps.github.io/)
+* [DOCS](https://github.com/markmarkoh/datamaps/blob/master/README.md#getting-started)
+
 ## :rocket: DATALOADER
 
 DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.
