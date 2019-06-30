@@ -99,6 +99,12 @@ Flash OS images to SD cards & USB drives, safely and easily.
 * [GITHUB](https://github.com/balena-io/etcher)
 * [WEBSITE](https://www.balena.io/etcher/)
 
+## :rocket: EXIF JS
+
+JavaScript library for reading EXIF image metadata
+
+* [GITHUB](https://github.com/exif-js/exif-js)
+
 ## :rocket: EXPRESS JS
 
 Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
