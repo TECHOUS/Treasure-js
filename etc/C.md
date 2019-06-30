@@ -46,6 +46,13 @@ Simple HTML5 Charts using the canvas tag
 * [WEBSITE](https://www.chartjs.org/)
 * [DOCS](https://www.chartjs.org/docs/latest/)
 
+## :rocket: CHOICES JS
+
+A vanilla JS customisable select box/text input plugin
+
+* [GITHUB](https://github.com/jshjohnson/Choices)
+* [WEBSITE](https://joshuajohnson.co.uk/Choices/)
+
 ## :rocket: CHRONO
 
 A natural language date parser in Javascript
