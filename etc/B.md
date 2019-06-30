@@ -42,6 +42,12 @@ Full-Stack solution to quickly build PWA applications
 * [WEBSITE](https://bento-starter.firebaseapp.com/home)
 * [DOCS](https://bento-starter.netlify.com/)
 
+## :rocket: BLENO
+
+A Node.js module for implementing BLE (Bluetooth Low Energy) peripherals.
+
+* [GITHUB](https://github.com/noble/bleno)
+
 ## :rocket: BLISSFUL JS
 
 Want to use Vanilla JS but find native APIs a bit unwieldy? Bliss is for you
