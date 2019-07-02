@@ -8,6 +8,14 @@ JavaScript validation library for Humans. declarative, efficient, and flexible
 * [WEBSITE](https://v4f.js.org/)
 * [DOCS](https://v4f.js.org/docs/api-reference/api)
 
+## :rocket: VERDACCIO
+
+A lightweight private npm proxy registry
+
+* [GITHUB](https://github.com/verdaccio/verdaccio)
+* [WEBSITE](https://verdaccio.org/)
+* [DOCS](https://verdaccio.org/docs/en/installation)
+
 ## :rocket: VIA JS
 
 Write JS code that runs in a different context. E.g. use the DOM in a Web Worker

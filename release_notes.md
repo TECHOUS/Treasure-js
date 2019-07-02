@@ -36,6 +36,7 @@
 4. [Exif-js](etc/E.md#rocket-exif-js)
 5. [Data Maps](etc/D.md#rocket-data-maps)
 6. [Choices JS](etc/C.md#rocket-choices-js)
+7. [VERDACCIO](etc/V.md#rocket-verdaccio)
 
 ### [UPDATES 5.2.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.2.0)
 
