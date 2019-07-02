@@ -100,6 +100,14 @@ Realtime application framework (Node.JS server)
 * [WEBSITE](http://socket.io)
 * [DOCS](https://devdocs.io/socketio/)
 
+## :rocket: SOFA
+
+The best way to create REST APIs - Generate RESTful APIs from your GraphQL Server
+
+* [GITHUB](https://github.com/Urigo/SOFA)
+* [WEBSITE](https://sofa-api.com/)
+* [DOCS](https://sofa-api.com/docs/)
+
 ## :rocket: SONAR JS
 
 SonarJS: JavaScript Analyzer for SonarQube

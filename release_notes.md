@@ -38,6 +38,7 @@
 6. [Choices JS](etc/C.md#rocket-choices-js)
 7. [VERDACCIO](etc/V.md#rocket-verdaccio)
 8. [Grapes JS](etc/G.md#rocket-grapes-js)
+9. [Sofa](etc/S.md#rocket-sofa)
 
 ### [UPDATES 5.2.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.2.0)
 
