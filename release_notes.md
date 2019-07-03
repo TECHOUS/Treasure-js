@@ -39,6 +39,7 @@
 7. [VERDACCIO](etc/V.md#rocket-verdaccio)
 8. [Grapes JS](etc/G.md#rocket-grapes-js)
 9. [Sofa](etc/S.md#rocket-sofa)
+10. [PixelMatch](etc/P.md#rocket-pixelmatch)
 
 ### [UPDATES 5.2.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.2.0)
 

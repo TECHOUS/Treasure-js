@@ -74,6 +74,12 @@ Low friction JavaScript benchmarks that you can share via URL
 * [DOCS](http://getpino.io/#/)
 * [A list of standard object serializers for the Pino logger](https://github.com/pinojs/pino-std-serializers)
 
+## :rocket: PIXELMATCH
+
+The smallest, simplest and fastest JavaScript pixel-level image comparison librarY
+
+* [GITHUB](https://github.com/mapbox/pixelmatch)
+
 ## :rocket: PLATFORM JS
 
 A platform detection library.
