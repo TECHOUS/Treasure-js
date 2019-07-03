@@ -27,6 +27,7 @@
 3. [Flightplan](etc/node.md#rocket-flightplan)
 4. [Pm](etc/node.md#rocket-pm)
 5. [Angular loading bar](etc/angularJS.md#rocket-angular-loading-bar)
+6. [React Awesome Slider](etc/reactJS.md#rocket-react-awesome-slider)
 
 *recently added:*
 

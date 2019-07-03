@@ -222,6 +222,13 @@ Flexible promise-based React data loader
 
 * [GITHUB](https://github.com/ghengeveld/react-async)
 
+## :rocket: REACT AWESOME SLIDER
+
+React Media Carousel. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders.
+
+* [GITHUB](https://github.com/rcaferati/react-awesome-slider)
+* [WEBSITE](https://caferati.me/demo/react-awesome-slider)
+
 ## :rocket: REACT AUTOSUGGEST
 
 WAI-ARIA compliant React autosuggest component
