@@ -40,6 +40,14 @@ Immutable.js provides many Persistent Immutable data structures including: List,
 * [WEBSITE](https://facebook.github.io/immutable-js/)
 * [DOCS](https://facebook.github.io/immutable-js/docs/#/)
 
+## :rocket: INCUBATOR ECHARTS
+
+A powerful, interactive charting and visualization library for browser
+
+* [GITHUB](https://github.com/apache/incubator-echarts)
+* [WEBSITE](https://echarts.apache.org/en/index.html)
+* [DOCS](https://echarts.apache.org/en/tutorial.html#Get%20Started%20with%20ECharts%20in%205%20minutes)
+
 ## :rocket: INFERNO JS
 
 Inferno is an insanely fast, React-like library for building high-performance user interfaces on both the client and server.
