@@ -29,6 +29,7 @@
 5. [Angular loading bar](etc/angularJS.md#rocket-angular-loading-bar)
 6. [React Awesome Slider](etc/reactJS.md#rocket-react-awesome-slider)
 7. [Kafka Node](etc/node.md#rocket-kafka-node)
+8. [Office ui Fabric React](etc/reactJS.md#rocket-office-ui-fabric-react)
 
 *recently added:*
 

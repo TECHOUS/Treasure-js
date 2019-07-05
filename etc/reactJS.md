@@ -139,18 +139,6 @@ a react-based framework that provides accessibility, modularity, responsiveness,
 * [WEBSITE](https://v2.grommet.io/)
 * [DOCS](https://v2.grommet.io/components)
 
-## :rocket: MOBX REACT LITE
-
-Lightweight React bindings for MobX based on React 16.8 and Hooks
-
-* [GITHUB](https://github.com/mobxjs/mobx-react-lite)
-
-## :rocket: NWB
-
-A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it)
-
-* [GITHUB](https://github.com/insin/nwb)
-
 ## :rocket: LOADABLE COMPONENTS
 
 React code splitting made easy
@@ -165,11 +153,31 @@ React hook which syncs localStorage key with the comp.
 
 * [GITHUB](https://github.com/rehooks/local-storage)
 
+## :rocket: MOBX REACT LITE
+
+Lightweight React bindings for MobX based on React 16.8 and Hooks
+
+* [GITHUB](https://github.com/mobxjs/mobx-react-lite)
+
+## :rocket: NWB
+
+A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it)
+
+* [GITHUB](https://github.com/insin/nwb)
+
 ## :rocket: OBJECT DETECTION REACT
 
 Real-Time Custom Object Detection with TensorFlow.js
 
 * [GITHUB](https://github.com/cloud-annotations/object-detection-react)
+
+## :rocket: OFFICE UI FABRIC REACT
+
+React components for building Microsoft web experiences.
+
+* [GITHUB](https://github.com/OfficeDev/office-ui-fabric-react)
+* [WEBSITE](https://developer.microsoft.com/en-us/fabric/#/components)
+* [DOCS](https://developer.microsoft.com/en-us/fabric#/get-started)
 
 ## :rocket: POLARIS REACT
 
