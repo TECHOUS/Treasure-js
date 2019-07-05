@@ -132,6 +132,12 @@ Add editor-like tab-to-indent functionality to textarea, in a few bytes
 * [GITHUB](https://github.com/bfred-it/indent-textarea)
 * [WEBSITE](https://www.npmjs.com/package/indent-textarea)
 
+## :rocket: KAFKA NODE
+
+Node.js client for Apache Kafka 0.8 and later.
+
+* [GITHUB](https://github.com/SOHU-Co/kafka-node)
+
 ## :rocket: MIKRO ORM
 
 Simple typescript ORM for node.js based on data-mapper, unit-of-work and identity-map patterns. Supports MongoDB, MySQL, PostgreSQL and SQLite databases.

@@ -28,6 +28,7 @@
 4. [Pm](etc/node.md#rocket-pm)
 5. [Angular loading bar](etc/angularJS.md#rocket-angular-loading-bar)
 6. [React Awesome Slider](etc/reactJS.md#rocket-react-awesome-slider)
+7. [Kafka Node](etc/node.md#rocket-kafka-node)
 
 *recently added:*
 
