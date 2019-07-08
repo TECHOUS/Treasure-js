@@ -49,6 +49,13 @@ GreenSock's GSAP JavaScript animation library (including Draggable)
 * [WEBSITE](https://greensock.com/)
 * [DOCS](https://greensock.com/docs)
 
+## :rocket: GRADIENT PATH
+
+A small library to have any gradient follow along any SVG path
+
+* [GITHUB](https://github.com/mnsht/gradient-path)
+* [WEBSITE](https://mnsht.github.io/gradient-path/?path=/story/gradientpath--default)
+
 ## :rocket: GRAPES JS
 
 Free and Open source Web Builder Framework. Next generation tool for building templates without coding

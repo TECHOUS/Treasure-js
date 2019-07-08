@@ -44,6 +44,7 @@
 9. [Sofa](etc/S.md#rocket-sofa)
 10. [PixelMatch](etc/P.md#rocket-pixelmatch)
 11. [Incubator Echart](etc/I.md#rocket-incubator-echarts)
+12. [Gradient Path](etc/G.md#rocket-gradient-path)
 
 ### [UPDATES 5.2.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.2.0)
 
