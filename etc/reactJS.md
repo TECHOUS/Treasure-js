@@ -445,6 +445,13 @@ Teleport React components in the same React tree.
 
 * [GITHUB](https://github.com/smooth-code/react-teleporter)
 
+## :rocket: REACT TOAST NOTIFICATIONS
+
+A toast notification system for react
+
+* [GITHUB](https://github.com/jossmac/react-toast-notifications)
+* [WEBSITE](https://jossmac.github.io/react-toast-notifications/)
+
 ## :rocket: REACT THREE FIBER
 
 A React-renderer for Three.js

@@ -30,6 +30,7 @@
 6. [React Awesome Slider](etc/reactJS.md#rocket-react-awesome-slider)
 7. [Kafka Node](etc/node.md#rocket-kafka-node)
 8. [Office ui Fabric React](etc/reactJS.md#rocket-office-ui-fabric-react)
+9. [React Toast Notifications](etc/reactJS.md#rocket-react-toast-notifications)
 
 *recently added:*
 
