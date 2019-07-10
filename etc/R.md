@@ -32,33 +32,6 @@ The Accessible Foundation for React Apps and Design Systems.
 * [GITHUB](https://github.com/reach/reach-ui)
 * [DOCS](https://ui.reach.tech/)
 
-## :rocket: REDUX
-
-Predictable state container for JavaScript apps
-
-* [GITHUB](https://github.com/reduxjs/redux)
-* [WEBSITE](https://redux.js.org/)
-* [Official React bindings for Redux](https://github.com/reduxjs/react-redux)
-* [DOCS](https://redux.js.org/introduction/getting-started)
-* [DEVDOCS](https://devdocs.io/redux/)
-* [DevTools extension](https://github.com/zalmoxisus/redux-devtools-extension)
-* [higher order reducer to add undo/redo functionality to redux state containers](https://github.com/omnidan/redux-undo)
-* [An alternative side effect model for Redux apps](https://github.com/redux-saga/redux-saga)
-* [CONNECTED REACT REDUX](https://github.com/supasate/connected-react-router)
-* [React Router and Redux](https://www.edx.org/course/react-router-and-redux-1)
-* [Enables simple, yet robust handling of async action creators in Redux](https://github.com/pburtchaell/redux-promise-middleware)
-* [Thunk middleware for Redux](https://github.com/reduxjs/redux-thunk)
-* [Predictable state container for JavaScript apps](https://github.com/reduxjs/redux)
-* [Logger for Redux](https://github.com/LogRocket/redux-logger)
-* [A Redux binding for React Router v4](https://github.com/supasate/connected-react-router)
-
-### REDUX OBSERVABLE JS
-
-RxJS middleware for action side effects in Redux using "Epics"
-
-* [GITHUB](https://github.com/redux-observable/redux-observable)
-* [WEBSITE](https://redux-observable.js.org/)
-
 ## :rocket: READABILITY JS
 
 A standalone version of the readability lib
@@ -86,6 +59,33 @@ Redefined chart library built with React and D3
 * [GITHUB](https://github.com/recharts/recharts)
 * [WEBSITE](http://recharts.org/)
 * [DOCS](http://recharts.org/en-US/guide)
+
+## :rocket: REDUX
+
+Predictable state container for JavaScript apps
+
+* [GITHUB](https://github.com/reduxjs/redux)
+* [WEBSITE](https://redux.js.org/)
+* [Official React bindings for Redux](https://github.com/reduxjs/react-redux)
+* [DOCS](https://redux.js.org/introduction/getting-started)
+* [DEVDOCS](https://devdocs.io/redux/)
+* [DevTools extension](https://github.com/zalmoxisus/redux-devtools-extension)
+* [higher order reducer to add undo/redo functionality to redux state containers](https://github.com/omnidan/redux-undo)
+* [An alternative side effect model for Redux apps](https://github.com/redux-saga/redux-saga)
+* [CONNECTED REACT REDUX](https://github.com/supasate/connected-react-router)
+* [React Router and Redux](https://www.edx.org/course/react-router-and-redux-1)
+* [Enables simple, yet robust handling of async action creators in Redux](https://github.com/pburtchaell/redux-promise-middleware)
+* [Thunk middleware for Redux](https://github.com/reduxjs/redux-thunk)
+* [Predictable state container for JavaScript apps](https://github.com/reduxjs/redux)
+* [Logger for Redux](https://github.com/LogRocket/redux-logger)
+* [A Redux binding for React Router v4](https://github.com/supasate/connected-react-router)
+
+## :rocket: REDUX OBSERVABLE JS
+
+RxJS middleware for action side effects in Redux using "Epics"
+
+* [GITHUB](https://github.com/redux-observable/redux-observable)
+* [WEBSITE](https://redux-observable.js.org/)
 
 ## :rocket: REGEXGEN
 
