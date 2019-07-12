@@ -1,5 +1,11 @@
 # C
 
+## :rocket: CAF
+
+Cancelable Async Flows (CAF)
+
+* [GITHUB](https://github.com/getify/CAF)
+
 ## :rocket: CAMAN JS
 
 CamanJS is (ca)nvas (man)ipulation in Javascript. It's a combination of a simple-to-use interface with advanced and efficient image/canvas editing techniques.
