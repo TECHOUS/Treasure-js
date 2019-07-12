@@ -47,7 +47,6 @@ A JavaScript library for building user interfaces
 * [React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
 * [If you're like me, you're sick of all the ceremony around state management in React, you want something that fits in well with the React way of thinking, but doesn't command some crazy architecture and methodology.](https://github.com/jamiebuilds/unstated)
 * [React components for building experiences for Office and Office 365](https://github.com/OfficeDev/office-ui-fabric-react)
-* [Simple and complete React DOM testing utilities that encourage good testing practices](https://github.com/kentcdodds/react-testing-library)
 * [JavaScript Testing utilities for React](https://github.com/airbnb/enzyme)
 * [Companion code to the "How to Write a Google Maps React Component" Tutorial](https://github.com/fullstackreact/google-maps-react)
 * [High performance subscription-based form state management for React](https://github.com/final-form/react-final-form)
@@ -444,6 +443,14 @@ The official Semantic-UI-React integration
 Teleport React components in the same React tree.
 
 * [GITHUB](https://github.com/smooth-code/react-teleporter)
+
+## :rocket: REACT TESTING LIBRARY
+
+Simple and complete React DOM testing utilities that encourage good testing practices.
+
+* [GITHUB](https://github.com/testing-library/react-testing-library)
+* [WEBSITE](https://testing-library.com/docs/react-testing-library/intro)
+* [DOCS](https://testing-library.com/docs/intro)
 
 ## :rocket: REACT TOAST NOTIFICATIONS
 

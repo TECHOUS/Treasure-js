@@ -31,6 +31,7 @@
 7. [Kafka Node](etc/node.md#rocket-kafka-node)
 8. [Office ui Fabric React](etc/reactJS.md#rocket-office-ui-fabric-react)
 9. [React Toast Notifications](etc/reactJS.md#rocket-react-toast-notifications)
+10. [React Testing Library](etc/reactJS.md#rocket-react-testing-library)
 
 *recently added:*
 
