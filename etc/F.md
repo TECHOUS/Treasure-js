@@ -35,6 +35,12 @@ Fast and low overhead web framework, for Node.js
 * [WEBSITE](https://www.fastify.io/)
 * [DOCS](https://www.fastify.io/docs/latest/)
 
+## :rocket: FASY
+
+FP iterators that are both eager and asynchronous
+
+* [GITHUB](https://github.com/getify/fasy)
+
 ## :rocket: FAYE
 
 Simple pub/sub messaging for the web
