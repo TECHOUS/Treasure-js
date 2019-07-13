@@ -1,24 +1,24 @@
 # VERSION 5
 
-## [UPDATES 5.3.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.3.0)
+## [UPDATES 5.4.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.4.0)
 
 **Added these libraries:**
 
-* [Handsontable](etc/H.md#rocket-handsontable)
-* [Entropic](etc/E.md#rocket-entropic)
-* [Mocky](etc/M.md#rocket-mocky)
-* [Riven](etc/R.md#rocket-riven)
-* [Forg JS](etc/F.md#rocket-forg-js)
-* [CSSCOMB JS](etc/C.md#rocket-csscomb-js)
-* [DarkMode js](etc/D.md#rocket-darkmode-js)
-* [Synaptic](etc/S.md#rocket-synaptic)
-* [Deb js](etc/D.md#rocket-deb-js)
-* [Cloudboost](etc/C.md#rocket-cloudboost)
-* [Grunt Svgstore](etc/G.md#rocket-grunt-svgstore)
-* [Hjs Webpack](etc/H.md#rocket-hjs-webpack)
-* [Pretender](etc/P.md#rocket-pretender)
-* [Laconia JS](etc/L.md#rocket-laconia-js)
-* [Middy js](etc/M.md#rocket-middy-js)
+* [EJS](etc/E.md#rocket-ejs)
+* [JS-GIT](etc/J.md#rocket-js-git)
+* [Bleno](etc/B.md#rocket-bleno)
+* [Exif-js](etc/E.md#rocket-exif-js)
+* [Data Maps](etc/D.md#rocket-data-maps)
+* [Choices JS](etc/C.md#rocket-choices-js)
+* [VERDACCIO](etc/V.md#rocket-verdaccio)
+* [Grapes JS](etc/G.md#rocket-grapes-js)
+* [Sofa](etc/S.md#rocket-sofa)
+* [PixelMatch](etc/P.md#rocket-pixelmatch)
+* [Incubator Echart](etc/I.md#rocket-incubator-echarts)
+* [Gradient Path](etc/G.md#rocket-gradient-path)
+* [CAF](etc/C.md#rocket-caf)
+* [Fasy](etc/F.md#rocket-fasy)
+* [Jiff](etc/J.md#rocket-jiff)
 
 ### SUB ADDITIONS
 
@@ -35,20 +35,25 @@
 
 *recently added:*
 
-1. [EJS](etc/E.md#rocket-ejs)
-2. [JS-GIT](etc/J.md#rocket-js-git)
-3. [Bleno](etc/B.md#rocket-bleno)
-4. [Exif-js](etc/E.md#rocket-exif-js)
-5. [Data Maps](etc/D.md#rocket-data-maps)
-6. [Choices JS](etc/C.md#rocket-choices-js)
-7. [VERDACCIO](etc/V.md#rocket-verdaccio)
-8. [Grapes JS](etc/G.md#rocket-grapes-js)
-9. [Sofa](etc/S.md#rocket-sofa)
-10. [PixelMatch](etc/P.md#rocket-pixelmatch)
-11. [Incubator Echart](etc/I.md#rocket-incubator-echarts)
-12. [Gradient Path](etc/G.md#rocket-gradient-path)
-13. [CAF](etc/C.md#rocket-caf)
-14. [Fasy](etc/F.md#rocket-fasy)
+### [UPDATES 5.3.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.3.0)
+
+Added these libraries:
+
+* [Handsontable](etc/H.md#rocket-handsontable)
+* [Entropic](etc/E.md#rocket-entropic)
+* [Mocky](etc/M.md#rocket-mocky)
+* [Riven](etc/R.md#rocket-riven)
+* [Forg JS](etc/F.md#rocket-forg-js)
+* [CSSCOMB JS](etc/C.md#rocket-csscomb-js)
+* [DarkMode js](etc/D.md#rocket-darkmode-js)
+* [Synaptic](etc/S.md#rocket-synaptic)
+* [Deb js](etc/D.md#rocket-deb-js)
+* [Cloudboost](etc/C.md#rocket-cloudboost)
+* [Grunt Svgstore](etc/G.md#rocket-grunt-svgstore)
+* [Hjs Webpack](etc/H.md#rocket-hjs-webpack)
+* [Pretender](etc/P.md#rocket-pretender)
+* [Laconia JS](etc/L.md#rocket-laconia-js)
+* [Middy js](etc/M.md#rocket-middy-js)
 
 ### [UPDATES 5.2.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.2.0)
 

@@ -22,6 +22,13 @@ Delightful JavaScript Testing
 * [GITHUB](https://github.com/facebook/jest)
 * [DOCS](https://jestjs.io/docs/en/getting-started)
 
+## :rocket: JIFF
+
+JavaScript library for building web-based applications that employ secure multi-party computation (MPC).
+
+* [GITHUB](https://github.com/multiparty/jiff)
+* [DOCS](https://multiparty.org/jiff/docs/jsdoc/)
+
 ## :rocket: JMESPATH JS
 
 Javascript implementation of JMESPath, a query language for JSON
