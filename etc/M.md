@@ -46,6 +46,13 @@ Marionette simplifies your Backbone application code with robust views and archi
 * [DOCS 3](https://devdocs.io/marionette~3/)
 * [DOCS 2](https://devdocs.io/marionette~2/)
 
+## :rocket: MARKED JS
+
+A markdown parser and compiler. Built for speed.
+
+* [GITHUB](https://github.com/markedjs/marked)
+* [DOCS](https://marked.js.org/#/README.md#README.md)
+
 ## :rocket: MATERIALIZE
 
 Materialize, a CSS Framework based on Material Design
