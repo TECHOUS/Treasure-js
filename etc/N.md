@@ -69,6 +69,19 @@ HTTP server mocking and expectations library for Node.js
 
 See [nodejs](node.md)
 
+## :rocket: NORMALIZE URL
+
+Useful when you need to display, store, deduplicate, sort, compare, etc, URLs.
+
+* [GITHUB](https://github.com/sindresorhus/normalize-url)
+
+## :rocket: NOW BUILDERS
+
+Official Now Builders created by the ZEIT team
+
+* [GITHUB](https://github.com/zeit/now-builders)
+* [DOCS](https://zeit.co/docs)
+
 ## :rocket: NPM
 
 npm is the package manager for JavaScript and the world’s largest software registry. Discover packages of reusable code — and assemble them in powerful new ways.
@@ -84,13 +97,6 @@ npm is the package manager for JavaScript and the world’s largest software reg
 * [GREENLET](https://github.com/developit/greenlet)
 * [AUTOSSH](https://github.com/samueleaton/autossh)
 * [Runs a load test on the selected URL. Easy to extend minimally for your own ends](https://github.com/alexfernandez/loadtest)
-
-## :rocket: NOW BUILDERS
-
-Official Now Builders created by the ZEIT team
-
-* [GITHUB](https://github.com/zeit/now-builders)
-* [DOCS](https://zeit.co/docs)
 
 ## :rocket: NUXT JS
 

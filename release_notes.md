@@ -36,6 +36,7 @@
 *recently added:*
 
 1. [Marked JS](etc/M.md#rocket-marked-js)
+2. [Normalize Url](etc/N.md#rocket-normalize-url)
 
 ### [UPDATES 5.3.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.3.0)
 
