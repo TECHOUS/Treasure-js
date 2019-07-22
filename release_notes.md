@@ -32,6 +32,7 @@
 8. [Office ui Fabric React](etc/reactJS.md#rocket-office-ui-fabric-react)
 9. [React Toast Notifications](etc/reactJS.md#rocket-react-toast-notifications)
 10. [React Testing Library](etc/reactJS.md#rocket-react-testing-library)
+11. [Node Auth Library](etc/node.md#rocket-node-auth0)
 
 *recently added:*
 

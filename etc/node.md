@@ -146,6 +146,12 @@ Simple typescript ORM for node.js based on data-mapper, unit-of-work and identit
 * [WEBSITE](https://b4nan.github.io/mikro-orm/)
 * [DOCS](https://b4nan.github.io/mikro-orm/installation/)
 
+## :rocket: NODE AUTH0
+
+Node.js client library for the Auth0 platform.
+
+* [GITHUB](https://github.com/auth0/node-auth0)
+
 ## :rocket: NODE CRON
 
 A simple cron-like job scheduler for Node.js
