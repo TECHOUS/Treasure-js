@@ -130,6 +130,13 @@ ReactJS based Presentation Library
 * [WEBSITE](https://formidable.com/open-source/spectacle/)
 * [DOCS](https://formidable.com/open-source/spectacle/docs)
 
+## :rocket: SPECTRUM
+
+Simple, powerful online communities.
+
+* [GITHUB](https://github.com/withspectrum/spectrum)
+* [WEBSITE](https://spectrum.chat/)
+
 ## :rocket: SPOKE
 
 Easily create custom 3D environments
