@@ -35,6 +35,7 @@
 11. [Node Auth Library](etc/node.md#rocket-node-auth0)
 12. [Native Base](etc/reactNative.md#rocket-native-base)
 13. [Spectrum](etc/S.md#rocket-spectrum)
+14. [Reconnecting-websocket](etc/R.md#rocket-reconnecting-websocket)
 
 *recently added:*
 

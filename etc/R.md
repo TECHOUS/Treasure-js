@@ -60,6 +60,12 @@ Redefined chart library built with React and D3
 * [WEBSITE](http://recharts.org/)
 * [DOCS](http://recharts.org/en-US/guide)
 
+## :rocket: RECONNECTING WEBSOCKET
+
+A small decorator for the JavaScript WebSocket API that automatically reconnects
+
+* [GITHUB](https://github.com/joewalnes/reconnecting-websocket)
+
 ## :rocket: REDUX
 
 Predictable state container for JavaScript apps
