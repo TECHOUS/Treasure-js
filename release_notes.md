@@ -34,13 +34,14 @@
 10. [React Testing Library](etc/reactJS.md#rocket-react-testing-library)
 11. [Node Auth Library](etc/node.md#rocket-node-auth0)
 12. [Native Base](etc/reactNative.md#rocket-native-base)
-13. [Spectrum](etc/S.md#rocket-spectrum)
-14. [Reconnecting-websocket](etc/R.md#rocket-reconnecting-websocket)
 
 *recently added:*
 
 1. [Marked JS](etc/M.md#rocket-marked-js)
 2. [Normalize Url](etc/N.md#rocket-normalize-url)
+3. [Spectrum](etc/S.md#rocket-spectrum)
+4. [Reconnecting-websocket](etc/R.md#rocket-reconnecting-websocket)
+5. [G9 js](etc/G.md#rocket-g9-js)
 
 ### [UPDATES 5.3.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.3.0)
 
