@@ -71,6 +71,12 @@ JavaScript Animation Engine
 * [DOCS](http://animejs.com/documentation/)
 * [INTRO TUTORIAL](https://www.youtube.com/watch?v=g7WnZ9hxUak)
 
+## :rocket: ANGOOSE
+
+Connecting Mongoose and Angular and More
+
+* [GITHUB](https://github.com/tjworks/angoose)
+
 ## :rocket: AOS
 
 Animate on scroll library
