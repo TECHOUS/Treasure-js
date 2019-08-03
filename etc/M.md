@@ -105,6 +105,13 @@ The Mercury Parser extracts the bits that humans care about from any URL you giv
 * [GITHUB](https://github.com/postlight/mercury-parser)
 * [WEBSITE](https://mercury.postlight.com/web-parser/)
 
+## :rocket: MERGE GRAPHQL SCHEMAS
+
+A utility library to facilitate merging of modularized GraphQL schemas and resolver objects.
+
+* [GITHUB](https://github.com/Urigo/merge-graphql-schemas)
+* [DOCS](https://www.npmjs.com/package/merge-graphql-schemas#usage)
+
 ## :rocket: METALSMITH
 
 An extremely simple, pluggable static site generator.

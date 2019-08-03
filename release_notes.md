@@ -43,6 +43,7 @@
 4. [Reconnecting-websocket](etc/R.md#rocket-reconnecting-websocket)
 5. [G9 js](etc/G.md#rocket-g9-js)
 6. [Angoose](etc/A.md#rocket-angoose)
+7. [Merge Graph ql schemas](etc/M.md#rocket-merge-graphql-schemas)
 
 ### [UPDATES 5.3.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.3.0)
 
