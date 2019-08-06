@@ -69,6 +69,12 @@ HTTP server mocking and expectations library for Node.js
 
 See [nodejs](node.md)
 
+## :rocket: NODE CASSANDRA CLIENT
+
+CQL client for Cassandra written in Node.js
+
+* [GITHUB](https://github.com/racker/node-cassandra-client)
+
 ## :rocket: NORMALIZE URL
 
 Useful when you need to display, store, deduplicate, sort, compare, etc, URLs.
