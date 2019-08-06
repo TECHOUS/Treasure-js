@@ -116,6 +116,14 @@ Commander is a light-weight, expressive, and powerful command-line framework
 * [GITHUB](https://github.com/tj/commander.js)
 * [DOCS](http://tj.github.io/commander.js/)
 
+## :rocket: COMPONENTS
+
+An easier way to build and share serverless applications w/ the Serverless Framework
+
+* [GITHUB](https://github.com/serverless/components)
+* [WEBSITE](https://serverless.com)
+* [DOCS](https://serverless.com/framework/docs/)
+
 ## :rocket: COMPROMISE
 
 modest natural-language processing in javascript
