@@ -130,7 +130,7 @@ Soon you will get in correct order keep supporting till then follow bold ones
 * [UDACITY -- Front End Frameworks](https://www.udacity.com/course/front-end-frameworks--ud894)
 * [Javascript Questions](https://github.com/lydiahallie/javascript-questions)
 * [Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore](https://github.com/yangshun/front-end-interview-handbook)
-* [Data Structures and Algorithms explained and implemented in JavaScript](https://github.com/amejiarosario/dsa.js)
+* [Data Structures and Algorithms explained and implemented in JavaScript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
 * [collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book](https://github.com/loiane/javascript-datastructures-algorithms)
 * [JavaScript implementation of different computer science algorithms.](https://github.com/mgechev/javascript-algorithms)
 * [Algorithms resolution in Javascript. Leetcode - Geeksforgeeks - Careercup](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript)

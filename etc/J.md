@@ -22,6 +22,12 @@ Delightful JavaScript Testing
 * [GITHUB](https://github.com/facebook/jest)
 * [DOCS](https://jestjs.io/docs/en/getting-started)
 
+## :rocket: JEST RUNNER ESLINT
+
+An ESLint runner for Jest
+
+* [GITHUB](https://github.com/jest-community/jest-runner-eslint)
+
 ## :rocket: JIFF
 
 JavaScript library for building web-based applications that employ secure multi-party computation (MPC).

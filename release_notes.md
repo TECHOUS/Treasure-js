@@ -35,6 +35,7 @@
 11. [Node Auth Library](etc/node.md#rocket-node-auth0)
 12. [Native Base](etc/reactNative.md#rocket-native-base)
 13. [Node Cassandra Client](etc/N.md#rocket-node-cassandra-client)
+14. [Jest Runner Eslint](etc/J.md#rocket-jest-runner-eslint)
 
 *recently added:*
 
