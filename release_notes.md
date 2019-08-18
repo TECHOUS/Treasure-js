@@ -1,8 +1,41 @@
 # VERSION 5
 
-## [UPDATES 5.4.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.4.0)
+## [UPDATES 5.5.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.5.0)
 
 **Added these libraries:**
+
+* [React Teleporter](etc/reactJS.md#rocket-react-teleporter)
+* [React Firebase Hooks](etc/reactJS.md#rocket-react-firebase-hooks)
+* [Flightplan](etc/node.md#rocket-flightplan)
+* [Pm](etc/node.md#rocket-pm)
+* [Angular loading bar](etc/angularJS.md#rocket-angular-loading-bar)
+* [React Awesome Slider](etc/reactJS.md#rocket-react-awesome-slider)
+* [Kafka Node](etc/node.md#rocket-kafka-node)
+* [Office ui Fabric React](etc/reactJS.md#rocket-office-ui-fabric-react)
+* [React Toast Notifications](etc/reactJS.md#rocket-react-toast-notifications)
+* [React Testing Library](etc/reactJS.md#rocket-react-testing-library)
+* [Node Auth Library](etc/node.md#rocket-node-auth0)
+* [Native Base](etc/reactNative.md#rocket-native-base)
+* [Node Cassandra Client](etc/N.md#rocket-node-cassandra-client)
+* [Jest Runner Eslint](etc/J.md#rocket-jest-runner-eslint)
+* [Svelte Testing Library](etc/S.md#rocket-svelte-testing-library)
+
+### SUB ADDITIONS
+
+*recently added:*
+
+1. [Marked JS](etc/M.md#rocket-marked-js)
+2. [Normalize Url](etc/N.md#rocket-normalize-url)
+3. [Spectrum](etc/S.md#rocket-spectrum)
+4. [Reconnecting-websocket](etc/R.md#rocket-reconnecting-websocket)
+5. [G9 js](etc/G.md#rocket-g9-js)
+6. [Angoose](etc/A.md#rocket-angoose)
+7. [Merge Graph ql schemas](etc/M.md#rocket-merge-graphql-schemas)
+8. [Components](etc/C.md#rocket-components)
+
+### [UPDATES 5.4.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.4.0)
+
+Added these libraries:
 
 * [EJS](etc/E.md#rocket-ejs)
 * [JS-GIT](etc/J.md#rocket-js-git)
@@ -19,34 +52,6 @@
 * [CAF](etc/C.md#rocket-caf)
 * [Fasy](etc/F.md#rocket-fasy)
 * [Jiff](etc/J.md#rocket-jiff)
-
-### SUB ADDITIONS
-
-1. [React Teleporter](etc/reactJS.md#rocket-react-teleporter)
-2. [React Firebase Hooks](etc/reactJS.md#rocket-react-firebase-hooks)
-3. [Flightplan](etc/node.md#rocket-flightplan)
-4. [Pm](etc/node.md#rocket-pm)
-5. [Angular loading bar](etc/angularJS.md#rocket-angular-loading-bar)
-6. [React Awesome Slider](etc/reactJS.md#rocket-react-awesome-slider)
-7. [Kafka Node](etc/node.md#rocket-kafka-node)
-8. [Office ui Fabric React](etc/reactJS.md#rocket-office-ui-fabric-react)
-9. [React Toast Notifications](etc/reactJS.md#rocket-react-toast-notifications)
-10. [React Testing Library](etc/reactJS.md#rocket-react-testing-library)
-11. [Node Auth Library](etc/node.md#rocket-node-auth0)
-12. [Native Base](etc/reactNative.md#rocket-native-base)
-13. [Node Cassandra Client](etc/N.md#rocket-node-cassandra-client)
-14. [Jest Runner Eslint](etc/J.md#rocket-jest-runner-eslint)
-
-*recently added:*
-
-1. [Marked JS](etc/M.md#rocket-marked-js)
-2. [Normalize Url](etc/N.md#rocket-normalize-url)
-3. [Spectrum](etc/S.md#rocket-spectrum)
-4. [Reconnecting-websocket](etc/R.md#rocket-reconnecting-websocket)
-5. [G9 js](etc/G.md#rocket-g9-js)
-6. [Angoose](etc/A.md#rocket-angoose)
-7. [Merge Graph ql schemas](etc/M.md#rocket-merge-graphql-schemas)
-8. [Components](etc/C.md#rocket-components)
 
 ### [UPDATES 5.3.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.3.0)
 

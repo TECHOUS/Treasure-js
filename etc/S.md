@@ -226,6 +226,12 @@ Cybernetically enhanced web apps
 * [DOCS](https://svelte.dev/docs)
 * [Military-grade progressive web apps, powered by Svelte](https://github.com/sveltejs/sapper)
 
+## :rocket: SVELTE TESTING LIBRARY
+
+Simple and complete Svelte DOM testing utilities that encourage good testing practices
+
+* [GITHUB](https://github.com/testing-library/svelte-testing-library)
+
 ## :rocket: SWING
 
 A swipeable cards interface. The swipe-left/swipe-right for yes/no input. As seen in apps like Jelly and Tinder.
