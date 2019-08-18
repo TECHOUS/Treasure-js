@@ -580,6 +580,13 @@ Drag and drop for your React lists and tables. Accessible. Tiny
 * [GITHUB](https://github.com/tajo/react-movable)
 * [WEBSITE](https://react-movable.netlify.com/)
 
+## :rocket: RECOMPOSE
+
+A React utility belt for function components and higher-order components.
+
+* [GITHUB](https://github.com/acdlite/recompose)
+* [DOCS](https://github.com/acdlite/recompose/blob/master/docs/API.md)
+
 ## :rocket: UNFORM
 
 ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!

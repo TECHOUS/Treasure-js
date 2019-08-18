@@ -34,6 +34,7 @@
 6. [Angoose](etc/A.md#rocket-angoose)
 7. [Merge Graph ql schemas](etc/M.md#rocket-merge-graphql-schemas)
 8. [Components](etc/C.md#rocket-components)
+9. [Recompose](etc/reactJS.md#rocket-recompose)
 
 ### [UPDATES 5.4.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.4.0)
 
