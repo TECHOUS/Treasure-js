@@ -52,6 +52,13 @@ Simple HTML5 Charts using the canvas tag
 * [WEBSITE](https://www.chartjs.org/)
 * [DOCS](https://www.chartjs.org/docs/latest/)
 
+## :rocket: CHEERIO JS
+
+Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+
+* [GITHUB](https://github.com/cheeriojs/cheerio)
+* [WEBSITE](https://cheerio.js.org/)
+
 ## :rocket: CHOICES JS
 
 A vanilla JS customisable select box/text input plugin

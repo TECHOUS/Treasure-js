@@ -22,6 +22,8 @@
 
 ### SUB ADDITIONS
 
+1. [Cheerio js](etc/C.md#rocket-cheerio-js)
+
 *recently added:*
 
 1. [Marked JS](etc/M.md#rocket-marked-js)
