@@ -87,6 +87,14 @@ A JavaScript library for building user interfaces
 * [Beginner's Guide To React Router Starter Project](https://github.com/dabit3/beginners-guide-to-react-router)
 * [React Lifecycle Methods diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)
 
+## :rocket: AIRFRAME REACT
+
+High Quality Dashboard / Admin / Analytics template that works great on any smartphone, tablet or desktop.
+
+* [GITHUB](https://github.com/0wczar/airframe-react)
+* [WEBSITE](http://dashboards.webkom.co/react/airframe/dashboards/projects)
+* [DOCS](https://webkom.gitbook.io/spin/v/airframe/airframe-react/documentation-react)
+
 ## :rocket: BASE UI
 
 A React Component library implementing the Base design language
