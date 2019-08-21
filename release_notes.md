@@ -23,6 +23,7 @@
 ### SUB ADDITIONS
 
 1. [Cheerio js](etc/C.md#rocket-cheerio-js)
+2. [Comlink](etc/C.md#rocket-comlink)
 
 *recently added:*
 

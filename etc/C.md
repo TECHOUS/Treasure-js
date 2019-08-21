@@ -116,6 +116,12 @@ Modern Era Acceptance Testing Framework
 * [WEBSITE](https://codecept.io/)
 * [DOCS](https://codecept.io/basics/)
 
+## :rocket: COMLINK
+
+Comlink makes WebWorkers enjoyable.
+
+* [GITHUB](https://github.com/GoogleChromeLabs/comlink)
+
 ## :rocket: COMMANDER JS
 
 Commander is a light-weight, expressive, and powerful command-line framework
