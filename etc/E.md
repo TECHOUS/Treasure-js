@@ -105,6 +105,12 @@ JavaScript library for reading EXIF image metadata
 
 * [GITHUB](https://github.com/exif-js/exif-js)
 
+## :rocket: EXPRESS-JWT
+
+connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes
+
+* [GITHUB](https://github.com/auth0/express-jwt)
+
 ## :rocket: EXPRESS JS
 
 Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
