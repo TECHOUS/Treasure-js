@@ -25,6 +25,7 @@
 1. [Cheerio js](etc/C.md#rocket-cheerio-js)
 2. [Comlink](etc/C.md#rocket-comlink)
 3. [Express Jwt](etc/E.md#rocket-express-jwt)
+4. [Swagger ui express](etc/S.md#rocket-swagger-ui-express)
 
 *recently added:*
 

@@ -232,6 +232,14 @@ Simple and complete Svelte DOM testing utilities that encourage good testing pra
 
 * [GITHUB](https://github.com/testing-library/svelte-testing-library)
 
+## :rocket: SWAGGER UI EXPRESS
+
+Adds middleware to your express app to serve the Swagger UI bound to your Swagger document. This acts as living documentation for your API hosted from within your app.
+
+* [GITHUB](https://github.com/scottie1984/swagger-ui-express)
+* [WEBSITE](https://swagger.io/tools/swagger-ui/)
+* [DOCS](https://swagger.io/solutions/api-documentation/)
+
 ## :rocket: SWING
 
 A swipeable cards interface. The swipe-left/swipe-right for yes/no input. As seen in apps like Jelly and Tinder.
