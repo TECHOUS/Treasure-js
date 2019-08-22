@@ -66,6 +66,13 @@ Low friction JavaScript benchmarks that you can share via URL
 * [GITHUB](https://github.com/lukejacksonn/perflink)
 * [WEBSITE](https://perf.link/)
 
+## :rocket: PICKR
+
+Flat, simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba, hsla, hsva and more!
+
+* [GITHUB](https://github.com/Simonwep/pickr)
+* [WEBSITE](https://simonwep.github.io/pickr/)
+
 ## :rcoket: PINO JS
 
 :evergreen_tree: super fast, all natural json logger :evergreen_tree:
