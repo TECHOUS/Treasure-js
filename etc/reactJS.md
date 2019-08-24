@@ -612,3 +612,11 @@ Silly React hook for CSS
 A custom React Hook that provides a multi-instance, multi-tab/browser shared and persistent state.
 
 * [GITHUB](https://github.com/donavon/use-persisted-state)
+
+## :rocket: VIDEO-REACT
+
+A web video player built for the HTML5 world using React library.
+
+* [GITHUB](https://github.com/video-react/video-react)
+* [WEBSITE](https://video-react.js.org/)
+* [DOCS](https://video-react.js.org/components/player/)

@@ -40,6 +40,7 @@
 7. [Merge Graph ql schemas](etc/M.md#rocket-merge-graphql-schemas)
 8. [Components](etc/C.md#rocket-components)
 9. [Recompose](etc/reactJS.md#rocket-recompose)
+10. [Video-react](etc/reactJS.md#rocket-video-react)
 
 ### [UPDATES 5.4.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.4.0)
 
