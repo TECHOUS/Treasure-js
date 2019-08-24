@@ -41,6 +41,7 @@
 8. [Components](etc/C.md#rocket-components)
 9. [Recompose](etc/reactJS.md#rocket-recompose)
 10. [Video-react](etc/reactJS.md#rocket-video-react)
+11. [React Vimeo](etc/reactJS.md#rocket-react-vimeo)
 
 ### [UPDATES 5.4.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.4.0)
 

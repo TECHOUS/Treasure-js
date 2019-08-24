@@ -588,6 +588,13 @@ Drag and drop for your React lists and tables. Accessible. Tiny
 * [GITHUB](https://github.com/tajo/react-movable)
 * [WEBSITE](https://react-movable.netlify.com/)
 
+## :rocket: REACT VIMEO
+
+Vimeo player component for React.
+
+* [GITHUB](https://github.com/u-wave/react-vimeo)
+* [WEBSITE](https://u-wave.net/react-vimeo/)
+
 ## :rocket: RECOMPOSE
 
 A React utility belt for function components and higher-order components.
