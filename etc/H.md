@@ -109,3 +109,10 @@ A terminal built on web technologies
 
 * [GITHUB](https://github.com/zeit/hyper)
 * [DOCS](https://hyper.is/)
+
+## :rocket: HYPERSWITCH
+
+HyperSwitch is a framework for creating REST web services
+
+* [GITHUB](https://github.com/wikimedia/hyperswitch)
+* [WEBSITE](https://www.mediawiki.org/wiki/HyperSwitch)

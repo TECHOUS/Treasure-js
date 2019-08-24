@@ -27,6 +27,7 @@
 3. [Express Jwt](etc/E.md#rocket-express-jwt)
 4. [Swagger ui express](etc/S.md#rocket-swagger-ui-express)
 5. [Pickr](etc/P.md#rocket-pickr)
+6. [Hyperswitch](etc/H.md#rocket-hyperswitch)
 
 *recently added:*
 
