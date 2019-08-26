@@ -28,6 +28,7 @@
 4. [Swagger ui express](etc/S.md#rocket-swagger-ui-express)
 5. [Pickr](etc/P.md#rocket-pickr)
 6. [Hyperswitch](etc/H.md#rocket-hyperswitch)
+7. [D3 Funnel](etc/D.md#rocket-d3-funnel)
 
 *recently added:*
 
