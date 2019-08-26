@@ -42,6 +42,7 @@
 9. [Recompose](etc/reactJS.md#rocket-recompose)
 10. [Video-react](etc/reactJS.md#rocket-video-react)
 11. [React Vimeo](etc/reactJS.md#rocket-react-vimeo)
+12. [React Font Awesome](etc/reactJS.md#rocket-react-font-awesome)
 
 ### [UPDATES 5.4.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.4.0)
 

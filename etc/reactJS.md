@@ -304,6 +304,12 @@ A Component React for Facebook Login
 
 * [GITHUB](https://github.com/keppelen/react-facebook-login)
 
+## :rocket: REACT FONT AWESOME
+
+Font Awesome 5 React component
+
+* [GITHUB](https://github.com/FortAwesome/react-fontawesome)
+
 ## :rocket: REACT FIBER
 
 A description of React's new core algorithm, React Fiber
