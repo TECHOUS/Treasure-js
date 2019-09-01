@@ -1,8 +1,38 @@
 # VERSION 5
 
-## [UPDATES 5.5.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.5.0)
+## [UPDATES 5.6.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.6.0)
 
 **Added these libraries:**
+
+* [Cheerio js](etc/C.md#rocket-cheerio-js)
+* [Comlink](etc/C.md#rocket-comlink)
+* [Express Jwt](etc/E.md#rocket-express-jwt)
+* [Swagger ui express](etc/S.md#rocket-swagger-ui-express)
+* [Pickr](etc/P.md#rocket-pickr)
+* [Hyperswitch](etc/H.md#rocket-hyperswitch)
+* [D3 Funnel](etc/D.md#rocket-d3-funnel)
+* [Marked JS](etc/M.md#rocket-marked-js)
+* [Normalize Url](etc/N.md#rocket-normalize-url)
+* [Spectrum](etc/S.md#rocket-spectrum)
+* [Reconnecting-websocket](etc/R.md#rocket-reconnecting-websocket)
+* [G9 js](etc/G.md#rocket-g9-js)
+* [Angoose](etc/A.md#rocket-angoose)
+* [Merge Graph ql schemas](etc/M.md#rocket-merge-graphql-schemas)
+* [Components](etc/C.md#rocket-components)
+
+### SUB ADDITIONS
+
+1. [Recompose](etc/reactJS.md#rocket-recompose)
+2. [Video-react](etc/reactJS.md#rocket-video-react)
+3. [React Vimeo](etc/reactJS.md#rocket-react-vimeo)
+4. [React Font Awesome](etc/reactJS.md#rocket-react-font-awesome)
+5. [Mobx React](etc/reactJS.md#rocket-mobx-react)
+
+*recently added:*
+
+### [UPDATES 5.5.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.5.0)
+
+Added these libraries:
 
 * [React Teleporter](etc/reactJS.md#rocket-react-teleporter)
 * [React Firebase Hooks](etc/reactJS.md#rocket-react-firebase-hooks)
@@ -19,31 +49,6 @@
 * [Node Cassandra Client](etc/N.md#rocket-node-cassandra-client)
 * [Jest Runner Eslint](etc/J.md#rocket-jest-runner-eslint)
 * [Svelte Testing Library](etc/S.md#rocket-svelte-testing-library)
-
-### SUB ADDITIONS
-
-1. [Cheerio js](etc/C.md#rocket-cheerio-js)
-2. [Comlink](etc/C.md#rocket-comlink)
-3. [Express Jwt](etc/E.md#rocket-express-jwt)
-4. [Swagger ui express](etc/S.md#rocket-swagger-ui-express)
-5. [Pickr](etc/P.md#rocket-pickr)
-6. [Hyperswitch](etc/H.md#rocket-hyperswitch)
-7. [D3 Funnel](etc/D.md#rocket-d3-funnel)
-
-*recently added:*
-
-1. [Marked JS](etc/M.md#rocket-marked-js)
-2. [Normalize Url](etc/N.md#rocket-normalize-url)
-3. [Spectrum](etc/S.md#rocket-spectrum)
-4. [Reconnecting-websocket](etc/R.md#rocket-reconnecting-websocket)
-5. [G9 js](etc/G.md#rocket-g9-js)
-6. [Angoose](etc/A.md#rocket-angoose)
-7. [Merge Graph ql schemas](etc/M.md#rocket-merge-graphql-schemas)
-8. [Components](etc/C.md#rocket-components)
-9. [Recompose](etc/reactJS.md#rocket-recompose)
-10. [Video-react](etc/reactJS.md#rocket-video-react)
-11. [React Vimeo](etc/reactJS.md#rocket-react-vimeo)
-12. [React Font Awesome](etc/reactJS.md#rocket-react-font-awesome)
 
 ### [UPDATES 5.4.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.4.0)
 

@@ -160,6 +160,12 @@ React hook which syncs localStorage key with the comp.
 
 * [GITHUB](https://github.com/rehooks/local-storage)
 
+## :rocket: MOBX REACT
+
+React bindings for MobX
+
+* [GITHUB](https://github.com/mobxjs/mobx-react)
+
 ## :rocket: MOBX REACT LITE
 
 Lightweight React bindings for MobX based on React 16.8 and Hooks
