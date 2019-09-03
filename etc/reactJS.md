@@ -15,76 +15,22 @@ A JavaScript library for building user interfaces
 * [React JS - GFG](https://www.geeksforgeeks.org/react-js-introduction-working/)
 * [Advanced REACT](https://github.com/wesbos/Advanced-React)
 * [EVERGREEN REACT UI](https://github.com/segmentio/evergreen)
-* [STYLED COMPONENTS](https://github.com/styled-components/styled-components)
 * [Provides React-inspired 'hooks' like useState(..) for stand-alone functions](https://github.com/getify/tng-hooks)
-* [Declarative routing for React](https://github.com/ReactTraining/react-router)
-* [A React Component to create interactive 3d graphs](https://github.com/Auquan/react-graph3d-vis)
-* [OFFICE UI FABRIC REACT](https://github.com/OfficeDev/office-ui-fabric-react)
-* [React UI animation made easy](https://github.com/bluebill1049/react-simple-animate)
-* [InfiniteLoader component inspired by react-virtualized but for use with react-window](https://github.com/bvaughn/react-window-infinite-loader)
 * [A DIY guide to build your own React](https://github.com/pomber/didact)
-* [REACT-SNAP](https://github.com/stereobooster/react-snap)
-* [Build forms in React, without the tears](https://github.com/jaredpalmer/formik)
-* [Simple React Bootstrap 4 compoGeneral purpose crypto utilitiesnents](https://github.com/reactstrap/reactstrap)
-* [React NPM library starter kit](https://github.com/DimiMikadze/create-react-library)
-* [React integration for Apollo Client](https://github.com/apollographql/react-apollo)
-* [Hacker News Clone React/GraphQL](https://github.com/clintonwoo/hackernews-react-graphql)
 * [React Example - Product Compare Page](https://github.com/Rhymond/product-compare-react)
-* [The Super component library](https://github.com/vitormalencar/lightning)
-* [WAI-ARIA compliant React autosuggest component](https://github.com/moroshko/react-autosuggest)
 * [REACT RTE-Pure React rich text "WYSISYG" editor based on draft-js](https://github.com/sstur/react-rte)
-* [Font Awesome 5 React component](https://github.com/FortAwesome/react-fontawesome)
-* [Beautiful and accessible drag and drop for lists with React](https://github.com/atlassian/react-beautiful-dnd)
 * [OVERREACTED BLOG](https://github.com/gaearon/overreacted.io)
-* [Jest helpers for working with the React Profiler API.](https://github.com/bvaughn/jest-react-profiler)
-* [Fast 3kB React alternative with the same modern API. Components & Virtual DOM.](https://github.com/developit/preact)
-* [React compatibility layer for Preact](https://github.com/developit/preact-compat)
-* [Simple HTML5 drag-drop zone with React.js](https://github.com/react-dropzone/react-dropzone)
-* [Bind events to state. Works with Preact and React.](https://github.com/developit/linkstate)
 * [The Road to learn React: Your journey to master plain yet pragmatic React.js](https://github.com/the-road-to-learn-react/the-road-to-learn-react)
 * [Curated tutorial and resource links I've collected on React, Redux, ES6, and more](https://github.com/markerikson/react-redux-links)
 * [List of top 300 ReactJS Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 * [React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
-* [If you're like me, you're sick of all the ceremony around state management in React, you want something that fits in well with the React way of thinking, but doesn't command some crazy architecture and methodology.](https://github.com/jamiebuilds/unstated)
-* [React components for building experiences for Office and Office 365](https://github.com/OfficeDev/office-ui-fabric-react)
-* [JavaScript Testing utilities for React](https://github.com/airbnb/enzyme)
-* [Companion code to the "How to Write a Google Maps React Component" Tutorial](https://github.com/fullstackreact/google-maps-react)
-* [High performance subscription-based form state management for React](https://github.com/final-form/react-final-form)
 * [React crash course](https://github.com/bradtraversy/react_crash_todo)
-* [React hook for providing info from gamepads connected to the system](https://github.com/ythecombinator/gamepads)
-* [React hook for providing both read and write access to the system clipboard.](https://github.com/ythecombinator/clipboard)
-* [React Hook for accessing state and dispatch from a Redux store](https://github.com/facebookincubator/redux-react-hook)
-* [Cute React UI Components](https://github.com/miukimiu/react-kawaii)
 * ["Shrine" Progressive Web App sample built with React](https://github.com/GoogleChromeLabs/react-shrine)
-* [Simple React Bootstrap 4 components](https://github.com/reactstrap/reactstrap)
-* [Accessible modal dialog component for React](https://github.com/reactjs/react-modal)
-* [Multi step form built with React and Material UI](https://github.com/bradtraversy/react_step_form)
-* [Datatable for React based on material-ui's table with additional features](https://github.com/mbrn/material-table)
-* [Datatables for React using Material-UI](https://github.com/gregnb/mui-datatables)
-* [Material UI Datatable in React way](https://github.com/DTupalov/react-material-ui-datatable)
-* [An another React Data tables component.](https://github.com/hyojin/material-ui-datatables)
-* [UI Components for React](https://github.com/primefaces/primereact)
-* [A draggable toggle-switch component for React](https://github.com/markusenglund/react-switch)
 * [a collection of simple demos of React.js](https://github.com/ruanyf/react-demos)
-* [Google Material Design (Material-UI) styled React component using Google Maps Places Autocomplete](https://github.com/Giners/mui-places-autocomplete)
-* [Country / region React select boxes for your forms.](https://github.com/country-regions/react-country-region-selector)
-* [svg react icons of popular icon packs](https://github.com/react-icons/react-icons)
-* [Collection of animated burgers for React, also available as HTML+CSS](https://github.com/march08/animated-burgers)
-* [A free and beautiful React admin dashboard template pack](https://github.com/DesignRevision/shards-dashboard-react)
-* [A Bootstrap table built with React.js](https://github.com/AllenFang/react-bootstrap-table)
-* [Next Generation of react-bootstrap-table](https://github.com/react-bootstrap-table/react-bootstrap-table2)
 * [Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the ground with React!](https://github.com/tyroprogrammer/learn-react-app)
-* [React components that implement Google's Material Design.](https://github.com/mui-org/material-ui)
 * [a cheatsheet for react users using typescript with react for the first (or nth!) time](https://github.com/sw-yx/react-typescript-cheatsheet)
-* [Pure react-based typeahead and typeahead-tokenizer](https://github.com/fmoo/react-typeahead)
-* [A production grade app with React, Node, Mongo, Material-UI to Create, Edit, Delete and render tabular data.](https://github.com/rohan-paul/material-ui-table-with-node-mongodb)
-* [Enable a React component (or group of components) to be selectable via mouse/touch.](https://github.com/valerybugakov/react-selectable-fast)
-* [ReactJS project that 'compare' GitHub repositories :octocat:](https://github.com/gabriel-hahn/git-compare)
-* [React specific linting rules for ESLint](https://github.com/yannickcr/eslint-plugin-react)
-* [React and Express file uploader](https://github.com/bradtraversy/react_file_uploader)
 * [AWESOME REACT HOOKS](https://github.com/glauberfc/awesome-react-hooks)
 * [Use React, Redux, Immutable to code Tetris](https://github.com/chvin/react-tetris)
-* [Beginner's Guide To React Router Starter Project](https://github.com/dabit3/beginners-guide-to-react-router)
 * [React Lifecycle Methods diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)
 
 ## :rocket: AIRFRAME REACT
@@ -109,12 +55,31 @@ Scalable state manager using React Hooks & Context
 * [GITHUB](https://github.com/diegohaz/constate)
 * [WEBSITE](https://codesandbox.io/s/github/diegohaz/constate/tree/master/examples/counter)
 
+## :rocket: CREATE REACT LIBRARY
+
+React NPM library starter kit based on Facebook's create react app
+
+* [GITHUB](https://github.com/DimiMikadze/create-react-library)
+
 ## :rocket: ELEMENT REACT
 
 Element UI
 
 * [GITHUB](https://github.com/ElemeFE/element-react)
 * [WEBSITE](https://elemefe.github.io/element-react/index#/zh-CN/quick-start)
+
+## :rocket: ENZYME
+
+JavaScript Testing utilities for React
+
+* [GITHUB](https://github.com/airbnb/enzyme)
+* [DOCS](https://airbnb.io/enzyme/)
+
+## :rocket: ESLINT PLUGIN REACT
+
+React specific linting rules for ESLint
+
+* [GITHUB](https://github.com/yannickcr/eslint-plugin-react)
 
 ## :rocket: EVERGREEN
 
@@ -131,6 +96,14 @@ Elegant form management primitives for the react hooks era.
 * [GITHUB](https://github.com/kevinwolfcr/formal)
 * [WEBSITE](https://react-formal.netlify.com/?path=/story/examples--basic)
 
+## :rocket: FORMIK
+
+Build forms in React, without the tears
+
+* [GITHUB](https://github.com/jaredpalmer/formik)
+* [WEBSITE](https://jaredpalmer.com/formik/)
+* [DOCS](https://jaredpalmer.com/formik/docs/overview)
+
 ## :rocket: GOOGLE MAP REACT
 
 Google map library for react that allows rendering components as markers
@@ -146,6 +119,25 @@ a react-based framework that provides accessibility, modularity, responsiveness,
 * [WEBSITE](https://v2.grommet.io/)
 * [DOCS](https://v2.grommet.io/components)
 
+## :rocket: JEST REACT PROFILER
+
+Jest helpers for working with the React Profiler API.
+
+* [GITHUB](https://github.com/bvaughn/jest-react-profiler)
+
+## :rocket: LIGHTNING
+
+The Super component library
+
+* [GITHUB](https://github.com/vitormalencar/lightning)
+* [WEBSITE](https://vitormalencar.github.io/lightning)
+
+## :rocket: LINKSTATE
+
+Bind events to state. Works with Preact and React.
+
+* [GITHUB](https://github.com/developit/linkstate)
+
 ## :rocket: LOADABLE COMPONENTS
 
 React code splitting made easy
@@ -160,6 +152,28 @@ React hook which syncs localStorage key with the comp.
 
 * [GITHUB](https://github.com/rehooks/local-storage)
 
+## :rocket: MATERIAL TABLE
+
+Datatable for React based on material-ui's table with additional features
+
+* [GITHUB](https://github.com/mbrn/material-table)
+* [WEBSITE](https://material-table.com/#/)
+* [DOCS](https://material-table.com/#/docs/get-started)
+
+## :rocket: MATERIAL UI
+
+React components for faster and easier web development. Build your own design system, or start with Material Design.
+
+* [GITHUB](https://github.com/mui-org/material-ui)
+* [WEBSITE](https://material-ui.com/)
+* [DOCS](https://material-ui.com/getting-started/usage/)
+
+## :rocket: MATERIAL UI DATATABLES
+
+An another React Data tables component.
+
+* [GITHUB](https://github.com/hyojin/material-ui-datatables)
+
 ## :rocket: MOBX REACT
 
 React bindings for MobX
@@ -171,6 +185,13 @@ React bindings for MobX
 Lightweight React bindings for MobX based on React 16.8 and Hooks
 
 * [GITHUB](https://github.com/mobxjs/mobx-react-lite)
+
+## :rocket: MUI DATATABLES
+
+Datatables for React using Material-UI
+
+* [GITHUB](https://github.com/gregnb/mui-datatables)
+* [WEBSITE](https://www.material-ui-datatables.com/)
 
 ## :rocket: NWB
 
@@ -199,6 +220,23 @@ Shopify’s product component library
 * [GITHUB](https://github.com/Shopify/polaris-react)
 * [WEBSITE](https://polaris.shopify.com/)
 * [DOCS](https://polaris.shopify.com/components/get-started)
+
+## :rocket: PREACT
+
+Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+
+* [GITHUB](https://github.com/preactjs/preact)
+* [WEBSITE](https://preactjs.com/)
+* [DOCS](https://preactjs.com/guide/v10/getting-started)
+* [Preact Compat](https://github.com/developit/preact-compat)
+
+## :rocket: PRIMEREACT
+
+PrimeReact is a collection of rich UI components for React
+
+* [GITHUB](https://github.com/primefaces/primereact)
+* [WEBSITE](https://www.primefaces.org/primereact/#/)
+* [DOCS](https://www.primefaces.org/primereact/#/setup)
 
 ## :rocket: REAKIT
 
@@ -237,18 +275,18 @@ A frontend Framework for building admin applications running in the browser on t
 * [GITHUB](https://github.com/marmelab/react-admin)
 * [WEBSITE](https://marmelab.com/react-admin/)
 
+## :rocket: REACT APOLLO
+
+React integration for Apollo Client
+
+* [GITHUB](https://github.com/apollographql/react-apollo)
+* [DOCS](https://www.apollographql.com/docs/react/)
+
 ## :rocket: REACT ASYNC
 
 Flexible promise-based React data loader
 
 * [GITHUB](https://github.com/ghengeveld/react-async)
-
-## :rocket: REACT AWESOME SLIDER
-
-React Media Carousel. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders.
-
-* [GITHUB](https://github.com/rcaferati/react-awesome-slider)
-* [WEBSITE](https://caferati.me/demo/react-awesome-slider)
 
 ## :rocket: REACT AUTOSUGGEST
 
@@ -257,6 +295,36 @@ WAI-ARIA compliant React autosuggest component
 * [GITHUB](https://github.com/moroshko/react-autosuggest)
 * [WEBSITE](http://react-autosuggest.js.org/)
 * [USAGE](https://github.com/moroshko/react-autosuggest#installation)
+
+## :rocket: REACT AWESOME SLIDER
+
+React Media Carousel. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders.
+
+* [GITHUB](https://github.com/rcaferati/react-awesome-slider)
+* [WEBSITE](https://caferati.me/demo/react-awesome-slider)
+
+## :rocket: REACT BEAUTIFUL DND
+
+Beautiful and accessible drag and drop for lists with React
+
+* [GITHUB](https://github.com/atlassian/react-beautiful-dnd)
+* [WEBSITE](https://react-beautiful-dnd.netlify.com/?path=/story/single-vertical-list--basic)
+
+## :rocket: REACT BOOTSTRAP TABLE
+
+A Bootstrap table built with React.js
+
+* [GITHUB](https://github.com/AllenFang/react-bootstrap-table)
+* [WEBSITE](https://allenfang.github.io/react-bootstrap-table/)
+* [DOCS](https://allenfang.github.io/react-bootstrap-table/start.html)
+
+## :rocket: REACT BOOSTRAP TABLE 2
+
+Next Generation of react-bootstrap-table
+
+* [GITHUB](https://github.com/react-bootstrap-table/react-bootstrap-table2)
+* [WEBSITE](https://react-bootstrap-table.github.io/react-bootstrap-table2/)
+* [DOCS](https://react-bootstrap-table.github.io/react-bootstrap-table2/docs/about.html)
 
 ## :rocket: REACT CHART JS
 
@@ -284,6 +352,13 @@ SVG-Powered component to easily create placeholder loadings (like Facebook cards
 
 * [GITHUB](https://github.com/danilowoz/react-content-loader)
 * [WEBSITE](http://danilowoz.com/create-content-loader/)
+
+## :rocket: REACT COUNTRY REGION SELECTOR
+
+Country / region React select boxes for your forms.
+
+* [GITHUB](https://github.com/country-regions/react-country-region-selector)
+* [WEBSITE](http://country-regions.github.io/react-country-region-selector/)
 
 ## :rocket: REACT DEV TOOLS
 
@@ -315,12 +390,21 @@ A Component React for Facebook Login
 Font Awesome 5 React component
 
 * [GITHUB](https://github.com/FortAwesome/react-fontawesome)
+* [WEBSITE](https://fontawesome.com/)
 
 ## :rocket: REACT FIBER
 
 A description of React's new core algorithm, React Fiber
 
 * [GITHUB](https://github.com/acdlite/react-fiber-architecture)
+
+## :rocket: REACT FINAL FORM
+
+High performance subscription-based form state management for React
+
+* [GITHUB](https://github.com/final-form/react-final-form)
+* [WEBSITE](https://final-form.org/react)
+* [DOCS](https://final-form.org/docs/react-final-form/getting-started)
 
 ## :rocket: REACT FIREBASE HOOKS
 
@@ -340,17 +424,38 @@ Load data asynchronously into your React components. Works on both client and se
 
 * [GITHUB](https://github.com/davnicwil/react-frontload)
 
+## :rocket: REACT GRAPH3D VIS
+
+A React Component to create interactive 3d graphs using vis.js
+
+* [GITHUB](https://github.com/Auquan/react-graph3d-vis)
+
 ## :rocket: REACT HOOKS HELPER
 
 A custom React Hooks library that gives you custom hooks for your code.
 
 * [GITHUB](https://github.com/revelcw/react-hooks-helper)
 
+## :rocket: REACT ICONS
+
+svg react icons of popular icon packs
+
+* [GITHUB](https://github.com/react-icons/react-icons)
+* [WEBSITE](https://react-icons.netlify.com/#/)
+
 ## :rocket: REACT IMAGE
 
 React.js img tag rendering with multiple fallback & loader support
 
 * [GITHUB](https://github.com/mbrevda/react-image)
+
+## :rocket: REACT KAWAII
+
+Cute React UI Components
+
+* [GITHUB](https://github.com/miukimiu/react-kawaii)
+* [WEBSITE](https://react-kawaii.now.sh/)
+* [DOCS](https://react-kawaii.now.sh/#/Getting%20Started)
 
 ## :rocket: REACT LARAVEL
 
@@ -394,12 +499,32 @@ Make beats with React!
 * [GITHUB](https://github.com/FormidableLabs/react-music)
 * [WEBSITE](http://reactmusic.surge.sh/)
 
+## :rocket: REACT MOBX BOILERPLATE
+
+TodoMVC reference implementation on top of react-mobx-boilerplate
+
+* [GITHUB](https://github.com/mobxjs/mobx-react-todomvc)
+
+## :rocket: REACT MODAL
+
+Accessible modal dialog component for React
+
+* [GITHUB](https://github.com/reactjs/react-modal)
+* [WEBSITE](http://reactcommunity.org/react-modal/)
+
 ## :rocket: REACT MORPH
 
 Morphing Ui transitions made simple
 
 * [GITHUB](https://github.com/brunnolou/react-morph)
 * [WEBSITE](https://brunnolou.github.io/react-morph/?down=0)
+
+## :rocket: REACT MOVABLE
+
+Drag and drop for your React lists and tables. Accessible. Tiny
+
+* [GITHUB](https://github.com/tajo/react-movable)
+* [WEBSITE](https://react-movable.netlify.com/)
 
 ## :rocket: REACT NAVIGATION
 
@@ -427,6 +552,13 @@ Create PDF files using React
 Parses React prop-types into a readable object
 
 * [GITHUB](https://github.com/diegohaz/parse-prop-types)
+
+## :rocket: REACT ROUTER
+
+Declarative routing for React
+
+* [GITHUB](https://github.com/ReactTraining/react-router)
+* [WEBSITE](https://reacttraining.com/react-router/)
 
 ## :rocket: REACT RESIZE DETECTOR
 
@@ -457,6 +589,35 @@ The official Semantic-UI-React integration
 * [GITHUB](https://github.com/Semantic-Org/Semantic-UI-React)
 * [WEBSITE](https://react.semantic-ui.com/)
 * [USAGE](https://react.semantic-ui.com/usage)
+
+## :rocket: REACT SIMPLE ANIMATE
+
+React UI animation made easy
+
+* [GITHUB](https://github.com/bluebill1049/react-simple-animate)
+* [WEBSITE](https://react-simple-animate.now.sh/)
+* [DOCS](https://react-simple-animate.now.sh/basics)
+
+## :rocket: REACT SNAP
+
+Zero-configuration framework-agnostic static prerendering for SPAs
+
+* [GITHUB](https://github.com/stereobooster/react-snap)
+
+## :rocket: REACT SWITCH
+
+A draggable toggle-switch component for React.
+
+* [GITHUB](https://github.com/markusenglund/react-switch)
+* [DOCS](https://react-switch.netlify.com/)
+
+## :rocket: REACTSTRAP
+
+Simple React Bootstrap 4 components
+
+* [GITHUB](https://github.com/reactstrap/reactstrap)
+* [WEBSITE](https://reactstrap.github.io/)
+* [DOCS](https://reactstrap.github.io/components/alerts/)
 
 ## :rocket: REACT TELEPORTER
 
@@ -499,6 +660,12 @@ React notification made easy :rocket: !
 * [GITHUB](https://github.com/fkhadra/react-toastify)
 * [WEBSITE](https://fkhadra.github.io/react-toastify/)
 
+## :rocket: REACT TYPEAHEAD
+
+Pure react-based typeahead and typeahead-tokenizer
+
+* [GITHUB](https://github.com/fmoo/react-typeahead)
+
 ## :rocket: REACT USE
 
 Hook factory, receives a function to be memoized, returns a memoized React hook, which receives the same arguments and returns the same result as the original function.
@@ -539,11 +706,11 @@ React components for efficiently rendering large lists and tabular data
 * [GITHUB](https://github.com/bvaughn/react-window)
 * [WEBSITE](https://react-window.now.sh/)
 
-## :rocket: REACT TOOL TIP
+## :rocket: REACT WINDOW INFINITE LOADER
 
-A powerful and flexible React tooltip and menu library.
+InfiniteLoader component inspired by react-virtualized but for use with react-window
 
-* [GITHUB](https://github.com/justinrhodes1/react-power-tooltip)
+* [GITHUB](https://github.com/bvaughn/react-window-infinite-loader)
 
 ## :rocket: REACT SPRING
 
@@ -580,25 +747,18 @@ Basic React component for star (or any other icon based) rating elements
 * [GITHUB](https://github.com/voronianski/react-star-rating-component)
 * [WEBSITE](http://voronianski.github.io/react-star-rating-component/example/)
 
+## :rocket: REACT TOOL TIP
+
+A powerful and flexible React tooltip and menu library.
+
+* [GITHUB](https://github.com/justinrhodes1/react-power-tooltip)
+
 ## :rocket: REACT TREEBEARD
 
 React Tree View Component. Data-Driven, Fast, Efficient and Customisable.
 
 * [GITHUB](https://github.com/storybooks/react-treebeard)
 * [WEBSITE](http://storybooks.github.io/react-treebeard/)
-
-## :rocket: REACT MOBX BOILERPLATE
-
-TodoMVC reference implementation on top of react-mobx-boilerplate
-
-* [GITHUB](https://github.com/mobxjs/mobx-react-todomvc)
-
-## :rocket: REACT MOVABLE
-
-Drag and drop for your React lists and tables. Accessible. Tiny
-
-* [GITHUB](https://github.com/tajo/react-movable)
-* [WEBSITE](https://react-movable.netlify.com/)
 
 ## :rocket: REACT VIMEO
 
@@ -614,11 +774,37 @@ A React utility belt for function components and higher-order components.
 * [GITHUB](https://github.com/acdlite/recompose)
 * [DOCS](https://github.com/acdlite/recompose/blob/master/docs/API.md)
 
+## :rocket: REDUX REACT HOOK
+
+React Hook for accessing state and dispatch from a Redux store
+
+* [GITHUB](https://github.com/facebookincubator/redux-react-hook)
+
+## :rocket: STYLED COMPONENTS
+
+Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress
+
+* [GITHUB](https://github.com/styled-components/styled-components)
+* [WEBSITE](https://www.styled-components.com/)
+* [DOCS](https://www.styled-components.com/docs)
+
 ## :rocket: UNFORM
 
 ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!
 
 * [GITHUB](https://github.com/Rocketseat/unform)
+
+## :rocket: UNSTATED
+
+State so simple, it goes without saying
+
+* [GITHUB](https://github.com/jamiebuilds/unstated)
+
+## :rocket: UNSTATED NEXT
+
+200 bytes to never think about React state management libraries ever again
+
+* [GITHUB](https://github.com/jamiebuilds/unstated-next)
 
 ## :rocket: USE CSS
 

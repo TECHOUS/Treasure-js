@@ -1,8 +1,25 @@
 # VERSION 5
 
-## [UPDATES 5.6.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.6.0)
+## [UPDATES 5.6.1](https://github.com/TechOUs/Treasure-js/releases/tag/5.6.1)
 
-**Added these libraries:**
+* Fixed react js libraries, hooks and components
+* Converted and added new libraries, components and hooks
+
+### SUB ADDITIONS
+
+1. [Recompose](etc/reactJS.md#rocket-recompose)
+2. [Video-react](etc/reactJS.md#rocket-video-react)
+3. [React Vimeo](etc/reactJS.md#rocket-react-vimeo)
+4. [React Font Awesome](etc/reactJS.md#rocket-react-font-awesome)
+5. [Mobx React](etc/reactJS.md#rocket-mobx-react)
+
+*recently added:*
+
+1. [Reaction](etc/R.md#rocket-reaction)
+
+### [UPDATES 5.6.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.6.0)
+
+Added these libraries:
 
 * [Cheerio js](etc/C.md#rocket-cheerio-js)
 * [Comlink](etc/C.md#rocket-comlink)
@@ -19,18 +36,6 @@
 * [Angoose](etc/A.md#rocket-angoose)
 * [Merge Graph ql schemas](etc/M.md#rocket-merge-graphql-schemas)
 * [Components](etc/C.md#rocket-components)
-
-### SUB ADDITIONS
-
-1. [Recompose](etc/reactJS.md#rocket-recompose)
-2. [Video-react](etc/reactJS.md#rocket-video-react)
-3. [React Vimeo](etc/reactJS.md#rocket-react-vimeo)
-4. [React Font Awesome](etc/reactJS.md#rocket-react-font-awesome)
-5. [Mobx React](etc/reactJS.md#rocket-mobx-react)
-
-*recently added:*
-
-1. [Reaction](etc/R.md#rocket-reaction)
 
 ### [UPDATES 5.5.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.5.0)
 

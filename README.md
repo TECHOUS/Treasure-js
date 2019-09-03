@@ -4,7 +4,7 @@
     <h4 align="center"><cite>A <u>JavaScript WikiPedia</u> for GitHub</cite></h4>
     <h4 align="center">
         <a href="https://github.com/TechOUs/treasurejs.github.io">WEBSITE</a> &nbsp;&nbsp; | &nbsp;&nbsp;
-        <a href="">CLI</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+        <a href="https://github.com/TechOUs/Treasurejs-cli">CLI</a> &nbsp;&nbsp; | &nbsp;&nbsp;
         <a href="release_notes.md">HISTORY</a> &nbsp;&nbsp; | &nbsp;&nbsp;
         <a href="CONTRIBUTING.md">CONTRIBUTE</a> &nbsp;&nbsp; | &nbsp;&nbsp;
         <a href="https://github.com/TechOUs/Treasurejs-logo">LOGO</a>
