@@ -30,6 +30,8 @@
 
 *recently added:*
 
+1. [Reaction](etc/R.md#rocket-reaction)
+
 ### [UPDATES 5.5.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.5.0)
 
 Added these libraries:
