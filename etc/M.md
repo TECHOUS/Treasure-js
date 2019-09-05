@@ -112,6 +112,12 @@ A utility library to facilitate merging of modularized GraphQL schemas and resol
 * [GITHUB](https://github.com/Urigo/merge-graphql-schemas)
 * [DOCS](https://www.npmjs.com/package/merge-graphql-schemas#usage)
 
+## :rocket: MESSAGING APIS
+
+Messaging APIs for multi-platform
+
+* [GITHUB](https://github.com/Yoctol/messaging-apis)
+
 ## :rocket: METALSMITH
 
 An extremely simple, pluggable static site generator.

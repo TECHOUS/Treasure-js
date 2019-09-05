@@ -16,6 +16,7 @@
 *recently added:*
 
 1. [Reaction](etc/R.md#rocket-reaction)
+2. [Messaging Apis](etc/M.md#rocket-messaging-apis)
 
 ### [UPDATES 5.6.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.6.0)
 
