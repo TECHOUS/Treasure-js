@@ -20,6 +20,7 @@
 3. [Sharp](etc/S.md#rocket-sharp)
 4. [Photon JS](etc/P.md#rocket-photon-js)
 5. [Molecular JS](etc/M.md#rocket-molecular-js)
+6. [Stylis JS](etc/S.md#rocket-stylis-js)
 
 ### [UPDATES 5.6.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.6.0)
 

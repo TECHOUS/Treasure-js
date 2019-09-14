@@ -218,6 +218,13 @@ Open source Node.js Headless CMS to easily build customisable APIs
 * [GITHUB](https://github.com/akameco/styled-spinkit)
 * [WEBSITE](https://akameco.github.io/styled-spinkit/)
 
+## :rocket: STYLIS JS
+
+light – weight css preprocessor
+
+* [GITHUB](https://github.com/thysultan/stylis.js)
+* [WEBSITE](https://stylis.js.org/)
+
 ## :rocket: SUPERTEST
 
 Super-agent driven library for testing node.js HTTP servers using a fluent API
