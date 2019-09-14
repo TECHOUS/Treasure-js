@@ -44,6 +44,13 @@ Static file serving and directory listing
 * [GITHUB](https://github.com/zeit/serve)
 * [WEBSITE](https://zeit.co/blog/serve-7)
 
+## :rocket: SHARP
+
+High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images
+
+* [GITHUB](https://github.com/lovell/sharp)
+* [WEBSITE](https://sharp.pixelplumbing.com/en/stable/)
+
 ## :rocket: SHAVE
 
 Shave is a 0 dep JS plugin that truncates text to fit within an element based on a set max-height
