@@ -225,6 +225,14 @@ Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the us
 * [WEBSITE](https://modernizr.com/)
 * [DOCS](https://devdocs.io/modernizr/)
 
+## :rocket: MOLECULAR JS
+
+Progressive microservices framework for Node.js
+
+* [GITHUB](https://github.com/moleculerjs/moleculer)
+* [WEBSITE](https://moleculer.services/)
+* [DOCS](https://moleculer.services/docs/0.13/)
+
 ## :rocket: MOMENT JS
 
 Parse, validate, manipulate, and display dates in javascript
