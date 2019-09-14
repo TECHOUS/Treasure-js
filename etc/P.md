@@ -66,6 +66,14 @@ Low friction JavaScript benchmarks that you can share via URL
 * [GITHUB](https://github.com/lukejacksonn/perflink)
 * [WEBSITE](https://perf.link/)
 
+## :rocket: PHOTON JS
+
+Type-safe database client for TypeScript & Node.js (ORM replacement)
+
+* [GITHUB](https://github.com/prisma/photonjs)
+* [WEBSITE](https://photonjs.prisma.io/)
+* [DOCS](https://github.com/prisma/prisma2/tree/master/docs)
+
 ## :rocket: PICKR
 
 Flat, simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba, hsla, hsva and more!
@@ -73,7 +81,7 @@ Flat, simple, multi-themed, responsive and hackable Color-Picker library. No dep
 * [GITHUB](https://github.com/Simonwep/pickr)
 * [WEBSITE](https://simonwep.github.io/pickr/)
 
-## :rcoket: PINO JS
+## :rocket: PINO JS
 
 :evergreen_tree: super fast, all natural json logger :evergreen_tree:
 
