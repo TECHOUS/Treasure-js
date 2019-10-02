@@ -21,6 +21,13 @@ generate massive amounts of realistic fake data in Node.js and the browser
 
 * [GITHUB](https://github.com/Marak/faker.js)
 
+## :rocket: FASTER JS
+
+faster.js is a Babel plugin that compiles idiomatic Javascript to faster, micro-optimized Javascript.
+
+* [GITHUB](https://github.com/vzhou842/faster.js)
+* [WEBSITE](https://www.npmjs.com/package/faster.js)
+
 ## :rocket: FASTEST-VALIDATOR
 
 The fastest JS validator library for NodeJS
