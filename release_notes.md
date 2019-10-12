@@ -22,6 +22,7 @@
 5. [Molecular JS](etc/M.md#rocket-molecular-js)
 6. [Stylis JS](etc/S.md#rocket-stylis-js)
 7. [Faster JS](etc/F.md#rocket-faster-js)
+8. [Axe Core](etc/A.md#rocket-axe-core)
 
 ### [UPDATES 5.6.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.6.0)
 

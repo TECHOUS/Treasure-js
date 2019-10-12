@@ -119,3 +119,10 @@ Async await wrapper for easy error handling without try-catch
 
 * [GITHUB](https://github.com/scopsy/await-to-js)
 * [BLOG](https://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
+
+## :rocket: AXE CORE
+
+Accessibility engine for automated Web UI testing
+
+* [GITHUB](https://github.com/dequelabs/axe-core)
+* [WEBSITE](https://www.deque.com/axe/)
