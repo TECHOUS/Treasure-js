@@ -86,6 +86,14 @@ Javascript API for integration with EOSIO-based blockchains using EOSIO RPC API.
 * [GITHUB](https://github.com/EOSIO/eosjs)
 * [DOCS](https://eosio.github.io/eosjs/)
 
+## :rocket: ESDOC
+
+ESDoc - Good Documentation for JavaScript
+
+* [GITHUB](https://github.com/esdoc/esdoc)
+* [WEBSITE](https://esdoc.org/)
+* [DOCS](https://esdoc.org/manual/usage.html)
+
 ## :rocket: ESM
 
 The brilliantly simple, babel-less, bundle-less ECMAScript module loader.

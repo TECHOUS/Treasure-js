@@ -113,7 +113,8 @@ Generates regular expressions that match a set of strings.
 Relay is a JavaScript framework for building data-driven React applications
 
 * [GITHUB](https://github.com/facebook/relay)
-* [WEBSITE](https://facebook.github.io/relay/)
+* [WEBSITE](https://relay.dev/)
+* [DOCS](https://relay.dev/docs/en/introduction-to-relay)
 * [DOCS](https://devdocs.io/relay/)
 
 ## :rocket: REQUIRE JS
