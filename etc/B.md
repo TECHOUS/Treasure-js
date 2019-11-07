@@ -108,6 +108,13 @@ Neural networks in JavaScript
 * [GITHUB](https://github.com/BrainJS/brain.js)
 * [WEBSITE](https://brain.js.org/)
 
+## :rocket: BROWSER FS
+
+BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
+
+* [GITHUB](https://github.com/jvilk/BrowserFS)
+* [DOCS](https://jvilk.com/browserfs/2.0.0-beta/index.html)
+
 ## :rocket: BQPLOT
 
 Plotting library for IPython/Jupyter Notebooks
