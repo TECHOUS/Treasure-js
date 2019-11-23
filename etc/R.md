@@ -56,7 +56,7 @@ A standalone version of the readability lib
 
 React primitive UI components built with styled-system
 
-* [GITHUB](https://github.com/rebassjs/rebassjs.org)
+* [GITHUB](https://github.com/rebassjs/rebass)
 * [WEBSITE](https://rebassjs.org/)
 * [DOCS](https://rebassjs.org/getting-started)
 
