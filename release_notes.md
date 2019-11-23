@@ -25,6 +25,7 @@
 8. [Axe Core](etc/A.md#rocket-axe-core)
 9. [ESDOC](etc/E.md#rocket-esdoc)
 10. [BROWSER FS](etc/B.md#rocket-browser-fs)
+11. [RACY JS](etc/R.md#rocket-racy-js)
 
 ### [UPDATES 5.6.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.6.0)
 
