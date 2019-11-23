@@ -89,6 +89,13 @@ Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with
 
 * [GITHUB](https://github.com/developit/htm)
 
+## :rocket: HYBRIDS JS
+
+Web Components with a strong declarative and functional approach based on plain objects and pure functions
+
+* [GITHUB](https://github.com/hybridsjs/hybrids)
+* [WEBSITE](https://hybrids.js.org/)
+
 ## :rocket: HYGEN
 
 The simple, fast, and scalable code generator that lives in your project.
