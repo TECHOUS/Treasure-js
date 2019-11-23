@@ -15,6 +15,12 @@ Odoo. Open Source Apps To Grow Your Business.
 * [WEBSITE](https://www.odoo.com/)
 * [DOCS](https://www.odoo.com/page/docs)
 
+## :rocket: OLA
+
+Smooth animation library for interpolating numbers
+
+* [GITHUB](https://github.com/franciscop/ola)
+
 ## :rocket: ONNX JS
 
 ONNX.js: run ONNX models using JavaScript
@@ -22,11 +28,12 @@ ONNX.js: run ONNX models using JavaScript
 * [GITHUB](https://github.com/Microsoft/onnxjs)
 * [demos to show the capabilities of ONNX.js](https://github.com/Microsoft/onnxjs-demo)
 
-## :rocket: OLA
+## :rocket: OPEN-UI
 
-Smooth animation library for interpolating numbers
+A place to play around a little bit with controls to see if there is a better path forward
 
-* [GITHUB](https://github.com/franciscop/ola)
+* [GITHUB](https://github.com/WICG/open-ui)
+* [WEBSITE](https://open-ui.org/)
 
 ## :rocket: OpenZeppelin
 

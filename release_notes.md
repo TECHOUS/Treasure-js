@@ -26,6 +26,7 @@
 9. [ESDOC](etc/E.md#rocket-esdoc)
 10. [BROWSER FS](etc/B.md#rocket-browser-fs)
 11. [RACY JS](etc/R.md#rocket-racy-js)
+12. [OPEN-UI](etc/O.md#rocket-open-ui)
 
 ### [UPDATES 5.6.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.6.0)
 
