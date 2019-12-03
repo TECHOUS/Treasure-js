@@ -56,6 +56,14 @@ Want to use Vanilla JS but find native APIs a bit unwieldy? Bliss is for you
 * [WEBSITE](https://blissfuljs.com/)
 * [DOCS](https://blissfuljs.com/docs.html)
 
+## :rocket: BLOCKS
+
+A JSX-based page builder for creating beautiful websites without writing code
+
+* [GITHUB](https://github.com/blocks/blocks)
+* [WEBSITE](https://blocks-ui.com/)
+* [DOCS](https://blocks-ui.com/docs)
+
 ## :rocket: BLUEBIRD JS
 
 Bluebird is a full featured promise library with unmatched performance.

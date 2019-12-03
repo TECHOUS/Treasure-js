@@ -28,6 +28,7 @@
 11. [RACY JS](etc/R.md#rocket-racy-js)
 12. [OPEN-UI](etc/O.md#rocket-open-ui)
 13. [HYBRIDS JS](etc/H.md#rocket-hybrids-js)
+14. [BLOCKS](etc/B.md#rocket-blocks)
 
 ### [UPDATES 5.6.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.6.0)
 
