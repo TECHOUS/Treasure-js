@@ -553,6 +553,12 @@ Parses React prop-types into a readable object
 
 * [GITHUB](https://github.com/diegohaz/parse-prop-types)
 
+## :rocket: REACT QUERY
+
+Hooks for fetching, caching and updating asynchronous data in React
+
+* [GITHUB](https://github.com/tannerlinsley/react-query)
+
 ## :rocket: REACT ROUTER
 
 Declarative routing for React

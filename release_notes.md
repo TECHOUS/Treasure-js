@@ -13,6 +13,7 @@
 4. [React Font Awesome](etc/reactJS.md#rocket-react-font-awesome)
 5. [Mobx React](etc/reactJS.md#rocket-mobx-react)
 6. [React Table](etc/reactJS.md#rocket-react-table)
+7. [React Query](etc/reactJS.md#rocket-react-query)
 
 *recently added:*
 
