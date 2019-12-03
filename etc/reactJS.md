@@ -392,6 +392,12 @@ Font Awesome 5 React component
 * [GITHUB](https://github.com/FortAwesome/react-fontawesome)
 * [WEBSITE](https://fontawesome.com/)
 
+## :rocket: REACT FORM
+
+Hooks for managing form state and validation in React
+
+* [GITHUB](https://github.com/tannerlinsley/react-form)
+
 ## :rocket: REACT FIBER
 
 A description of React's new core algorithm, React Fiber
