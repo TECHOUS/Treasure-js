@@ -619,6 +619,12 @@ Simple React Bootstrap 4 components
 * [WEBSITE](https://reactstrap.github.io/)
 * [DOCS](https://reactstrap.github.io/components/alerts/)
 
+## :rocket: REACT TABLE
+
+Hooks for building fast and extendable tables and datagrids for React
+
+* [GITHUB](https://github.com/tannerlinsley/react-table)
+
 ## :rocket: REACT TELEPORTER
 
 Teleport React components in the same React tree.
