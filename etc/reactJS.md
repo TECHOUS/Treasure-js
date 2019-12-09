@@ -238,6 +238,13 @@ PrimeReact is a collection of rich UI components for React
 * [WEBSITE](https://www.primefaces.org/primereact/#/)
 * [DOCS](https://www.primefaces.org/primereact/#/setup)
 
+## :rocket: RADIUM
+
+A toolchain for React component styling.
+
+* [GITHUB](https://github.com/FormidableLabs/radium)
+* [WEBSITE](https://formidable.com/open-source/radium/)
+
 ## :rocket: REAKIT
 
 Toolkit for building really interactive UIs with React
