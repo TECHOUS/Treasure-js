@@ -248,3 +248,11 @@ MongoDB object modeling designed to work in an asynchronous environment
 * [WEBSITE](https://mongoosejs.com/)
 * [GITHUB](https://github.com/Automattic/mongoose/)
 * [DOCS](https://devdocs.io/mongoose/)
+
+## :rocket: MURPHY JS
+
+A simple way to implement scroll based reveal animations in your site.
+
+* [GITHUB](https://github.com/cesarolvr/murphyjs)
+* [WEBSITE](https://cesarolvr.github.io/murphyjs/index.html)
+* [DOCS](https://github.com/cesarolvr/murphyjs#documentation)

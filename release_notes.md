@@ -1,9 +1,24 @@
 # VERSION 5
 
-## [UPDATES 5.6.1](https://github.com/TechOUs/Treasure-js/releases/tag/5.6.1)
+## [UPDATES 5.7.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.7.0)
 
-* Fixed react js libraries, hooks and components
-* Converted and added new libraries, components and hooks
+**Added these libraries:**
+
+* [Reaction](etc/R.md#rocket-reaction)
+* [Messaging Apis](etc/M.md#rocket-messaging-apis)
+* [Sharp](etc/S.md#rocket-sharp)
+* [Photon JS](etc/P.md#rocket-photon-js)
+* [Molecular JS](etc/M.md#rocket-molecular-js)
+* [Stylis JS](etc/S.md#rocket-stylis-js)
+* [Faster JS](etc/F.md#rocket-faster-js)
+* [Axe Core](etc/A.md#rocket-axe-core)
+* [ESDOC](etc/E.md#rocket-esdoc)
+* [BROWSER FS](etc/B.md#rocket-browser-fs)
+* [RACY JS](etc/R.md#rocket-racy-js)
+* [OPEN-UI](etc/O.md#rocket-open-ui)
+* [HYBRIDS JS](etc/H.md#rocket-hybrids-js)
+* [BLOCKS](etc/B.md#rocket-blocks)
+* [MURPHY JS](etc/M.md#rocket-murphy-js)
 
 ### SUB ADDITIONS
 
@@ -19,20 +34,10 @@
 
 *recently added:*
 
-1. [Reaction](etc/R.md#rocket-reaction)
-2. [Messaging Apis](etc/M.md#rocket-messaging-apis)
-3. [Sharp](etc/S.md#rocket-sharp)
-4. [Photon JS](etc/P.md#rocket-photon-js)
-5. [Molecular JS](etc/M.md#rocket-molecular-js)
-6. [Stylis JS](etc/S.md#rocket-stylis-js)
-7. [Faster JS](etc/F.md#rocket-faster-js)
-8. [Axe Core](etc/A.md#rocket-axe-core)
-9. [ESDOC](etc/E.md#rocket-esdoc)
-10. [BROWSER FS](etc/B.md#rocket-browser-fs)
-11. [RACY JS](etc/R.md#rocket-racy-js)
-12. [OPEN-UI](etc/O.md#rocket-open-ui)
-13. [HYBRIDS JS](etc/H.md#rocket-hybrids-js)
-14. [BLOCKS](etc/B.md#rocket-blocks)
+### [UPDATES 5.6.1](https://github.com/TechOUs/Treasure-js/releases/tag/5.6.1)
+
+* Fixed react js libraries, hooks and components
+* Converted and added new libraries, components and hooks
 
 ### [UPDATES 5.6.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.6.0)
 
