@@ -100,6 +100,12 @@ Modern copy to clipboard. No Flash. Just 3kb gzipped
 * [GITHUB](https://github.com/zenorocha/clipboard.js)
 * [WEBSITE/DOCS](https://clipboardjs.com/)
 
+## :rocket: CLONE
+
+A library to perfectly deep clone JavaScript values.
+
+* [GITHUB](https://github.com/gactjs/clone)
+
 ## :rocket: CLOUDBOOST
 
 Realtime JavaScript Backend.
