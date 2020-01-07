@@ -41,7 +41,7 @@ High Quality Dashboard / Admin / Analytics template that works great on any smar
 * [WEBSITE](http://dashboards.webkom.co/react/airframe/dashboards/projects)
 * [DOCS](https://webkom.gitbook.io/spin/v/airframe/airframe-react/documentation-react)
 
-## :rocket: BASE UI
+## :rocket: BASE WEB
 
 A React Component library implementing the Base design language
 

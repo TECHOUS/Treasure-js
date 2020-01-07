@@ -35,6 +35,7 @@
 *recently added:*
 
 1. [Clone](etc/C.md#rocket-clone)
+2. [RedWood](etc/R.md#rocket-redwood)
 
 ### [UPDATES 5.6.1](https://github.com/TechOUs/Treasure-js/releases/tag/5.6.1)
 
