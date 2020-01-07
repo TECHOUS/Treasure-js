@@ -176,3 +176,11 @@ A JavaScript / Python / PHP cryptocurrency trading API with support for more tha
 
 * [GITHUB](https://github.com/ccxt/ccxt)
 * [WEBSITE](https://github.com/ccxt/ccxt/wiki)
+
+## :rocket: CYPRESS
+
+Fast, easy and reliable testing for anything that runs in a browser.
+
+* [GITHUB](https://github.com/cypress-io/cypress)
+* [WEBSITE](https://www.cypress.io/)
+* [DOCS](https://docs.cypress.io/guides/overview/why-cypress.html)
