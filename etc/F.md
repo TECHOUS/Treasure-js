@@ -149,6 +149,14 @@ Modular JavaScript framework for building scalable and reactive applications
 * [WEBSITE](https://frint.js.org/)
 * [DOCS](https://frint.js.org/docs)
 
+## :rocket: FULLCALENDAR
+
+Full-sized drag & drop event calendar
+
+* [GITHUB](https://github.com/fullcalendar/fullcalendar)
+* [WEBSITE](https://fullcalendar.io/)
+* [DOCS](https://fullcalendar.io/docs)
+
 ## :rocket: FUSE JS
 
 Lightweight fuzzy-search
