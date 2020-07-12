@@ -1,6 +1,15 @@
-# VERSION 5
+# VERSION 6
 
-## [UPDATES 5.7.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.7.0)
+## [RELEASE 6.0.0](https://github.com/TechOUs/Treasure-js/releases/tag/v6.0.0)
+
+* Removed all the bad indexes
+* From now on all the libraries are mentioned in the number files
+* There will not be a separate files for libraries like react, vue or node as it confuses users
+* Deprecated file removed from this release
+
+## VERSION 5
+
+### [UPDATES 5.7.0](https://github.com/TechOUs/Treasure-js/releases/tag/5.7.0)
 
 **Added these libraries:**
 
