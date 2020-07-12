@@ -7,6 +7,12 @@ A streaming layout service for front-end microservices
 * [GITHUB](https://github.com/zalando/tailor)
 * [WEBSITE](https://www.mosaic9.org/)
 
+## :rocket: TAPE
+
+tap-producing test harness for node and browsers
+
+* [GITHUB](https://github.com/substack/tape)
+
 ## :rocket: TARO JS
 
 A multi-end unified development framework that supports writing code once in React's development method, and generates applications that can run on WeChat/Baidu/Alibaba/Byte Beat applet, H5, React Native, etc.
@@ -104,6 +110,20 @@ The world's most popular JavaScript library for rich text editing. Available for
 Development efficiency improvement: Mac productivity tool chain recommendation
 
 * [GITHUB](https://github.com/Louiszhai/tool)
+
+## :rocket: TOSIN
+
+Initialize a npm package with everything included, from CI to documentation website
+
+* [GITHUB](https://github.com/FullHuman/tosin)
+* [WEBSITE](https://fullhuman.github.io/tosin/)
+* [DOCS](https://fullhuman.github.io/tosin/Guide.html)
+
+## :rocket: TOUGH COOKIE
+
+RFC6265 Cookies and CookieJar for Node.js
+
+* [GITHUB](https://github.com/salesforce/tough-cookie)
 
 ## :rocket: TRANSFORM
 

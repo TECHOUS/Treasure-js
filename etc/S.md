@@ -1,5 +1,11 @@
 # S
 
+## :rocket: SADE
+
+Sade is a small but powerful tool for building command-line interface (CLI) applications for Node.js that are fast, responsive, and helpful!
+
+* [GITHUB](https://github.com/lukeed/sade)
+
 ## :rocket: SCALE
 
 Color scale generator
@@ -74,6 +80,12 @@ Test spies, stubs and mocks for JavaScript.
 * [DOCS](https://sinonjs.org/releases/latest/)
 * [WEBSITE](https://sinonjs.org/)
 * [DEVDOCS](https://devdocs.io/sinon~7/)
+
+## :rocket: SISTER
+
+Foundation for your emitter implementation. 202 reasons to not write your own implementation of event emitter.
+
+* [GITHUB](https://github.com/gajus/sister)
 
 ## :rocket: SLATE JS
 
@@ -166,6 +178,12 @@ JavaScript Style Guide, with linter & automatic code fixer
 * [WEBSITE](https://standardjs.com/)
 * [DOCS](https://standardjs.com/#usage)
 
+## :rocket: STATSD
+
+Daemon for easy but powerful stats aggregation
+
+* [GITHUB](https://github.com/etsy/statsd)
+
 ## :rocket: STATUSFY
 
 A Marvelous Open Source Status Page System
@@ -213,6 +231,14 @@ Open source Node.js Headless CMS to easily build customisable APIs
 * [WEBSITE](https://strapi.io/)
 * [DOCS](https://strapi.io/documentation/3.x.x/getting-started/introduction.html)
 
+## :rocket: STYLED COMPONENTS
+
+Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress
+
+* [GITHUB](https://github.com/styled-components/styled-components)
+* [WEBSITE](https://www.styled-components.com/)
+* [DOCS](https://www.styled-components.com/docs)
+
 ## :rocket: STYLED SPINKIT
 
 * [GITHUB](https://github.com/akameco/styled-spinkit)
@@ -245,6 +271,12 @@ Cybernetically enhanced web apps
 Simple and complete Svelte DOM testing utilities that encourage good testing practices
 
 * [GITHUB](https://github.com/testing-library/svelte-testing-library)
+
+## :rocket: SVGO
+
+Node.js tool for optimizing SVG files
+
+* [GITHUB](https://github.com/svg/svgo)
 
 ## :rocket: SWAGGER UI EXPRESS
 

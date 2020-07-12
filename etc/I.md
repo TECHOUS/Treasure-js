@@ -48,6 +48,13 @@ A powerful, interactive charting and visualization library for browser
 * [WEBSITE](https://echarts.apache.org/en/index.html)
 * [DOCS](https://echarts.apache.org/en/tutorial.html#Get%20Started%20with%20ECharts%20in%205%20minutes)
 
+## :rocket: INDENT TEXTAREA
+
+Add editor-like tab-to-indent functionality to textarea, in a few bytes
+
+* [GITHUB](https://github.com/bfred-it/indent-textarea)
+* [WEBSITE](https://www.npmjs.com/package/indent-textarea)
+
 ## :rocket: INFERNO JS
 
 Inferno is an insanely fast, React-like library for building high-performance user interfaces on both the client and server.

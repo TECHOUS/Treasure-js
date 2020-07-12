@@ -55,6 +55,13 @@ Fake HTTP injection library
 * [GITHUB](https://github.com/fastify/light-my-request)
 * [session plugin for fastify](https://github.com/SerayaEryn/fastify-session)
 
+## :rocket: LIGHTNING
+
+The Super component library
+
+* [GITHUB](https://github.com/vitormalencar/lightning)
+* [WEBSITE](https://vitormalencar.github.io/lightning)
+
 ## :rocket: LINARIA
 
 Write CSS in JS and get real CSS files during build. Use dynamic prop based styles with the React bindings and have them transpiled to CSS variables automatically. Great productivity with source maps and linting support.
@@ -62,6 +69,32 @@ Write CSS in JS and get real CSS files during build. Use dynamic prop based styl
 * [GITHUB](https://github.com/callstack/linaria)
 * [WEBSITE](https://linaria.now.sh/)
 * [DOCS](https://github.com/callstack/linaria/tree/master/docs)
+
+## :rocket: LINKSTATE
+
+Bind events to state. Works with Preact and React.
+
+* [GITHUB](https://github.com/developit/linkstate)
+
+## :rocket: LISTR
+
+Terminal task list
+
+* [GITHUB](https://github.com/SamVerschueren/listr)
+
+## :rocket: LOADABLE COMPONENTS
+
+React code splitting made easy
+
+* [GITHUB](https://github.com/smooth-code/loadable-components)
+* [WEBSITE](https://www.smooth-code.com/open-source/loadable-components/)
+* [DOCS](https://www.smooth-code.com/open-source/loadable-components/docs/getting-started/)
+
+## :rocket: LOCAL STORAGE
+
+React hook which syncs localStorage key with the comp.
+
+* [GITHUB](https://github.com/rehooks/local-storage)
 
 ## :rocket: LODASH
 

@@ -1,5 +1,11 @@
 # K
 
+## :rocket: KAFKA NODE
+
+Node.js client for Apache Kafka 0.8 and later.
+
+* [GITHUB](https://github.com/SOHU-Co/kafka-node)
+
 ## :rocket: KEPLER GL
 
 Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.

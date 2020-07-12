@@ -38,6 +38,28 @@ Build cross platform desktop apps with JavaScript, HTML, and CSS
 * [Boilerplate to kickstart creating an app with Electron](https://github.com/sindresorhus/electron-boilerplate)
 * [break time reminder app](https://github.com/hovancik/stretchly)
 
+## :rocket: ELEMENT
+
+A Vue.js 2.0 UI Toolkit for Web
+
+* [GITHUB](https://github.com/ElemeFE/element)
+* [WEBSITE](https://element.eleme.io/#/en-US)
+* [DOCS](https://element.eleme.io/#/en-US/guide/design)
+
+## :rocket: ELEMENT REACT
+
+Element UI
+
+* [GITHUB](https://github.com/ElemeFE/element-react)
+* [WEBSITE](https://elemefe.github.io/element-react/index#/zh-CN/quick-start)
+
+## :rocket: EMAIL PROMPT
+
+CLI email prompt with autocompletion and built-in validation
+
+* [GITHUB](https://github.com/zeit/email-prompt)
+* [WEBSITE](https://www.npmjs.com/package/email-prompt)
+
 ## :rocket: EMBER JS
 
 Ember is a JavaScript front-end framework designed to help you build websites with rich and complex user interactions. It does so by providing developers both with many features that are essential to manage complexity in modern web applications, as well as an integrated development toolkit that enables rapid iteration.
@@ -79,6 +101,13 @@ a package registry for anything, but mostly javascript
 * [GITHUB](https://github.com/entropic-dev/entropic)
 * [WEBSITE](https://discourse.entropic.dev/)
 
+## :rocket: ENZYME
+
+JavaScript Testing utilities for React
+
+* [GITHUB](https://github.com/airbnb/enzyme)
+* [DOCS](https://airbnb.io/enzyme/)
+
 ## :rocket: EOS JS
 
 Javascript API for integration with EOSIO-based blockchains using EOSIO RPC API.
@@ -94,6 +123,12 @@ ESDoc - Good Documentation for JavaScript
 * [WEBSITE](https://esdoc.org/)
 * [DOCS](https://esdoc.org/manual/usage.html)
 
+## :rocket: ESLINT PLUGIN REACT
+
+React specific linting rules for ESLint
+
+* [GITHUB](https://github.com/yannickcr/eslint-plugin-react)
+
 ## :rocket: ESM
 
 The brilliantly simple, babel-less, bundle-less ECMAScript module loader.
@@ -106,6 +141,20 @@ Flash OS images to SD cards & USB drives, safely and easily.
 
 * [GITHUB](https://github.com/balena-io/etcher)
 * [WEBSITE](https://www.balena.io/etcher/)
+
+## :rocket: EVERGREEN
+
+Evergreen React UI Framework by Segment
+
+* [GITHUB](https://github.com/segmentio/evergreen)
+* [WEBSITE](https://evergreen.segment.com/)
+* [DOCS](https://evergreen.segment.com/components/)
+
+## :rocket: EXECA
+
+A better child_process
+
+* [GITHUB](https://github.com/sindresorhus/execa)
 
 ## :rocket: EXIF JS
 

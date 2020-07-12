@@ -1,5 +1,11 @@
 # O
 
+## :rocket: OBJECT DETECTION REACT
+
+Real-Time Custom Object Detection with TensorFlow.js
+
+* [GITHUB](https://github.com/cloud-annotations/object-detection-react)
+
 ## :rocket: OCTOTREE
 
 GitHub code tree on steroids
@@ -14,6 +20,14 @@ Odoo. Open Source Apps To Grow Your Business.
 * [GITHUB](https://github.com/odoo/odoo)
 * [WEBSITE](https://www.odoo.com/)
 * [DOCS](https://www.odoo.com/page/docs)
+
+## :rocket: OFFICE UI FABRIC REACT
+
+React components for building Microsoft web experiences.
+
+* [GITHUB](https://github.com/OfficeDev/office-ui-fabric-react)
+* [WEBSITE](https://developer.microsoft.com/en-us/fabric/#/components)
+* [DOCS](https://developer.microsoft.com/en-us/fabric#/get-started)
 
 ## :rocket: OLA
 
@@ -42,3 +56,9 @@ OpenZeppelin is a library for secure smart contract development
 * [GITHUB](https://github.com/OpenZeppelin/openzeppelin-solidity)
 * [WEBSITE](https://openzeppelin.org/)
 * [DOCS](https://openzeppelin.org/api/docs/get-started.html)
+
+## :rocket: ORA
+
+Elegant terminal spinner
+
+* [GITHUB](https://github.com/sindresorhus/ora)

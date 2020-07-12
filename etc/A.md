@@ -20,6 +20,14 @@ Lightweight job scheduling for Node.js
 
 * [GITHUB](https://github.com/agenda/agenda)
 
+## :rocket: AIRFRAME REACT
+
+High Quality Dashboard / Admin / Analytics template that works great on any smartphone, tablet or desktop.
+
+* [GITHUB](https://github.com/0wczar/airframe-react)
+* [WEBSITE](http://dashboards.webkom.co/react/airframe/dashboards/projects)
+* [DOCS](https://webkom.gitbook.io/spin/v/airframe/airframe-react/documentation-react)
+
 ## :rocket: AJV JS
 
 The fastest JSON Schema Validator.
@@ -60,7 +68,38 @@ A declarative JavaScript library for application development using cloud service
 
 ## :rocket: ANGULAR JS
 
-See [Angular JS](angularJS.md)
+One framework. Mobile & desktop.
+
+* [GITHUB](https://github.com/angular/angular)
+* [WEBSITE](https://angular.io/)
+* [DOCS](https://angular.io/docs)
+* [Angular](https://devdocs.io/angular/)
+* [Angular 4](https://devdocs.io/angular~4/)
+* [Angular 5](https://devdocs.io/angular~5/)
+* [Angular JS 1.2](https://devdocs.io/angularjs~1.2/)
+* [Angular JS 1.3](https://devdocs.io/angularjs~1.3/)
+* [Angular JS 1.4](https://devdocs.io/angularjs~1.4/)
+* [Angular JS 1.5](https://devdocs.io/angularjs~1.5/)
+* [Angular JS 1.6](https://devdocs.io/angularjs~1.6/)
+* [W3 SCHOOLS](https://www.w3schools.com/angular/default.asp)
+* [Angular Fundamentals](https://www.edx.org/course/angular-fundamentals-1)
+* [Angularjs Framework Fundamentals](https://www.edx.org/course/angularjs-framework-fundamentals)
+* [Developing Dynamic Web Applications](https://www.edx.org/course/developing-dynamic-web-applications-1)
+* [Angularjs-Advanced Framework Techniques](https://www.edx.org/course/angularjs-advanced-framework-techniques)
+* [Angular JS](https://www.javatpoint.com/angularjs-tutorial)
+
+## :rocket: ANGULAR LOADING BAR
+
+A fully automatic loading / progress bar for your angular apps.
+
+* [GITHUB](https://github.com/chieffancypants/angular-loading-bar)
+* [WEBSITE](https://chieffancypants.github.io/angular-loading-bar/)
+
+## :rocket: ANGOOSE
+
+Connecting Mongoose and Angular and More
+
+* [GITHUB](https://github.com/tjworks/angoose)
 
 ## :rocket: ANIME JS
 
@@ -70,12 +109,6 @@ JavaScript Animation Engine
 * [GITHUB](https://github.com/juliangarnier/anime)
 * [DOCS](http://animejs.com/documentation/)
 * [INTRO TUTORIAL](https://www.youtube.com/watch?v=g7WnZ9hxUak)
-
-## :rocket: ANGOOSE
-
-Connecting Mongoose and Angular and More
-
-* [GITHUB](https://github.com/tjworks/angoose)
 
 ## :rocket: AOS
 
@@ -98,6 +131,13 @@ Official React bindings for Redux
 * [WEBSITE](http://caolan.github.io/async/)
 * [DOCS](http://caolan.github.io/async/docs.html)
 
+## :rocket: ASYNC RETRY
+
+Retrying made simple, easy, and async.
+
+* [GITHUB](https://github.com/zeit/async-retry)
+* [WEBSITE](https://www.npmjs.com/package/async-retry)
+
 ## :rocket: AURELIA JS
 
 The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building platform.
@@ -105,6 +145,12 @@ The aurelia framework brings together all the required core aurelia libraries in
 * [GITHUB](https://github.com/aurelia/framework)
 * [WEBSITE](https://aurelia.io/)
 * [DOCS](https://aurelia.io/docs)
+
+## :rocket: AUTOCANNON
+
+fast HTTP/1.1 benchmarking tool written in Node.js
+
+* [GITHUB](https://github.com/mcollina/autocannon)
 
 ## :rocket: AUTOSIZE
 

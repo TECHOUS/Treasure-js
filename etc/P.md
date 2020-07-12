@@ -20,6 +20,13 @@ Connect packages to your application with HMR and babel config
 
 * [GITHUB](https://github.com/interviewstreet/packagebind)
 
+## :rocket: PACK
+
+npm package building, reimagined.
+
+* [GITHUB](https://github.com/pikapkg/pack)
+* [WEBSITE](https://www.pikapkg.com/blog/introducing-pika-pack/)
+
 ## :rocket: PACKEM
 
 A precompiled JavaScript module bundler
@@ -130,6 +137,20 @@ A simple HTML5, YouTube and Vimeo player
 * [GITHUB](https://github.com/sampotts/plyr)
 * [WEBSITE](https://plyr.io/)
 
+## :rocket: PM
+
+A graceful node library to contribute a permanent "master-worker" server.
+
+* [GITHUB](https://github.com/aleafs/pm)
+
+## :rocket: PM2
+
+Node.js Production Process Manager with a built-in Load Balancer.
+
+* [GITHUB](https://github.com/Unitech/pm2)
+* [WEBSITE](https://pm2.io/)
+* [DOCS](https://pm2.io/doc/)
+
 ## :rocket: PNPM
 
 Fast, disk space efficient package manager
@@ -145,6 +166,12 @@ A lightweight toolset for writing styles in JavaScript
 * [GITHUB](https://github.com/styled-components/polished)
 * [WEBSITE](https://polished.js.org/)
 * [DOCS](https://polished.js.org/docs/)
+
+## :rocket: PRETTY QUICK
+
+Get Pretty Quick
+
+* [GITHUB](https://github.com/azz/pretty-quick)
 
 ## :rocket: PUG JS
 
@@ -162,6 +189,14 @@ A zero-config bundler for JavaScript applications
 * [WEBSITE](https://poi.js.org/)
 * [DOCS](https://poi.js.org/api.html)
 
+## :rocket: POLARIS REACT
+
+Shopify’s product component library
+
+* [GITHUB](https://github.com/Shopify/polaris-react)
+* [WEBSITE](https://polaris.shopify.com/)
+* [DOCS](https://polaris.shopify.com/components/get-started)
+
 ## :rocket: POPPER JS
 
 A KICKASS LIBRARY USED TO MANAGE POPPERS IN WEB APPLICATIONS
@@ -178,11 +213,28 @@ PostCSS is a tool for transforming styles with JS plugins. These plugins can lin
 * [WEBSITE](https://postcss.org/)
 * [DOCS](https://github.com/postcss/postcss/tree/master/docs)
 
+## :rocket: PREACT
+
+Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+
+* [GITHUB](https://github.com/preactjs/preact)
+* [WEBSITE](https://preactjs.com/)
+* [DOCS](https://preactjs.com/guide/v10/getting-started)
+* [Preact Compat](https://github.com/developit/preact-compat)
+
 ## :rocket: PRETENDER
 
 A mock server library with a nice routing DSL
 
 * [GITHUB](https://github.com/pretenderjs/pretender)
+
+## :rocket: PRIMEREACT
+
+PrimeReact is a collection of rich UI components for React
+
+* [GITHUB](https://github.com/primefaces/primereact)
+* [WEBSITE](https://www.primefaces.org/primereact/#/)
+* [DOCS](https://www.primefaces.org/primereact/#/setup)
 
 ## :rocket: PROTOBUF JS
 

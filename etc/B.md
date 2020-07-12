@@ -34,6 +34,19 @@ Catch CSS curve balls.
 
 * [GITHUB](https://github.com/garris/BackstopJS)
 
+## :rocket: BASE WEB
+
+A React Component library implementing the Base design language
+
+* [GITHUB](https://github.com/uber-web/baseui)
+* [WEBSITE](https://baseweb.design/)
+
+## :rocket: BCRYPT
+
+A library to help you hash passwords.
+
+* [GITHUB](https://github.com/kelektiv/node.bcrypt.js)
+
 ## :rocket: BENTO STARTER
 
 Full-Stack solution to quickly build PWA applications
@@ -41,6 +54,13 @@ Full-Stack solution to quickly build PWA applications
 * [GITHUB](https://github.com/kefranabg/bento-starter)
 * [WEBSITE](https://bento-starter.firebaseapp.com/home)
 * [DOCS](https://bento-starter.netlify.com/)
+
+## :rocket: BEST RESUME EVER
+
+Build fast rocket and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+
+* [GITHUB](https://github.com/salomonelli/best-resume-ever)
+* [WEBSITE](https://salomonelli.github.io/best-resume-ever/#/)
 
 ## :rocket: BLENO
 
@@ -115,6 +135,13 @@ Neural networks in JavaScript
 
 * [GITHUB](https://github.com/BrainJS/brain.js)
 * [WEBSITE](https://brain.js.org/)
+
+## :rocket: BROWSERIFY
+
+browser-side require() the node.js way
+
+* [GITHUB](https://github.com/browserify/browserify)
+* [WEBSITE](http://browserify.org/)
 
 ## :rocket: BROWSER FS
 

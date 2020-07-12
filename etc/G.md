@@ -35,6 +35,13 @@ An in-browser task runner for modern web development
 
 * [GITHUB](https://github.com/alex-saunders/glicky)
 
+## :rocket: GOOGLE MAP REACT
+
+Google map library for react that allows rendering components as markers
+
+* [GITHUB](https://github.com/google-map-react/google-map-react)
+* [WEBSITE](http://google-map-react.github.io/google-map-react/map/main/)
+
 ## :rocket: GOT
 
 Got is a human-friendly and powerful HTTP request library.
@@ -92,6 +99,22 @@ A Vue.js-powered, modern website generator
 * [GITHUB](https://github.com/gridsome/gridsome)
 * [WEBSITE](https://gridsome.org/)
 * [DOCS](https://gridsome.org/docs)
+
+## :rocket: GROMMET
+
+a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
+
+* [GITHUB](https://github.com/grommet/grommet)
+* [WEBSITE](https://v2.grommet.io/)
+* [DOCS](https://v2.grommet.io/components)
+
+## :rocket: GRPC NODE
+
+A high performance, open-source universal RPC framework
+
+* [GITHUB](https://github.com/grpc/grpc-node)
+* [WEBSITE](https://grpc.io/)
+* [DOCS](https://grpc.io/docs/)
 
 ## :rocket: GRUNT JS
 

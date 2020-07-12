@@ -135,6 +135,14 @@ Commander is a light-weight, expressive, and powerful command-line framework
 * [GITHUB](https://github.com/tj/commander.js)
 * [DOCS](http://tj.github.io/commander.js/)
 
+## :rocket: COMPONENT
+
+Component infrastructure and Material Design components for Angular
+
+* [GITHUB](https://github.com/angular/components)
+* [WEBSITE](https://material.angular.io/)
+* [DOCS](https://material.angular.io/guides)
+
 ## :rocket: COMPONENTS
 
 An easier way to build and share serverless applications w/ the Serverless Framework
@@ -142,6 +150,13 @@ An easier way to build and share serverless applications w/ the Serverless Frame
 * [GITHUB](https://github.com/serverless/components)
 * [WEBSITE](https://serverless.com)
 * [DOCS](https://serverless.com/framework/docs/)
+
+## :rocket: CONSTATE
+
+Scalable state manager using React Hooks & Context
+
+* [GITHUB](https://github.com/diegohaz/constate)
+* [WEBSITE](https://codesandbox.io/s/github/diegohaz/constate/tree/master/examples/counter)
 
 ## :rocket: COMPROMISE
 
@@ -156,6 +171,13 @@ Modular standard library for JavaScript. Includes polyfills for ECMAScript up to
 
 * [GITHUB](https://github.com/zloirock/core-js)
 
+## :rocket: COSMIC NODE
+
+The official JavaScript client for Cosmic JS. Use it to power content server-side, in the browser and in native apps
+
+* [GITHUB](https://github.com/cosmicjs/cosmicjs-node)
+* [WEBSITE](https://www.npmjs.com/package/cosmicjs)
+
 ## :rocket: COSMIC JS
 
 The leading content management solution for modern digital teams
@@ -163,6 +185,18 @@ The leading content management solution for modern digital teams
 * [GITHUB](https://github.com/cosmicjs/gatsby-source-cosmicjs)
 * [WEBSITE](https://cosmicjs.com/)
 * [The official JavaScript client for Cosmic JS](#cosmic-node)
+
+## :rocket: CUSTOMIZE CRA
+
+Override webpack configurations for create-react-app 2.0
+
+* [GITHUB](https://github.com/arackaf/customize-cra)
+
+## :rocket: CREATE REACT LIBRARY
+
+React NPM library starter kit based on Facebook's create react app
+
+* [GITHUB](https://github.com/DimiMikadze/create-react-library)
 
 ## :rocket: CSSCOMB JS
 

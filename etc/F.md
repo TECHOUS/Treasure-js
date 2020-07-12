@@ -105,6 +105,12 @@ Touch, responsive, flickable carousels
 * [WEBSITE](https://flickity.metafizzy.co/)
 * [DOCS](https://flickity.metafizzy.co/api.html)
 
+## :rocket: FLIGHTPLAN
+
+Run sequences of shell commands against local and remote hosts.
+
+* [GITHUB](https://github.com/pstadler/flightplan)
+
 ## :rocket: FLIP JS
 
 A helper library for doing FLIP animations.
@@ -140,6 +146,21 @@ ForgJs is a javascript lightweight object validator.
 
 * [GITHUB](https://github.com/oussamahamdaoui/forgJs)
 * [WEBSITE](https://oussamahamdaoui.github.io/forgjs-examples/)
+
+## :rocket: FORMAL
+
+Elegant form management primitives for the react hooks era.
+
+* [GITHUB](https://github.com/kevinwolfcr/formal)
+* [WEBSITE](https://react-formal.netlify.com/?path=/story/examples--basic)
+
+## :rocket: FORMIK
+
+Build forms in React, without the tears
+
+* [GITHUB](https://github.com/jaredpalmer/formik)
+* [WEBSITE](https://jaredpalmer.com/formik/)
+* [DOCS](https://jaredpalmer.com/formik/docs/overview)
 
 ## :rocket: FRINT JS
 

@@ -1,5 +1,13 @@
 # N
 
+## :rocket: NATIVE BASE
+
+Essential cross-platform UI components for React Native
+
+* [GITHUB](https://github.com/GeekyAnts/NativeBase)
+* [WEBSITE](https://nativebase.io/)
+* [DOCS](https://docs.nativebase.io/)
+
 ## :rocket: NATIVESCRIPT
 
 NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
@@ -67,13 +75,106 @@ HTTP server mocking and expectations library for Node.js
 
 ## :rocket: NODE JS
 
-See [nodejs](node.md)
+Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+
+* [WEBSITE](https://nodejs.org/en/)
+* [DOCS](https://nodejs.org/en/docs/)
+* [GITHUB](https://github.com/nodejs/node)
+* [async](https://devdocs.io/async/)
+* [CURRENT DOCS](https://devdocs.io/node/)
+* [NODEJS 10 DOCS](https://devdocs.io/node~10_lts/)
+* [NODEJS 8 DOCS](https://devdocs.io/node~8_lts/)
+* [NODEJS 6 DOCS](https://devdocs.io/node~6_lts/)
+* [NODEJS 4 DOCS](https://devdocs.io/node~4_lts/)
+* [Nodejs - W3 SCHOOLS](https://www.w3schools.com/nodejs/default.asp)
+* [Building Functional Prototypes](https://www.edx.org/course/building-functional-prototypes-using-nodejs-1)
+* [Web App Development](https://www.edx.org/course/web-app-development-with-the-power-of-nodejs)
+* [Nodejs](https://www.javatpoint.com/nodejs-tutorial)
+* [netlify-cli](https://github.com/netlify/cli)
+* [Ghost](https://github.com/TryGhost/Ghost)
+* [intro to nodejs](https://github.com/FrontendMasters/intro-node-js)
+* ANT DESIGN [github](https://github.com/ant-design/ant-design-pro)  [website](https://pro.ant.design/)
+* [MONGOOSASTIC](https://github.com/mongoosastic/mongoosastic)
+* [FLOOD](https://github.com/jfurrow/flood)
+* [NEL](https://github.com/n-riesco/nel)
+* [HTTP request logger middleware](https://github.com/expressjs/morgan)
+* [Node.js based forum software built for the modern web](https://github.com/NodeBB/NodeBB)
+* [Web rendering surface for Node applications](https://github.com/GoogleChromeLabs/carlo)
+* [CLI tool to check if a word is trademarked](https://github.com/egoist/is-trademarked-cli)
+* [Node.js based forum software built for the modern web](https://github.com/NodeBB/NodeBB)
+* [SQUOOSH](https://github.com/GoogleChromeLabs/squoosh)
+* [SOAP driver for Node.js (A complete rewrite of node-soap)](https://github.com/strongloop/strong-soap)
+* [esm](https://github.com/standard-things/esm)
+* [Web rendering surface for Node applications](https://github.com/GoogleChromeLabs/carlo)
+* [A cross-platform nodejs driver for Neurosky Mindwave headsets](https://github.com/brainbang/mindwave)
+* [The command-line interface for Now](https://github.com/zeit/now-cli)
+* [In-browser code editor](https://github.com/codemirror/CodeMirror)
+* [Prometheus client for node.js](https://github.com/siimon/prom-client)
+* [Serve static files](https://github.com/expressjs/serve-static)
+* [Source for the Linode Developers Site (API v4 Docs)](https://github.com/linode/linode-api-docs)
+* [How to create a RESTful CRUD API using Nodejs?](https://github.com/adnanrahic/nodejs-restful-api)
+* [A boilerplate for Node.js web applications](https://github.com/sahat/hackathon-starter)
+* [glob functionality for node.js](https://github.com/isaacs/node-glob)
+* [Instagram NODE.JS private API](https://github.com/dilame/instagram-private-api)
+* [Node.js on ChakraCore](https://github.com/nodejs/node-chakracore)
+* [Squidwarc is a high fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head](https://github.com/N0taN3rd/Squidwarc)
+
+## :rocket: NODE AUTH0
+
+Node.js client library for the Auth0 platform.
+
+* [GITHUB](https://github.com/auth0/node-auth0)
 
 ## :rocket: NODE CASSANDRA CLIENT
 
 CQL client for Cassandra written in Node.js
 
 * [GITHUB](https://github.com/racker/node-cassandra-client)
+
+## :rocket: NODE CRON
+
+A simple cron-like job scheduler for Node.js
+
+* [GITHUB](https://github.com/node-cron/node-cron)
+
+## :rocket: NODE HTTP MITM PROXY
+
+HTTP Man In The Middle (MITM) Proxy
+
+* [GITHUB](https://github.com/joeferner/node-http-mitm-proxy)
+
+## :rocket: NODE HTTPS PROXY AGENT
+
+An HTTP(s) proxy http.Agent implementation for HTTPS endpoints
+
+* [GITHUB](https://github.com/TooTallNate/node-https-proxy-agent)
+
+## :rocket: NODE JSON WEB TOKEN
+
+JsonWebToken implementation for node.js
+
+* [GITHUB](https://github.com/auth0/node-jsonwebtoken)
+* [WEBSITE](http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html)
+
+## :rocket: NODE LIBPQ
+
+Simple, low level native bindings to PostgreSQL's libpq from node.js
+
+* [GITHUB](https://github.com/brianc/node-libpq)
+
+## :rocket: NODE REDIS JS
+
+redis client for node
+
+* [GITHUB](https://github.com/NodeRedis/node_redis)
+* [WEBSITE](http://redis.js.org/)
+
+## :rocket: NODE TAP
+
+A TAP test framework for Node.js.
+
+* [GITHUB](https://github.com/tapjs/node-tap)
+* [WEBSITE](https://www.node-tap.org/)
 
 ## :rocket: NORMALIZE URL
 
@@ -103,6 +204,12 @@ npm is the package manager for JavaScript and the world’s largest software reg
 * [GREENLET](https://github.com/developit/greenlet)
 * [AUTOSSH](https://github.com/samueleaton/autossh)
 * [Runs a load test on the selected URL. Easy to extend minimally for your own ends](https://github.com/alexfernandez/loadtest)
+
+## :rocket: NWB
+
+A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it)
+
+* [GITHUB](https://github.com/insin/nwb)
 
 ## :rocket: NUXT JS
 

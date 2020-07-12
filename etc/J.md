@@ -22,11 +22,23 @@ Delightful JavaScript Testing
 * [GITHUB](https://github.com/facebook/jest)
 * [DOCS](https://jestjs.io/docs/en/getting-started)
 
+## :rocket: JEST REACT PROFILER
+
+Jest helpers for working with the React Profiler API.
+
+* [GITHUB](https://github.com/bvaughn/jest-react-profiler)
+
 ## :rocket: JEST RUNNER ESLINT
 
 An ESLint runner for Jest
 
 * [GITHUB](https://github.com/jest-community/jest-runner-eslint)
+
+## :rocket: JEX
+
+Jex is a Node.js module for building dynamic and static websites. It draws inspiration from Jekyll, a Ruby tool for creating static websites. Jekyll meets Express!
+
+* [GITHUB](https://github.com/jex/jex)
 
 ## :rocket: JIFF
 

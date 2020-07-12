@@ -53,6 +53,28 @@ A markdown parser and compiler. Built for speed.
 * [GITHUB](https://github.com/markedjs/marked)
 * [DOCS](https://marked.js.org/#/README.md#README.md)
 
+## :rocket: MATERIAL TABLE
+
+Datatable for React based on material-ui's table with additional features
+
+* [GITHUB](https://github.com/mbrn/material-table)
+* [WEBSITE](https://material-table.com/#/)
+* [DOCS](https://material-table.com/#/docs/get-started)
+
+## :rocket: MATERIAL UI
+
+React components for faster and easier web development. Build your own design system, or start with Material Design.
+
+* [GITHUB](https://github.com/mui-org/material-ui)
+* [WEBSITE](https://material-ui.com/)
+* [DOCS](https://material-ui.com/getting-started/usage/)
+
+## :rocket: MATERIAL UI DATATABLES
+
+An another React Data tables component.
+
+* [GITHUB](https://github.com/hyojin/material-ui-datatables)
+
 ## :rocket: MATERIALIZE
 
 Materialize, a CSS Framework based on Material Design
@@ -163,6 +185,14 @@ Text input for modern web
 * [GITHUB](https://github.com/rumkin/mighty-input)
 * [DOCS](https://mighty-input.now.sh/)
 
+## :rocket: MIKRO ORM
+
+Simple typescript ORM for node.js based on data-mapper, unit-of-work and identity-map patterns. Supports MongoDB, MySQL, PostgreSQL and SQLite databases.
+
+* [GITHUB](https://github.com/B4nan/mikro-orm)
+* [WEBSITE](https://b4nan.github.io/mikro-orm/)
+* [DOCS](https://b4nan.github.io/mikro-orm/installation/)
+
 ## :rocket: MILSYMBOL JS
 
 Milsymbol is a small library in pure javascript that creates military unit symbols according to MIL-STD-2525 and STANAG APP-6.
@@ -201,6 +231,18 @@ MobX is proudly sponsored by Mendix, Coinbase, Canva, Facebook Open Source, Algo
 * [WEBSITE](https://mobx.js.org/)
 * [DOCS](https://mobx.js.org/refguide/api.html)
 * [Vue bindings for MobX](https://github.com/mobxjs/mobx-vue)
+
+## :rocket: MOBX REACT
+
+React bindings for MobX
+
+* [GITHUB](https://github.com/mobxjs/mobx-react)
+
+## :rocket: MOBX REACT LITE
+
+Lightweight React bindings for MobX based on React 16.8 and Hooks
+
+* [GITHUB](https://github.com/mobxjs/mobx-react-lite)
 
 ## :rocket: MOCHA JS
 
@@ -248,6 +290,13 @@ MongoDB object modeling designed to work in an asynchronous environment
 * [WEBSITE](https://mongoosejs.com/)
 * [GITHUB](https://github.com/Automattic/mongoose/)
 * [DOCS](https://devdocs.io/mongoose/)
+
+## :rocket: MUI DATATABLES
+
+Datatables for React using Material-UI
+
+* [GITHUB](https://github.com/gregnb/mui-datatables)
+* [WEBSITE](https://www.material-ui-datatables.com/)
 
 ## :rocket: MURPHY JS
 

@@ -91,6 +91,14 @@ A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio
 * [GITHUB](https://github.com/denoland/deno)
 * [WEBSITE](https://deno.land/)
 
+## :rocket: DESKGAP
+
+A cross-platform desktop app framework based on Node.js and the system webview
+
+* [GITHUB](https://github.com/patr0nus/DeskGap)
+* [WEBSITE](https://deskgap.com/)
+* [DOCS](https://deskgap.com/#documentation)
+
 ## :rocket: DISCORD JS
 
 A powerful JavaScript library for interacting with the Discord API
@@ -128,6 +136,13 @@ DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML
 .dom is a tiny (511 byte) template engine that uses virtual DOM and some of react principles
 
 * [GITHUB](https://github.com/wavesoft/dot-dom)
+
+## :rocket: DOTENV-SAFE
+
+Load environment variables from .env and ensure they are all present
+
+* [GITHUB](https://github.com/rolodato/dotenv-safe)
+* [WEBSITE](https://www.npmjs.com/package/dotenv-safe)
 
 ## :rocket: DRAFT JS
 
