@@ -8,6 +8,10 @@ Check what type of contribution you like !!!
 * Don't update [CONTRIBUTORS](CONTRIBUTORS.md) it will be updated as your pull request is accepted.
 * Added new links should be relavant otherwise **pull request** will not be accepted i.e the link should be working and related to js only.
 
+### :rocket: WANT TO REGISTER YOUR JS PROJECT
+
+Create a new [Issue here](https://github.com/TechOUs/Treasure-js/issues/new?assignees=GauravWalia19&labels=enhancement%2C+question&template=register-js-project.md&title=).
+
 ### :rocket: WANT TO ADD NEW EXTENSION (library,frameworks)
 
 * Add according to our format i.e
@@ -34,11 +38,11 @@ Fix the link and explain about the wrong link in [PULL REQUEST](https://github.c
 
 ### :rocket: FIX DEPRECATED EXTENSIONS
 
-Make [ISSUE](https://github.com/TechOUs/Treasure-js/issues) for it we will check and take **ACTION** against it
+Create an [ISSUE](https://github.com/TechOUs/Treasure-js/issues) for it we will check and take **ACTION** against it
 
 ### :rocket: WANT TO SUGGEST NEW FEATURES
 
-Make [ISSUE](https://github.com/TechOUs/Treasure-js/issues) for it we will reply on that **ISSUE ASAP**.
+Create an [ISSUE](https://github.com/TechOUs/Treasure-js/issues) for it we will reply on that **ISSUE ASAP**.
 
 ## VERSIONING
 

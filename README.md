@@ -1,16 +1,16 @@
 <p align="center">
     <img src="logo/third.ico" alt="treasure logo"/>
     <h1 align="center">TREASURE JS</h1>
-    <h4 align="center"><cite>A <u>JavaScript WikiPedia</u> for GitHub</cite></h4>
+    <h3 align="center"><cite>A JavaScript WikiPedia for Web Developers</cite></h3>
     <h4 align="center">
         <a href="https://github.com/TechOUs/treasurejs.github.io">WEBSITE</a> &nbsp;&nbsp; | &nbsp;&nbsp;
         <a href="https://github.com/TechOUs/Treasurejs-cli">CLI</a> &nbsp;&nbsp; | &nbsp;&nbsp;
-        <a href="release_notes.md">HISTORY</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+        <a href="release_notes.md">Release Notes</a> &nbsp;&nbsp; | &nbsp;&nbsp;
         <a href="CONTRIBUTING.md">CONTRIBUTE</a> &nbsp;&nbsp; | &nbsp;&nbsp;
         <a href="https://github.com/TechOUs/Treasurejs-logo">LOGO</a>
     </h4>
     <h4 align="center">
-        <img alt="GitHub tag (latest SemVer)" src="https://img.shields.io/github/tag/TechOUs/Treasure-js.svg">&nbsp;&nbsp;
+        <img alt="GitHub Release" src="https://img.shields.io/github/release/TechOUs/Treasure-js.svg">&nbsp;&nbsp;
         <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/TechOUs/Treasure-js.svg">&nbsp;&nbsp;
         <img alt="GitHub" src="https://img.shields.io/github/license/TechOUs/Treasure-js.svg">&nbsp;&nbsp;
         <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/TechOUs/Treasure-js.svg">&nbsp;&nbsp;
@@ -48,11 +48,10 @@ Keep Supporting!
   * [Plugins](#rocket-plugins)
   * [PWA - Progressive Web Apps](#rocket-PWA---progressive-web-apps)
   * [Other Examples](#rocket-other-examples)
-* [JSON (JavaScripthttps://github.com/lydiahallie/javascript-questions Object Notation)](#JSON-JavaScript-Object-Notation)
+* [JSON (JavaScript Object Notation)](#JSON-JavaScript-Object-Notation)
 * [AJAX (Asynchronous JavaScript AND XML)](#AJAX-Asynchronous-JavaScript-AND-XML)
 * [Javascript Frameworks ,Libraries, Tools AND Preprocessors (A - Z)](#JavaScript-Frameworks-Libraries-Tools-and-Preprocessors-a---z)
   * [Misc treasures](#rocket-MISC)
-  * [Deprecated treasures](#rocket-deprecated)
 * [Contributing to Treasure JS](#CONTRIBUTION)
   * [Contributors](#contributors)
 * [LICENSE](#license)
@@ -319,17 +318,7 @@ A - M Alphabets             | N - Z Alphabets
 * [CASH](https://github.com/kenwheeler/cash)
 * [You don't (may not) need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
 
-### :rocket: Deprecated
-
-#### [KEYFRAMES](Deprecated.md#keyframes)
-
-#### [NETLIFY CMS](Deprecated.md#netlify-cms)
-
-#### [PRETTIER](Deprecated.md#prettier)
-
-#### [TRILLIUM](Deprecated.md#trillium)
-
-## CONTRIBUTION
+## Contribution
 
 Follow our [contributing guidelines](CONTRIBUTING.md)
 
@@ -341,6 +330,6 @@ See [CONTRIBUTORS](CONTRIBUTORS.md) for more details.
 
 [MIT License](LICENSE)
 
-:copyright: 2018 TechOus
+:copyright: 2018-20 TechOus
 
-We don't own any of these repositories.
+We don't own any of these repositories
